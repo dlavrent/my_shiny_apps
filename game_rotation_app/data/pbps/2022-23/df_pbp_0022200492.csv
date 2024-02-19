@@ -1,0 +1,477 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0022200492,2,12,0,1,10:42 PM,12:00,,Start of 1st Period (10:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022200492,4,10,0,1,10:42 PM,12:00,Jump Ball Bryant vs. Plumlee: Tip to James,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+2,0022200492,7,6,2,1,10:42 PM,11:46,,,Plumlee S.FOUL (P1.T1) (S.Twardoski),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+3,0022200492,9,3,11,1,10:42 PM,11:46,MISS James Free Throw 1 of 2,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+4,0022200492,10,4,1,1,10:42 PM,11:46,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+5,0022200492,11,3,12,1,10:42 PM,11:46,MISS James Free Throw 2 of 2,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+6,0022200492,12,4,0,1,10:42 PM,11:42,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+7,0022200492,13,2,1,1,10:43 PM,11:33,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+8,0022200492,14,4,0,1,10:43 PM,11:30,Bryant REBOUND (Off:0 Def:1),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+9,0022200492,15,7,5,1,10:43 PM,11:28,,,Washington Violation:Kicked Ball (S.Twardoski),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+10,0022200492,16,2,1,1,10:43 PM,11:18,MISS Walker IV 26' 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+11,0022200492,17,4,0,1,10:43 PM,11:16,,,Ball REBOUND (Off:0 Def:1),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+12,0022200492,18,1,103,1,10:43 PM,11:12,,,Ball 27' 3PT Running Pull-Up Jump Shot (3 PTS),3 - 0,-3,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+13,0022200492,19,1,86,1,10:44 PM,10:55,James 13' Turnaround Fadeaway (2 PTS),,,3 - 2,-1,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+14,0022200492,20,5,2,1,10:44 PM,10:42,Walker IV STEAL (1 STL),,Rozier Lost Ball Turnover (P1.T1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+15,0022200492,22,2,41,1,10:44 PM,10:38,MISS Schroder 4' Running Layup,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+16,0022200492,23,4,0,1,10:44 PM,10:33,Walker IV REBOUND (Off:1 Def:0),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+17,0022200492,24,2,97,1,10:44 PM,10:33,MISS Walker IV Tip Layup Shot,,Washington BLOCK (1 BLK),,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+18,0022200492,26,4,0,1,10:44 PM,10:30,,,Hayward REBOUND (Off:0 Def:1),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+19,0022200492,27,2,1,1,10:44 PM,10:29,,,MISS Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+20,0022200492,28,4,0,1,10:44 PM,10:26,Bryant REBOUND (Off:0 Def:2),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+21,0022200492,29,2,1,1,10:44 PM,10:21,MISS Walker IV 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+22,0022200492,30,4,0,1,10:44 PM,10:19,,,Rozier REBOUND (Off:0 Def:1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+23,0022200492,31,1,78,1,10:44 PM,10:06,,,Washington 10' Floating Jump Shot (2 PTS) (Rozier 1 AST),5 - 2,-3,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+24,0022200492,33,2,1,1,10:45 PM,9:53,MISS James 26' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+25,0022200492,34,4,0,1,10:45 PM,9:51,,,Hayward REBOUND (Off:0 Def:2),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+26,0022200492,35,2,79,1,10:45 PM,9:44,,,MISS Hayward 25' 3PT Pullup Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+27,0022200492,36,4,0,1,10:45 PM,9:38,Bryant REBOUND (Off:0 Def:3),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+28,0022200492,37,5,2,1,10:45 PM,9:37,Bryant Lost Ball Turnover (P1.T1),,Ball STEAL (1 STL),,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+29,0022200492,39,6,2,1,10:45 PM,9:32,Bryant S.FOUL (P1.T1) (S.Twardoski),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+30,0022200492,41,3,11,1,10:46 PM,9:32,,,MISS Ball Free Throw 1 of 2,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+31,0022200492,42,4,1,1,10:46 PM,9:32,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+32,0022200492,43,3,12,1,10:46 PM,9:32,,,Ball Free Throw 2 of 2 (4 PTS),6 - 2,-4,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+33,0022200492,44,1,1,1,10:46 PM,9:21,Beverley 26' 3PT Jump Shot (3 PTS) (Schroder 1 AST),,,6 - 5,-1,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+34,0022200492,46,7,5,1,10:46 PM,9:04,Bryant Violation:Kicked Ball (I.Hwang),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+35,0022200492,48,2,1,1,10:47 PM,8:53,,,MISS Washington 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+36,0022200492,49,4,0,1,10:47 PM,8:49,Schroder REBOUND (Off:0 Def:1),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+37,0022200492,50,2,6,1,10:47 PM,8:44,MISS James 6' Driving Layup,,Washington BLOCK (2 BLK),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+38,0022200492,52,4,0,1,10:47 PM,8:44,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+39,0022200492,54,1,47,1,10:48 PM,8:42,James 16' Turnaround Jump Shot (4 PTS) (Schroder 2 AST),,,6 - 7,1,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+40,0022200492,56,2,1,1,10:48 PM,8:27,,,MISS Washington 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+41,0022200492,57,4,0,1,10:48 PM,8:25,Bryant REBOUND (Off:0 Def:4),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+42,0022200492,58,1,73,1,10:48 PM,8:14,James 2' Driving Reverse Layup (6 PTS),,,6 - 9,3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+43,0022200492,59,2,6,1,10:48 PM,7:59,,,MISS Ball 4' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+44,0022200492,60,4,0,1,10:48 PM,7:57,Schroder REBOUND (Off:0 Def:2),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+45,0022200492,61,6,4,1,10:48 PM,7:48,Schroder OFF.Foul (P1) (S.Wright),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+46,0022200492,63,5,37,1,10:48 PM,7:48,Schroder Offensive Foul Turnover (P1.T2),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+47,0022200492,64,1,5,1,10:49 PM,7:26,,,Plumlee 3' Layup (2 PTS) (Washington 1 AST),8 - 9,1,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+48,0022200492,66,2,6,1,10:49 PM,7:07,MISS Beverley 4' Driving Layup,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+49,0022200492,67,4,0,1,10:50 PM,7:07,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+50,0022200492,69,7,5,1,10:50 PM,7:01,,,Hayward Violation:Kicked Ball (S.Wright),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+51,0022200492,70,1,5,1,10:50 PM,6:53,Bryant 3' Layup (2 PTS) (James 1 AST),,,8 - 11,3,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+52,0022200492,72,2,101,1,10:50 PM,6:38,,,MISS Ball 7' Driving Floating Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+53,0022200492,73,4,0,1,10:50 PM,6:35,Schroder REBOUND (Off:0 Def:3),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+54,0022200492,74,1,1,1,10:51 PM,6:17,Walker IV 3PT Jump Shot (3 PTS) (Schroder 3 AST),,,8 - 14,6,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+55,0022200492,76,9,1,1,10:51 PM,6:11,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+56,0022200492,77,8,0,1,10:53 PM,6:11,SUB: Reaves FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+57,0022200492,78,8,0,1,10:53 PM,6:11,SUB: Westbrook FOR Schroder,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+58,0022200492,81,2,58,1,10:54 PM,5:57,,,MISS Plumlee 5' Turnaround Hook Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+59,0022200492,82,4,0,1,10:54 PM,5:57,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+60,0022200492,84,8,0,1,10:54 PM,5:57,,,SUB: Oubre Jr. FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+61,0022200492,86,5,1,1,10:55 PM,5:40,Westbrook Bad Pass Turnover (P1.T3),,Washington STEAL (1 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+62,0022200492,88,1,41,1,10:55 PM,5:36,,,Rozier 1' Running Layup (2 PTS) (Washington 2 AST),10 - 14,4,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+63,0022200492,90,1,9,1,10:55 PM,5:20,Reaves 2' Driving Dunk (2 PTS),,,10 - 16,6,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+64,0022200492,91,2,79,1,10:55 PM,5:07,,,MISS Oubre Jr. 5' Pullup Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+65,0022200492,92,4,0,1,10:55 PM,5:03,,,Plumlee REBOUND (Off:1 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+66,0022200492,93,2,80,1,10:55 PM,5:00,,,MISS Ball 24' 3PT Step Back Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+67,0022200492,94,4,0,1,10:56 PM,4:58,Bryant REBOUND (Off:0 Def:5),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+68,0022200492,95,1,98,1,10:56 PM,4:52,Walker IV 3' Cutting Layup Shot (5 PTS) (James 2 AST),,,10 - 18,8,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+69,0022200492,97,2,80,1,10:56 PM,4:32,,,MISS Rozier 26' 3PT Step Back Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+70,0022200492,98,4,0,1,10:56 PM,4:31,Bryant REBOUND (Off:0 Def:6),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+71,0022200492,99,5,1,1,10:56 PM,4:25,Westbrook Bad Pass Turnover (P2.T4),,Washington STEAL (2 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+72,0022200492,101,6,2,1,10:56 PM,4:22,Westbrook S.FOUL (P1.T2) (S.Twardoski),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+73,0022200492,103,3,11,1,10:57 PM,4:22,,,Washington Free Throw 1 of 2 (3 PTS),11 - 18,7,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+74,0022200492,108,3,12,1,10:57 PM,4:22,,,MISS Washington Free Throw 2 of 2,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+75,0022200492,104,8,0,1,10:57 PM,4:22,SUB: Gabriel FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+76,0022200492,105,8,0,1,10:57 PM,4:22,,,SUB: Maledon FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+77,0022200492,109,4,0,1,10:57 PM,4:19,Westbrook REBOUND (Off:0 Def:1),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+78,0022200492,110,1,5,1,10:57 PM,4:07,Gabriel 3' Layup (2 PTS) (Westbrook 1 AST),,,11 - 20,9,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+79,0022200492,112,1,1,1,10:58 PM,3:53,,,Washington 3PT Jump Shot (6 PTS) (Plumlee 1 AST),14 - 20,6,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+80,0022200492,114,1,1,1,10:58 PM,3:37,Reaves 3PT Jump Shot (5 PTS) (Westbrook 2 AST),,,14 - 23,9,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+81,0022200492,116,1,101,1,10:58 PM,3:22,,,Rozier 7' Driving Floating Jump Shot (4 PTS) (Maledon 1 AST),16 - 23,7,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+82,0022200492,119,8,0,1,10:58 PM,3:11,SUB: Brown Jr. FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+83,0022200492,120,8,0,1,10:58 PM,3:11,SUB: Christie FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+84,0022200492,121,8,0,1,10:58 PM,3:11,,,SUB: McDaniels FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+85,0022200492,122,8,0,1,10:58 PM,3:11,,,SUB: Richards FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+86,0022200492,127,2,1,1,10:59 PM,3:03,MISS Brown Jr. 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+87,0022200492,128,4,0,1,10:59 PM,2:59,Reaves REBOUND (Off:1 Def:0),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+88,0022200492,129,2,6,1,10:59 PM,2:55,MISS Reaves 4' Driving Layup,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+89,0022200492,130,4,0,1,10:59 PM,2:51,Gabriel REBOUND (Off:1 Def:0),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+90,0022200492,131,2,1,1,10:59 PM,2:48,MISS Christie 27' 3PT Jump Shot,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+91,0022200492,132,4,0,1,10:59 PM,2:44,Gabriel REBOUND (Off:2 Def:0),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+92,0022200492,211,5,1,1,10:59 PM,2:42,Gabriel Bad Pass Turnover (P1.T5),,Richards STEAL (1 STL),,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+93,0022200492,133,1,101,1,10:59 PM,2:32,,,Oubre Jr. 6' Driving Floating Jump Shot (2 PTS),18 - 23,5,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+94,0022200492,134,6,2,1,10:59 PM,2:23,,,Oubre Jr. S.FOUL (P1.T2) (S.Wright),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+95,0022200492,136,9,1,1,11:00 PM,2:23,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+96,0022200492,137,8,0,1,11:02 PM,2:23,,,SUB: Hayward FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+97,0022200492,139,3,11,1,11:03 PM,2:23,Westbrook Free Throw 1 of 2 (1 PTS),,,18 - 24,6,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+98,0022200492,140,3,12,1,11:03 PM,2:23,Westbrook Free Throw 2 of 2 (2 PTS),,,18 - 25,7,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+99,0022200492,141,5,40,1,11:03 PM,2:13,,,Oubre Jr. Out of Bounds Lost Ball Turnover (P1.T2),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+100,0022200492,142,6,1,1,11:03 PM,1:56,,,Maledon P.FOUL (P1.T3) (S.Wright),,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+101,0022200492,144,2,1,1,11:04 PM,1:41,MISS Westbrook 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+102,0022200492,145,4,0,1,11:04 PM,1:39,,,Hayward REBOUND (Off:0 Def:3),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+103,0022200492,146,2,41,1,11:04 PM,1:35,,,MISS Richards 5' Running Layup,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+104,0022200492,147,4,0,1,11:04 PM,1:32,,,McDaniels REBOUND (Off:1 Def:0),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+105,0022200492,148,1,101,1,11:04 PM,1:31,,,Hayward 8' Driving Floating Jump Shot (2 PTS) (McDaniels 1 AST),20 - 25,5,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+106,0022200492,150,6,1,1,11:04 PM,1:17,,,Richards P.FOUL (P1.PN) (S.Twardoski),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+107,0022200492,152,3,11,1,11:05 PM,1:17,Gabriel Free Throw 1 of 2 (3 PTS),,,20 - 26,6,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+108,0022200492,153,3,12,1,11:05 PM,1:17,Gabriel Free Throw 2 of 2 (4 PTS),,,20 - 27,7,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+109,0022200492,154,6,2,1,11:05 PM,1:04,Brown Jr. S.FOUL (P1.T3) (S.Twardoski),,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+110,0022200492,156,3,11,1,11:06 PM,1:04,,,Hayward Free Throw 1 of 2 (3 PTS),21 - 27,6,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+111,0022200492,157,3,12,1,11:06 PM,1:04,,,Hayward Free Throw 2 of 2 (4 PTS),22 - 27,5,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+112,0022200492,158,2,6,1,11:06 PM,0:53,MISS Westbrook 3' Driving Layup,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+113,0022200492,160,4,0,1,11:06 PM,0:50,Gabriel REBOUND (Off:3 Def:0),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+114,0022200492,161,1,107,1,11:06 PM,0:50,Gabriel Tip Dunk Shot (6 PTS),,,22 - 29,7,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+115,0022200492,162,1,79,1,11:06 PM,0:45,,,Hayward 16' Pullup Jump Shot (6 PTS),24 - 29,5,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+116,0022200492,163,6,2,1,11:07 PM,0:34,,,Maledon S.FOUL (P2.PN) (S.Twardoski),,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+117,0022200492,165,3,11,1,11:07 PM,0:34,MISS Reaves Free Throw 1 of 2,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+118,0022200492,166,4,1,1,11:07 PM,0:34,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+119,0022200492,167,3,12,1,11:07 PM,0:34,Reaves Free Throw 2 of 2 (6 PTS),,,24 - 30,6,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+120,0022200492,168,1,79,1,11:07 PM,0:23,,,Oubre Jr. 15' Pullup Jump Shot (4 PTS),26 - 30,4,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+121,0022200492,170,6,2,1,11:07 PM,0:23,Christie S.FOUL (P1.PN) (S.Wright),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+122,0022200492,172,3,10,1,11:08 PM,0:23,,,Oubre Jr. Free Throw 1 of 1 (5 PTS),27 - 30,3,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+123,0022200492,173,6,2,1,11:08 PM,0:02,,,Oubre Jr. S.FOUL (P2.PN) (S.Wright),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+124,0022200492,175,3,11,1,11:09 PM,0:02,MISS Gabriel Free Throw 1 of 2,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+125,0022200492,176,4,1,1,11:09 PM,0:02,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+126,0022200492,177,3,12,1,11:09 PM,0:02,Gabriel Free Throw 2 of 2 (7 PTS),,,27 - 31,4,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+127,0022200492,178,2,79,1,11:09 PM,0:00,,,MISS Maledon 55' 3PT Pullup Jump Shot,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+128,0022200492,179,4,0,1,11:09 PM,0:00,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0022200492,180,13,0,1,11:09 PM,0:00,,End of 1st Period (11:09 PM EST),,27 - 31,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+130,0022200492,185,12,0,2,11:12 PM,12:00,,Start of 2nd Period (11:12 PM EST),,27 - 31,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+131,0022200492,186,1,1,2,11:12 PM,11:42,,,Ball 27' 3PT Jump Shot (7 PTS) (McDaniels 2 AST),30 - 31,1,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+132,0022200492,188,2,1,2,11:12 PM,11:31,MISS Brown Jr. 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+133,0022200492,189,4,0,2,11:12 PM,11:27,,,Oubre Jr. REBOUND (Off:0 Def:1),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+134,0022200492,190,1,6,2,11:13 PM,11:22,,,Oubre Jr. 4' Driving Layup (7 PTS),32 - 31,-1,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+135,0022200492,191,6,2,2,11:13 PM,11:22,Gabriel S.FOUL (P1.T1) (I.Hwang),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+136,0022200492,193,3,10,2,11:13 PM,11:22,,,Oubre Jr. Free Throw 1 of 1 (8 PTS),33 - 31,-2,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+137,0022200492,194,6,1,2,11:13 PM,11:13,,,Richards P.FOUL (P2.T1) (S.Wright),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+138,0022200492,196,2,102,2,11:14 PM,11:02,MISS James 8' Driving Floating Bank Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+139,0022200492,197,4,0,2,11:14 PM,10:59,,,Oubre Jr. REBOUND (Off:0 Def:2),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+140,0022200492,198,6,1,2,11:14 PM,10:54,Gabriel P.FOUL (P2.T2) (S.Wright),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+141,0022200492,200,8,0,2,11:14 PM,10:54,SUB: Schroder FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+142,0022200492,201,8,0,2,11:14 PM,10:54,SUB: Beverley FOR Brown Jr.,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+143,0022200492,204,1,98,2,11:14 PM,10:48,,,Richards 4' Cutting Layup Shot (2 PTS) (Hayward 1 AST),35 - 31,-4,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+144,0022200492,206,6,2,2,11:15 PM,10:48,Gabriel S.FOUL (P3.T3) (I.Hwang),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+145,0022200492,208,8,0,2,11:15 PM,10:48,SUB: Bryant FOR Gabriel,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+146,0022200492,210,3,10,2,11:15 PM,10:48,,,Richards Free Throw 1 of 1 (3 PTS),36 - 31,-5,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+147,0022200492,213,2,1,2,11:15 PM,10:29,MISS James 18' Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+148,0022200492,214,4,0,2,11:15 PM,10:27,,,Richards REBOUND (Off:0 Def:1),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+149,0022200492,215,5,4,2,11:16 PM,10:20,,,Ball Traveling Turnover (P1.T3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+150,0022200492,216,2,1,2,11:16 PM,10:02,MISS Bryant 13' Jump Shot,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+151,0022200492,217,4,0,2,11:16 PM,9:59,,,Richards REBOUND (Off:0 Def:2),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+152,0022200492,218,2,6,2,11:16 PM,9:48,,,MISS McDaniels 4' Driving Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+153,0022200492,219,4,0,2,11:16 PM,9:47,Bryant REBOUND (Off:0 Def:7),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+154,0022200492,221,1,1,2,11:17 PM,9:27,Beverley 27' 3PT Jump Shot (6 PTS),,,36 - 34,-2,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+155,0022200492,222,2,1,2,11:17 PM,9:10,,,MISS Oubre Jr. 25' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+156,0022200492,223,4,0,2,11:17 PM,9:07,,,Oubre Jr. REBOUND (Off:1 Def:2),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+157,0022200492,224,1,6,2,11:17 PM,9:06,,,Oubre Jr. 3' Driving Layup (10 PTS),38 - 34,-4,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+158,0022200492,225,5,1,2,11:17 PM,9:03,Bryant Bad Pass Turnover (P2.T6),,McDaniels STEAL (1 STL),,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+159,0022200492,229,1,7,2,11:18 PM,9:03,,,McDaniels 1' Dunk (2 PTS),40 - 34,-6,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+160,0022200492,228,9,1,2,11:18 PM,9:01,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+161,0022200492,230,5,1,2,11:21 PM,8:47,Reaves Bad Pass Turnover (P1.T7),,Ball STEAL (2 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+162,0022200492,232,1,50,2,11:21 PM,8:44,,,Oubre Jr. 1' Running Dunk (12 PTS) (Ball 1 AST),42 - 34,-8,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+163,0022200492,234,2,1,2,11:21 PM,8:31,MISS James 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+164,0022200492,235,4,0,2,11:21 PM,8:27,,,Ball REBOUND (Off:0 Def:2),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+165,0022200492,236,1,108,2,11:21 PM,8:21,,,Richards 1' Cutting Dunk Shot (5 PTS) (Ball 2 AST),44 - 34,-10,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+166,0022200492,238,1,79,2,11:21 PM,8:06,James 27' 3PT Pullup Jump Shot (9 PTS),,,44 - 37,-7,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+167,0022200492,239,6,4,2,11:22 PM,7:48,,,Richards OFF.Foul (P3) (S.Twardoski),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+168,0022200492,241,5,37,2,11:22 PM,7:48,,,Richards Offensive Foul Turnover (P1.T4),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+169,0022200492,242,8,0,2,11:22 PM,7:48,,,SUB: Rozier FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+170,0022200492,243,8,0,2,11:22 PM,7:48,,,SUB: Plumlee FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+171,0022200492,246,2,108,2,11:22 PM,7:35,MISS Bryant 3' Cutting Dunk Shot,,Plumlee BLOCK (1 BLK),,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+172,0022200492,248,4,0,2,11:22 PM,7:32,,,Plumlee REBOUND (Off:1 Def:2),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+173,0022200492,249,6,4,2,11:22 PM,7:25,,,Ball OFF.Foul (P1) (S.Wright),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+174,0022200492,251,5,37,2,11:22 PM,7:25,,,Ball Offensive Foul Turnover (P2.T5),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+175,0022200492,252,2,80,2,11:23 PM,7:14,MISS Reaves 26' 3PT Step Back Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+176,0022200492,253,4,0,2,11:23 PM,7:11,,,Plumlee REBOUND (Off:1 Def:3),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+177,0022200492,254,2,1,2,11:23 PM,7:00,,,MISS Oubre Jr. 27' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+178,0022200492,255,4,0,2,11:23 PM,6:56,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+179,0022200492,256,6,1,2,11:23 PM,6:49,,,McDaniels P.FOUL (P1.T2) (S.Wright),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+180,0022200492,258,8,0,2,11:23 PM,6:49,SUB: Walker IV FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+181,0022200492,260,8,0,2,11:24 PM,6:49,,,SUB: Washington FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+182,0022200492,262,1,79,2,11:24 PM,6:45,Schroder 18' Pullup Jump Shot (2 PTS),,,44 - 39,-5,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+183,0022200492,263,6,1,2,11:24 PM,6:35,Schroder P.FOUL (P2.T4) (I.Hwang),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+184,0022200492,265,8,0,2,11:24 PM,6:35,SUB: Christie FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+185,0022200492,267,1,6,2,11:25 PM,6:30,,,Ball 2' Driving Layup (9 PTS),46 - 39,-7,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+186,0022200492,268,1,79,2,11:25 PM,6:17,Schroder 12' Pullup Jump Shot (4 PTS),,,46 - 41,-5,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+187,0022200492,269,2,79,2,11:25 PM,6:06,,,MISS Ball 3PT Pullup Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+188,0022200492,270,4,0,2,11:25 PM,6:03,Walker IV REBOUND (Off:1 Def:1),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+189,0022200492,271,1,2,2,11:25 PM,5:59,Schroder 3PT Running Jump Shot (7 PTS) (Beverley 1 AST),,,46 - 44,-2,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+190,0022200492,273,2,63,2,11:25 PM,5:45,,,MISS Rozier 16' Fadeaway Jumper,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+191,0022200492,274,4,0,2,11:25 PM,5:41,Beverley REBOUND (Off:0 Def:2),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+192,0022200492,275,2,1,2,11:26 PM,5:27,MISS Schroder 26' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+193,0022200492,276,4,0,2,11:26 PM,5:26,,,Ball REBOUND (Off:0 Def:3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+194,0022200492,277,1,2,2,11:26 PM,5:22,,,Ball 8' Running Jump Shot (11 PTS),48 - 44,-4,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+195,0022200492,278,2,9,2,11:26 PM,5:07,MISS Walker IV 5' Driving Dunk,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+196,0022200492,279,4,0,2,11:26 PM,5:05,Beverley REBOUND (Off:1 Def:2),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+197,0022200492,280,1,57,2,11:26 PM,5:00,Beverley 7' Driving Hook Shot (8 PTS),,,48 - 46,-2,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+198,0022200492,281,1,1,2,11:26 PM,4:40,,,Washington 24' 3PT Jump Shot (9 PTS) (Rozier 2 AST),51 - 46,-5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+199,0022200492,283,1,1,2,11:27 PM,4:26,Bryant 27' 3PT Jump Shot (5 PTS) (Walker IV 1 AST),,,51 - 49,-2,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+200,0022200492,285,2,3,2,11:27 PM,4:04,,,MISS Washington 8' Hook Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+201,0022200492,286,4,0,2,11:27 PM,3:59,,,Plumlee REBOUND (Off:2 Def:3),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+202,0022200492,287,1,72,2,11:27 PM,3:59,,,Plumlee Putback Layup (4 PTS),53 - 49,-4,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+203,0022200492,288,2,1,2,11:27 PM,3:39,MISS Schroder 26' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+204,0022200492,289,4,0,2,11:27 PM,3:37,,,Plumlee REBOUND (Off:2 Def:4),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+205,0022200492,290,1,1,2,11:28 PM,3:28,,,Washington 26' 3PT Jump Shot (12 PTS) (Plumlee 2 AST),56 - 49,-7,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+206,0022200492,385,2,6,2,11:28 PM,3:14,MISS Walker IV 7' Driving Layup,,Rozier BLOCK (1 BLK),,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1
+207,0022200492,387,4,0,2,11:28 PM,3:13,Walker IV REBOUND (Off:2 Def:1),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+208,0022200492,292,6,1,2,11:28 PM,3:11,,,Plumlee P.FOUL (P2.T3) (S.Wright),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+209,0022200492,294,3,11,2,11:28 PM,3:11,Walker IV Free Throw 1 of 2 (6 PTS),,,56 - 50,-6,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+210,0022200492,303,3,12,2,11:28 PM,3:11,MISS Walker IV Free Throw 2 of 2,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+211,0022200492,295,8,0,2,11:28 PM,3:11,SUB: James FOR Schroder,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+212,0022200492,296,8,0,2,11:28 PM,3:11,SUB: Westbrook FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+213,0022200492,297,8,0,2,11:28 PM,3:11,SUB: Reaves FOR Christie,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+214,0022200492,298,8,0,2,11:28 PM,3:11,,,SUB: Hayward FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+215,0022200492,304,4,0,2,11:28 PM,3:09,,,Washington REBOUND (Off:0 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+216,0022200492,305,1,52,2,11:29 PM,2:57,,,Plumlee 1' Alley Oop Dunk (6 PTS) (Ball 3 AST),58 - 50,-8,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+217,0022200492,307,1,1,2,11:29 PM,2:43,Westbrook 3PT Jump Shot (5 PTS) (James 3 AST),,,58 - 53,-5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+218,0022200492,309,5,4,2,11:29 PM,2:29,,,Hayward Traveling Turnover (P1.T6),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+219,0022200492,310,9,1,2,11:30 PM,2:29,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+220,0022200492,311,8,0,2,11:32 PM,2:29,,,SUB: Oubre Jr. FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+221,0022200492,313,1,43,2,11:33 PM,2:18,James 3' Alley Oop Layup (11 PTS) (Westbrook 3 AST),,,58 - 55,-3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+222,0022200492,315,1,6,2,11:33 PM,2:02,,,Rozier 4' Driving Layup (6 PTS),60 - 55,-5,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+223,0022200492,317,1,1,2,11:33 PM,1:48,Reaves 3PT Jump Shot (9 PTS) (James 4 AST),,,60 - 58,-2,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+224,0022200492,319,6,14,2,11:33 PM,1:48,,,Ball FLAGRANT.FOUL.TYPE1 (P2.T4) (S.Wright),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+225,0022200492,321,18,1,2,11:33 PM,1:48,,Instant Replay2nd Period (11:33 PM EST),,60 - 58,-2,0,319,,,,,,0,0,,,,,,1,0,,,,,,0
+226,0022200492,322,3,20,2,11:35 PM,1:48,Reaves Free Throw Flagrant 1 of 1 (10 PTS),,,60 - 59,-1,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+227,0022200492,323,8,0,2,11:35 PM,1:48,SUB: Beverley FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+228,0022200492,324,8,0,2,11:35 PM,1:48,,,SUB: Maledon FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+229,0022200492,327,6,1,2,11:35 PM,1:43,,,Oubre Jr. P.FOUL (P3.PN) (S.Twardoski),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+230,0022200492,330,3,11,2,11:36 PM,1:43,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+231,0022200492,331,4,1,2,11:36 PM,1:43,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+232,0022200492,332,8,0,2,11:36 PM,1:43,,,SUB: McDaniels FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+233,0022200492,334,3,12,2,11:36 PM,1:43,Westbrook Free Throw 2 of 2 (6 PTS),,,60 - 60,TIE,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+234,0022200492,335,1,85,2,11:36 PM,1:25,,,Washington 12' Turnaround Bank Shot (14 PTS) (Rozier 3 AST),62 - 60,-2,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+235,0022200492,337,1,5,2,11:37 PM,1:03,Westbrook 3' Layup (8 PTS),,,62 - 62,TIE,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+236,0022200492,339,2,80,2,11:37 PM,0:50,,,MISS Rozier 27' 3PT Step Back Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+237,0022200492,340,4,0,2,11:37 PM,0:48,Westbrook REBOUND (Off:0 Def:2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+238,0022200492,341,1,6,2,11:37 PM,0:43,Westbrook 4' Driving Layup (10 PTS),,,62 - 64,2,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+239,0022200492,343,1,1,2,11:37 PM,0:31,,,Maledon 25' 3PT Jump Shot (3 PTS) (Hayward 2 AST),65 - 64,-1,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+240,0022200492,345,5,2,2,11:38 PM,0:09,James Lost Ball Turnover (P1.T8),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+241,0022200492,346,6,3,2,11:38 PM,0:09,James L.B.FOUL (P1.PN) (S.Twardoski),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+242,0022200492,348,3,11,2,11:38 PM,0:09,,,Maledon Free Throw 1 of 2 (4 PTS),66 - 64,-2,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+243,0022200492,349,3,12,2,11:39 PM,0:09,,,Maledon Free Throw 2 of 2 (5 PTS),67 - 64,-3,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+244,0022200492,350,1,79,2,11:39 PM,0:03,James 27' 3PT Pullup Jump Shot (14 PTS),,,67 - 67,TIE,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+245,0022200492,351,5,45,2,11:39 PM,0:00,,,Maledon Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+246,0022200492,352,13,0,2,11:39 PM,0:00,,End of 2nd Period (11:39 PM EST),,67 - 67,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+247,0022200492,361,12,0,3,11:55 PM,12:00,,Start of 3rd Period (11:55 PM EST),,67 - 67,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+248,0022200492,362,5,1,3,11:55 PM,11:46,James STEAL (1 STL),,Hayward Bad Pass Turnover (P2.T8),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+249,0022200492,364,5,1,3,11:55 PM,11:41,Walker IV Bad Pass Turnover (P1.T9),,Plumlee STEAL (1 STL),,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+250,0022200492,366,1,2,3,11:55 PM,11:36,,,Hayward 3PT Running Jump Shot (9 PTS) (Ball 4 AST),70 - 67,-3,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+251,0022200492,368,2,1,3,11:55 PM,11:21,MISS Walker IV 25' 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+252,0022200492,369,4,0,3,11:55 PM,11:18,,,Ball REBOUND (Off:0 Def:4),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+253,0022200492,370,2,1,3,11:56 PM,10:57,,,MISS Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+254,0022200492,371,4,0,3,11:56 PM,10:53,Bryant REBOUND (Off:0 Def:8),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+255,0022200492,372,5,1,3,11:56 PM,10:36,Beverley Bad Pass Turnover (P1.T10),,Rozier STEAL (1 STL),,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+256,0022200492,374,1,103,3,11:56 PM,10:32,,,Rozier 26' 3PT Running Pull-Up Jump Shot (9 PTS),73 - 67,-6,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+257,0022200492,375,7,5,3,11:56 PM,10:11,,,Washington Violation:Kicked Ball (S.Twardoski),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+258,0022200492,376,2,79,3,11:57 PM,10:06,MISS Schroder 14' Pullup Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+259,0022200492,377,4,0,3,11:57 PM,10:03,,,Ball REBOUND (Off:0 Def:5),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+260,0022200492,378,2,2,3,11:57 PM,9:59,,,MISS Ball 33' 3PT Running Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+261,0022200492,379,4,0,3,11:57 PM,9:55,James REBOUND (Off:0 Def:1),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+262,0022200492,380,2,1,3,11:57 PM,9:47,MISS Bryant 26' 3PT Jump Shot,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+263,0022200492,381,4,0,3,11:57 PM,9:43,,,Hayward REBOUND (Off:0 Def:4),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+264,0022200492,382,1,41,3,11:57 PM,9:41,,,Ball 2' Running Layup (13 PTS) (Hayward 3 AST),75 - 67,-8,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+265,0022200492,384,9,1,3,11:57 PM,9:41,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+266,0022200492,388,6,4,3,12:00 AM,9:35,James OFF.Foul (P2) (S.Twardoski),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+267,0022200492,390,5,37,3,12:00 AM,9:35,James Offensive Foul Turnover (P2.T11),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+268,0022200492,391,1,6,3,12:01 AM,9:17,,,Hayward 4' Driving Layup (11 PTS) (Rozier 4 AST),77 - 67,-10,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+269,0022200492,392,1,63,3,12:01 AM,9:03,James 20' Fadeaway Jumper (16 PTS),,,77 - 69,-8,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+270,0022200492,394,1,1,3,12:01 AM,8:38,,,Rozier 3PT Jump Shot (12 PTS) (Washington 3 AST),80 - 69,-11,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+271,0022200492,396,2,1,3,12:02 AM,8:13,MISS James 26' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+272,0022200492,397,4,0,3,12:02 AM,8:08,,,Ball REBOUND (Off:0 Def:6),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+273,0022200492,398,1,1,3,12:02 AM,7:59,,,Ball 28' 3PT Jump Shot (16 PTS) (Washington 4 AST),83 - 69,-14,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+274,0022200492,400,5,1,3,12:02 AM,7:46,Schroder Bad Pass Turnover (P2.T12),,Rozier STEAL (2 STL),,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+275,0022200492,402,2,1,3,12:02 AM,7:38,,,MISS Ball 25' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+276,0022200492,403,4,0,3,12:02 AM,7:33,,,Washington REBOUND (Off:1 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+277,0022200492,404,2,1,3,12:02 AM,7:31,,,MISS Hayward 27' 3PT Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+278,0022200492,405,4,0,3,12:02 AM,7:29,Bryant REBOUND (Off:0 Def:9),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+279,0022200492,406,2,80,3,12:03 AM,7:19,MISS Schroder 28' 3PT Step Back Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+280,0022200492,407,4,0,3,12:03 AM,7:13,Beverley REBOUND (Off:2 Def:2),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+281,0022200492,408,1,1,3,12:03 AM,7:08,Walker IV 3PT Jump Shot (9 PTS) (Beverley 2 AST),,,83 - 72,-11,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+282,0022200492,410,1,3,3,12:03 AM,6:41,,,Plumlee 7' Hook Shot (8 PTS),85 - 72,-13,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+283,0022200492,411,2,1,3,12:03 AM,6:27,MISS Walker IV 26' 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+284,0022200492,412,4,0,3,12:04 AM,6:23,,,Rozier REBOUND (Off:0 Def:2),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+285,0022200492,413,1,103,3,12:04 AM,6:20,,,Rozier 26' 3PT Running Pull-Up Jump Shot (15 PTS),88 - 72,-16,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+286,0022200492,414,9,1,3,12:04 AM,6:18,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+287,0022200492,415,8,0,3,12:06 AM,6:18,SUB: Gabriel FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+288,0022200492,416,8,0,3,12:06 AM,6:18,SUB: Westbrook FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+289,0022200492,417,8,0,3,12:06 AM,6:18,SUB: Reaves FOR Schroder,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+290,0022200492,421,6,2,3,12:07 AM,6:09,,,Rozier S.FOUL (P1.T1) (I.Hwang),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+291,0022200492,423,3,11,3,12:07 AM,6:09,Walker IV Free Throw 1 of 2 (10 PTS),,,88 - 73,-15,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+292,0022200492,424,3,12,3,12:07 AM,6:09,Walker IV Free Throw 2 of 2 (11 PTS),,,88 - 74,-14,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+293,0022200492,425,6,4,3,12:08 AM,5:54,,,Rozier OFF.Foul (P2) (I.Hwang),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+294,0022200492,427,5,37,3,12:08 AM,5:54,,,Rozier Offensive Foul Turnover (P2.T9),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+295,0022200492,428,8,0,3,12:08 AM,5:54,,,SUB: Oubre Jr. FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+296,0022200492,430,2,6,3,12:08 AM,5:43,MISS Westbrook 4' Driving Layup,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+297,0022200492,431,4,0,3,12:08 AM,5:39,Gabriel REBOUND (Off:4 Def:0),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+298,0022200492,432,1,97,3,12:08 AM,5:39,Gabriel Tip Layup Shot (9 PTS),,,88 - 76,-12,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+299,0022200492,433,5,2,3,12:09 AM,5:29,Westbrook STEAL (1 STL),,Oubre Jr. Lost Ball Turnover (P2.T10),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+300,0022200492,435,1,80,3,12:09 AM,5:24,Reaves 3PT Step Back Jump Shot (13 PTS) (Westbrook 4 AST),,,88 - 79,-9,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+301,0022200492,437,9,1,3,12:09 AM,5:20,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+302,0022200492,438,2,6,3,12:10 AM,5:05,,,MISS Oubre Jr. 5' Driving Layup,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+303,0022200492,439,4,0,3,12:10 AM,5:04,Gabriel REBOUND (Off:4 Def:1),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+304,0022200492,440,2,1,3,12:11 AM,4:45,MISS Westbrook 25' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+305,0022200492,441,4,0,3,12:11 AM,4:41,,,Plumlee REBOUND (Off:2 Def:5),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+306,0022200492,442,2,1,3,12:11 AM,4:31,,,MISS Oubre Jr. 26' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+307,0022200492,443,4,0,3,12:11 AM,4:28,Reaves REBOUND (Off:1 Def:1),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+308,0022200492,444,6,2,3,12:11 AM,4:24,,,Oubre Jr. S.FOUL (P4.T2) (S.Wright),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+309,0022200492,446,3,11,3,12:12 AM,4:24,MISS Reaves Free Throw 1 of 2,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+310,0022200492,447,4,1,3,12:12 AM,4:24,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+311,0022200492,448,8,0,3,12:12 AM,4:24,,,SUB: Maledon FOR Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+312,0022200492,449,8,0,3,12:12 AM,4:24,,,SUB: McDaniels FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+313,0022200492,452,8,0,3,12:12 AM,4:24,SUB: Brown Jr. FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+314,0022200492,454,3,12,3,12:12 AM,4:24,Reaves Free Throw 2 of 2 (14 PTS),,,88 - 80,-8,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+315,0022200492,455,2,78,3,12:12 AM,4:06,,,MISS McDaniels 9' Floating Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+316,0022200492,456,4,0,3,12:12 AM,4:04,Bryant REBOUND (Off:0 Def:10),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+317,0022200492,457,1,1,3,12:13 AM,3:46,Brown Jr. 3PT Jump Shot (3 PTS) (Reaves 1 AST),,,88 - 83,-5,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+318,0022200492,460,1,1,3,12:13 AM,3:27,,,Maledon 21' Jump Shot (7 PTS) (Plumlee 3 AST),90 - 83,-7,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+319,0022200492,462,2,1,3,12:13 AM,3:09,MISS Reaves 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+320,0022200492,463,4,0,3,12:13 AM,3:09,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+321,0022200492,465,8,0,3,12:13 AM,3:07,,,SUB: Richards FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+322,0022200492,467,1,98,3,12:14 AM,2:51,,,Oubre Jr. 6' Cutting Layup Shot (14 PTS) (Rozier 5 AST),92 - 83,-9,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+323,0022200492,468,7,2,3,12:14 AM,2:51,Bryant Violation:Defensive Goaltending (S.Twardoski),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+324,0022200492,470,1,73,3,12:14 AM,2:39,Westbrook 2' Driving Reverse Layup (12 PTS),,,92 - 85,-7,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+325,0022200492,471,2,80,3,12:15 AM,2:23,,,MISS Maledon 26' 3PT Step Back Jump Shot,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+326,0022200492,472,4,0,3,12:15 AM,2:20,Bryant REBOUND (Off:0 Def:11),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+327,0022200492,473,1,1,3,12:15 AM,2:13,Reaves 8' Jump Shot (16 PTS) (Westbrook 5 AST),,,92 - 87,-5,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+328,0022200492,475,9,1,3,12:15 AM,2:13,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+329,0022200492,476,8,0,3,12:16 AM,2:13,SUB: Christie FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+330,0022200492,477,8,0,3,12:16 AM,2:13,,,SUB: Hayward FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+331,0022200492,480,6,1,3,12:17 AM,2:02,Brown Jr. P.FOUL (P2.T1) (I.Hwang),,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+332,0022200492,482,2,79,3,12:17 AM,1:53,,,MISS Hayward 26' 3PT Pullup Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+333,0022200492,483,4,0,3,12:18 AM,1:47,Gabriel REBOUND (Off:4 Def:2),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+334,0022200492,484,6,4,3,12:18 AM,1:43,Westbrook OFF.Foul (P2) (I.Hwang),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+335,0022200492,486,5,37,3,12:18 AM,1:43,Westbrook Offensive Foul Turnover (P3.T13),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+336,0022200492,487,1,1,3,12:18 AM,1:28,,,McDaniels 3PT Jump Shot (5 PTS) (Hayward 4 AST),95 - 87,-8,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+337,0022200492,489,2,1,3,12:18 AM,1:14,MISS Brown Jr. 24' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+338,0022200492,490,4,0,3,12:18 AM,1:11,,,Maledon REBOUND (Off:0 Def:1),,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+339,0022200492,491,5,4,3,12:19 AM,0:54,,,Rozier Traveling Turnover (P3.T11),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+340,0022200492,492,2,1,3,12:19 AM,0:39,MISS Brown Jr. 25' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+341,0022200492,493,4,0,3,12:19 AM,0:35,,,Rozier REBOUND (Off:0 Def:3),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+342,0022200492,494,1,6,3,12:19 AM,0:29,,,Rozier 2' Driving Layup (17 PTS),97 - 87,-10,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+343,0022200492,495,2,1,3,12:20 AM,0:25,MISS Reaves 26' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+344,0022200492,496,4,0,3,12:20 AM,0:21,,,Richards REBOUND (Off:0 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+345,0022200492,497,2,80,3,12:20 AM,0:01,,,MISS Maledon 27' 3PT Step Back Jump Shot,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+346,0022200492,498,4,0,3,12:20 AM,0:01,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+347,0022200492,499,13,0,3,12:20 AM,0:00,,End of 3rd Period (12:20 AM EST),,97 - 87,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+348,0022200492,506,12,0,4,12:23 AM,12:00,,Start of 4th Period (12:23 AM EST),,97 - 87,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+349,0022200492,507,5,1,4,12:23 AM,11:39,Christie Bad Pass Turnover (P1.T14),,McDaniels STEAL (2 STL),,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+350,0022200492,509,1,106,4,12:23 AM,11:35,,,McDaniels 2' Running Alley Oop Dunk Shot (7 PTS) (Ball 5 AST),99 - 87,-12,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+351,0022200492,511,1,5,4,12:24 AM,11:18,Gabriel 4' Layup (11 PTS) (James 5 AST),,,99 - 89,-10,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+352,0022200492,513,5,45,4,12:24 AM,11:08,,,Ball Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+353,0022200492,514,2,63,4,12:24 AM,11:01,MISS James 15' Fadeaway Jumper,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+354,0022200492,515,4,0,4,12:24 AM,10:58,,,Ball REBOUND (Off:0 Def:7),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+355,0022200492,516,1,79,4,12:24 AM,10:42,,,Hayward 17' Pullup Jump Shot (13 PTS),101 - 89,-12,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+356,0022200492,517,6,1,4,12:25 AM,10:31,,,Ball P.FOUL (P3.T1) (S.Wright),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+357,0022200492,519,8,0,4,12:25 AM,10:31,SUB: Bryant FOR Christie,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+358,0022200492,521,2,5,4,12:25 AM,10:20,MISS Bryant 5' Layup,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+359,0022200492,523,4,0,4,12:25 AM,10:17,Westbrook REBOUND (Off:1 Def:2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+360,0022200492,524,2,72,4,12:25 AM,10:17,MISS Westbrook 3' Putback Layup,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+361,0022200492,526,1,97,4,12:25 AM,10:13,Westbrook Tip Layup Shot (14 PTS),,,101 - 91,-10,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+362,0022200492,525,4,0,4,12:25 AM,10:13,Westbrook REBOUND (Off:2 Def:2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+363,0022200492,527,9,1,4,12:25 AM,10:13,,,Hornets Timeout: Regular (Reg.5 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+364,0022200492,528,8,0,4,12:28 AM,10:13,,,SUB: Plumlee FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+365,0022200492,530,1,73,4,12:29 AM,10:03,,,Ball 2' Driving Reverse Layup (18 PTS),103 - 91,-12,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+366,0022200492,531,1,1,4,12:29 AM,9:43,Bryant 25' 3PT Jump Shot (8 PTS) (Westbrook 6 AST),,,103 - 94,-9,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+367,0022200492,534,1,79,4,12:30 AM,9:24,,,Oubre Jr. 25' 3PT Pullup Jump Shot (17 PTS) (McDaniels 3 AST),106 - 94,-12,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+368,0022200492,536,2,5,4,12:30 AM,9:24,MISS Westbrook 5' Layup,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+369,0022200492,537,4,0,4,12:30 AM,9:24,Gabriel REBOUND (Off:5 Def:2),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+370,0022200492,538,1,97,4,12:30 AM,9:24,Gabriel Tip Layup Shot (13 PTS),,,106 - 96,-10,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+371,0022200492,540,2,5,4,12:31 AM,9:06,Gabriel BLOCK (1 BLK),,MISS Plumlee 5' Layup,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1
+372,0022200492,542,4,0,4,12:31 AM,9:06,,,Plumlee REBOUND (Off:3 Def:5),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+373,0022200492,543,6,2,4,12:31 AM,9:06,Bryant S.FOUL (P2.T1) (S.Twardoski),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+374,0022200492,545,3,11,4,12:31 AM,9:06,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+375,0022200492,546,4,1,4,12:31 AM,9:06,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+376,0022200492,547,3,12,4,12:32 AM,9:06,,,Plumlee Free Throw 2 of 2 (9 PTS),107 - 96,-11,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+377,0022200492,548,6,2,4,12:32 AM,8:49,,,Hayward S.FOUL (P1.T2) (S.Wright),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+378,0022200492,550,3,11,4,12:32 AM,8:49,Reaves Free Throw 1 of 2 (17 PTS),,,107 - 97,-10,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+379,0022200492,551,8,0,4,12:32 AM,8:49,SUB: Beverley FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+380,0022200492,553,3,12,4,12:33 AM,8:49,Reaves Free Throw 2 of 2 (18 PTS),,,107 - 98,-9,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+381,0022200492,554,5,2,4,12:33 AM,8:37,Reaves STEAL (1 STL),,Plumlee Lost Ball Turnover (P1.T13),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+382,0022200492,556,1,50,4,12:33 AM,8:33,James 1' Running Dunk (18 PTS) (Reaves 2 AST),,,107 - 100,-7,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+383,0022200492,558,6,4,4,12:33 AM,8:16,,,McDaniels OFF.Foul (P2) (I.Hwang),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+384,0022200492,560,5,37,4,12:33 AM,8:16,,,McDaniels Offensive Foul Turnover (P1.T14),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+385,0022200492,561,8,0,4,12:34 AM,8:16,,,SUB: Rozier FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+386,0022200492,563,2,1,4,12:34 AM,8:06,MISS James 26' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+387,0022200492,564,4,0,4,12:34 AM,8:03,,,Rozier REBOUND (Off:0 Def:4),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+388,0022200492,565,2,73,4,12:34 AM,7:54,,,MISS Ball 4' Driving Reverse Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+389,0022200492,566,4,0,4,12:34 AM,7:52,Beverley REBOUND (Off:2 Def:3),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+390,0022200492,567,5,4,4,12:34 AM,7:49,Reaves Traveling Turnover (P2.T15),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+391,0022200492,568,8,0,4,12:34 AM,7:49,,,SUB: Washington FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+392,0022200492,570,2,79,4,12:35 AM,7:41,,,MISS Ball 30' 3PT Pullup Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+393,0022200492,571,4,0,4,12:35 AM,7:38,James REBOUND (Off:0 Def:2),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+394,0022200492,572,5,2,4,12:35 AM,7:33,James Lost Ball Turnover (P3.T16),,Ball STEAL (3 STL),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+395,0022200492,574,1,2,4,12:35 AM,7:29,,,Rozier 25' 3PT Running Jump Shot (20 PTS) (Ball 6 AST),110 - 100,-10,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+396,0022200492,576,9,1,4,12:35 AM,7:27,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+397,0022200492,577,8,0,4,12:38 AM,7:27,SUB: Bryant FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+398,0022200492,578,8,0,4,12:38 AM,7:27,SUB: Walker IV FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+399,0022200492,579,8,0,4,12:38 AM,7:27,SUB: Schroder FOR Gabriel,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+400,0022200492,583,2,1,4,12:38 AM,7:17,MISS Walker IV 25' 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+401,0022200492,584,4,0,4,12:38 AM,7:13,,,Oubre Jr. REBOUND (Off:1 Def:3),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+402,0022200492,585,2,6,4,12:38 AM,7:01,,,MISS Ball 5' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+403,0022200492,586,4,0,4,12:39 AM,6:58,,,Ball REBOUND (Off:1 Def:7),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+404,0022200492,587,1,97,4,12:39 AM,6:58,,,Ball Tip Layup Shot (20 PTS),112 - 100,-12,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+405,0022200492,588,1,1,4,12:39 AM,6:51,James 25' 3PT Jump Shot (21 PTS) (Schroder 4 AST),,,112 - 103,-9,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+406,0022200492,590,1,79,4,12:39 AM,6:37,,,Oubre Jr. 16' Pullup Jump Shot (19 PTS) (Ball 7 AST),114 - 103,-11,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+407,0022200492,592,1,1,4,12:39 AM,6:21,Walker IV 3PT Jump Shot (14 PTS) (James 6 AST),,,114 - 106,-8,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+408,0022200492,594,6,2,4,12:39 AM,6:21,,,Oubre Jr. S.FOUL (P5.T3) (S.Twardoski),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+409,0022200492,596,3,10,4,12:40 AM,6:21,Walker IV Free Throw 1 of 1 (15 PTS),,,114 - 107,-7,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+410,0022200492,597,2,1,4,12:40 AM,6:02,,,MISS Rozier 27' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+411,0022200492,598,4,0,4,12:40 AM,5:59,Bryant REBOUND (Off:0 Def:12),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+412,0022200492,599,1,73,4,12:40 AM,5:48,James 2' Driving Reverse Layup (23 PTS),,,114 - 109,-5,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+413,0022200492,600,2,63,4,12:41 AM,5:33,,,MISS Ball 12' Fadeaway Jumper,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+414,0022200492,601,4,0,4,12:41 AM,5:30,Beverley REBOUND (Off:2 Def:4),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+415,0022200492,602,2,80,4,12:41 AM,5:19,MISS Walker IV 25' 3PT Step Back Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+416,0022200492,603,4,0,4,12:41 AM,5:18,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+417,0022200492,605,6,1,4,12:41 AM,5:09,Beverley P.FOUL (P1.T2) (S.Twardoski),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+418,0022200492,607,2,1,4,12:42 AM,5:00,,,MISS Oubre Jr. 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+419,0022200492,608,4,0,4,12:42 AM,4:57,Bryant REBOUND (Off:0 Def:13),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+420,0022200492,609,1,41,4,12:42 AM,4:52,James 3' Running Layup (25 PTS),,,114 - 111,-3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+421,0022200492,610,9,1,4,12:42 AM,4:51,,,Hornets Timeout: Regular (Reg.6 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+422,0022200492,611,1,7,4,12:44 AM,4:40,,,Washington 3' Dunk (16 PTS),116 - 111,-5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+423,0022200492,613,6,2,4,12:44 AM,4:40,Walker IV S.FOUL (P1.T3) (I.Hwang),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+424,0022200492,615,3,10,4,12:44 AM,4:40,,,Washington Free Throw 1 of 1 (17 PTS),117 - 111,-6,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+425,0022200492,616,1,1,4,12:45 AM,4:27,James 26' 3PT Jump Shot (28 PTS) (Bryant 1 AST),,,117 - 114,-3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+426,0022200492,618,1,6,4,12:45 AM,4:14,,,Plumlee 3' Driving Layup (11 PTS),119 - 114,-5,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+427,0022200492,619,1,79,4,12:45 AM,4:01,Schroder 11' Pullup Jump Shot (9 PTS),,,119 - 116,-3,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+428,0022200492,620,1,9,4,12:45 AM,3:41,,,Washington 1' Driving Dunk (19 PTS) (Ball 8 AST),121 - 116,-5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+429,0022200492,622,2,5,4,12:46 AM,3:23,MISS Bryant 6' Layup,,Plumlee BLOCK (2 BLK),,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+430,0022200492,624,4,0,4,12:46 AM,3:19,,,Oubre Jr. REBOUND (Off:1 Def:4),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+431,0022200492,625,1,2,4,12:46 AM,3:17,,,Rozier 3PT Running Jump Shot (23 PTS) (Oubre Jr. 1 AST),124 - 116,-8,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+432,0022200492,627,9,1,4,12:46 AM,3:16,LAKERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+433,0022200492,628,8,0,4,12:47 AM,3:16,SUB: Westbrook FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+434,0022200492,629,8,0,4,12:47 AM,3:16,SUB: Reaves FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+435,0022200492,642,8,0,4,12:47 AM,3:16,,,SUB: Hayward FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+436,0022200492,634,1,1,4,12:48 AM,3:00,Westbrook 3PT Jump Shot (17 PTS) (Beverley 3 AST),,,124 - 119,-5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+437,0022200492,636,2,1,4,12:48 AM,2:37,,,MISS Oubre Jr. 27' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+438,0022200492,637,4,0,4,12:48 AM,2:33,Schroder REBOUND (Off:0 Def:4),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+439,0022200492,638,1,43,4,12:49 AM,2:28,James 2' Alley Oop Layup (30 PTS) (Schroder 5 AST),,,124 - 121,-3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+440,0022200492,640,6,1,4,12:49 AM,2:19,Schroder P.FOUL (P3.T4) (S.Twardoski),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+441,0022200492,644,2,5,4,12:49 AM,2:02,,,MISS Rozier 1' Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+442,0022200492,645,4,0,4,12:49 AM,1:59,,,Washington REBOUND (Off:2 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+443,0022200492,646,1,97,4,12:50 AM,1:59,,,Washington Tip Layup Shot (21 PTS),126 - 121,-5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+444,0022200492,647,1,6,4,12:50 AM,1:52,James 1' Driving Layup (32 PTS),,,126 - 123,-3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+445,0022200492,648,1,1,4,12:50 AM,1:34,,,Ball 29' 3PT Jump Shot (23 PTS) (Rozier 6 AST),129 - 123,-6,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+446,0022200492,650,1,80,4,12:50 AM,1:25,Beverley 25' 3PT Step Back Jump Shot (11 PTS) (James 7 AST),,,129 - 126,-3,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+447,0022200492,652,2,98,4,12:50 AM,1:17,,,MISS Washington 4' Cutting Layup Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+448,0022200492,653,4,0,4,12:50 AM,1:17,,,Washington REBOUND (Off:3 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+449,0022200492,654,6,1,4,12:51 AM,1:17,Schroder P.FOUL (P4.PN) (S.Wright),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+450,0022200492,656,3,11,4,12:51 AM,1:17,,,Washington Free Throw 1 of 2 (22 PTS),130 - 126,-4,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+451,0022200492,657,3,12,4,12:51 AM,1:17,,,MISS Washington Free Throw 2 of 2,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+452,0022200492,658,4,0,4,12:51 AM,1:14,,,Hayward REBOUND (Off:1 Def:4),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+453,0022200492,659,6,26,4,12:52 AM,1:08,,,Washington Offensive Charge Foul (P1) (I.Hwang),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+454,0022200492,661,5,37,4,12:52 AM,1:08,,,Washington Offensive Foul Turnover (P1.T15),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+455,0022200492,662,1,98,4,12:52 AM,1:01,Reaves 2' Cutting Layup Shot (20 PTS) (James 8 AST),,,130 - 128,-2,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+456,0022200492,664,2,79,4,12:52 AM,0:46,,,MISS Ball 30' 3PT Pullup Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+457,0022200492,665,4,0,4,12:52 AM,0:44,Westbrook REBOUND (Off:2 Def:3),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+458,0022200492,666,1,41,4,12:52 AM,0:42,James 1' Running Layup (34 PTS) (Westbrook 7 AST),,,130 - 130,TIE,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+459,0022200492,668,9,1,4,12:53 AM,0:42,,,Hornets Timeout: Regular (Reg.7 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+460,0022200492,669,8,0,4,12:53 AM,0:42,,,SUB: Plumlee FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+461,0022200492,671,5,1,4,12:54 AM,0:35,Beverley STEAL (1 STL),,Ball Bad Pass Turnover (P4.T16),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+462,0022200492,673,5,45,4,12:54 AM,0:32,Reaves Out of Bounds - Bad Pass Turnover Turnover (P3.T17),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+463,0022200492,674,2,79,4,12:55 AM,0:08,,,MISS Rozier 24' Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+464,0022200492,675,4,0,4,12:55 AM,0:08,,,Hayward REBOUND (Off:2 Def:4),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+465,0022200492,676,1,5,4,12:55 AM,0:06,,,Hayward 5' Layup (15 PTS),132 - 130,-2,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+466,0022200492,677,7,2,4,12:55 AM,0:06,James Violation:Defensive Goaltending (I.Hwang),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+467,0022200492,678,18,0,4,12:55 AM,0:06,,Instant Replay4th Period (12:55 AM EST),,132 - 130,-2,0,676,Thomas Hamilton,,,,,0,0,,,,,,1,0,,,,,,0
+468,0022200492,679,9,1,4,12:57 AM,0:06,LAKERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+469,0022200492,680,8,0,4,12:58 AM,0:06,,,SUB: Oubre Jr. FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+470,0022200492,682,2,1,4,12:58 AM,0:01,MISS Schroder 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+471,0022200492,683,4,0,4,12:58 AM,0:00,,,Washington REBOUND (Off:3 Def:2),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+472,0022200492,684,6,1,4,12:58 AM,0:00,Beverley P.FOUL (P2.PN) (S.Wright),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+473,0022200492,686,3,11,4,12:59 AM,0:00,,,Washington Free Throw 1 of 2 (23 PTS),133 - 130,-3,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+474,0022200492,687,3,12,4,1:00 AM,0:00,,,Washington Free Throw 2 of 2 (24 PTS),134 - 130,-4,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+475,0022200492,688,13,0,4,1:00 AM,0:00,,End of 4th Period (1:00 AM EST),,134 - 130,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

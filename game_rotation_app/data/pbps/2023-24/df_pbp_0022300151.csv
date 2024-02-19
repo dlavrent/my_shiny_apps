@@ -1,0 +1,423 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0022300151,2,12,0,1,7:42 PM,12:00,,Start of 1st Period (7:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022300151,4,10,0,1,7:42 PM,12:00,Jump Ball Robinson vs. Zubac: Tip to Brunson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1
+2,0022300151,7,2,80,1,7:42 PM,11:33,MISS Brunson 19' Step Back Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+3,0022300151,8,4,0,1,7:43 PM,11:31,,,George REBOUND (Off:0 Def:1),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+4,0022300151,9,5,1,1,7:43 PM,11:21,Grimes STEAL (1 STL),,Zubac Bad Pass Turnover (P1.T1),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+5,0022300151,11,6,2,1,7:43 PM,11:09,,,George S.FOUL (P1.T1) (M.Ervin),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+6,0022300151,13,3,11,1,7:43 PM,11:09,Barrett Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+7,0022300151,14,3,12,1,7:43 PM,11:09,Barrett Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+8,0022300151,15,2,1,1,7:44 PM,10:51,,,MISS Leonard 25' 3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+9,0022300151,16,4,0,1,7:44 PM,10:49,Barrett REBOUND (Off:0 Def:1),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+10,0022300151,17,1,3,1,7:44 PM,10:40,Barrett 7' Hook Shot (4 PTS),,,0 - 4,4,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+11,0022300151,18,6,2,1,7:44 PM,10:22,Robinson S.FOUL (P1.T1) (M.Ervin),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+12,0022300151,20,3,11,1,7:45 PM,10:22,,,Zubac Free Throw 1 of 2 (1 PTS),1 - 4,3,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+13,0022300151,21,3,12,1,7:45 PM,10:22,,,MISS Zubac Free Throw 2 of 2,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+14,0022300151,22,4,0,1,7:45 PM,10:20,Randle REBOUND (Off:0 Def:1),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+15,0022300151,23,2,1,1,7:45 PM,9:59,MISS Grimes 25' 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+16,0022300151,24,4,0,1,7:45 PM,9:57,,,George REBOUND (Off:0 Def:2),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+17,0022300151,25,2,103,1,7:45 PM,9:50,,,MISS Westbrook 4' Running Pull-Up Jump Shot,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+18,0022300151,26,4,0,1,7:46 PM,9:48,Randle REBOUND (Off:0 Def:2),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+19,0022300151,27,2,80,1,7:46 PM,9:41,MISS Randle 25' 3PT Step Back Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+20,0022300151,28,4,0,1,7:46 PM,9:39,,,Harden REBOUND (Off:0 Def:1),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+21,0022300151,29,2,103,1,7:46 PM,9:35,,,MISS George 25' 3PT Running Pull-Up Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+22,0022300151,30,4,0,1,7:46 PM,9:33,Robinson REBOUND (Off:0 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+23,0022300151,31,2,1,1,7:46 PM,9:23,MISS Barrett 3PT Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+24,0022300151,32,4,0,1,7:46 PM,9:21,,,Harden REBOUND (Off:0 Def:2),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+25,0022300151,33,1,98,1,7:46 PM,9:10,,,Zubac 1' Cutting Layup Shot (3 PTS) (Harden 1 AST),3 - 4,1,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+26,0022300151,35,5,40,1,7:47 PM,8:47,Grimes Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+27,0022300151,37,1,79,1,7:47 PM,8:27,,,Westbrook 10' Pullup Jump Shot (2 PTS),5 - 4,-1,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+28,0022300151,38,2,1,1,7:48 PM,8:06,MISS Randle 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+29,0022300151,39,4,0,1,7:48 PM,8:04,,,George REBOUND (Off:0 Def:3),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+30,0022300151,40,5,1,1,7:48 PM,7:57,Brunson STEAL (1 STL),,George Bad Pass Turnover (P1.T2),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+31,0022300151,42,2,103,1,7:48 PM,7:51,MISS Brunson 6' Running Pull-Up Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+32,0022300151,43,4,0,1,7:48 PM,7:49,,,Leonard REBOUND (Off:0 Def:1),,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+33,0022300151,44,2,2,1,7:48 PM,7:45,,,MISS Leonard 26' 3PT Running Jump Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+34,0022300151,45,4,0,1,7:48 PM,7:43,,,Zubac REBOUND (Off:1 Def:0),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+35,0022300151,46,1,1,1,7:48 PM,7:37,,,Westbrook 3PT Jump Shot (5 PTS) (Harden 2 AST),8 - 4,-4,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+36,0022300151,48,1,6,1,7:49 PM,7:10,Brunson 1' Driving Layup (2 PTS),,,8 - 6,-2,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+37,0022300151,50,5,1,1,7:49 PM,6:56,Robinson STEAL (1 STL),,Zubac Bad Pass Turnover (P2.T3),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+38,0022300151,52,1,6,1,7:49 PM,6:46,Randle 2' Driving Layup (2 PTS),,,8 - 8,TIE,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+39,0022300151,53,1,79,1,7:50 PM,6:18,,,Leonard 9' Pullup Jump Shot (2 PTS) (Westbrook 1 AST),10 - 8,-2,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+40,0022300151,55,2,1,1,7:50 PM,6:03,MISS Barrett 25' 3PT Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+41,0022300151,56,4,0,1,7:50 PM,6:01,,,Zubac REBOUND (Off:1 Def:1),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+42,0022300151,57,2,79,1,7:50 PM,5:46,,,MISS George 3PT Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+43,0022300151,58,4,0,1,7:50 PM,5:44,Randle REBOUND (Off:0 Def:3),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+44,0022300151,59,2,1,1,7:50 PM,5:39,MISS Grimes 24' 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+45,0022300151,60,4,0,1,7:50 PM,5:37,,,Leonard REBOUND (Off:0 Def:2),,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+46,0022300151,61,2,103,1,7:50 PM,5:32,,,MISS Leonard 25' 3PT Running Pull-Up Jump Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+47,0022300151,62,4,0,1,7:50 PM,5:30,Grimes REBOUND (Off:0 Def:1),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+48,0022300151,63,6,2,1,7:51 PM,5:17,,,Leonard S.FOUL (P1.T2) (M.Ervin),,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+49,0022300151,65,9,1,1,7:51 PM,5:17,KNICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+50,0022300151,66,8,0,1,7:51 PM,5:17,SUB: Hart FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+51,0022300151,67,8,0,1,7:51 PM,5:17,,,SUB: Plumlee FOR Harden,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+52,0022300151,68,8,0,1,7:51 PM,5:17,,,SUB: Hyland FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+53,0022300151,72,3,11,1,7:54 PM,5:17,Randle Free Throw 1 of 2 (3 PTS),,,10 - 9,-1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+54,0022300151,73,3,12,1,7:54 PM,5:17,Randle Free Throw 2 of 2 (4 PTS),,,10 - 10,TIE,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+55,0022300151,74,1,79,1,7:55 PM,5:02,,,George 15' Pullup Jump Shot (2 PTS),12 - 10,-2,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+56,0022300151,75,1,1,1,7:55 PM,4:39,Brunson 26' 3PT Jump Shot (5 PTS) (Hart 1 AST),,,12 - 13,1,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+57,0022300151,77,2,1,1,7:55 PM,4:19,,,MISS Westbrook 3PT Jump Shot,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+58,0022300151,78,4,0,1,7:55 PM,4:17,Randle REBOUND (Off:0 Def:4),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+59,0022300151,79,1,41,1,7:55 PM,4:11,Randle 2' Running Layup (6 PTS),,,12 - 15,3,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+60,0022300151,80,1,73,1,7:56 PM,3:51,,,Westbrook 1' Driving Reverse Layup (7 PTS) (George 1 AST),14 - 15,1,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+61,0022300151,82,2,5,1,7:56 PM,3:23,MISS Randle 2' Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+62,0022300151,83,4,0,1,7:56 PM,3:22,Robinson REBOUND (Off:1 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+63,0022300151,133,2,97,1,7:56 PM,3:22,MISS Robinson 1' Tip Layup Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+64,0022300151,134,4,0,1,7:56 PM,3:21,,,George REBOUND (Off:0 Def:4),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+65,0022300151,84,1,108,1,7:56 PM,3:09,,,Leonard 1' Cutting Dunk Shot (4 PTS) (Plumlee 1 AST),16 - 15,-1,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+66,0022300151,86,2,1,1,7:57 PM,2:52,MISS Hart 24' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+67,0022300151,87,4,0,1,7:57 PM,2:50,Robinson REBOUND (Off:2 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+68,0022300151,158,2,97,1,7:57 PM,2:50,MISS Robinson 1' Tip Layup Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+69,0022300151,159,4,0,1,7:57 PM,2:49,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+70,0022300151,88,1,80,1,7:57 PM,2:35,,,Westbrook 10' Step Back Jump Shot (9 PTS),18 - 15,-3,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+71,0022300151,89,9,1,1,7:57 PM,2:29,KNICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+72,0022300151,90,8,0,1,7:57 PM,2:29,SUB: Quickley FOR Grimes,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+73,0022300151,91,8,0,1,7:57 PM,2:29,SUB: Hartenstein FOR Randle,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+74,0022300151,92,8,0,1,7:57 PM,2:29,SUB: DiVincenzo FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+75,0022300151,93,8,0,1,7:57 PM,2:29,,,SUB: Harden FOR Westbrook,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+76,0022300151,94,8,0,1,7:57 PM,2:29,,,SUB: Powell FOR Leonard,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+77,0022300151,100,2,79,1,8:01 PM,2:21,MISS Brunson 16' Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+78,0022300151,101,4,0,1,8:01 PM,2:20,,,Plumlee REBOUND (Off:0 Def:2),,,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+79,0022300151,102,2,1,1,8:01 PM,2:10,,,MISS Hyland 24' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+80,0022300151,103,4,0,1,8:01 PM,2:08,Hartenstein REBOUND (Off:0 Def:1),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+81,0022300151,104,2,6,1,8:01 PM,1:55,MISS Hart 2' Driving Layup,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+82,0022300151,105,4,0,1,8:01 PM,1:54,Hartenstein REBOUND (Off:1 Def:1),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+83,0022300151,120,2,97,1,8:01 PM,1:54,MISS Hartenstein 2' Tip Layup Shot,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+84,0022300151,121,4,0,1,8:01 PM,1:53,Hartenstein REBOUND (Off:2 Def:1),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+85,0022300151,123,2,97,1,8:01 PM,1:53,MISS Hartenstein 1' Tip Layup Shot,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+86,0022300151,124,4,0,1,8:01 PM,1:52,,,Harden REBOUND (Off:0 Def:3),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+87,0022300151,106,2,80,1,8:01 PM,1:42,,,MISS George 25' 3PT Step Back Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+88,0022300151,107,4,0,1,8:01 PM,1:40,Quickley REBOUND (Off:0 Def:1),,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+89,0022300151,108,6,4,1,8:02 PM,1:21,Brunson OFF.Foul (P1) (M.Ervin),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+90,0022300151,110,5,37,1,8:02 PM,1:21,Brunson Offensive Foul Turnover (P1.T2),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+91,0022300151,111,8,0,1,8:02 PM,1:21,SUB: Barrett FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+92,0022300151,112,8,0,1,8:02 PM,1:21,,,SUB: Tucker FOR George,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+93,0022300151,115,2,1,1,8:02 PM,1:04,,,MISS Tucker 3PT Jump Shot,,,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+94,0022300151,116,4,0,1,8:02 PM,1:02,DiVincenzo REBOUND (Off:0 Def:1),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+95,0022300151,117,6,2,1,8:02 PM,0:59,,,Harden S.FOUL (P1.T3) (J.DeRosa),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+96,0022300151,119,3,11,1,8:03 PM,0:59,Barrett Free Throw 1 of 2 (5 PTS),,,18 - 16,-2,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+97,0022300151,122,3,12,1,8:03 PM,0:59,Barrett Free Throw 2 of 2 (6 PTS),,,18 - 17,-1,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+98,0022300151,125,2,79,1,8:03 PM,0:42,,,MISS Powell 25' 3PT Pullup Jump Shot,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+99,0022300151,126,4,0,1,8:03 PM,0:40,DiVincenzo REBOUND (Off:0 Def:2),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+100,0022300151,127,1,7,1,8:04 PM,0:34,Hartenstein Dunk (2 PTS) (Barrett 1 AST),,,18 - 19,1,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+101,0022300151,129,1,80,1,8:04 PM,0:15,,,Hyland 3PT Step Back Jump Shot (3 PTS),21 - 19,-2,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+102,0022300151,130,2,80,1,8:04 PM,0:00,MISS Barrett 14' Step Back Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+103,0022300151,131,4,0,1,8:04 PM,0:00,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+104,0022300151,132,13,0,1,8:04 PM,0:00,,End of 1st Period (8:04 PM EST),,21 - 19,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+105,0022300151,135,12,0,2,8:07 PM,12:00,,Start of 2nd Period (8:07 PM EST),,21 - 19,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+106,0022300151,136,2,79,2,8:07 PM,11:50,DiVincenzo BLOCK (1 BLK),,MISS Harden 7' Pullup Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1
+107,0022300151,138,4,0,2,8:07 PM,11:49,DiVincenzo REBOUND (Off:0 Def:3),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+108,0022300151,222,5,1,2,8:07 PM,11:48,DiVincenzo Bad Pass Turnover (P1.T3),,Hyland STEAL (1 STL),,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+109,0022300151,139,2,1,2,8:07 PM,11:45,,,MISS Hyland 26' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+110,0022300151,140,4,0,2,8:07 PM,11:44,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+111,0022300151,141,6,3,2,8:07 PM,11:44,Hartenstein L.B.FOUL (P1.T1) (J.DeRosa),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+112,0022300151,144,1,80,2,8:08 PM,11:35,,,Harden 8' Step Back Jump Shot (2 PTS) (Hyland 1 AST),23 - 19,-4,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+113,0022300151,146,2,1,2,8:08 PM,11:10,MISS DiVincenzo 25' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+114,0022300151,147,4,0,2,8:08 PM,11:08,,,Hyland REBOUND (Off:0 Def:1),,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+115,0022300151,148,5,1,2,8:09 PM,10:56,Hartenstein STEAL (1 STL),,Hyland Bad Pass Turnover (P1.T4),,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+116,0022300151,150,1,41,2,8:09 PM,10:52,Quickley 2' Running Layup (2 PTS) (Hartenstein 1 AST),,,23 - 21,-2,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+117,0022300151,156,8,0,2,8:10 PM,10:40,,,SUB: Zubac FOR Plumlee,,,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+118,0022300151,285,5,40,2,8:10 PM,10:40,,,Plumlee Out of Bounds Lost Ball Turnover (P1.T5),,,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+119,0022300151,160,2,79,2,8:10 PM,10:30,MISS Barrett 18' Pullup Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+120,0022300151,161,4,0,2,8:10 PM,10:26,,,Zubac REBOUND (Off:1 Def:2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+121,0022300151,162,5,45,2,8:10 PM,10:20,,,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+122,0022300151,163,5,40,2,8:10 PM,10:00,Barrett Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+123,0022300151,164,1,1,2,8:11 PM,9:48,,,Harden 14' Jump Shot (4 PTS),25 - 21,-4,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+124,0022300151,165,1,1,2,8:11 PM,9:24,DiVincenzo 24' 3PT Jump Shot (3 PTS) (Quickley 1 AST),,,25 - 24,-1,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+125,0022300151,167,2,6,2,8:12 PM,9:03,,,MISS Hyland 3' Driving Layup,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+126,0022300151,168,4,0,2,8:12 PM,9:01,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+127,0022300151,169,1,101,2,8:12 PM,8:41,Quickley 5' Driving Floating Jump Shot (4 PTS) (Hart 2 AST),,,25 - 26,1,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+128,0022300151,171,1,80,2,8:12 PM,8:27,,,Harden 25' 3PT Step Back Jump Shot (7 PTS),28 - 26,-2,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+129,0022300151,172,1,6,2,8:12 PM,8:10,Barrett 2' Driving Layup (8 PTS),,,28 - 28,TIE,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+130,0022300151,174,8,0,2,8:13 PM,7:48,,,SUB: Leonard FOR Hyland,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+131,0022300151,175,8,0,2,8:13 PM,7:48,,,SUB: George FOR Harden,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+132,0022300151,178,2,80,2,8:13 PM,7:44,,,MISS George 22' Step Back Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+133,0022300151,179,4,0,2,8:13 PM,7:42,Barrett REBOUND (Off:0 Def:2),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+134,0022300151,180,5,1,2,8:14 PM,7:31,Barrett Bad Pass Turnover (P2.T5),,Tucker STEAL (1 STL),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+135,0022300151,182,6,2,2,8:14 PM,7:27,Hart S.FOUL (P1.T2) (J.DeRosa),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+136,0022300151,184,3,11,2,8:14 PM,7:27,,,Tucker Free Throw 1 of 2 (1 PTS),29 - 28,-1,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+137,0022300151,185,3,12,2,8:14 PM,7:27,,,Tucker Free Throw 2 of 2 (2 PTS),30 - 28,-2,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+138,0022300151,186,8,0,2,8:14 PM,7:27,SUB: Brunson FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+139,0022300151,187,8,0,2,8:14 PM,7:27,SUB: Robinson FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+140,0022300151,188,8,0,2,8:14 PM,7:27,SUB: Randle FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+141,0022300151,192,5,40,2,8:15 PM,7:15,Randle Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+142,0022300151,193,2,1,2,8:15 PM,6:59,,,MISS Tucker 24' 3PT Jump Shot,,,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+143,0022300151,194,4,0,2,8:15 PM,6:57,Randle REBOUND (Off:0 Def:5),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+144,0022300151,195,1,80,2,8:16 PM,6:36,Hart 14' Step Back Jump Shot (2 PTS) (Quickley 2 AST),,,30 - 30,TIE,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+145,0022300151,197,5,45,2,8:16 PM,6:19,,,George Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+146,0022300151,198,9,1,2,8:16 PM,6:19,KNICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+147,0022300151,199,8,0,2,8:16 PM,6:19,,,SUB: Westbrook FOR Tucker,,,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+148,0022300151,201,5,40,2,8:19 PM,5:55,Hart Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+149,0022300151,202,5,2,2,8:20 PM,5:40,Brunson STEAL (2 STL),,Zubac Lost Ball Turnover (P3.T8),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+150,0022300151,204,1,41,2,8:20 PM,5:37,Hart Running Layup (4 PTS) (Brunson 1 AST),,,30 - 32,2,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+151,0022300151,206,6,2,2,8:20 PM,5:37,,,Zubac S.FOUL (P1.T1) (R.Hussey),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+152,0022300151,208,3,10,2,8:20 PM,5:37,Hart Free Throw 1 of 1 (5 PTS),,,30 - 33,3,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+153,0022300151,209,1,79,2,8:21 PM,5:25,,,Westbrook 11' Pullup Jump Shot (11 PTS),32 - 33,1,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+154,0022300151,210,2,79,2,8:21 PM,5:06,MISS Brunson 27' 3PT Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+155,0022300151,211,4,0,2,8:21 PM,5:04,,,George REBOUND (Off:0 Def:5),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+156,0022300151,212,5,1,2,8:21 PM,4:49,Robinson STEAL (2 STL),,Westbrook Bad Pass Turnover (P1.T9),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+157,0022300151,214,1,2,2,8:21 PM,4:45,Randle 26' 3PT Running Jump Shot (9 PTS) (Hart 3 AST),,,32 - 36,4,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+158,0022300151,216,2,1,2,8:22 PM,4:23,,,MISS Leonard 25' 3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+159,0022300151,217,4,0,2,8:22 PM,4:21,Hart REBOUND (Off:0 Def:2),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+160,0022300151,218,2,2,2,8:22 PM,4:15,MISS Randle 25' 3PT Running Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+161,0022300151,219,4,0,2,8:22 PM,4:12,,,Westbrook REBOUND (Off:0 Def:1),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+162,0022300151,220,1,1,2,8:22 PM,4:00,,,Powell 3PT Jump Shot (3 PTS) (Leonard 1 AST),35 - 36,1,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+163,0022300151,224,2,101,2,8:22 PM,3:42,MISS Brunson 2' Driving Floating Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+164,0022300151,225,4,0,2,8:22 PM,3:41,,,George REBOUND (Off:0 Def:6),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+165,0022300151,226,2,6,2,8:22 PM,3:32,,,MISS George 1' Driving Layup,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+166,0022300151,227,4,0,2,8:23 PM,3:30,Hart REBOUND (Off:0 Def:3),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+167,0022300151,228,2,2,2,8:23 PM,3:27,MISS Quickley 24' 3PT Running Jump Shot,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+168,0022300151,229,4,0,2,8:23 PM,3:26,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+169,0022300151,230,6,3,2,8:23 PM,3:26,,,Powell L.B.FOUL (P1.T2) (J.DeRosa),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+170,0022300151,232,8,0,2,8:23 PM,3:26,SUB: Grimes FOR Quickley,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+171,0022300151,233,8,0,2,8:23 PM,3:26,,,SUB: Plumlee FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+172,0022300151,236,5,45,2,8:23 PM,3:20,Brunson Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+173,0022300151,237,2,1,2,8:24 PM,3:06,,,MISS Powell 3PT Jump Shot,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+174,0022300151,238,4,0,2,8:24 PM,3:04,,,Leonard REBOUND (Off:1 Def:2),,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+175,0022300151,239,1,1,2,8:24 PM,3:01,,,Powell 3PT Jump Shot (6 PTS) (Leonard 2 AST),38 - 36,-2,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+176,0022300151,241,2,80,2,8:24 PM,2:33,MISS Hart 15' Step Back Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+177,0022300151,242,4,0,2,8:24 PM,2:32,Randle REBOUND (Off:1 Def:5),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+178,0022300151,243,6,2,2,8:24 PM,2:32,,,Leonard S.FOUL (P2.T3) (R.Hussey),,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+179,0022300151,245,9,1,2,8:25 PM,2:32,,,Clippers Timeout: Regular (Reg.1 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+180,0022300151,246,8,0,2,8:25 PM,2:32,SUB: Barrett FOR Hart,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+181,0022300151,247,8,0,2,8:25 PM,2:32,,,SUB: Harden FOR Powell,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+182,0022300151,250,3,11,2,8:28 PM,2:32,Randle Free Throw 1 of 2 (10 PTS),,,38 - 37,-1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+183,0022300151,251,3,12,2,8:28 PM,2:32,Randle Free Throw 2 of 2 (11 PTS),,,38 - 38,TIE,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+184,0022300151,253,1,3,2,8:29 PM,2:12,,,Plumlee 4' Hook Shot (2 PTS) (Westbrook 2 AST),40 - 38,-2,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+185,0022300151,255,5,1,2,8:29 PM,1:51,Brunson Bad Pass Turnover (P3.T9),,Plumlee STEAL (1 STL),,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+186,0022300151,257,6,31,2,8:29 PM,1:48,Randle Transition Take Foul (P1.T3) (R.Hussey),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+187,0022300151,259,8,0,2,8:29 PM,1:48,,,SUB: Powell FOR Leonard,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+188,0022300151,268,3,10,2,8:30 PM,1:48,,,George Free Throw 1 of 1 (3 PTS),41 - 38,-3,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+189,0022300151,261,5,1,2,8:30 PM,1:37,Robinson STEAL (3 STL),,George Bad Pass Turnover (P3.T10),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+190,0022300151,263,1,103,2,8:30 PM,1:29,Randle 10' Running Pull-Up Jump Shot (13 PTS),,,41 - 40,-1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+191,0022300151,264,1,80,2,8:31 PM,1:10,,,Harden 21' Step Back Jump Shot (9 PTS),43 - 40,-3,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+192,0022300151,265,2,101,2,8:31 PM,1:01,MISS Brunson 5' Driving Floating Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+193,0022300151,266,4,0,2,8:31 PM,1:01,Robinson REBOUND (Off:3 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+194,0022300151,267,1,107,2,8:31 PM,0:57,Robinson Tip Dunk Shot (2 PTS),,,43 - 42,-1,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+195,0022300151,269,1,1,2,8:31 PM,0:44,,,Powell 25' 3PT Jump Shot (9 PTS) (Harden 3 AST),46 - 42,-4,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+196,0022300151,271,6,26,2,8:31 PM,0:29,Randle Offensive Charge Foul (P2) (R.Hussey),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+197,0022300151,273,5,37,2,8:31 PM,0:29,Randle Offensive Foul Turnover (P2.T10),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+198,0022300151,274,8,0,2,8:31 PM,0:29,,,SUB: Hyland FOR Plumlee,,,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+199,0022300151,277,2,79,2,8:32 PM,0:10,,,MISS George 26' 3PT Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+200,0022300151,278,4,0,2,8:32 PM,0:07,Brunson REBOUND (Off:0 Def:1),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+201,0022300151,280,8,0,2,8:32 PM,0:02,,,SUB: Tucker FOR Hyland,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+202,0022300151,282,5,1,2,8:33 PM,0:00,Barrett Bad Pass Turnover (P3.T11),,Harden STEAL (1 STL),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+203,0022300151,284,13,0,2,8:33 PM,0:00,,End of 2nd Period (8:33 PM EST),,46 - 42,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+204,0022300151,290,12,0,3,8:48 PM,12:00,,Start of 3rd Period (8:48 PM EST),,46 - 42,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+205,0022300151,291,1,9,3,8:48 PM,11:49,,,Leonard 1' Driving Dunk (6 PTS) (Harden 4 AST),48 - 42,-6,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+206,0022300151,293,2,79,3,8:49 PM,11:26,MISS Barrett 8' Pullup Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+207,0022300151,294,4,0,3,8:49 PM,11:24,Barrett REBOUND (Off:1 Def:2),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+208,0022300151,295,1,1,3,8:49 PM,11:21,Grimes 3PT Jump Shot (3 PTS) (Barrett 2 AST),,,48 - 45,-3,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+209,0022300151,297,2,47,3,8:49 PM,11:01,,,MISS Leonard 11' Turnaround Jump Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+210,0022300151,298,4,0,3,8:49 PM,10:59,Barrett REBOUND (Off:1 Def:3),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+211,0022300151,299,5,2,3,8:49 PM,10:52,Barrett Lost Ball Turnover (P4.T12),,George STEAL (1 STL),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+212,0022300151,301,2,57,3,8:49 PM,10:41,,,MISS Leonard 5' Driving Hook Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+213,0022300151,302,4,0,3,8:49 PM,10:39,,,Zubac REBOUND (Off:2 Def:2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+214,0022300151,303,1,3,3,8:49 PM,10:37,,,Zubac 2' Hook Shot (5 PTS),50 - 45,-5,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+215,0022300151,304,1,86,3,8:50 PM,10:10,Randle 17' Turnaround Fadeaway (15 PTS),,,50 - 47,-3,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+216,0022300151,305,6,2,3,8:50 PM,10:03,Grimes S.FOUL (P1.T1) (R.Hussey),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+217,0022300151,307,3,11,3,8:51 PM,10:03,,,George Free Throw 1 of 2 (4 PTS),51 - 47,-4,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+218,0022300151,308,3,12,3,8:51 PM,10:03,,,George Free Throw 2 of 2 (5 PTS),52 - 47,-5,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+219,0022300151,309,6,1,3,8:51 PM,9:51,,,George P.FOUL (P2.T1) (J.DeRosa),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+220,0022300151,311,6,2,3,8:52 PM,9:40,,,Harden S.FOUL (P2.T2) (M.Ervin),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+221,0022300151,313,3,11,3,8:52 PM,9:40,Brunson Free Throw 1 of 2 (6 PTS),,,52 - 48,-4,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+222,0022300151,314,3,12,3,8:52 PM,9:40,Brunson Free Throw 2 of 2 (7 PTS),,,52 - 49,-3,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+223,0022300151,315,5,45,3,8:53 PM,9:31,,,Harden Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+224,0022300151,316,2,6,3,8:53 PM,9:18,MISS Brunson 3' Driving Layup,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+225,0022300151,317,4,0,3,8:53 PM,9:16,Robinson REBOUND (Off:4 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+226,0022300151,336,2,97,3,8:53 PM,9:16,MISS Robinson 1' Tip Layup Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+227,0022300151,318,2,97,3,8:53 PM,9:15,MISS Robinson Tip Layup Shot,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+228,0022300151,337,4,0,3,8:53 PM,9:15,Robinson REBOUND (Off:5 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+229,0022300151,319,4,0,3,8:53 PM,9:14,Robinson REBOUND (Off:6 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+230,0022300151,320,1,107,3,8:53 PM,9:14,Robinson Tip Dunk Shot (4 PTS),,,52 - 51,-1,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+231,0022300151,321,5,40,3,8:53 PM,9:05,,,Westbrook Out of Bounds Lost Ball Turnover (P2.T12),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+232,0022300151,322,1,1,3,8:53 PM,8:56,Barrett 3PT Jump Shot (11 PTS) (Randle 1 AST),,,52 - 54,2,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+233,0022300151,324,2,1,3,8:54 PM,8:38,,,MISS Leonard 5' Jump Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+234,0022300151,325,4,0,3,8:54 PM,8:36,,,Zubac REBOUND (Off:3 Def:2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+235,0022300151,326,1,97,3,8:54 PM,8:36,,,Zubac Tip Layup Shot (7 PTS),54 - 54,TIE,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+236,0022300151,327,1,101,3,8:54 PM,8:17,Barrett 2' Driving Floating Jump Shot (13 PTS) (Randle 2 AST),,,54 - 56,2,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+237,0022300151,329,1,1,3,8:54 PM,8:05,,,Leonard 24' 3PT Jump Shot (9 PTS) (George 2 AST),57 - 56,-1,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+238,0022300151,331,2,5,3,8:55 PM,7:44,MISS Randle 2' Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+239,0022300151,332,4,0,3,8:55 PM,7:42,,,Westbrook REBOUND (Off:0 Def:2),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+240,0022300151,333,1,41,3,8:55 PM,7:38,,,Leonard Running Layup (11 PTS) (Harden 5 AST),59 - 56,-3,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+241,0022300151,335,9,1,3,8:55 PM,7:32,KNICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+242,0022300151,338,2,79,3,8:58 PM,7:25,MISS Barrett 19' Pullup Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+243,0022300151,339,4,0,3,8:58 PM,7:23,Robinson REBOUND (Off:7 Def:1),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+244,0022300151,340,5,2,3,8:58 PM,7:13,Randle Lost Ball Turnover (P3.T13),,George STEAL (2 STL),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+245,0022300151,342,2,2,3,8:58 PM,7:07,,,MISS Westbrook 25' 3PT Running Jump Shot,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+246,0022300151,343,4,0,3,8:58 PM,7:05,Randle REBOUND (Off:1 Def:6),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+247,0022300151,344,1,6,3,8:59 PM,6:48,Barrett 3' Driving Layup (15 PTS) (Brunson 2 AST),,,59 - 58,-1,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+248,0022300151,346,1,85,3,8:59 PM,6:28,,,Leonard 7' Turnaround Bank Shot (13 PTS),61 - 58,-3,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+249,0022300151,347,5,2,3,8:59 PM,6:10,Barrett Lost Ball Turnover (P5.T14),,Zubac STEAL (1 STL),,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+250,0022300151,349,2,41,3,8:59 PM,6:06,,,MISS Westbrook 2' Running Layup,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+251,0022300151,350,4,0,3,8:59 PM,6:04,,,Leonard REBOUND (Off:2 Def:2),,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+252,0022300151,351,2,107,3,8:59 PM,6:04,,,MISS Leonard Tip Dunk Shot,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+253,0022300151,352,4,0,3,8:59 PM,6:02,Barrett REBOUND (Off:1 Def:4),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+254,0022300151,353,1,41,3,8:59 PM,5:56,Randle 2' Running Layup (17 PTS) (Barrett 3 AST),,,61 - 60,-1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+255,0022300151,355,2,80,3,9:00 PM,5:38,,,MISS Harden 24' 3PT Step Back Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+256,0022300151,356,4,0,3,9:00 PM,5:36,Robinson REBOUND (Off:7 Def:2),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+257,0022300151,357,1,52,3,9:00 PM,5:27,Robinson Alley Oop Dunk (6 PTS) (Randle 3 AST),,,61 - 62,1,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+258,0022300151,359,9,1,3,9:00 PM,5:27,,,Clippers Timeout: Regular (Reg.2 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+259,0022300151,360,8,0,3,9:00 PM,5:27,SUB: Hart FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+260,0022300151,361,8,0,3,9:00 PM,5:27,,,SUB: Plumlee FOR Harden,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+261,0022300151,362,8,0,3,9:00 PM,5:27,,,SUB: Hyland FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+262,0022300151,366,1,1,3,9:03 PM,5:11,,,George 25' 3PT Jump Shot (8 PTS) (Westbrook 3 AST),64 - 62,-2,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+263,0022300151,368,2,1,3,9:04 PM,4:49,MISS Grimes 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+264,0022300151,369,4,0,3,9:04 PM,4:47,,,Leonard REBOUND (Off:2 Def:3),,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+265,0022300151,370,2,41,3,9:04 PM,4:43,,,MISS Hyland 1' Running Layup,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+266,0022300151,371,4,0,3,9:04 PM,4:41,Randle REBOUND (Off:1 Def:7),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+267,0022300151,372,2,79,3,9:04 PM,4:27,MISS Randle 25' 3PT Pullup Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+268,0022300151,373,4,0,3,9:04 PM,4:25,,,Westbrook REBOUND (Off:0 Def:3),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+269,0022300151,374,1,50,3,9:04 PM,4:20,,,Leonard 1' Running Dunk (15 PTS) (Westbrook 4 AST),66 - 62,-4,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+270,0022300151,376,1,5,3,9:04 PM,4:12,Robinson 1' Layup (8 PTS) (Hart 4 AST),,,66 - 64,-2,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+271,0022300151,378,9,1,3,9:04 PM,4:10,,,Clippers Timeout: Regular (Reg.3 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+272,0022300151,379,8,0,3,9:04 PM,4:10,SUB: Quickley FOR Grimes,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+273,0022300151,380,8,0,3,9:04 PM,4:10,,,SUB: Zubac FOR Plumlee,,,5,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+274,0022300151,385,5,15,3,9:06 PM,3:53,,,Zubac Offensive Goaltending Turnover (P4.T13),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+275,0022300151,386,5,1,3,9:07 PM,3:42,Hart Bad Pass Turnover (P2.T15),,George STEAL (3 STL),,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+276,0022300151,388,5,1,3,9:07 PM,3:37,Hart STEAL (1 STL),,George Bad Pass Turnover (P4.T14),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+277,0022300151,390,2,1,3,9:07 PM,3:29,MISS Brunson 26' 3PT Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+278,0022300151,391,4,0,3,9:07 PM,3:27,Brunson REBOUND (Off:1 Def:1),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+279,0022300151,392,2,101,3,9:07 PM,3:25,MISS Brunson 7' Driving Floating Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+280,0022300151,393,4,0,3,9:07 PM,3:24,Robinson REBOUND (Off:8 Def:2),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+281,0022300151,394,1,72,3,9:07 PM,3:23,Robinson 1' Putback Layup (10 PTS),,,66 - 66,TIE,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+282,0022300151,395,6,2,3,9:07 PM,3:23,,,Zubac S.FOUL (P2.T3) (J.DeRosa),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+283,0022300151,397,3,10,3,9:08 PM,3:23,Robinson Free Throw 1 of 1 (11 PTS),,,66 - 67,1,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+284,0022300151,398,2,1,3,9:08 PM,3:09,,,MISS George 25' 3PT Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+285,0022300151,399,4,0,3,9:08 PM,3:07,Randle REBOUND (Off:1 Def:8),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+286,0022300151,400,1,2,3,9:08 PM,3:01,Randle 26' 3PT Running Jump Shot (20 PTS) (Hart 5 AST),,,66 - 70,4,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+287,0022300151,402,1,63,3,9:08 PM,2:46,,,Westbrook 11' Fadeaway Jumper (13 PTS),68 - 70,2,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+288,0022300151,403,1,6,3,9:08 PM,2:33,Randle 2' Driving Layup (22 PTS),,,68 - 72,4,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+289,0022300151,404,1,1,3,9:09 PM,2:19,,,Hyland 12' Jump Shot (5 PTS) (Leonard 3 AST),70 - 72,2,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+290,0022300151,406,2,80,3,9:09 PM,1:55,MISS Randle 17' Step Back Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+291,0022300151,407,4,0,3,9:09 PM,1:53,,,George REBOUND (Off:0 Def:7),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+292,0022300151,408,6,26,3,9:09 PM,1:49,,,Westbrook Offensive Charge Foul (P1) (M.Ervin),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+293,0022300151,412,5,37,3,9:09 PM,1:49,,,Westbrook Offensive Foul Turnover (P3.T15),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+294,0022300151,413,8,0,3,9:10 PM,1:49,SUB: DiVincenzo FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+295,0022300151,414,8,0,3,9:10 PM,1:49,SUB: Hartenstein FOR Robinson,,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+296,0022300151,415,8,0,3,9:10 PM,1:49,,,SUB: Tucker FOR Westbrook,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+297,0022300151,416,8,0,3,9:10 PM,1:49,,,SUB: Powell FOR Leonard,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+298,0022300151,410,9,7,3,9:10 PM,1:49,KNICKS Timeout: Coach Challenge (Full 4 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+299,0022300151,411,18,5,3,9:10 PM,1:49,,Instant Replay3rd Period (9:10 PM EST),,70 - 72,2,0,408,,,,,,0,0,,,,,,1,0,,,,,,1
+300,0022300151,421,6,1,3,9:13 PM,1:49,,,Hyland P.FOUL (P1.T4) (M.Ervin),,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+301,0022300151,423,2,6,3,9:13 PM,1:35,MISS Randle 1' Driving Layup,,Zubac BLOCK (1 BLK),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+302,0022300151,425,4,0,3,9:13 PM,1:34,DiVincenzo REBOUND (Off:1 Def:3),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+303,0022300151,426,6,1,3,9:13 PM,1:33,,,Hyland P.FOUL (P2.PN) (R.Hussey),,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+304,0022300151,428,3,11,3,9:13 PM,1:33,MISS DiVincenzo Free Throw 1 of 2,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+305,0022300151,429,4,1,3,9:13 PM,1:33,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+306,0022300151,430,3,12,3,9:14 PM,1:33,DiVincenzo Free Throw 2 of 2 (4 PTS),,,70 - 73,3,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+307,0022300151,431,2,78,3,9:14 PM,1:20,,,MISS Hyland 11' Floating Jump Shot,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+308,0022300151,432,4,0,3,9:14 PM,1:19,,,Zubac REBOUND (Off:4 Def:2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+309,0022300151,433,6,2,3,9:14 PM,1:18,Hartenstein S.FOUL (P2.T2) (R.Hussey),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+310,0022300151,435,3,11,3,9:15 PM,1:18,,,MISS Zubac Free Throw 1 of 2,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+311,0022300151,436,4,1,3,9:15 PM,1:18,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+312,0022300151,437,8,0,3,9:15 PM,1:18,,,SUB: Harden FOR George,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+313,0022300151,439,3,12,3,9:15 PM,1:18,,,Zubac Free Throw 2 of 2 (8 PTS),71 - 73,2,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+314,0022300151,440,2,6,3,9:15 PM,1:07,MISS Randle 3' Driving Layup,,Zubac BLOCK (2 BLK),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+315,0022300151,442,4,0,3,9:15 PM,1:05,Randle REBOUND (Off:2 Def:8),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+316,0022300151,443,2,5,3,9:15 PM,1:02,MISS Randle 3' Layup,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+317,0022300151,445,4,0,3,9:15 PM,1:00,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+318,0022300151,447,5,45,3,9:16 PM,0:55,Randle Out of Bounds - Bad Pass Turnover Turnover (P4.T16),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+319,0022300151,448,1,101,3,9:16 PM,0:40,,,Harden 10' Driving Floating Jump Shot (11 PTS),73 - 73,TIE,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+320,0022300151,449,2,1,3,9:17 PM,0:32,MISS Hart 28' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+321,0022300151,450,4,0,3,9:17 PM,0:30,,,Zubac REBOUND (Off:4 Def:3),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+322,0022300151,451,1,1,3,9:17 PM,0:11,,,Harden 27' 3PT Jump Shot (14 PTS),76 - 73,-3,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+323,0022300151,453,1,79,3,9:17 PM,0:03,Quickley 25' 3PT Pullup Jump Shot (7 PTS),,,76 - 76,TIE,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+324,0022300151,456,13,0,3,9:18 PM,0:00,,End of 3rd Period (9:18 PM EST),,76 - 76,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+325,0022300151,461,12,0,4,9:20 PM,12:00,,Start of 4th Period (9:20 PM EST),,76 - 76,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+326,0022300151,462,1,1,4,9:21 PM,11:40,Hart 3PT Jump Shot (8 PTS) (DiVincenzo 1 AST),,,76 - 79,3,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+327,0022300151,465,2,80,4,9:21 PM,11:15,,,MISS Hyland 26' 3PT Step Back Jump Shot,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+328,0022300151,466,4,0,4,9:21 PM,11:13,,,Tucker REBOUND (Off:1 Def:0),,,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+329,0022300151,467,6,1,4,9:22 PM,11:11,Hart P.FOUL (P2.T1) (J.DeRosa),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+330,0022300151,469,5,39,4,9:22 PM,11:08,,,Hyland Step Out of Bounds Turnover (P2.T16),,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+331,0022300151,470,1,5,4,9:22 PM,10:55,Hartenstein 2' Layup (4 PTS) (Barrett 4 AST),,,76 - 81,5,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+332,0022300151,472,5,1,4,9:23 PM,10:39,Hart STEAL (2 STL),,Powell Bad Pass Turnover (P2.T17),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+333,0022300151,474,1,50,4,9:23 PM,10:36,Barrett 1' Running Dunk (17 PTS) (Hart 6 AST),,,76 - 83,7,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+334,0022300151,476,9,1,4,9:23 PM,10:36,,,Clippers Timeout: Regular (Reg.4 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+335,0022300151,477,6,2,4,9:26 PM,10:17,DiVincenzo S.FOUL (P1.T2) (J.DeRosa),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+336,0022300151,479,9,1,4,9:26 PM,10:17,KNICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+337,0022300151,481,8,0,4,9:26 PM,10:17,,,SUB: Leonard FOR Diabate,,,5,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+338,0022300151,480,18,6,4,9:26 PM,10:17,,Instant Replay4th Period (9:26 PM EST),,76 - 83,7,0,477,,,,,,0,0,,,,,,1,0,,,,,,1
+339,0022300151,483,3,13,4,9:30 PM,10:17,,,Harden Free Throw 1 of 3 (15 PTS),77 - 83,6,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+340,0022300151,484,3,14,4,9:30 PM,10:17,,,Harden Free Throw 2 of 3 (16 PTS),78 - 83,5,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+341,0022300151,485,3,15,4,9:30 PM,10:17,,,Harden Free Throw 3 of 3 (17 PTS),79 - 83,4,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+342,0022300151,486,1,52,4,9:30 PM,10:08,Hartenstein Alley Oop Dunk (6 PTS) (Quickley 3 AST),,,79 - 85,6,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+343,0022300151,488,5,1,4,9:31 PM,9:44,Hartenstein STEAL (2 STL),,Hyland Bad Pass Turnover (P3.T18),,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+344,0022300151,490,6,2,4,9:31 PM,9:38,,,Tucker S.FOUL (P1.T1) (J.DeRosa),,,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+345,0022300151,492,3,11,4,9:31 PM,9:38,Barrett Free Throw 1 of 2 (18 PTS),,,79 - 86,7,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+346,0022300151,493,8,0,4,9:31 PM,9:38,,,SUB: Zubac FOR Hyland,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+347,0022300151,494,8,0,4,9:31 PM,9:38,,,SUB: Westbrook FOR Tucker,,,5,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+348,0022300151,495,8,0,4,9:31 PM,9:38,,,SUB: George FOR Powell,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+349,0022300151,499,3,12,4,9:32 PM,9:38,Barrett Free Throw 2 of 2 (19 PTS),,,79 - 87,8,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+350,0022300151,500,5,1,4,9:32 PM,9:29,DiVincenzo STEAL (1 STL),,Westbrook Bad Pass Turnover (P4.T19),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+351,0022300151,502,1,41,4,9:32 PM,9:26,DiVincenzo 1' Running Layup (6 PTS),,,79 - 89,10,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+352,0022300151,503,1,6,4,9:32 PM,9:05,,,Westbrook 1' Driving Layup (15 PTS) (George 3 AST),81 - 89,8,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+353,0022300151,505,2,1,4,9:33 PM,8:47,MISS Quickley 3PT Jump Shot,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+354,0022300151,506,4,0,4,9:33 PM,8:45,DiVincenzo REBOUND (Off:2 Def:3),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+355,0022300151,507,1,1,4,9:33 PM,8:42,DiVincenzo 3PT Jump Shot (9 PTS) (Quickley 4 AST),,,81 - 92,11,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+356,0022300151,509,9,1,4,9:33 PM,8:41,,,Clippers Timeout: Regular (Reg.5 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+357,0022300151,510,2,1,4,9:35 PM,8:27,,,MISS Harden 25' 3PT Jump Shot,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+358,0022300151,511,4,0,4,9:35 PM,8:25,DiVincenzo REBOUND (Off:2 Def:4),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+359,0022300151,512,1,102,4,9:35 PM,8:03,Barrett 6' Driving Floating Bank Jump Shot (21 PTS) (Hartenstein 2 AST),,,81 - 94,13,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+360,0022300151,514,6,2,4,9:35 PM,7:39,Barrett S.FOUL (P1.T3) (M.Ervin),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+361,0022300151,516,3,11,4,9:36 PM,7:39,,,George Free Throw 1 of 2 (9 PTS),82 - 94,12,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+362,0022300151,517,8,0,4,9:36 PM,7:39,SUB: Randle FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+363,0022300151,518,8,0,4,9:36 PM,7:39,SUB: Robinson FOR Barrett,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+364,0022300151,521,3,12,4,9:36 PM,7:39,,,George Free Throw 2 of 2 (10 PTS),83 - 94,11,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+365,0022300151,522,1,1,4,9:37 PM,7:21,DiVincenzo 3PT Jump Shot (12 PTS) (Quickley 5 AST),,,83 - 97,14,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+366,0022300151,524,2,6,4,9:37 PM,7:08,,,MISS Westbrook 2' Driving Layup,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+367,0022300151,525,4,0,4,9:37 PM,7:06,Robinson REBOUND (Off:8 Def:3),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+368,0022300151,526,6,2,4,9:37 PM,7:01,,,Zubac S.FOUL (P3.T2) (J.DeRosa),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+369,0022300151,528,3,11,4,9:38 PM,7:01,Randle Free Throw 1 of 2 (23 PTS),,,83 - 98,15,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+370,0022300151,529,3,12,4,9:38 PM,7:01,Randle Free Throw 2 of 2 (24 PTS),,,83 - 99,16,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+371,0022300151,530,5,45,4,9:38 PM,6:55,,,Zubac Out of Bounds - Bad Pass Turnover Turnover (P5.T20),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+372,0022300151,531,8,0,4,9:38 PM,6:55,SUB: Brunson FOR Quickley,,,,,4,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+373,0022300151,533,2,1,4,9:39 PM,6:41,MISS Hart 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+374,0022300151,534,4,0,4,9:39 PM,6:39,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+375,0022300151,536,1,86,4,9:39 PM,6:26,,,Westbrook 6' Turnaround Fadeaway (17 PTS),85 - 99,14,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+376,0022300151,538,5,40,4,9:40 PM,6:09,Randle Out of Bounds Lost Ball Turnover (P5.T17),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+377,0022300151,539,1,1,4,9:40 PM,5:59,,,Leonard 24' 3PT Jump Shot (18 PTS) (Harden 6 AST),88 - 99,11,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+378,0022300151,541,6,1,4,9:40 PM,5:35,,,Westbrook P.FOUL (P2.T3) (J.DeRosa),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+379,0022300151,543,2,1,4,9:41 PM,5:28,MISS DiVincenzo 25' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+380,0022300151,544,4,0,4,9:41 PM,5:26,,,Westbrook REBOUND (Off:0 Def:4),,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+381,0022300151,545,2,79,4,9:41 PM,5:11,,,MISS George 12' Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+382,0022300151,546,4,0,4,9:41 PM,5:09,Robinson REBOUND (Off:8 Def:4),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+383,0022300151,547,1,2,4,9:41 PM,5:04,Randle 25' 3PT Running Jump Shot (27 PTS) (Brunson 3 AST),,,88 - 102,14,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+384,0022300151,549,2,1,4,9:41 PM,4:48,,,MISS George 16' Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+385,0022300151,550,4,0,4,9:41 PM,4:46,Robinson REBOUND (Off:8 Def:5),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+386,0022300151,551,6,26,4,9:42 PM,4:40,Randle Offensive Charge Foul (P3) (M.Ervin),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+387,0022300151,553,5,37,4,9:42 PM,4:40,Randle Offensive Foul Turnover (P6.T18),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+388,0022300151,554,8,0,4,9:42 PM,4:40,SUB: Barrett FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+389,0022300151,556,5,1,4,9:42 PM,4:30,Robinson STEAL (4 STL),,Harden Bad Pass Turnover (P2.T21),,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+390,0022300151,558,1,41,4,9:42 PM,4:25,Hart 1' Running Layup (10 PTS) (Brunson 4 AST),,,88 - 104,16,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+391,0022300151,560,9,1,4,9:42 PM,4:25,,,Clippers Timeout: Regular (Reg.6 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+392,0022300151,561,8,0,4,9:42 PM,4:25,,,SUB: Coffey FOR Harden,,,5,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+393,0022300151,562,8,0,4,9:42 PM,4:25,,,SUB: Hyland FOR Leonard,,,5,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+394,0022300151,563,8,0,4,9:42 PM,4:25,,,SUB: Powell FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+395,0022300151,564,8,0,4,9:42 PM,4:25,,,SUB: Diabate FOR Westbrook,,,5,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+396,0022300151,565,8,0,4,9:42 PM,4:25,,,SUB: Brown FOR George,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+397,0022300151,571,6,2,4,9:44 PM,4:09,Robinson S.FOUL (P2.T4) (J.DeRosa),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+398,0022300151,573,3,11,4,9:45 PM,4:09,,,Diabate Free Throw 1 of 2 (1 PTS),89 - 104,15,5,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+399,0022300151,574,3,12,4,9:45 PM,4:09,,,Diabate Free Throw 2 of 2 (2 PTS),90 - 104,14,5,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+400,0022300151,575,1,7,4,9:45 PM,3:48,Robinson 1' Dunk (13 PTS) (Brunson 5 AST),,,90 - 106,16,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+401,0022300151,577,1,7,4,9:45 PM,3:41,,,Diabate 1' Dunk (4 PTS) (Hyland 2 AST),92 - 106,14,5,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+402,0022300151,579,2,78,4,9:46 PM,3:19,MISS Brunson 14' Floating Jump Shot,,Powell BLOCK (1 BLK),,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1
+403,0022300151,581,4,0,4,9:46 PM,3:17,,,Powell REBOUND (Off:0 Def:1),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+404,0022300151,583,5,1,4,9:46 PM,3:13,Brunson STEAL (3 STL),,Powell Bad Pass Turnover (P3.T22),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+405,0022300151,585,1,50,4,9:46 PM,3:09,Barrett 1' Running Dunk (23 PTS) (Hart 7 AST),,,92 - 108,16,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+406,0022300151,587,2,1,4,9:46 PM,2:58,,,MISS Hyland 21' Jump Shot,,,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+407,0022300151,588,4,0,4,9:46 PM,2:56,Robinson REBOUND (Off:8 Def:6),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+408,0022300151,589,5,21,4,9:46 PM,2:50,Brunson Palming Turnover (P4.T19),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+409,0022300151,590,1,6,4,9:47 PM,2:32,,,Powell 1' Driving Layup (11 PTS) (Hyland 3 AST),94 - 108,14,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+410,0022300151,592,1,1,4,9:47 PM,2:07,Barrett 3PT Jump Shot (26 PTS) (Brunson 6 AST),,,94 - 111,17,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+411,0022300151,594,1,1,4,9:47 PM,1:47,,,Powell 3PT Jump Shot (14 PTS) (Hyland 4 AST),97 - 111,14,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+412,0022300151,597,2,80,4,9:49 PM,1:25,MISS Barrett 20' Step Back Jump Shot,,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+413,0022300151,598,4,0,4,9:49 PM,1:23,Brunson REBOUND (Off:2 Def:1),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+414,0022300151,599,2,1,4,9:49 PM,1:14,MISS Randle 23' Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+415,0022300151,600,4,0,4,9:49 PM,1:13,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,1
+416,0022300151,602,2,1,4,9:50 PM,0:55,,,MISS Brown 24' 3PT Jump Shot,,,5,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+417,0022300151,603,4,0,4,9:50 PM,0:53,Barrett REBOUND (Off:1 Def:5),,,,,4,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+418,0022300151,604,2,1,4,9:50 PM,0:33,MISS Randle 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+419,0022300151,605,4,0,4,9:50 PM,0:31,Robinson REBOUND (Off:9 Def:6),,,,,4,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+420,0022300151,606,5,11,4,9:50 PM,0:16,KNICKS Turnover: Shot Clock (T#20),,,,,2,1610612752,,,,,,0,0,,,,,,1,0,,,,,,1
+421,0022300151,607,13,0,4,9:51 PM,0:00,,End of 4th Period (9:51 PM EST),,97 - 111,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

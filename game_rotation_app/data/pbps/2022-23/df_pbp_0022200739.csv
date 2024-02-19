@@ -1,0 +1,435 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0022200739,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022200739,4,10,0,1,8:11 PM,12:00,Jump Ball Jay. Williams vs. Allen: Tip to Mobley,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+2,0022200739,7,2,79,1,8:11 PM,11:35,,,MISS Garland 26' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+3,0022200739,8,4,0,1,8:11 PM,11:32,,,Allen REBOUND (Off:1 Def:0),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+4,0022200739,9,2,6,1,8:11 PM,11:22,,,MISS Garland 2' Driving Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+5,0022200739,10,4,0,1,8:11 PM,11:20,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+6,0022200739,12,2,52,1,8:12 PM,11:07,MISS Jal. Williams Alley Oop Dunk,,Mobley BLOCK (1 BLK),,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+7,0022200739,14,4,0,1,8:12 PM,11:04,,,Mobley REBOUND (Off:0 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+8,0022200739,15,1,79,1,8:12 PM,10:56,,,Mobley 17' Pullup Jump Shot (2 PTS) (Okoro 1 AST),2 - 0,-2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+9,0022200739,18,2,6,1,8:13 PM,10:32,MISS Gilgeous-Alexander 4' Driving Layup,,Okoro BLOCK (1 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1
+10,0022200739,20,4,0,1,8:13 PM,10:29,Gilgeous-Alexander REBOUND (Off:1 Def:0),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+11,0022200739,21,1,72,1,8:13 PM,10:28,Gilgeous-Alexander 1' Putback Layup (2 PTS),,,2 - 2,TIE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+12,0022200739,22,1,5,1,8:13 PM,10:17,,,Allen 1' Layup (2 PTS) (Garland 1 AST),4 - 2,-2,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+13,0022200739,24,1,98,1,8:13 PM,10:04,Wiggins 1' Cutting Layup Shot (2 PTS) (Giddey 1 AST),,,4 - 4,TIE,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+14,0022200739,26,2,102,1,8:13 PM,9:50,,,MISS LeVert 7' Driving Floating Bank Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+15,0022200739,27,4,0,1,8:13 PM,9:48,Jay. Williams REBOUND (Off:0 Def:1),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+16,0022200739,28,5,1,1,8:14 PM,9:36,Giddey Bad Pass Turnover (P1.T1),,Garland STEAL (1 STL),,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+17,0022200739,30,2,47,1,8:14 PM,9:22,,,MISS Mobley 11' Turnaround Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+18,0022200739,31,4,0,1,8:14 PM,9:18,Wiggins REBOUND (Off:0 Def:1),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+19,0022200739,32,1,75,1,8:14 PM,9:11,Gilgeous-Alexander Driving Finger Roll Layup (4 PTS),,,4 - 6,2,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+20,0022200739,33,6,2,1,8:14 PM,9:11,,,Mobley S.FOUL (P1.T1) (K.Lane),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+21,0022200739,35,3,10,1,8:14 PM,9:11,Gilgeous-Alexander Free Throw 1 of 1 (5 PTS),,,4 - 7,3,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+22,0022200739,36,2,1,1,8:15 PM,8:57,,,MISS Garland 27' 3PT Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+23,0022200739,37,4,0,1,8:15 PM,8:57,Wiggins REBOUND (Off:0 Def:2),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+24,0022200739,39,1,1,1,8:15 PM,8:36,Jay. Williams 25' 3PT Jump Shot (3 PTS) (Wiggins 1 AST),,,4 - 10,6,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+25,0022200739,41,2,1,1,8:16 PM,8:19,,,MISS Okoro 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+26,0022200739,42,4,0,1,8:16 PM,8:16,Jay. Williams REBOUND (Off:0 Def:2),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+27,0022200739,43,2,73,1,8:16 PM,8:02,MISS Gilgeous-Alexander 1' Driving Reverse Layup,,Allen BLOCK (1 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+28,0022200739,45,4,0,1,8:16 PM,7:59,Jay. Williams REBOUND (Off:1 Def:2),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+29,0022200739,46,1,98,1,8:16 PM,7:55,Wiggins 1' Cutting Layup Shot (4 PTS) (Giddey 2 AST),,,4 - 12,8,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+30,0022200739,48,9,1,1,8:16 PM,7:55,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0022200739,49,1,6,1,8:19 PM,7:41,,,Garland 7' Driving Layup (2 PTS),6 - 12,6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+32,0022200739,50,6,2,1,8:19 PM,7:41,Giddey S.FOUL (P1.T1) (D.Collins),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+33,0022200739,52,3,10,1,8:20 PM,7:41,,,Garland Free Throw 1 of 1 (3 PTS),7 - 12,5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+34,0022200739,53,5,1,1,8:20 PM,7:27,Jal. Williams Bad Pass Turnover (P1.T2),,Garland STEAL (2 STL),,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+35,0022200739,55,1,101,1,8:20 PM,7:19,,,Garland 10' Driving Floating Jump Shot (5 PTS) (LeVert 1 AST),9 - 12,3,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+36,0022200739,57,2,73,1,8:20 PM,7:07,MISS Gilgeous-Alexander 2' Driving Reverse Layup,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+37,0022200739,58,4,0,1,8:20 PM,7:07,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+38,0022200739,60,1,6,1,8:21 PM,6:45,,,Mobley 5' Driving Layup (4 PTS) (LeVert 2 AST),11 - 12,1,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+39,0022200739,62,6,2,1,8:21 PM,6:45,Jal. Williams S.FOUL (P1.T2) (K.Lane),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+40,0022200739,64,8,0,1,8:21 PM,6:45,,,SUB: Wade FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+41,0022200739,66,3,10,1,8:21 PM,6:45,,,Mobley Free Throw 1 of 1 (5 PTS),12 - 12,TIE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+42,0022200739,67,2,6,1,8:22 PM,6:34,MISS Jal. Williams 2' Driving Layup,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+43,0022200739,68,4,0,1,8:22 PM,6:31,,,LeVert REBOUND (Off:0 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+44,0022200739,69,1,44,1,8:22 PM,6:27,,,Allen 1' Reverse Layup (4 PTS) (LeVert 3 AST),14 - 12,-2,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+45,0022200739,71,6,11,1,8:22 PM,6:27,THUNDER T.FOUL,,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,0
+46,0022200739,72,9,1,1,8:22 PM,6:27,THUNDER Timeout: Regular (Full 1 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+47,0022200739,73,3,16,1,8:25 PM,6:27,,,Garland Free Throw Technical (6 PTS),15 - 12,-3,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+48,0022200739,74,2,78,1,8:25 PM,6:09,MISS Jay. Williams 12' Floating Jump Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+49,0022200739,75,4,0,1,8:25 PM,6:05,Wiggins REBOUND (Off:1 Def:2),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+50,0022200739,76,1,80,1,8:25 PM,6:00,Gilgeous-Alexander 15' Step Back Jump Shot (7 PTS) (Wiggins 2 AST),,,15 - 14,-1,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+51,0022200739,77,6,26,1,8:26 PM,5:39,,,LeVert Offensive Charge Foul (P1) (G.Petraitis),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+52,0022200739,79,5,37,1,8:26 PM,5:39,,,LeVert Offensive Foul Turnover (P1.T1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+53,0022200739,80,5,1,1,8:26 PM,5:24,Wiggins Bad Pass Turnover (P1.T3),,Garland STEAL (3 STL),,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+54,0022200739,82,2,1,1,8:27 PM,5:15,,,MISS LeVert 24' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+55,0022200739,83,4,0,1,8:27 PM,5:12,Jay. Williams REBOUND (Off:1 Def:3),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+56,0022200739,84,6,2,1,8:27 PM,5:02,,,Wade S.FOUL (P1.T2) (G.Petraitis),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+57,0022200739,87,3,11,1,8:27 PM,5:02,Gilgeous-Alexander Free Throw 1 of 2 (8 PTS),,,15 - 15,TIE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+58,0022200739,88,8,0,1,8:27 PM,5:02,SUB: Joe FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+59,0022200739,89,8,0,1,8:27 PM,5:02,,,SUB: Neto FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+60,0022200739,90,8,0,1,8:27 PM,5:02,,,SUB: Okoro FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+61,0022200739,94,3,12,1,8:28 PM,5:02,Gilgeous-Alexander Free Throw 2 of 2 (9 PTS),,,15 - 16,1,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+62,0022200739,95,1,7,1,8:28 PM,4:45,,,Allen 2' Dunk (6 PTS) (Okoro 2 AST),17 - 16,-1,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+63,0022200739,98,8,0,1,8:28 PM,4:26,SUB: Muscala FOR Jay. Williams,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+64,0022200739,100,1,63,1,8:29 PM,4:20,Gilgeous-Alexander 11' Fadeaway Jumper (11 PTS),,,17 - 18,1,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+65,0022200739,101,2,1,1,8:29 PM,4:06,,,MISS LeVert 27' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+66,0022200739,102,4,0,1,8:29 PM,4:01,Giddey REBOUND (Off:0 Def:1),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+67,0022200739,103,1,103,1,8:29 PM,3:55,Giddey 4' Running Pull-Up Jump Shot (2 PTS),,,17 - 20,3,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+68,0022200739,104,1,63,1,8:29 PM,3:39,,,Neto 14' Fadeaway Jumper (2 PTS) (LeVert 4 AST),19 - 20,1,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+69,0022200739,106,2,6,1,8:29 PM,3:25,MISS Giddey 3' Driving Layup,,Okoro BLOCK (2 BLK),,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1
+70,0022200739,108,4,0,1,8:30 PM,3:21,Gilgeous-Alexander REBOUND (Off:2 Def:0),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+71,0022200739,109,2,72,1,8:30 PM,3:21,MISS Gilgeous-Alexander 1' Putback Layup,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+72,0022200739,110,4,0,1,8:30 PM,3:21,,,Neto REBOUND (Off:0 Def:1),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+73,0022200739,111,5,1,1,8:30 PM,3:09,Wiggins STEAL (1 STL),,Neto Bad Pass Turnover (P1.T2),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+74,0022200739,113,6,2,1,8:30 PM,3:05,,,Okoro S.FOUL (P1.T3) (D.Collins),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+75,0022200739,115,3,11,1,8:30 PM,3:05,Gilgeous-Alexander Free Throw 1 of 2 (12 PTS),,,19 - 21,2,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+76,0022200739,116,8,0,1,8:30 PM,3:05,SUB: Dieng FOR Giddey,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+77,0022200739,117,8,0,1,8:30 PM,3:05,SUB: Jal. Williams FOR Wiggins,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+78,0022200739,118,8,0,1,8:30 PM,3:05,,,SUB: Mobley FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+79,0022200739,119,8,0,1,8:30 PM,3:05,,,SUB: Osman FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+80,0022200739,124,3,12,1,8:30 PM,3:05,MISS Gilgeous-Alexander Free Throw 2 of 2,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+81,0022200739,125,4,0,1,8:30 PM,3:02,Muscala REBOUND (Off:1 Def:0),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+82,0022200739,126,6,1,1,8:31 PM,3:02,,,Wade P.FOUL (P2.T4) (K.Lane),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+83,0022200739,128,5,1,1,8:31 PM,2:59,Joe Bad Pass Turnover (P1.T4),,Neto STEAL (1 STL),,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+84,0022200739,130,2,1,1,8:32 PM,2:40,,,MISS Neto 26' 3PT Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+85,0022200739,131,4,0,1,8:32 PM,2:37,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+86,0022200739,133,6,2,1,8:32 PM,2:30,,,Osman S.FOUL (P1.PN) (D.Collins),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+87,0022200739,135,3,11,1,8:32 PM,2:30,Gilgeous-Alexander Free Throw 1 of 2 (13 PTS),,,19 - 22,3,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+88,0022200739,138,3,12,1,8:32 PM,2:30,Gilgeous-Alexander Free Throw 2 of 2 (14 PTS),,,19 - 23,4,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+89,0022200739,136,8,0,1,8:32 PM,2:30,,,SUB: Garland FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+90,0022200739,139,1,108,1,8:33 PM,2:16,,,Mobley 1' Cutting Dunk Shot (7 PTS) (Garland 2 AST),21 - 23,2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+91,0022200739,141,1,101,1,8:33 PM,2:03,Jal. Williams 5' Driving Floating Jump Shot (2 PTS),,,21 - 25,4,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+92,0022200739,142,2,1,1,8:33 PM,1:49,,,MISS Wade 25' 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+93,0022200739,143,4,0,1,8:33 PM,1:46,Gilgeous-Alexander REBOUND (Off:2 Def:1),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+94,0022200739,144,5,1,1,8:33 PM,1:39,Muscala Bad Pass Turnover (P1.T5),,Wade STEAL (1 STL),,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+95,0022200739,146,1,106,1,8:34 PM,1:35,,,Mobley 3' Running Alley Oop Dunk Shot (9 PTS) (Wade 1 AST),23 - 25,2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+96,0022200739,148,2,1,1,8:34 PM,1:17,MISS Joe 26' 3PT Jump Shot,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+97,0022200739,149,4,0,1,8:34 PM,1:14,,,Mobley REBOUND (Off:0 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+98,0022200739,150,2,79,1,8:34 PM,1:06,,,MISS Garland 23' Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+99,0022200739,151,4,0,1,8:34 PM,1:02,,,Okoro REBOUND (Off:1 Def:0),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+100,0022200739,154,2,5,1,8:34 PM,0:53,,,MISS Okoro Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+101,0022200739,155,4,0,1,8:34 PM,0:51,,,Osman REBOUND (Off:1 Def:0),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+102,0022200739,156,1,98,1,8:34 PM,0:47,,,Okoro 1' Cutting Layup Shot (2 PTS) (Garland 3 AST),25 - 25,TIE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+103,0022200739,158,2,63,1,8:35 PM,0:21,MISS Gilgeous-Alexander 14' Fadeaway Jumper,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+104,0022200739,159,4,0,1,8:35 PM,0:19,Dieng REBOUND (Off:1 Def:0),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+105,0022200739,160,6,2,1,8:35 PM,0:13,,,Okoro S.FOUL (P2.PN) (G.Petraitis),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+106,0022200739,162,3,11,1,8:35 PM,0:13,Gilgeous-Alexander Free Throw 1 of 2 (15 PTS),,,25 - 26,1,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+107,0022200739,163,8,0,1,8:35 PM,0:13,SUB: K. Williams FOR Joe,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+108,0022200739,165,3,12,1,8:36 PM,0:13,Gilgeous-Alexander Free Throw 2 of 2 (16 PTS),,,25 - 27,2,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+109,0022200739,166,2,79,1,8:36 PM,0:01,,,MISS Garland 30' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+110,0022200739,167,4,0,1,8:36 PM,0:00,K. Williams REBOUND (Off:0 Def:1),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+111,0022200739,168,13,0,1,8:36 PM,0:00,,End of 1st Period (8:36 PM EST),,25 - 27,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+112,0022200739,177,12,0,2,8:39 PM,12:00,,Start of 2nd Period (8:39 PM EST),,25 - 27,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+113,0022200739,178,2,101,2,8:39 PM,11:36,MISS Mann 8' Driving Floating Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+114,0022200739,179,4,0,2,8:39 PM,11:32,,,Allen REBOUND (Off:1 Def:1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+115,0022200739,180,1,98,2,8:40 PM,11:21,,,Mobley 2' Cutting Layup Shot (11 PTS) (Garland 4 AST),27 - 27,TIE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+116,0022200739,182,6,2,2,8:40 PM,11:21,Mann S.FOUL (P1.T1) (K.Lane),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+117,0022200739,184,8,0,2,8:40 PM,11:21,,,SUB: Stevens FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+118,0022200739,186,3,10,2,8:40 PM,11:21,,,MISS Mobley Free Throw 1 of 1,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+119,0022200739,187,4,0,2,8:40 PM,11:18,Bazley REBOUND (Off:0 Def:1),,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+120,0022200739,188,1,1,2,8:40 PM,10:56,Bazley 14' Jump Shot (2 PTS) (Dieng 1 AST),,,27 - 29,2,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+121,0022200739,190,6,1,2,8:41 PM,10:46,Mann P.FOUL (P2.T2) (K.Lane),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+122,0022200739,192,2,80,2,8:41 PM,10:32,,,MISS Garland 26' 3PT Step Back Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+123,0022200739,193,4,0,2,8:41 PM,10:28,K. Williams REBOUND (Off:0 Def:2),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+124,0022200739,194,2,1,2,8:41 PM,10:22,MISS Mann 26' 3PT Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+125,0022200739,195,4,0,2,8:41 PM,10:22,,,Stevens REBOUND (Off:0 Def:1),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+126,0022200739,196,6,1,2,8:42 PM,10:11,Mann P.FOUL (P3.T3) (G.Petraitis),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+127,0022200739,198,6,1,2,8:42 PM,9:58,Dieng P.FOUL (P1.T4) (K.Lane),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+128,0022200739,200,2,1,2,8:43 PM,9:51,,,MISS Osman 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+129,0022200739,201,4,0,2,8:43 PM,9:48,Mann REBOUND (Off:0 Def:1),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+130,0022200739,202,1,1,2,8:43 PM,9:36,Bazley 27' 3PT Jump Shot (5 PTS) (Mann 1 AST),,,27 - 32,5,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+131,0022200739,204,2,85,2,8:43 PM,9:18,,,MISS Stevens 11' Turnaround Bank Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+132,0022200739,205,4,0,2,8:43 PM,9:15,Giddey REBOUND (Off:0 Def:2),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+133,0022200739,206,5,1,2,8:43 PM,9:10,Giddey Bad Pass Turnover (P2.T6),,Garland STEAL (4 STL),,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+134,0022200739,208,1,98,2,8:43 PM,9:04,,,Stevens 2' Cutting Layup Shot (2 PTS) (Garland 5 AST),29 - 32,3,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+135,0022200739,210,5,1,2,8:44 PM,8:48,Giddey Bad Pass Turnover (P3.T7),,Stevens STEAL (1 STL),,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+136,0022200739,212,1,41,2,8:44 PM,8:43,,,Osman 2' Running Layup (2 PTS),31 - 32,1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+137,0022200739,214,2,47,2,8:44 PM,8:19,MISS Giddey 11' Turnaround Jump Shot,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+138,0022200739,215,4,0,2,8:44 PM,8:14,,,Allen REBOUND (Off:1 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+139,0022200739,216,1,79,2,8:44 PM,8:01,,,Stevens 13' Pullup Jump Shot (4 PTS) (Garland 6 AST),33 - 32,-1,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+140,0022200739,217,9,1,2,8:45 PM,8:01,THUNDER Timeout: Regular (Full 2 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+141,0022200739,218,8,0,2,8:47 PM,8:01,SUB: Jal. Williams FOR Giddey,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+142,0022200739,219,8,0,2,8:47 PM,8:01,,,SUB: LeVert FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+143,0022200739,220,8,0,2,8:47 PM,8:01,,,SUB: Neto FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+144,0022200739,224,2,1,2,8:48 PM,7:44,MISS Mann 25' 3PT Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+145,0022200739,225,4,0,2,8:48 PM,7:40,,,Mobley REBOUND (Off:0 Def:3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+146,0022200739,226,1,98,2,8:48 PM,7:17,,,Stevens 1' Cutting Layup Shot (6 PTS) (Mobley 1 AST),35 - 32,-3,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+147,0022200739,228,2,79,2,8:49 PM,6:48,MISS K. Williams 12' Pullup Jump Shot,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+148,0022200739,229,4,0,2,8:49 PM,6:46,,,Allen REBOUND (Off:1 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+149,0022200739,230,1,108,2,8:49 PM,6:38,,,Mobley 2' Cutting Dunk Shot (13 PTS) (LeVert 5 AST),37 - 32,-5,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+150,0022200739,232,2,75,2,8:49 PM,6:24,MISS Bazley 4' Driving Finger Roll Layup,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+151,0022200739,233,4,0,2,8:49 PM,6:22,,,Mobley REBOUND (Off:0 Def:4),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+152,0022200739,234,2,6,2,8:49 PM,6:16,,,MISS Mobley 7' Driving Layup,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+153,0022200739,235,4,0,2,8:49 PM,6:13,,,Allen REBOUND (Off:2 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+154,0022200739,236,2,107,2,8:49 PM,6:13,,,MISS Allen Tip Dunk Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+155,0022200739,237,4,0,2,8:49 PM,6:12,Bazley REBOUND (Off:0 Def:2),,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+156,0022200739,238,5,4,2,8:49 PM,6:08,Dieng Traveling Turnover (P1.T8),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+157,0022200739,239,8,0,2,8:49 PM,6:08,SUB: Gilgeous-Alexander FOR Dieng,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+158,0022200739,240,8,0,2,8:49 PM,6:08,SUB: Wiggins FOR Mann,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+159,0022200739,241,8,0,2,8:49 PM,6:08,,,SUB: Wade FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+160,0022200739,245,2,47,2,8:50 PM,5:44,,,MISS Stevens 11' Turnaround Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+161,0022200739,246,4,0,2,8:50 PM,5:40,Wiggins REBOUND (Off:1 Def:3),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+162,0022200739,247,1,108,2,8:50 PM,5:29,Bazley Cutting Dunk Shot (7 PTS) (Gilgeous-Alexander 1 AST),,,37 - 34,-3,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+163,0022200739,249,1,1,2,8:51 PM,5:13,,,Neto 24' 3PT Jump Shot (5 PTS) (LeVert 6 AST),40 - 34,-6,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+164,0022200739,251,1,73,2,8:51 PM,4:51,Wiggins 2' Driving Reverse Layup (6 PTS),,,40 - 36,-4,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+165,0022200739,252,2,1,2,8:51 PM,4:26,,,MISS Wade 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+166,0022200739,253,4,0,2,8:51 PM,4:23,Wiggins REBOUND (Off:1 Def:4),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+167,0022200739,254,6,2,2,8:52 PM,4:14,,,Stevens S.FOUL (P1.T1) (G.Petraitis),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+168,0022200739,256,3,11,2,8:52 PM,4:14,Gilgeous-Alexander Free Throw 1 of 2 (17 PTS),,,40 - 37,-3,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+169,0022200739,257,8,0,2,8:52 PM,4:14,,,SUB: Okoro FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+170,0022200739,259,3,12,2,8:52 PM,4:14,Gilgeous-Alexander Free Throw 2 of 2 (18 PTS),,,40 - 38,-2,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+171,0022200739,260,2,1,2,8:53 PM,4:03,,,MISS LeVert 25' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+172,0022200739,261,4,0,2,8:53 PM,4:02,Jal. Williams REBOUND (Off:0 Def:1),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+173,0022200739,262,1,41,2,8:53 PM,3:55,Jal. Williams 2' Running Layup (4 PTS),,,40 - 40,TIE,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+174,0022200739,263,6,1,2,8:53 PM,3:52,K. Williams P.FOUL (P1.PN) (D.Collins),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+175,0022200739,265,3,11,2,8:53 PM,3:52,,,Neto Free Throw 1 of 2 (6 PTS),41 - 40,-1,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+176,0022200739,270,3,12,2,8:53 PM,3:52,,,Neto Free Throw 2 of 2 (7 PTS),42 - 40,-2,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+177,0022200739,266,8,0,2,8:54 PM,3:52,SUB: Joe FOR K. Williams,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+178,0022200739,267,8,0,2,8:54 PM,3:52,SUB: Jay. Williams FOR Bazley,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+179,0022200739,271,5,45,2,8:54 PM,3:41,Jal. Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+180,0022200739,272,2,1,2,8:55 PM,3:23,,,MISS Okoro 24' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+181,0022200739,273,4,0,2,8:55 PM,3:19,,,Allen REBOUND (Off:3 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+182,0022200739,274,2,101,2,8:55 PM,3:13,,,MISS LeVert 10' Driving Floating Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+183,0022200739,275,4,0,2,8:55 PM,3:10,,,LeVert REBOUND (Off:1 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+184,0022200739,276,2,78,2,8:55 PM,3:08,,,MISS LeVert 11' Floating Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+185,0022200739,278,4,0,2,8:55 PM,3:06,Joe REBOUND (Off:0 Def:1),,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+186,0022200739,279,5,1,2,8:55 PM,3:05,Joe Bad Pass Turnover (P2.T10),,Okoro STEAL (1 STL),,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+187,0022200739,281,1,50,2,8:55 PM,3:00,,,Allen 2' Running Dunk (8 PTS) (LeVert 7 AST),44 - 40,-4,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+188,0022200739,283,2,6,2,8:55 PM,2:43,MISS Jal. Williams 3' Driving Layup,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+189,0022200739,284,4,0,2,8:55 PM,2:43,Jal. Williams REBOUND (Off:1 Def:1),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+190,0022200739,285,1,72,2,8:55 PM,2:43,Jal. Williams Putback Layup (6 PTS),,,44 - 42,-2,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+191,0022200739,286,6,2,2,8:55 PM,2:43,,,LeVert S.FOUL (P2.T2) (D.Collins),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+192,0022200739,288,9,1,2,8:56 PM,2:43,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+193,0022200739,289,8,0,2,8:58 PM,2:43,,,SUB: Garland FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+194,0022200739,290,8,0,2,8:58 PM,2:43,,,SUB: Mobley FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+195,0022200739,293,3,10,2,8:59 PM,2:43,MISS Jal. Williams Free Throw 1 of 1,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+196,0022200739,294,4,0,2,8:59 PM,2:38,,,Garland REBOUND (Off:0 Def:1),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+197,0022200739,295,1,101,2,8:59 PM,2:17,,,Garland 10' Driving Floating Jump Shot (8 PTS),46 - 42,-4,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+198,0022200739,296,2,1,2,9:00 PM,2:02,MISS Wiggins 24' 3PT Jump Shot,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+199,0022200739,297,4,0,2,9:00 PM,1:59,,,Mobley REBOUND (Off:0 Def:5),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+200,0022200739,298,1,1,2,9:00 PM,1:46,,,Wade 28' 3PT Jump Shot (3 PTS) (LeVert 8 AST),49 - 42,-7,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+201,0022200739,300,2,79,2,9:00 PM,1:33,MISS Gilgeous-Alexander 12' Pullup Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+202,0022200739,301,4,0,2,9:00 PM,1:30,,,Okoro REBOUND (Off:1 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+203,0022200739,302,1,1,2,9:00 PM,1:17,,,Mobley 25' 3PT Jump Shot (16 PTS) (Garland 7 AST),52 - 42,-10,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+204,0022200739,304,2,1,2,9:01 PM,0:59,MISS Jay. Williams 11' Jump Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+205,0022200739,305,4,0,2,9:01 PM,0:57,,,Wade REBOUND (Off:0 Def:1),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+206,0022200739,306,5,2,2,9:01 PM,0:39,Gilgeous-Alexander STEAL (1 STL),,Okoro Lost Ball Turnover (P1.T3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+207,0022200739,308,1,41,2,9:01 PM,0:34,Wiggins 1' Running Layup (8 PTS) (Jay. Williams 1 AST),,,52 - 44,-8,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+208,0022200739,309,1,7,2,9:01 PM,0:14,,,Mobley Dunk (18 PTS) (Garland 8 AST),54 - 44,-10,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+209,0022200739,311,1,80,2,9:02 PM,0:00,Gilgeous-Alexander 26' 3PT Step Back Jump Shot (21 PTS),,,54 - 47,-7,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+210,0022200739,312,18,0,2,9:02 PM,0:00,,Instant Replay2nd Period (9:02 PM EST),,54 - 47,-7,0,311,,,,,,0,0,,,,,,1,0,,,,,,0
+211,0022200739,314,13,0,2,9:03 PM,0:00,,End of 2nd Period (9:03 PM EST),,54 - 47,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+212,0022200739,322,12,0,3,9:18 PM,12:00,,Start of 3rd Period (9:18 PM EST),,54 - 47,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+213,0022200739,323,7,5,3,9:18 PM,11:46,,,Mobley Violation:Kicked Ball (D.Collins),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+214,0022200739,324,1,78,3,9:19 PM,11:31,Giddey 8' Floating Jump Shot (4 PTS) (Muscala 1 AST),,,54 - 49,-5,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+215,0022200739,326,6,1,3,9:19 PM,11:13,Wiggins P.FOUL (P1.T1) (G.Petraitis),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+216,0022200739,328,1,73,3,9:20 PM,11:01,,,Okoro 6' Driving Reverse Layup (4 PTS) (LeVert 9 AST),56 - 49,-7,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+217,0022200739,330,1,1,3,9:20 PM,10:50,Muscala 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),,,56 - 52,-4,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+218,0022200739,332,1,79,3,9:20 PM,10:31,,,Garland 21' Pullup Jump Shot (10 PTS),58 - 52,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+219,0022200739,333,1,63,3,9:20 PM,10:16,Gilgeous-Alexander 12' Fadeaway Jumper (23 PTS),,,58 - 54,-4,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+220,0022200739,334,5,1,3,9:21 PM,10:00,Wiggins STEAL (2 STL),,Garland Bad Pass Turnover (P1.T4),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+221,0022200739,336,1,41,3,9:21 PM,9:55,Giddey 2' Running Layup (6 PTS) (Gilgeous-Alexander 3 AST),,,58 - 56,-2,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+222,0022200739,338,6,2,3,9:21 PM,9:43,Muscala S.FOUL (P1.T2) (K.Lane),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+223,0022200739,340,3,11,3,9:21 PM,9:43,,,MISS Garland Free Throw 1 of 2,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+224,0022200739,341,4,1,3,9:21 PM,9:43,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+225,0022200739,342,3,12,3,9:21 PM,9:43,,,Garland Free Throw 2 of 2 (11 PTS),59 - 56,-3,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+226,0022200739,343,2,1,3,9:22 PM,9:34,MISS Muscala 26' 3PT Jump Shot,,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+227,0022200739,344,4,0,3,9:22 PM,9:31,,,LeVert REBOUND (Off:1 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+228,0022200739,345,6,1,3,9:22 PM,9:21,Gilgeous-Alexander P.FOUL (P1.T3) (G.Petraitis),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+229,0022200739,347,6,2,3,9:22 PM,9:16,Muscala S.FOUL (P2.T4) (K.Lane),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+230,0022200739,349,3,11,3,9:23 PM,9:16,,,Allen Free Throw 1 of 2 (9 PTS),60 - 56,-4,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+231,0022200739,350,3,12,3,9:23 PM,9:16,,,MISS Allen Free Throw 2 of 2,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+232,0022200739,351,4,0,3,9:23 PM,9:14,Giddey REBOUND (Off:0 Def:3),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+233,0022200739,352,2,101,3,9:23 PM,9:05,MISS Gilgeous-Alexander 4' Driving Floating Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+234,0022200739,353,4,0,3,9:23 PM,9:01,,,Mobley REBOUND (Off:0 Def:6),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+235,0022200739,354,5,2,3,9:24 PM,9:01,Gilgeous-Alexander STEAL (2 STL),,Mobley Lost Ball Turnover (P1.T5),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+236,0022200739,358,6,1,3,9:24 PM,9:01,,,Mobley P.FOUL (P2.T1) (G.Petraitis),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+237,0022200739,360,5,45,3,9:24 PM,8:58,Giddey Out of Bounds - Bad Pass Turnover Turnover (P4.T11),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+238,0022200739,361,1,79,3,9:24 PM,8:40,,,Garland 19' Pullup Jump Shot (13 PTS),62 - 56,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+239,0022200739,362,1,6,3,9:25 PM,8:30,Gilgeous-Alexander 1' Driving Layup (25 PTS),,,62 - 58,-4,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+240,0022200739,363,5,4,3,9:25 PM,8:16,,,Garland Traveling Turnover (P2.T6),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+241,0022200739,364,6,2,3,9:25 PM,8:02,,,LeVert S.FOUL (P3.T2) (D.Collins),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+242,0022200739,366,3,11,3,9:26 PM,8:02,Wiggins Free Throw 1 of 2 (9 PTS),,,62 - 59,-3,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+243,0022200739,367,3,12,3,9:26 PM,8:02,Wiggins Free Throw 2 of 2 (10 PTS),,,62 - 60,-2,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+244,0022200739,368,2,73,3,9:26 PM,7:47,,,MISS LeVert 2' Driving Reverse Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+245,0022200739,369,4,0,3,9:26 PM,7:45,,,Allen REBOUND (Off:4 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+246,0022200739,370,1,107,3,9:26 PM,7:45,,,Allen Tip Dunk Shot (11 PTS),64 - 60,-4,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+247,0022200739,371,1,1,3,9:27 PM,7:30,Jal. Williams 25' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 4 AST),,,64 - 63,-1,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+248,0022200739,373,1,1,3,9:27 PM,7:07,,,Mobley 24' 3PT Jump Shot (21 PTS) (Garland 9 AST),67 - 63,-4,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+249,0022200739,375,9,1,3,9:27 PM,7:06,THUNDER Timeout: Regular (Full 3 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+250,0022200739,376,8,0,3,9:29 PM,7:06,,,SUB: Wade FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+251,0022200739,378,1,101,3,9:30 PM,6:57,Giddey 7' Driving Floating Jump Shot (8 PTS),,,67 - 65,-2,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+252,0022200739,380,1,6,3,9:31 PM,6:35,,,LeVert 1' Driving Layup (2 PTS) (Garland 10 AST),69 - 65,-4,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+253,0022200739,382,2,80,3,9:31 PM,6:22,MISS Gilgeous-Alexander 14' Step Back Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+254,0022200739,383,4,0,3,9:31 PM,6:20,,,Mobley REBOUND (Off:0 Def:7),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+255,0022200739,384,2,5,3,9:31 PM,6:09,,,MISS Mobley 7' Layup,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+256,0022200739,386,4,0,3,9:31 PM,6:05,,,Mobley REBOUND (Off:1 Def:7),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+257,0022200739,387,2,3,3,9:31 PM,6:05,,,MISS Mobley 4' Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+258,0022200739,388,4,0,3,9:31 PM,6:03,Giddey REBOUND (Off:0 Def:4),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+259,0022200739,390,8,0,3,9:32 PM,5:50,SUB: Jay. Williams FOR Muscala,,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+260,0022200739,391,8,0,3,9:32 PM,5:50,,,SUB: Okoro FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+261,0022200739,394,2,47,3,9:32 PM,5:43,MISS Giddey 12' Turnaround Jump Shot,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+262,0022200739,395,4,0,3,9:32 PM,5:41,,,Allen REBOUND (Off:4 Def:4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+263,0022200739,396,2,98,3,9:32 PM,5:29,,,MISS Allen 2' Cutting Layup Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+264,0022200739,397,4,0,3,9:32 PM,5:27,Wiggins REBOUND (Off:1 Def:5),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+265,0022200739,398,1,1,3,9:33 PM,5:18,Jay. Williams 17' Jump Shot (5 PTS) (Giddey 3 AST),,,69 - 67,-2,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+266,0022200739,400,1,98,3,9:33 PM,4:54,,,Okoro 2' Cutting Layup Shot (6 PTS) (Garland 11 AST),71 - 67,-4,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+267,0022200739,402,1,79,3,9:33 PM,4:41,Gilgeous-Alexander 15' Pullup Jump Shot (27 PTS),,,71 - 69,-2,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+268,0022200739,403,1,79,3,9:33 PM,4:22,,,Garland 26' 3PT Pullup Jump Shot (16 PTS),74 - 69,-5,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+269,0022200739,404,6,1,3,9:34 PM,4:02,,,Okoro P.FOUL (P3.T3) (D.Collins),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+270,0022200739,406,8,0,3,9:34 PM,4:02,SUB: Joe FOR Giddey,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+271,0022200739,408,1,108,3,9:34 PM,3:52,Jal. Williams 1' Cutting Dunk Shot (11 PTS) (Jay. Williams 2 AST),,,74 - 71,-3,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+272,0022200739,410,2,79,3,9:35 PM,3:39,,,MISS Garland 26' 3PT Pullup Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+273,0022200739,411,4,0,3,9:35 PM,3:36,,,Okoro REBOUND (Off:2 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+274,0022200739,412,2,80,3,9:35 PM,3:31,,,MISS LeVert 26' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+275,0022200739,413,4,0,3,9:35 PM,3:27,Jay. Williams REBOUND (Off:1 Def:4),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+276,0022200739,414,5,1,3,9:35 PM,3:20,Jal. Williams Bad Pass Turnover (P3.T12),,Okoro STEAL (2 STL),,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+277,0022200739,416,2,6,3,9:35 PM,3:10,,,MISS Garland 7' Driving Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+278,0022200739,417,4,0,3,9:35 PM,3:10,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+279,0022200739,419,9,1,3,9:35 PM,3:10,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+280,0022200739,421,8,0,3,9:37 PM,3:10,SUB: Mann FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+281,0022200739,422,8,0,3,9:37 PM,3:10,SUB: Dieng FOR Wiggins,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+282,0022200739,423,8,0,3,9:37 PM,3:10,,,SUB: Osman FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+283,0022200739,424,8,0,3,9:37 PM,3:10,,,SUB: Mobley FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+284,0022200739,429,6,4,3,9:38 PM,3:06,,,Mobley OFF.Foul (P3) (D.Collins),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+285,0022200739,431,5,37,3,9:38 PM,3:06,,,Mobley Offensive Foul Turnover (P2.T7),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+286,0022200739,432,6,4,3,9:39 PM,2:56,Dieng OFF.Foul (P2) (D.Collins),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+287,0022200739,434,5,37,3,9:39 PM,2:56,Dieng Offensive Foul Turnover (P2.T13),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+288,0022200739,435,8,0,3,9:39 PM,2:56,,,SUB: Stevens FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+289,0022200739,437,1,47,3,9:39 PM,2:42,,,Stevens 11' Turnaround Jump Shot (8 PTS),76 - 71,-5,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+290,0022200739,438,5,11,3,9:40 PM,2:16,THUNDER Turnover: Shot Clock (T#14),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+291,0022200739,439,6,1,3,9:40 PM,2:02,Dieng P.FOUL (P3.PN) (K.Lane),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+292,0022200739,441,3,11,3,9:40 PM,2:02,,,Garland Free Throw 1 of 2 (17 PTS),77 - 71,-6,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+293,0022200739,442,8,0,3,9:41 PM,2:02,SUB: Wiggins FOR Dieng,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+294,0022200739,444,3,12,3,9:41 PM,2:02,,,Garland Free Throw 2 of 2 (18 PTS),78 - 71,-7,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+295,0022200739,445,1,80,3,9:41 PM,1:52,Gilgeous-Alexander 15' Step Back Jump Shot (29 PTS),,,78 - 73,-5,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+296,0022200739,446,5,4,3,9:41 PM,1:39,,,Wade Traveling Turnover (P1.T8),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+297,0022200739,447,2,80,3,9:42 PM,1:30,MISS Gilgeous-Alexander 15' Step Back Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+298,0022200739,448,4,0,3,9:42 PM,1:27,,,Wade REBOUND (Off:0 Def:2),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+299,0022200739,449,2,58,3,9:42 PM,1:18,,,MISS Mobley 7' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+300,0022200739,450,4,0,3,9:42 PM,1:16,Gilgeous-Alexander REBOUND (Off:2 Def:2),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+301,0022200739,451,1,1,3,9:42 PM,1:10,Jay. Williams 25' 3PT Jump Shot (8 PTS) (Gilgeous-Alexander 5 AST),,,78 - 76,-2,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+302,0022200739,453,2,1,3,9:42 PM,0:49,,,MISS Osman 24' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+303,0022200739,454,4,0,3,9:42 PM,0:45,Mann REBOUND (Off:0 Def:2),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+304,0022200739,455,1,79,3,9:43 PM,0:32,Gilgeous-Alexander 15' Pullup Jump Shot (31 PTS),,,78 - 78,TIE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+305,0022200739,456,2,1,3,9:43 PM,0:08,Gilgeous-Alexander BLOCK (1 BLK),,MISS Stevens 3PT Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+306,0022200739,458,4,0,3,9:43 PM,0:04,Gilgeous-Alexander REBOUND (Off:2 Def:3),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+307,0022200739,459,6,1,3,9:43 PM,0:03,,,Garland P.FOUL (P1.T4) (G.Petraitis),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+308,0022200739,461,8,0,3,9:44 PM,0:03,SUB: Muscala FOR Jay. Williams,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+309,0022200739,462,8,0,3,9:44 PM,0:03,SUB: Jal. Williams FOR Mann,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+310,0022200739,463,8,0,3,9:44 PM,0:03,,,SUB: Okoro FOR Garland,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+311,0022200739,467,2,101,3,9:44 PM,0:00,MISS Jal. Williams 17' Driving Floating Jump Shot,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+312,0022200739,468,4,0,3,9:44 PM,0:00,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+313,0022200739,469,13,0,3,9:44 PM,0:00,,End of 3rd Period (9:44 PM EST),,78 - 78,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+314,0022200739,480,12,0,4,9:47 PM,12:00,,Start of 4th Period (9:47 PM EST),,78 - 78,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+315,0022200739,481,2,5,4,9:47 PM,11:37,,,MISS Osman 6' Layup,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+316,0022200739,482,4,0,4,9:47 PM,11:35,Muscala REBOUND (Off:1 Def:1),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+317,0022200739,483,2,98,4,9:47 PM,11:26,MISS Bazley 1' Cutting Layup Shot,,Mobley BLOCK (2 BLK),,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+318,0022200739,485,4,0,4,9:47 PM,11:26,,,Wade REBOUND (Off:0 Def:3),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+319,0022200739,486,2,1,4,9:47 PM,11:13,,,MISS Wade 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+320,0022200739,487,4,0,4,9:47 PM,11:13,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+321,0022200739,489,2,101,4,9:48 PM,11:00,MISS Giddey 7' Driving Floating Jump Shot,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+322,0022200739,490,4,0,4,9:48 PM,10:57,,,Neto REBOUND (Off:0 Def:2),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+323,0022200739,491,1,1,4,9:48 PM,10:40,,,Osman 26' 3PT Jump Shot (5 PTS) (Wade 2 AST),81 - 78,-3,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+324,0022200739,493,2,80,4,9:49 PM,10:17,MISS Bazley 15' Step Back Jump Shot,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+325,0022200739,494,4,0,4,9:49 PM,10:14,,,Wade REBOUND (Off:0 Def:4),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+326,0022200739,495,2,79,4,9:49 PM,9:55,,,MISS LeVert 26' 3PT Pullup Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+327,0022200739,496,4,0,4,9:49 PM,9:51,Giddey REBOUND (Off:0 Def:5),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+328,0022200739,497,1,1,4,9:49 PM,9:40,Joe 26' 3PT Jump Shot (3 PTS) (K. Williams 1 AST),,,81 - 81,TIE,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+329,0022200739,499,6,26,4,9:50 PM,9:11,,,Mobley Offensive Charge Foul (P4) (D.Collins),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+330,0022200739,501,5,37,4,9:50 PM,9:11,,,Mobley Offensive Foul Turnover (P3.T9),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+331,0022200739,502,8,0,4,9:50 PM,9:11,,,SUB: Garland FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+332,0022200739,504,1,73,4,9:50 PM,9:03,Giddey 2' Driving Reverse Layup (10 PTS),,,81 - 83,2,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+333,0022200739,505,5,2,4,9:51 PM,8:45,Bazley STEAL (1 STL),,Mobley Lost Ball Turnover (P4.T10),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+334,0022200739,507,6,2,4,9:51 PM,8:34,,,Wade S.FOUL (P3.T1) (K.Lane),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+335,0022200739,509,3,11,4,9:51 PM,8:34,Bazley Free Throw 1 of 2 (8 PTS),,,81 - 84,3,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+336,0022200739,510,8,0,4,9:51 PM,8:34,,,SUB: Allen FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+337,0022200739,512,3,12,4,9:52 PM,8:34,Bazley Free Throw 2 of 2 (9 PTS),,,81 - 85,4,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+338,0022200739,513,2,93,4,9:52 PM,8:17,,,MISS Garland 5' Driving Bank Hook Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+339,0022200739,514,4,0,4,9:52 PM,8:17,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+340,0022200739,516,2,5,4,9:52 PM,8:12,,,MISS Mobley 1' Layup,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+341,0022200739,517,4,0,4,9:52 PM,8:11,,,Mobley REBOUND (Off:2 Def:7),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+342,0022200739,538,2,5,4,9:53 PM,8:11,K. Williams BLOCK (1 BLK),,MISS Mobley 1' Layup,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+343,0022200739,540,4,0,4,9:53 PM,8:11,K. Williams REBOUND (Off:0 Def:3),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+344,0022200739,520,9,1,4,9:53 PM,8:11,THUNDER Timeout: Regular (Full 4 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0022200739,521,18,5,4,9:53 PM,8:11,,Instant Replay4th Period (9:53 PM EST),,81 - 85,4,0,518,Timofey Mozgov,,,,,0,0,,,,,,1,0,,,,,,1
+346,0022200739,522,8,0,4,9:56 PM,8:11,,,SUB: Okoro FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+347,0022200739,524,2,63,4,9:57 PM,7:49,MISS Bazley 8' Fadeaway Jumper,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+348,0022200739,525,4,0,4,9:57 PM,7:47,K. Williams REBOUND (Off:1 Def:3),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+349,0022200739,526,1,72,4,9:57 PM,7:46,K. Williams 1' Putback Layup (2 PTS),,,81 - 87,6,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+350,0022200739,527,2,78,4,9:57 PM,7:28,,,MISS Garland 10' Floating Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+351,0022200739,528,4,0,4,9:57 PM,7:23,Muscala REBOUND (Off:1 Def:2),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+352,0022200739,529,6,2,4,9:57 PM,7:15,,,Garland S.FOUL (P2.T2) (G.Petraitis),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+353,0022200739,531,3,13,4,9:58 PM,7:15,Joe Free Throw 1 of 3 (4 PTS),,,81 - 88,7,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+354,0022200739,532,3,14,4,9:58 PM,7:15,Joe Free Throw 2 of 3 (5 PTS),,,81 - 89,8,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+355,0022200739,535,3,15,4,9:58 PM,7:15,Joe Free Throw 3 of 3 (6 PTS),,,81 - 90,9,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+356,0022200739,533,8,0,4,9:58 PM,7:15,,,SUB: Wade FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+357,0022200739,536,1,75,4,9:59 PM,6:55,,,Wade 2' Driving Finger Roll Layup (5 PTS) (Garland 12 AST),83 - 90,7,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+358,0022200739,541,2,5,4,9:59 PM,6:43,MISS Giddey 7' Layup,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+359,0022200739,542,4,0,4,9:59 PM,6:43,,,Okoro REBOUND (Off:2 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+360,0022200739,543,1,108,4,9:59 PM,6:35,,,Allen 1' Cutting Dunk Shot (13 PTS) (Garland 13 AST),85 - 90,5,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+361,0022200739,545,2,101,4,9:59 PM,6:19,MISS Giddey 6' Driving Floating Jump Shot,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+362,0022200739,546,4,0,4,9:59 PM,6:18,K. Williams REBOUND (Off:2 Def:3),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+363,0022200739,547,1,97,4,9:59 PM,6:18,K. Williams Tip Layup Shot (4 PTS),,,85 - 92,7,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+364,0022200739,548,7,1,4,9:59 PM,6:18,THUNDER Violation: Delay of game Violation,,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,0
+365,0022200739,549,2,1,4,10:00 PM,6:03,,,MISS Okoro 24' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+366,0022200739,550,4,0,4,10:00 PM,5:58,Giddey REBOUND (Off:0 Def:6),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+367,0022200739,551,1,41,4,10:00 PM,5:53,Giddey 2' Running Layup (12 PTS),,,85 - 94,9,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+368,0022200739,552,6,2,4,10:00 PM,5:44,Muscala S.FOUL (P3.T1) (G.Petraitis),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+369,0022200739,554,3,11,4,10:01 PM,5:44,,,Garland Free Throw 1 of 2 (19 PTS),86 - 94,8,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+370,0022200739,555,8,0,4,10:01 PM,5:44,SUB: Jay. Williams FOR Giddey,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+371,0022200739,556,8,0,4,10:01 PM,5:44,SUB: Gilgeous-Alexander FOR Muscala,,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+372,0022200739,557,8,0,4,10:01 PM,5:44,SUB: Jal. Williams FOR Bazley,,,,,4,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+373,0022200739,561,3,12,4,10:01 PM,5:44,,,MISS Garland Free Throw 2 of 2,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+374,0022200739,562,4,0,4,10:01 PM,5:41,Jal. Williams REBOUND (Off:1 Def:2),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+375,0022200739,563,1,86,4,10:01 PM,5:20,Gilgeous-Alexander 12' Turnaround Fadeaway (33 PTS),,,86 - 96,10,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+376,0022200739,564,2,6,4,10:02 PM,5:04,,,MISS LeVert 2' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+377,0022200739,565,4,0,4,10:02 PM,5:02,Jay. Williams REBOUND (Off:1 Def:5),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+378,0022200739,566,1,1,4,10:02 PM,4:56,K. Williams 27' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 6 AST),,,86 - 99,13,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+379,0022200739,568,9,1,4,10:02 PM,4:55,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+380,0022200739,569,8,0,4,10:04 PM,4:55,SUB: Wiggins FOR Joe,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+381,0022200739,570,8,0,4,10:04 PM,4:55,,,SUB: Mobley FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+382,0022200739,571,8,0,4,10:04 PM,4:55,,,SUB: Stevens FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+383,0022200739,575,1,101,4,10:05 PM,4:34,,,Garland 7' Driving Floating Jump Shot (21 PTS),88 - 99,11,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+384,0022200739,576,2,1,4,10:05 PM,4:11,MISS K. Williams 26' 3PT Jump Shot,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+385,0022200739,577,4,0,4,10:05 PM,4:07,,,Mobley REBOUND (Off:2 Def:8),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+386,0022200739,578,6,2,4,10:06 PM,4:02,Wiggins S.FOUL (P2.T2) (D.Collins),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+387,0022200739,580,3,11,4,10:06 PM,4:02,,,Mobley Free Throw 1 of 2 (22 PTS),89 - 99,10,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+388,0022200739,584,8,0,4,10:06 PM,4:02,SUB: Joe FOR Jay. Williams,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+389,0022200739,583,3,12,4,10:07 PM,4:02,,,Mobley Free Throw 2 of 2 (23 PTS),90 - 99,9,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+390,0022200739,585,2,1,4,10:07 PM,3:45,MISS Wiggins 27' 3PT Jump Shot,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+391,0022200739,586,4,0,4,10:07 PM,3:42,K. Williams REBOUND (Off:3 Def:3),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+392,0022200739,587,2,1,4,10:07 PM,3:38,MISS Joe 26' 3PT Jump Shot,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+393,0022200739,588,4,0,4,10:07 PM,3:35,,,Garland REBOUND (Off:0 Def:2),,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+394,0022200739,589,2,102,4,10:07 PM,3:27,,,MISS Garland 11' Driving Floating Bank Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+395,0022200739,590,4,0,4,10:07 PM,3:23,K. Williams REBOUND (Off:3 Def:4),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+396,0022200739,591,2,79,4,10:08 PM,3:02,MISS Jal. Williams 11' Pullup Jump Shot,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+397,0022200739,592,4,0,4,10:08 PM,3:01,,,Mobley REBOUND (Off:2 Def:9),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+398,0022200739,593,2,1,4,10:08 PM,2:50,,,MISS LeVert 26' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+399,0022200739,594,4,0,4,10:08 PM,2:46,,,Allen REBOUND (Off:5 Def:4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+400,0022200739,595,6,2,4,10:08 PM,2:45,Gilgeous-Alexander S.FOUL (P2.T3) (K.Lane),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+401,0022200739,597,3,11,4,10:08 PM,2:45,,,Garland Free Throw 1 of 2 (22 PTS),91 - 99,8,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+402,0022200739,598,8,0,4,10:08 PM,2:45,SUB: Muscala FOR Joe,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+403,0022200739,600,3,12,4,10:09 PM,2:45,,,Garland Free Throw 2 of 2 (23 PTS),92 - 99,7,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+404,0022200739,601,1,63,4,10:09 PM,2:30,Gilgeous-Alexander 10' Fadeaway Jumper (35 PTS),,,92 - 101,9,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+405,0022200739,602,2,47,4,10:09 PM,2:16,,,MISS Mobley 12' Turnaround Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+406,0022200739,603,4,0,4,10:09 PM,2:12,Muscala REBOUND (Off:1 Def:3),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+407,0022200739,604,1,1,4,10:10 PM,2:00,Jal. Williams 3PT Jump Shot (14 PTS) (Gilgeous-Alexander 7 AST),,,92 - 104,12,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+408,0022200739,606,2,102,4,10:10 PM,1:49,,,MISS Garland 11' Driving Floating Bank Jump Shot,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+409,0022200739,607,4,0,4,10:10 PM,1:45,Wiggins REBOUND (Off:1 Def:6),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+410,0022200739,608,5,40,4,10:10 PM,1:33,Wiggins Out of Bounds Lost Ball Turnover (P2.T15),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+411,0022200739,609,6,1,4,10:10 PM,1:30,Wiggins P.FOUL (P3.T4) (G.Petraitis),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+412,0022200739,611,1,101,4,10:11 PM,1:21,,,Garland 11' Driving Floating Jump Shot (25 PTS),94 - 104,10,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+413,0022200739,612,1,1,4,10:11 PM,1:03,Jal. Williams 25' 3PT Jump Shot (17 PTS) (Gilgeous-Alexander 8 AST),,,94 - 107,13,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+414,0022200739,614,2,101,4,10:12 PM,0:52,,,MISS Mobley 7' Driving Floating Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+415,0022200739,615,4,0,4,10:12 PM,0:50,Muscala REBOUND (Off:1 Def:4),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+416,0022200739,616,6,28,4,10:12 PM,0:45,,,Mobley Personal Take Foul (P5.T3) (K.Lane),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+417,0022200739,618,8,0,4,10:12 PM,0:45,SUB: Giddey FOR Wiggins,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+418,0022200739,620,6,1,4,10:12 PM,0:43,,,Allen P.FOUL (P1.PN) (K.Lane),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+419,0022200739,622,3,11,4,10:13 PM,0:43,Muscala Free Throw 1 of 2 (4 PTS),,,94 - 108,14,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+420,0022200739,623,8,0,4,10:13 PM,0:43,SUB: Wiggins FOR Gilgeous-Alexander,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+421,0022200739,625,3,12,4,10:13 PM,0:43,Muscala Free Throw 2 of 2 (5 PTS),,,94 - 109,15,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+422,0022200739,626,1,80,4,10:13 PM,0:38,,,Garland 27' 3PT Step Back Jump Shot (28 PTS),97 - 109,12,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+423,0022200739,627,6,1,4,10:13 PM,0:34,,,Stevens P.FOUL (P2.PN) (G.Petraitis),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+424,0022200739,629,3,11,4,10:14 PM,0:34,MISS Giddey Free Throw 1 of 2,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+425,0022200739,630,4,1,4,10:14 PM,0:34,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+426,0022200739,631,3,12,4,10:14 PM,0:34,Giddey Free Throw 2 of 2 (13 PTS),,,97 - 110,13,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+427,0022200739,632,1,79,4,10:14 PM,0:31,,,Garland 31' 3PT Pullup Jump Shot (31 PTS),100 - 110,10,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+428,0022200739,633,6,28,4,10:14 PM,0:28,,,Stevens Personal Take Foul (P3.PN) (K.Lane),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+429,0022200739,635,3,11,4,10:15 PM,0:28,Giddey Free Throw 1 of 2 (14 PTS),,,100 - 111,11,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+430,0022200739,636,3,12,4,10:15 PM,0:28,Giddey Free Throw 2 of 2 (15 PTS),,,100 - 112,12,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+431,0022200739,637,2,41,4,10:15 PM,0:23,,,MISS Garland 2' Running Layup,,,5,1629636,Darius Garland,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+432,0022200739,638,4,0,4,10:15 PM,0:19,Muscala REBOUND (Off:1 Def:5),,,,,4,203488,Mike Muscala,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+433,0022200739,639,13,0,4,10:16 PM,0:00,,End of 4th Period (10:16 PM EST),,100 - 112,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

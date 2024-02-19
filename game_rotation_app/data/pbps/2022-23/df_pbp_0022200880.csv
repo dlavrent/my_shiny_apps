@@ -1,0 +1,541 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0022200880,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022200880,4,10,0,1,8:11 PM,12:00, ,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,3,1610612745,,,,,,1
+2,0022200880,8,2,1,1,8:12 PM,11:41,,,MISS Martin Jr. 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+3,0022200880,9,4,0,1,8:12 PM,11:37,,,Sengun REBOUND (Off:1 Def:0),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+4,0022200880,10,2,101,1,8:12 PM,11:35,,,MISS Sengun 4' Driving Floating Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+5,0022200880,11,4,0,1,8:12 PM,11:32,Jay. Williams REBOUND (Off:0 Def:1),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+6,0022200880,12,1,41,1,8:12 PM,11:27,Giddey 2' Running Layup (2 PTS),,,0 - 2,2,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+7,0022200880,13,2,98,1,8:12 PM,11:09,Gilgeous-Alexander BLOCK (1 BLK),,MISS Martin Jr. 5' Cutting Layup Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+8,0022200880,15,4,0,1,8:12 PM,11:07,Jay. Williams REBOUND (Off:0 Def:2),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+9,0022200880,16,2,1,1,8:12 PM,11:00,MISS Dort 26' 3PT Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+10,0022200880,17,4,0,1,8:12 PM,10:57,,,Green REBOUND (Off:0 Def:1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+11,0022200880,18,6,2,1,8:13 PM,10:42,Dort S.FOUL (P1.T1) (C.Washington),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+12,0022200880,20,3,13,1,8:13 PM,10:42,,,Green Free Throw 1 of 3 (1 PTS),1 - 2,1,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+13,0022200880,21,3,14,1,8:13 PM,10:42,,,Green Free Throw 2 of 3 (2 PTS),2 - 2,TIE,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+14,0022200880,22,3,15,1,8:14 PM,10:42,,,Green Free Throw 3 of 3 (3 PTS),3 - 2,-1,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+15,0022200880,23,1,1,1,8:14 PM,10:27,Dort 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),,,3 - 5,2,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+16,0022200880,25,1,3,1,8:14 PM,10:15,,,Tate 7' Hook Shot (2 PTS),5 - 5,TIE,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+17,0022200880,26,2,101,1,8:14 PM,9:59,MISS Giddey 1' Driving Floating Jump Shot,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+18,0022200880,27,4,0,1,8:14 PM,9:57,Jal. Williams REBOUND (Off:1 Def:0),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+19,0022200880,28,1,58,1,8:14 PM,9:50,Jal. Williams 9' Turnaround Hook Shot (2 PTS),,,5 - 7,2,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+20,0022200880,29,6,2,1,8:15 PM,9:28,Jal. Williams S.FOUL (P1.T2) (M.Ervin),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+21,0022200880,31,3,11,1,8:15 PM,9:28,,,MISS Tate Free Throw 1 of 2,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+22,0022200880,32,4,1,1,8:15 PM,9:28,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+23,0022200880,33,3,12,1,8:15 PM,9:28,,,MISS Tate Free Throw 2 of 2,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+24,0022200880,34,4,0,1,8:15 PM,9:26,Giddey REBOUND (Off:0 Def:1),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+25,0022200880,35,1,71,1,8:16 PM,9:12,Gilgeous-Alexander 2' Finger Roll Layup (2 PTS),,,5 - 9,4,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+26,0022200880,36,6,4,1,8:16 PM,9:07,,,Sengun OFF.Foul (P1) (C.Washington),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+27,0022200880,38,5,37,1,8:16 PM,9:07,,,Sengun Offensive Foul Turnover (P1.T1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+28,0022200880,39,2,1,1,8:16 PM,8:49,MISS Jay. Williams 25' 3PT Jump Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+29,0022200880,40,4,0,1,8:16 PM,8:46,,,Green REBOUND (Off:0 Def:2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+30,0022200880,41,2,79,1,8:16 PM,8:38,,,MISS Green 13' Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+31,0022200880,42,4,0,1,8:17 PM,8:34,Gilgeous-Alexander REBOUND (Off:0 Def:1),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+32,0022200880,43,1,76,1,8:17 PM,8:30,Gilgeous-Alexander 2' Running Finger Roll Layup (4 PTS),,,5 - 11,6,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+33,0022200880,44,6,26,1,8:17 PM,8:25,,,Green Offensive Charge Foul (P1) (J.Goble),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+34,0022200880,46,5,37,1,8:17 PM,8:25,,,Green Offensive Foul Turnover (P1.T2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+35,0022200880,47,6,1,1,8:17 PM,8:16,,,Tate P.FOUL (P1.T1) (J.Goble),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+36,0022200880,50,6,11,1,8:17 PM,8:16,,,Tate T.FOUL (P1.T1) (J.Goble),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+37,0022200880,51,3,16,1,8:18 PM,8:16,MISS Gilgeous-Alexander Free Throw Technical,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+38,0022200880,52,4,1,1,8:18 PM,8:16,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+39,0022200880,53,1,9,1,8:18 PM,8:09,Jal. Williams Driving Dunk (4 PTS),,,5 - 13,8,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+40,0022200880,54,2,6,1,8:18 PM,7:52,,,MISS Green 1' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+41,0022200880,55,4,0,1,8:18 PM,7:51,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+42,0022200880,57,2,1,1,8:19 PM,7:49,,,MISS Sengun 3PT Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+43,0022200880,58,4,0,1,8:19 PM,7:45,Jay. Williams REBOUND (Off:0 Def:3),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+44,0022200880,59,1,73,1,8:19 PM,7:35,Jal. Williams 1' Driving Reverse Layup (6 PTS),,,5 - 15,10,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+45,0022200880,60,9,1,1,8:19 PM,7:30,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+46,0022200880,61,2,6,1,8:22 PM,7:23,,,MISS Martin Jr. 4' Driving Layup,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+47,0022200880,62,4,0,1,8:22 PM,7:21,Jay. Williams REBOUND (Off:0 Def:4),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+48,0022200880,63,6,1,1,8:22 PM,7:21,,,Martin Jr. P.FOUL (P1.T2) (M.Ervin),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+49,0022200880,65,5,2,1,8:23 PM,7:12,Giddey Lost Ball Turnover (P1.T1),,Smith Jr. STEAL (1 STL),,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+50,0022200880,67,1,41,1,8:23 PM,7:07,,,Tate 3' Running Layup (4 PTS) (Smith Jr. 1 AST),7 - 15,8,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+51,0022200880,69,2,80,1,8:23 PM,6:55,MISS Gilgeous-Alexander 16' Step Back Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+52,0022200880,70,4,0,1,8:23 PM,6:53,,,Smith Jr. REBOUND (Off:0 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+53,0022200880,71,2,1,1,8:23 PM,6:47,,,MISS Green 29' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+54,0022200880,72,4,0,1,8:23 PM,6:45,Jay. Williams REBOUND (Off:0 Def:5),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+55,0022200880,73,6,1,1,8:23 PM,6:45,,,Smith Jr. P.FOUL (P1.T3) (J.Goble),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+56,0022200880,75,1,6,1,8:23 PM,6:36,Giddey 2' Driving Layup (4 PTS),,,7 - 17,10,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+57,0022200880,76,2,6,1,8:24 PM,6:15,,,MISS Green 3' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+58,0022200880,78,2,97,1,8:24 PM,6:12,,,MISS Sengun Tip Layup Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+59,0022200880,77,4,0,1,8:24 PM,6:12,,,Sengun REBOUND (Off:2 Def:0),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+60,0022200880,79,4,0,1,8:24 PM,6:10,,,Sengun REBOUND (Off:3 Def:0),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+61,0022200880,80,2,97,1,8:24 PM,6:10,,,MISS Sengun Tip Layup Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+62,0022200880,81,4,0,1,8:24 PM,6:10,Jay. Williams REBOUND (Off:0 Def:6),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+63,0022200880,82,6,2,1,8:24 PM,6:06,,,Sengun S.FOUL (P2.T4) (J.Goble),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+64,0022200880,84,6,11,1,8:24 PM,6:06,,,Sengun T.FOUL (P2.T4) (J.Goble),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+65,0022200880,85,3,16,1,8:24 PM,6:06,Gilgeous-Alexander Free Throw Technical (5 PTS),,,7 - 18,11,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+66,0022200880,86,3,11,1,8:25 PM,6:06,Giddey Free Throw 1 of 2 (5 PTS),,,7 - 19,12,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+67,0022200880,87,3,12,1,8:25 PM,6:06,Giddey Free Throw 2 of 2 (6 PTS),,,7 - 20,13,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+68,0022200880,88,1,6,1,8:25 PM,5:50,,,Tate 5' Driving Layup (6 PTS),9 - 20,11,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+69,0022200880,89,6,2,1,8:25 PM,5:50,Jal. Williams S.FOUL (P2.T3) (C.Washington),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+70,0022200880,91,3,10,1,8:26 PM,5:50,,,Tate Free Throw 1 of 1 (7 PTS),10 - 20,10,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+71,0022200880,92,2,1,1,8:26 PM,5:35,MISS Giddey 26' 3PT Jump Shot,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+72,0022200880,93,4,0,1,8:26 PM,5:32,,,Smith Jr. REBOUND (Off:0 Def:2),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+73,0022200880,94,1,1,1,8:26 PM,5:25,,,Smith Jr. 27' 3PT Jump Shot (3 PTS) (Tate 1 AST),13 - 20,7,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+74,0022200880,96,2,78,1,8:26 PM,5:11,MISS Jay. Williams 10' Floating Jump Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+75,0022200880,97,4,0,1,8:26 PM,5:09,,,Sengun REBOUND (Off:3 Def:1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+76,0022200880,98,2,101,1,8:27 PM,5:04,,,MISS Sengun 7' Driving Floating Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+77,0022200880,99,4,0,1,8:27 PM,5:01,Giddey REBOUND (Off:0 Def:2),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+78,0022200880,100,1,41,1,8:27 PM,4:58,Dort 1' Running Layup (5 PTS) (Giddey 1 AST),,,13 - 22,9,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+79,0022200880,102,5,4,1,8:27 PM,4:37,,,Tate Traveling Turnover (P1.T3),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+80,0022200880,103,8,0,1,8:27 PM,4:37,SUB: Joe FOR Giddey,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+81,0022200880,104,8,0,1,8:27 PM,4:37,SUB: K. Williams FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+82,0022200880,105,8,0,1,8:27 PM,4:37,,,SUB: Washington Jr. FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+83,0022200880,106,8,0,1,8:27 PM,4:37,,,SUB: Eason FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+84,0022200880,111,6,2,1,8:28 PM,4:29,,,Martin Jr. S.FOUL (P2.PN) (C.Washington),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+85,0022200880,113,3,11,1,8:28 PM,4:29,Dort Free Throw 1 of 2 (6 PTS),,,13 - 23,10,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+86,0022200880,114,8,0,1,8:28 PM,4:29,SUB: Saric FOR Jay. Williams,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+87,0022200880,116,3,12,1,8:29 PM,4:29,Dort Free Throw 2 of 2 (7 PTS),,,13 - 24,11,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+88,0022200880,117,6,2,1,8:29 PM,4:09,Dort S.FOUL (P2.T4) (C.Washington),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+89,0022200880,119,3,11,1,8:29 PM,4:09,,,MISS Eason Free Throw 1 of 2,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+90,0022200880,120,4,1,1,8:29 PM,4:09,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+91,0022200880,121,8,0,1,8:30 PM,4:09,SUB: Robinson-Earl FOR Dort,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+92,0022200880,123,3,12,1,8:30 PM,4:09,,,Eason Free Throw 2 of 2 (1 PTS),14 - 24,10,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+93,0022200880,124,2,1,1,8:30 PM,3:59,MISS Joe 26' 3PT Jump Shot,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+94,0022200880,125,4,0,1,8:30 PM,3:54,,,Sengun REBOUND (Off:3 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+95,0022200880,126,1,58,1,8:30 PM,3:44,,,Sengun 9' Turnaround Hook Shot (2 PTS),16 - 24,8,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+96,0022200880,127,2,44,1,8:30 PM,3:29,MISS Robinson-Earl 2' Reverse Layup,,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+97,0022200880,128,4,0,1,8:30 PM,3:28,,,Sengun REBOUND (Off:3 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+98,0022200880,129,2,5,1,8:31 PM,3:21,,,MISS Eason 3' Layup,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+99,0022200880,130,4,0,1,8:31 PM,3:20,Saric REBOUND (Off:0 Def:1),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+100,0022200880,131,2,5,1,8:31 PM,3:05,MISS Gilgeous-Alexander 4' Layup,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+101,0022200880,132,4,0,1,8:31 PM,3:03,Saric REBOUND (Off:1 Def:1),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+102,0022200880,133,1,72,1,8:31 PM,3:02,Saric Putback Layup (2 PTS),,,16 - 26,10,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+103,0022200880,134,6,17,1,8:31 PM,2:51,THUNDER T.Foul (Def. 3 Sec Robinson-Earl ) (M.Ervin),,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+104,0022200880,135,9,1,1,8:32 PM,2:51,THUNDER Timeout: Regular (Full 1 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+105,0022200880,136,3,16,1,8:34 PM,2:51,,,MISS Green Free Throw Technical,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+106,0022200880,137,4,1,1,8:34 PM,2:51,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+107,0022200880,138,5,11,1,8:35 PM,2:36,,,Rockets Turnover: Shot Clock (T#4),,,3,1610612745,,,,,,0,0,,,,,,1,0,,,,,,1
+108,0022200880,139,2,79,1,8:35 PM,2:27,MISS Gilgeous-Alexander 14' Pullup Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+109,0022200880,140,4,0,1,8:35 PM,2:23,,,Martin Jr. REBOUND (Off:0 Def:1),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+110,0022200880,141,2,1,1,8:35 PM,2:16,,,MISS Washington Jr. 26' 3PT Jump Shot,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+111,0022200880,142,4,0,1,8:35 PM,2:13,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+112,0022200880,143,6,3,1,8:35 PM,2:13,,,Eason L.B.FOUL (P1.PN) (M.Ervin),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+113,0022200880,145,3,11,1,8:36 PM,2:13,Joe Free Throw 1 of 2 (1 PTS),,,16 - 27,11,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+114,0022200880,146,8,0,1,8:36 PM,2:13,,,SUB: Tate FOR Washington Jr.,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+115,0022200880,147,8,0,1,8:36 PM,2:13,,,SUB: Christopher FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+116,0022200880,150,3,12,1,8:36 PM,2:13,Joe Free Throw 2 of 2 (2 PTS),,,16 - 28,12,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+117,0022200880,151,2,1,1,8:36 PM,2:01,,,MISS Eason 26' 3PT Jump Shot,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+118,0022200880,152,4,0,1,8:36 PM,1:58,Saric REBOUND (Off:1 Def:2),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+119,0022200880,153,1,79,1,8:37 PM,1:52,K. Williams 13' Pullup Jump Shot (2 PTS),,,16 - 30,14,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+120,0022200880,154,9,1,1,8:37 PM,1:51,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+121,0022200880,155,8,0,1,8:38 PM,1:51,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+122,0022200880,157,2,101,1,8:38 PM,1:28,,,MISS Martin Jr. 4' Driving Floating Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+123,0022200880,158,4,0,1,8:39 PM,1:27,,,Martin Jr. REBOUND (Off:1 Def:1),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+124,0022200880,159,6,2,1,8:39 PM,1:27,Saric S.FOUL (P1.PN) (C.Washington),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+125,0022200880,161,3,11,1,8:39 PM,1:27,,,MISS Martin Jr. Free Throw 1 of 2,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+126,0022200880,162,4,1,1,8:39 PM,1:27,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+127,0022200880,163,3,12,1,8:39 PM,1:27,,,Martin Jr. Free Throw 2 of 2 (1 PTS),17 - 30,13,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+128,0022200880,166,6,2,1,8:40 PM,1:12,,,Garuba S.FOUL (P1.PN) (M.Ervin),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+129,0022200880,168,3,11,1,8:40 PM,1:12,Gilgeous-Alexander Free Throw 1 of 2 (6 PTS),,,17 - 31,14,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+130,0022200880,169,3,12,1,8:41 PM,1:12,MISS Gilgeous-Alexander Free Throw 2 of 2,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+131,0022200880,170,4,0,1,8:41 PM,1:09,,,Garuba REBOUND (Off:0 Def:1),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+132,0022200880,171,6,17,1,8:41 PM,0:55,THUNDER T.Foul (Def. 3 Sec Gilgeous-Alexander ) (M.Ervin),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+133,0022200880,172,3,16,1,8:41 PM,0:55,,,MISS Eason Free Throw Technical,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+134,0022200880,173,4,1,1,8:41 PM,0:55,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+135,0022200880,174,8,0,1,8:41 PM,0:55,,,SUB: Smith Jr. FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+136,0022200880,176,5,1,1,8:42 PM,0:47,Saric STEAL (1 STL),,Smith Jr. Bad Pass Turnover (P1.T5),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+137,0022200880,178,1,41,1,8:42 PM,0:43,Saric 2' Running Layup (4 PTS) (K. Williams 1 AST),,,17 - 33,16,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+138,0022200880,180,6,2,1,8:42 PM,0:43,,,Smith Jr. S.FOUL (P2.PN) (M.Ervin),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+139,0022200880,182,6,11,1,8:42 PM,0:43,,,Garuba T.FOUL (P1.PN) (J.Goble),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+140,0022200880,183,3,16,1,8:43 PM,0:43,Gilgeous-Alexander Free Throw Technical (7 PTS),,,17 - 34,17,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+141,0022200880,184,3,10,1,8:43 PM,0:43,Saric Free Throw 1 of 1 (5 PTS),,,17 - 35,18,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+142,0022200880,185,6,1,1,8:43 PM,0:36,Gilgeous-Alexander P.FOUL (P1.PN) (M.Ervin),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+143,0022200880,187,3,11,1,8:44 PM,0:36,,,MISS Christopher Free Throw 1 of 2,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+144,0022200880,188,4,1,1,8:44 PM,0:36,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+145,0022200880,189,8,0,1,8:44 PM,0:36,SUB: Waters III FOR Robinson-Earl,,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+146,0022200880,191,3,12,1,8:44 PM,0:36,,,Christopher Free Throw 2 of 2 (1 PTS),18 - 35,17,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+147,0022200880,192,1,79,1,8:44 PM,0:30,Gilgeous-Alexander 6' Pullup Jump Shot (9 PTS),,,18 - 37,19,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+148,0022200880,193,6,2,1,8:44 PM,0:30,,,Christopher S.FOUL (P1.PN) (M.Ervin),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+149,0022200880,195,3,10,1,8:45 PM,0:30,Gilgeous-Alexander Free Throw 1 of 1 (10 PTS),,,18 - 38,20,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+150,0022200880,196,6,2,1,8:45 PM,0:14,Saric S.FOUL (P2.PN) (J.Goble),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+151,0022200880,198,3,11,1,8:45 PM,0:14,,,Eason Free Throw 1 of 2 (2 PTS),19 - 38,19,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+152,0022200880,199,3,12,1,8:46 PM,0:14,,,Eason Free Throw 2 of 2 (3 PTS),20 - 38,18,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+153,0022200880,200,6,11,1,8:46 PM,0:14,THUNDER T.FOUL,,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,1
+154,0022200880,201,3,16,1,8:46 PM,0:14,,,Smith Jr. Free Throw Technical (4 PTS),21 - 38,17,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+155,0022200880,202,2,1,1,8:46 PM,0:04,MISS K. Williams 24' 3PT Jump Shot,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+156,0022200880,203,4,0,1,8:47 PM,0:00,,,Tate REBOUND (Off:0 Def:1),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+157,0022200880,204,2,79,1,8:47 PM,0:00,,,MISS Tate 49' 3PT Pullup Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+158,0022200880,205,4,0,1,8:47 PM,0:00,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+159,0022200880,206,13,0,1,8:47 PM,0:00,,End of 1st Period (8:47 PM EST),,21 - 38,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+160,0022200880,215,12,0,2,8:49 PM,12:00,,Start of 2nd Period (8:49 PM EST),,21 - 38,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+161,0022200880,216,2,1,2,8:50 PM,11:47,MISS Saric 26' 3PT Jump Shot,,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+162,0022200880,218,2,97,2,8:50 PM,11:42,MISS Jal. Williams Tip Layup Shot,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+163,0022200880,217,4,0,2,8:50 PM,11:42,Jal. Williams REBOUND (Off:2 Def:0),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+164,0022200880,219,4,0,2,8:50 PM,11:41,,,Smith Jr. REBOUND (Off:0 Def:3),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+165,0022200880,220,2,101,2,8:50 PM,11:36,,,MISS Washington Jr. 9' Driving Floating Jump Shot,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+166,0022200880,221,4,0,2,8:50 PM,11:33,Saric REBOUND (Off:1 Def:3),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+167,0022200880,222,6,2,2,8:50 PM,11:28,,,Garuba S.FOUL (P2.T1) (M.Ervin),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+168,0022200880,224,3,11,2,8:50 PM,11:28,Robinson-Earl Free Throw 1 of 2 (1 PTS),,,21 - 39,18,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+169,0022200880,225,3,12,2,8:50 PM,11:28,Robinson-Earl Free Throw 2 of 2 (2 PTS),,,21 - 40,19,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+170,0022200880,226,2,1,2,8:51 PM,11:05,,,MISS Washington Jr. 30' 3PT Jump Shot,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+171,0022200880,227,4,0,2,8:51 PM,11:02,K. Williams REBOUND (Off:0 Def:1),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+172,0022200880,228,1,1,2,8:51 PM,10:56,Saric 25' 3PT Jump Shot (8 PTS) (Giddey 2 AST),,,21 - 43,22,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+173,0022200880,230,1,102,2,8:51 PM,10:40,,,Smith Jr. 5' Driving Floating Bank Jump Shot (6 PTS) (Eason 1 AST),23 - 43,20,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+174,0022200880,231,6,2,2,8:51 PM,10:40,Robinson-Earl S.FOUL (P1.T1) (C.Washington),,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+175,0022200880,233,3,10,2,8:52 PM,10:40,,,Smith Jr. Free Throw 1 of 1 (7 PTS),24 - 43,19,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+176,0022200880,234,5,1,2,8:52 PM,10:29,K. Williams Bad Pass Turnover (P1.T2),,Eason STEAL (1 STL),,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+177,0022200880,236,2,79,2,8:52 PM,10:22,,,MISS Smith Jr. 20' Pullup Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+178,0022200880,237,4,0,2,8:52 PM,10:18,K. Williams REBOUND (Off:0 Def:2),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+179,0022200880,240,2,41,2,8:52 PM,10:13,MISS Giddey Running Layup,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+180,0022200880,242,1,97,2,8:52 PM,10:09,Jal. Williams Tip Layup Shot (8 PTS),,,24 - 45,21,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+181,0022200880,241,4,0,2,8:52 PM,10:09,Jal. Williams REBOUND (Off:3 Def:0),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+182,0022200880,243,5,4,2,8:53 PM,9:56,,,Eason Traveling Turnover (P1.T6),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+183,0022200880,244,1,44,2,8:53 PM,9:36,Robinson-Earl 1' Reverse Layup (4 PTS) (Giddey 3 AST),,,24 - 47,23,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+184,0022200880,246,2,47,2,8:54 PM,9:11,,,MISS Washington Jr. 7' Turnaround Jump Shot,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+185,0022200880,247,4,0,2,8:54 PM,9:09,Giddey REBOUND (Off:0 Def:3),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+186,0022200880,248,2,41,2,8:54 PM,9:04,MISS K. Williams 1' Running Layup,,Christopher BLOCK (1 BLK),,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,1
+187,0022200880,250,4,0,2,8:54 PM,9:02,,,Garuba REBOUND (Off:0 Def:2),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+188,0022200880,251,1,2,2,8:54 PM,8:57,,,Washington Jr. 3PT Running Jump Shot (3 PTS) (Christopher 1 AST),27 - 47,20,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+189,0022200880,253,6,2,2,8:54 PM,8:38,,,Christopher S.FOUL (P2.T2) (M.Ervin),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+190,0022200880,255,3,11,2,8:55 PM,8:38,Robinson-Earl Free Throw 1 of 2 (5 PTS),,,27 - 48,21,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+191,0022200880,258,3,12,2,8:55 PM,8:38,MISS Robinson-Earl Free Throw 2 of 2,,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+192,0022200880,256,8,0,2,8:55 PM,8:38,SUB: Waters III FOR Saric,,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+193,0022200880,259,4,0,2,8:55 PM,8:36,,,Smith Jr. REBOUND (Off:0 Def:4),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+194,0022200880,260,5,1,2,8:55 PM,8:19,Giddey STEAL (1 STL),,Christopher Bad Pass Turnover (P1.T7),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+195,0022200880,262,1,41,2,8:55 PM,8:15,Giddey 1' Running Layup (8 PTS),,,27 - 50,23,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+196,0022200880,263,9,1,2,8:55 PM,8:15,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+197,0022200880,264,8,0,2,8:57 PM,8:15,,,SUB: Kaminsky FOR Garuba,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+198,0022200880,265,8,0,2,8:57 PM,8:15,,,SUB: Martin Jr. FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+199,0022200880,268,1,1,2,8:58 PM,8:03,,,Washington Jr. 25' 3PT Jump Shot (6 PTS) (Kaminsky 1 AST),30 - 50,20,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+200,0022200880,271,1,79,2,8:59 PM,7:40,Waters III 24' 3PT Pullup Jump Shot (3 PTS) (Jal. Williams 1 AST),,,30 - 53,23,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+201,0022200880,273,1,1,2,8:59 PM,7:25,,,Kaminsky 16' Jump Shot (2 PTS) (Smith Jr. 2 AST),32 - 53,21,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+202,0022200880,275,1,5,2,8:59 PM,7:09,K. Williams 1' Layup (4 PTS) (Giddey 4 AST),,,32 - 55,23,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+203,0022200880,277,6,2,2,9:00 PM,6:53,Jal. Williams S.FOUL (P3.T2) (J.Goble),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+204,0022200880,279,3,11,2,9:00 PM,6:53,,,Smith Jr. Free Throw 1 of 2 (8 PTS),33 - 55,22,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+205,0022200880,280,8,0,2,9:00 PM,6:53,,,SUB: Green FOR Christopher,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+206,0022200880,282,8,0,2,9:00 PM,6:53,SUB: Dort FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+207,0022200880,284,3,12,2,9:01 PM,6:53,,,Smith Jr. Free Throw 2 of 2 (9 PTS),34 - 55,21,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+208,0022200880,285,2,1,2,9:01 PM,6:30,MISS Waters III 25' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+209,0022200880,286,4,0,2,9:01 PM,6:27,,,Martin Jr. REBOUND (Off:1 Def:2),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+210,0022200880,287,2,6,2,9:01 PM,6:20,K. Williams BLOCK (1 BLK),,MISS Martin Jr. 2' Driving Layup,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+211,0022200880,289,4,0,2,9:01 PM,6:18,Waters III REBOUND (Off:0 Def:1),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+212,0022200880,290,2,1,2,9:01 PM,6:08,MISS Dort 25' 3PT Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+213,0022200880,291,4,0,2,9:01 PM,6:04,K. Williams REBOUND (Off:1 Def:2),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+214,0022200880,292,1,1,2,9:02 PM,5:59,Waters III 25' 3PT Jump Shot (6 PTS) (Giddey 5 AST),,,34 - 58,24,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+215,0022200880,294,2,79,2,9:02 PM,5:41,,,MISS Smith Jr. 19' Pullup Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+216,0022200880,295,4,0,2,9:02 PM,5:39,K. Williams REBOUND (Off:1 Def:3),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+217,0022200880,296,2,41,2,9:02 PM,5:35,MISS Giddey 1' Running Layup,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+218,0022200880,297,4,0,2,9:02 PM,5:32,K. Williams REBOUND (Off:2 Def:3),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+219,0022200880,298,1,97,2,9:02 PM,5:32,K. Williams Tip Layup Shot (6 PTS),,,34 - 60,26,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+220,0022200880,299,2,1,2,9:02 PM,5:16,,,MISS Martin Jr. 27' 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+221,0022200880,300,4,0,2,9:02 PM,5:12,Waters III REBOUND (Off:0 Def:2),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+222,0022200880,301,2,1,2,9:02 PM,5:05,MISS K. Williams 25' 3PT Jump Shot,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+223,0022200880,302,4,0,2,9:02 PM,5:03,Robinson-Earl REBOUND (Off:1 Def:0),,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+224,0022200880,303,1,97,2,9:03 PM,5:03,Robinson-Earl Tip Layup Shot (7 PTS),,,34 - 62,28,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+225,0022200880,304,9,1,2,9:03 PM,5:03,,,Rockets Timeout: Regular (Reg.4 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+226,0022200880,305,8,0,2,9:05 PM,5:03,SUB: Gilgeous-Alexander FOR Giddey,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+227,0022200880,306,8,0,2,9:05 PM,5:03,SUB: Jay. Williams FOR K. Williams,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+228,0022200880,307,8,0,2,9:05 PM,5:03,SUB: Wiggins FOR Robinson-Earl,,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+229,0022200880,308,8,0,2,9:05 PM,5:03,,,SUB: Eason FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+230,0022200880,309,8,0,2,9:05 PM,5:03,,,SUB: Sengun FOR Washington Jr.,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+231,0022200880,310,8,0,2,9:05 PM,5:03,,,SUB: Tate FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+232,0022200880,317,1,1,2,9:06 PM,4:43,,,Tate 25' 3PT Jump Shot (10 PTS) (Green 1 AST),37 - 62,25,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+233,0022200880,319,6,2,2,9:06 PM,4:26,,,Eason S.FOUL (P2.T3) (M.Ervin),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+234,0022200880,321,3,11,2,9:07 PM,4:26,Wiggins Free Throw 1 of 2 (1 PTS),,,37 - 63,26,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+235,0022200880,322,3,12,2,9:07 PM,4:26,Wiggins Free Throw 2 of 2 (2 PTS),,,37 - 64,27,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+236,0022200880,323,6,26,2,9:07 PM,4:17,,,Sengun Offensive Charge Foul (P3) (M.Ervin),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+237,0022200880,325,5,37,2,9:07 PM,4:17,,,Sengun Offensive Foul Turnover (P2.T8),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+238,0022200880,326,1,7,2,9:08 PM,4:05,Wiggins 1' Dunk (4 PTS) (Gilgeous-Alexander 2 AST),,,37 - 66,29,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+239,0022200880,328,5,1,2,9:08 PM,3:46,Jay. Williams STEAL (1 STL),,Tate Bad Pass Turnover (P2.T9),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+240,0022200880,330,1,79,2,9:08 PM,3:37,Gilgeous-Alexander 12' Pullup Jump Shot (12 PTS),,,37 - 68,31,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+241,0022200880,331,1,79,2,9:08 PM,3:28,,,Green 29' 3PT Pullup Jump Shot (6 PTS),40 - 68,28,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+242,0022200880,332,6,2,2,9:08 PM,3:17,,,Tate S.FOUL (P2.T4) (C.Washington),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+243,0022200880,334,3,11,2,9:09 PM,3:17,Gilgeous-Alexander Free Throw 1 of 2 (13 PTS),,,40 - 69,29,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+244,0022200880,335,8,0,2,9:09 PM,3:17,,,SUB: Smith Jr. FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+245,0022200880,337,3,12,2,9:09 PM,3:17,Gilgeous-Alexander Free Throw 2 of 2 (14 PTS),,,40 - 70,30,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+246,0022200880,338,2,80,2,9:09 PM,3:00,,,MISS Green 16' Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+247,0022200880,339,4,0,2,9:09 PM,2:55,,,Martin Jr. REBOUND (Off:2 Def:2),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+248,0022200880,340,6,2,2,9:10 PM,2:53,Gilgeous-Alexander S.FOUL (P2.T3) (C.Washington),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+249,0022200880,342,3,11,2,9:10 PM,2:53,,,Green Free Throw 1 of 2 (7 PTS),41 - 70,29,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+250,0022200880,343,8,0,2,9:10 PM,2:53,SUB: Giddey FOR Waters III,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+251,0022200880,345,3,12,2,9:10 PM,2:53,,,Green Free Throw 2 of 2 (8 PTS),42 - 70,28,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+252,0022200880,346,2,5,2,9:11 PM,2:31,MISS Jay. Williams 4' Layup,,Smith Jr. BLOCK (1 BLK),,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+253,0022200880,348,4,0,2,9:11 PM,2:27,,,Smith Jr. REBOUND (Off:0 Def:5),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+254,0022200880,349,1,6,2,9:11 PM,2:23,,,Green 3' Driving Layup (10 PTS),44 - 70,26,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+255,0022200880,350,6,2,2,9:11 PM,2:23,Giddey S.FOUL (P1.T4) (J.Goble),,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+256,0022200880,352,3,10,2,9:11 PM,2:23,,,Green Free Throw 1 of 1 (11 PTS),45 - 70,25,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+257,0022200880,353,2,6,2,9:11 PM,2:16,MISS Gilgeous-Alexander 2' Driving Layup,,Green BLOCK (1 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1
+258,0022200880,355,4,0,2,9:11 PM,2:13,,,Sengun REBOUND (Off:3 Def:4),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+259,0022200880,356,1,2,2,9:11 PM,2:09,,,Green 27' 3PT Running Jump Shot (14 PTS) (Sengun 1 AST),48 - 70,22,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+260,0022200880,358,9,1,2,9:12 PM,2:08,THUNDER Timeout: Regular (Full 2 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+261,0022200880,359,2,1,2,9:13 PM,1:58,MISS Dort 27' 3PT Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+262,0022200880,360,4,0,2,9:13 PM,1:55,,,Martin Jr. REBOUND (Off:2 Def:3),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+263,0022200880,361,2,6,2,9:13 PM,1:43,Giddey BLOCK (1 BLK),,MISS Green 4' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1
+264,0022200880,363,4,0,2,9:13 PM,1:43,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+265,0022200880,367,1,78,2,9:15 PM,1:34,,,Sengun 12' Floating Jump Shot (4 PTS) (Green 2 AST),50 - 70,20,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+266,0022200880,369,6,2,2,9:15 PM,1:23,,,Tate S.FOUL (P3.PN) (J.Goble),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+267,0022200880,371,3,11,2,9:15 PM,1:23,Gilgeous-Alexander Free Throw 1 of 2 (15 PTS),,,50 - 71,21,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+268,0022200880,372,3,12,2,9:15 PM,1:23,Gilgeous-Alexander Free Throw 2 of 2 (16 PTS),,,50 - 72,22,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+269,0022200880,373,2,1,2,9:16 PM,1:11,,,MISS Green 25' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+270,0022200880,374,4,0,2,9:16 PM,1:09,,,Tate REBOUND (Off:1 Def:1),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+271,0022200880,375,6,1,2,9:16 PM,1:09,Wiggins P.FOUL (P1.PN) (J.Goble),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+272,0022200880,377,3,11,2,9:16 PM,1:09,,,MISS Tate Free Throw 1 of 2,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+273,0022200880,378,4,1,2,9:16 PM,1:09,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+274,0022200880,379,8,0,2,9:16 PM,1:09,SUB: Joe FOR Wiggins,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+275,0022200880,381,3,12,2,9:17 PM,1:09,,,Tate Free Throw 2 of 2 (11 PTS),51 - 72,21,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+276,0022200880,382,1,52,2,9:17 PM,1:01,Dort 1' Alley Oop Dunk (9 PTS) (Giddey 6 AST),,,51 - 74,23,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+277,0022200880,384,1,58,2,9:17 PM,0:39,,,Sengun 11' Turnaround Hook Shot (6 PTS) (Martin Jr. 1 AST),53 - 74,21,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+278,0022200880,386,6,28,2,9:17 PM,0:35,,,Green Personal Take Foul (P2.PN) (J.Goble),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+279,0022200880,388,3,11,2,9:18 PM,0:35,Joe Free Throw 1 of 2 (3 PTS),,,53 - 75,22,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+280,0022200880,389,8,0,2,9:18 PM,0:35,,,SUB: Christopher FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+281,0022200880,391,3,12,2,9:18 PM,0:35,Joe Free Throw 2 of 2 (4 PTS),,,53 - 76,23,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+282,0022200880,392,6,2,2,9:19 PM,0:17,Dort S.FOUL (P3.PN) (C.Washington),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+283,0022200880,394,3,11,2,9:19 PM,0:17,,,MISS Martin Jr. Free Throw 1 of 2,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+284,0022200880,395,4,1,2,9:19 PM,0:17,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+285,0022200880,396,8,0,2,9:19 PM,0:17,SUB: Saric FOR Jay. Williams,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+286,0022200880,397,8,0,2,9:19 PM,0:17,,,SUB: Garuba FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+287,0022200880,398,8,0,2,9:19 PM,0:17,,,SUB: Eason FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+288,0022200880,402,3,12,2,9:19 PM,0:17,,,Martin Jr. Free Throw 2 of 2 (2 PTS),54 - 76,22,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+289,0022200880,403,2,6,2,9:20 PM,0:00,MISS Gilgeous-Alexander 4' Driving Layup,,Martin Jr. BLOCK (1 BLK),,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1
+290,0022200880,405,4,0,2,9:20 PM,0:00,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+291,0022200880,406,13,0,2,9:21 PM,0:00,,End of 2nd Period (9:21 PM EST),,54 - 76,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+292,0022200880,417,12,0,3,9:35 PM,12:00,,Start of 3rd Period (9:35 PM EST),,54 - 76,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+293,0022200880,418,1,1,3,9:35 PM,11:42,Jay. Williams 22' Jump Shot (2 PTS) (Dort 1 AST),,,54 - 78,24,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+294,0022200880,420,6,1,3,9:36 PM,11:28,Jay. Williams P.FOUL (P1.T1) (M.Ervin),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+295,0022200880,422,2,6,3,9:36 PM,11:17,,,MISS Tate 5' Driving Layup,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+296,0022200880,423,4,0,3,9:36 PM,11:16,Jay. Williams REBOUND (Off:0 Def:7),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+297,0022200880,424,2,41,3,9:36 PM,11:13,MISS Giddey 5' Running Layup,,Smith Jr. BLOCK (2 BLK),,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+298,0022200880,426,4,0,3,9:36 PM,11:10,,,Martin Jr. REBOUND (Off:2 Def:4),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+299,0022200880,427,2,2,3,9:36 PM,11:08,,,MISS Washington Jr. 26' 3PT Running Jump Shot,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+300,0022200880,429,4,0,3,9:36 PM,11:02,Dort REBOUND (Off:0 Def:1),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+301,0022200880,430,6,2,3,9:36 PM,10:59,,,Sengun S.FOUL (P4.T1) (M.Ervin),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+302,0022200880,432,3,11,3,9:37 PM,10:59,Giddey Free Throw 1 of 2 (9 PTS),,,54 - 79,25,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+303,0022200880,435,3,12,3,9:37 PM,10:59,MISS Giddey Free Throw 2 of 2,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+304,0022200880,659,8,0,3,9:37 PM,10:59,,,SUB: Eason FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+305,0022200880,436,4,0,3,9:37 PM,10:58,,,Smith Jr. REBOUND (Off:0 Def:6),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+306,0022200880,437,2,6,3,9:38 PM,10:44,,,MISS Washington Jr. 3' Driving Layup,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+307,0022200880,438,4,0,3,9:38 PM,10:42,,,Sengun REBOUND (Off:4 Def:4),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+308,0022200880,439,6,2,3,9:38 PM,10:41,Jay. Williams S.FOUL (P2.T2) (M.Ervin),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+309,0022200880,441,3,11,3,9:38 PM,10:41,,,MISS Eason Free Throw 1 of 2,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+310,0022200880,442,4,1,3,9:38 PM,10:41,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+311,0022200880,443,3,12,3,9:38 PM,10:41,,,Eason Free Throw 2 of 2 (4 PTS),55 - 79,24,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+312,0022200880,444,2,1,3,9:39 PM,10:29,MISS Jal. Williams 26' 3PT Jump Shot,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+313,0022200880,445,4,0,3,9:39 PM,10:26,Dort REBOUND (Off:1 Def:1),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+314,0022200880,446,2,1,3,9:39 PM,10:21,MISS Jay. Williams 26' 3PT Jump Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+315,0022200880,447,4,0,3,9:39 PM,10:18,,,Eason REBOUND (Off:0 Def:1),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+316,0022200880,448,5,1,3,9:39 PM,10:14,Jay. Williams STEAL (2 STL),,Eason Bad Pass Turnover (P2.T10),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+317,0022200880,450,2,2,3,9:39 PM,10:09,MISS Dort 3PT Running Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+318,0022200880,451,4,0,3,9:39 PM,10:05,,,Sengun REBOUND (Off:4 Def:5),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+319,0022200880,452,1,41,3,9:39 PM,10:01,,,Martin Jr. 1' Running Layup (4 PTS) (Sengun 2 AST),57 - 79,22,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+320,0022200880,454,2,6,3,9:39 PM,9:45,MISS Gilgeous-Alexander 3' Driving Layup,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+321,0022200880,455,4,0,3,9:39 PM,9:42,,,Washington Jr. REBOUND (Off:0 Def:1),,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+322,0022200880,456,2,1,3,9:39 PM,9:34,,,MISS Smith Jr. 25' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+323,0022200880,457,4,0,3,9:39 PM,9:32,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+324,0022200880,459,1,85,3,9:40 PM,9:19,,,Sengun 14' Turnaround Bank Shot (8 PTS) (Eason 2 AST),59 - 79,20,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+325,0022200880,460,1,1,3,9:40 PM,9:00,Jay. Williams 26' 3PT Jump Shot (5 PTS) (Jal. Williams 2 AST),,,59 - 82,23,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+326,0022200880,462,6,2,3,9:41 PM,8:43,Jay. Williams S.FOUL (P3.T3) (J.Goble),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+327,0022200880,464,3,11,3,9:41 PM,8:43,,,MISS Smith Jr. Free Throw 1 of 2,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+328,0022200880,465,4,1,3,9:41 PM,8:43,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+329,0022200880,466,8,0,3,9:41 PM,8:43,,,SUB: Tate FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+330,0022200880,468,3,12,3,9:42 PM,8:43,,,Smith Jr. Free Throw 2 of 2 (10 PTS),60 - 82,22,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+331,0022200880,469,9,1,3,9:42 PM,8:43,THUNDER Timeout: Regular (Full 3 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+332,0022200880,470,1,98,3,9:45 PM,8:29,Giddey 2' Cutting Layup Shot (11 PTS) (Dort 2 AST),,,60 - 84,24,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+333,0022200880,472,5,45,3,9:45 PM,8:14,,,Sengun Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+334,0022200880,473,2,80,3,9:45 PM,8:08,MISS Gilgeous-Alexander 27' 3PT Step Back Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+335,0022200880,474,4,0,3,9:45 PM,8:05,,,Smith Jr. REBOUND (Off:0 Def:7),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+336,0022200880,475,2,58,3,9:45 PM,7:54,,,MISS Tate 5' Turnaround Hook Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+337,0022200880,476,4,0,3,9:45 PM,7:52,Jay. Williams REBOUND (Off:0 Def:8),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+338,0022200880,478,5,1,3,9:46 PM,7:42,Giddey Bad Pass Turnover (P2.T3),,Smith Jr. STEAL (2 STL),,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+339,0022200880,480,5,1,3,9:46 PM,7:36,Jal. Williams STEAL (1 STL),,Martin Jr. Bad Pass Turnover (P1.T12),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+340,0022200880,482,6,2,3,9:46 PM,7:33,,,Tate S.FOUL (P4.T2) (J.Goble),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+341,0022200880,484,3,11,3,9:46 PM,7:33,Jal. Williams Free Throw 1 of 2 (9 PTS),,,60 - 85,25,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+342,0022200880,485,3,12,3,9:46 PM,7:33,Jal. Williams Free Throw 2 of 2 (10 PTS),,,60 - 86,26,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+343,0022200880,486,2,79,3,9:47 PM,7:22,,,MISS Sengun 17' Pullup Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+344,0022200880,487,4,0,3,9:47 PM,7:18,Jay. Williams REBOUND (Off:0 Def:9),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+345,0022200880,488,1,6,3,9:47 PM,7:03,Giddey 2' Driving Layup (13 PTS) (Dort 3 AST),,,60 - 88,28,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+346,0022200880,489,2,1,3,9:48 PM,6:47,,,MISS Martin Jr. 26' 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+347,0022200880,490,4,0,3,9:48 PM,6:44,,,Smith Jr. REBOUND (Off:1 Def:7),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+348,0022200880,491,1,78,3,9:48 PM,6:42,,,Smith Jr. 4' Floating Jump Shot (12 PTS),62 - 88,26,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+349,0022200880,492,1,1,3,9:48 PM,6:24,Jal. Williams 3PT Jump Shot (13 PTS) (Gilgeous-Alexander 3 AST),,,62 - 91,29,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+350,0022200880,494,5,1,3,9:48 PM,6:09,Dort STEAL (1 STL),,Smith Jr. Bad Pass Turnover (P2.T13),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+351,0022200880,496,1,41,3,9:48 PM,6:04,Dort 4' Running Layup (11 PTS),,,62 - 93,31,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+352,0022200880,497,2,6,3,9:48 PM,5:52,,,MISS Martin Jr. 3' Driving Layup,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+353,0022200880,498,4,0,3,9:48 PM,5:50,Jay. Williams REBOUND (Off:0 Def:10),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+354,0022200880,499,5,40,3,9:49 PM,5:44,Jal. Williams Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+355,0022200880,500,2,58,3,9:49 PM,5:32,,,MISS Sengun 5' Turnaround Hook Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+356,0022200880,501,4,0,3,9:49 PM,5:29,,,Sengun REBOUND (Off:5 Def:5),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+357,0022200880,502,2,97,3,9:49 PM,5:29,,,MISS Sengun Tip Layup Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+358,0022200880,503,4,0,3,9:49 PM,5:28,Jay. Williams REBOUND (Off:0 Def:11),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+359,0022200880,505,1,1,3,9:49 PM,5:22,Jay. Williams 26' 3PT Jump Shot (8 PTS) (Gilgeous-Alexander 4 AST),,,62 - 96,34,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+360,0022200880,507,9,1,3,9:49 PM,5:20,,,Rockets Timeout: Regular (Reg.5 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+361,0022200880,508,8,0,3,9:52 PM,5:20,,,SUB: Days FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+362,0022200880,509,8,0,3,9:52 PM,5:20,,,SUB: Kaminsky FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+363,0022200880,512,2,1,3,9:52 PM,5:11,,,MISS Washington Jr. 25' 3PT Jump Shot,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+364,0022200880,513,4,0,3,9:52 PM,5:07,,,Smith Jr. REBOUND (Off:2 Def:7),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+365,0022200880,514,1,1,3,9:52 PM,4:59,,,Days 3PT Jump Shot (3 PTS) (Kaminsky 2 AST),65 - 96,31,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+366,0022200880,516,6,2,3,9:53 PM,4:43,,,Smith Jr. S.FOUL (P3.T3) (C.Washington),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+367,0022200880,519,3,11,3,9:53 PM,4:43,Dort Free Throw 1 of 2 (12 PTS),,,65 - 97,32,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+368,0022200880,520,8,0,3,9:53 PM,4:43,SUB: K. Williams FOR Giddey,,,,,4,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+369,0022200880,521,8,0,3,9:53 PM,4:43,SUB: Joe FOR Jay. Williams,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+370,0022200880,522,8,0,3,9:53 PM,4:43,SUB: Robinson-Earl FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+371,0022200880,526,3,12,3,9:54 PM,4:43,Dort Free Throw 2 of 2 (13 PTS),,,65 - 98,33,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+372,0022200880,527,1,101,3,9:54 PM,4:30,,,Washington Jr. 7' Driving Floating Jump Shot (8 PTS),67 - 98,31,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+373,0022200880,528,1,1,3,9:54 PM,4:15,Joe 25' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 5 AST),,,67 - 101,34,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+374,0022200880,530,1,1,3,9:54 PM,3:56,,,Smith Jr. 26' 3PT Jump Shot (15 PTS) (Martin Jr. 2 AST),70 - 101,31,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+375,0022200880,532,1,108,3,9:55 PM,3:39,Dort 1' Cutting Dunk Shot (15 PTS) (Gilgeous-Alexander 6 AST),,,70 - 103,33,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+376,0022200880,534,2,1,3,9:55 PM,3:24,,,MISS Days 26' 3PT Jump Shot,,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+377,0022200880,535,4,0,3,9:55 PM,3:23,,,Kaminsky REBOUND (Off:1 Def:0),,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+378,0022200880,536,6,1,3,9:55 PM,3:22,K. Williams P.FOUL (P1.T4) (C.Washington),,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+379,0022200880,538,8,0,3,9:55 PM,3:22,,,SUB: Eason FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+380,0022200880,540,1,101,3,9:56 PM,3:11,,,Eason 7' Driving Floating Jump Shot (6 PTS) (Kaminsky 3 AST),72 - 103,31,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+381,0022200880,542,6,2,3,9:56 PM,3:11,Gilgeous-Alexander S.FOUL (P3.PN) (M.Ervin),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+382,0022200880,544,3,10,3,9:56 PM,3:11,,,Eason Free Throw 1 of 1 (7 PTS),73 - 103,30,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+383,0022200880,545,1,80,3,9:56 PM,3:04,Gilgeous-Alexander 7' Step Back Jump Shot (18 PTS),,,73 - 105,32,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+384,0022200880,546,2,3,3,9:57 PM,2:48,,,MISS Kaminsky 7' Hook Shot,,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+385,0022200880,547,4,0,3,9:57 PM,2:46,Dort REBOUND (Off:1 Def:2),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+386,0022200880,548,2,98,3,9:57 PM,2:38,MISS K. Williams 2' Cutting Layup Shot,,Kaminsky BLOCK (1 BLK),,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,1
+387,0022200880,550,4,0,3,9:57 PM,2:36,,,Kaminsky REBOUND (Off:1 Def:1),,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+388,0022200880,551,2,41,3,9:57 PM,2:31,,,MISS Washington Jr. 3' Running Layup,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+389,0022200880,552,4,0,3,9:57 PM,2:29,Gilgeous-Alexander REBOUND (Off:0 Def:2),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+390,0022200880,553,5,45,3,9:57 PM,2:26,Gilgeous-Alexander Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+391,0022200880,554,8,0,3,9:57 PM,2:26,SUB: Jal. Williams FOR Dort,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+392,0022200880,555,8,0,3,9:57 PM,2:26,,,SUB: Christopher FOR Washington Jr.,,,5,1631102,TyTy Washington Jr.,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+393,0022200880,558,2,1,3,9:57 PM,2:12,Gilgeous-Alexander BLOCK (2 BLK),,MISS Days 3PT Jump Shot,,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+394,0022200880,560,4,0,3,9:58 PM,2:05,Jal. Williams REBOUND (Off:3 Def:1),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+395,0022200880,561,5,2,3,9:58 PM,2:02,Jal. Williams Lost Ball Turnover (P2.T6),,Christopher STEAL (1 STL),,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+396,0022200880,563,6,26,3,9:58 PM,1:59,,,Christopher Offensive Charge Foul (P3) (J.Goble),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+397,0022200880,565,5,37,3,9:58 PM,1:59,,,Christopher Offensive Foul Turnover (P2.T14),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+398,0022200880,566,1,6,3,9:58 PM,1:48,Gilgeous-Alexander 2' Driving Layup (20 PTS),,,73 - 107,34,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+399,0022200880,567,2,79,3,9:58 PM,1:33,,,MISS Smith Jr. 27' 3PT Pullup Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+400,0022200880,568,4,0,3,9:58 PM,1:31,,,Eason REBOUND (Off:1 Def:1),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+401,0022200880,569,6,2,3,9:58 PM,1:31,Jal. Williams S.FOUL (P4.PN) (J.Goble),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+402,0022200880,571,3,11,3,9:59 PM,1:31,,,MISS Eason Free Throw 1 of 2,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+403,0022200880,572,4,1,3,9:59 PM,1:31,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+404,0022200880,573,8,0,3,9:59 PM,1:31,,,SUB: Hudgins FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+405,0022200880,575,3,12,3,9:59 PM,1:31,,,Eason Free Throw 2 of 2 (8 PTS),74 - 107,33,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+406,0022200880,576,1,6,3,9:59 PM,1:24,Gilgeous-Alexander 4' Driving Layup (22 PTS),,,74 - 109,35,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+407,0022200880,577,6,2,3,9:59 PM,1:24,,,Eason S.FOUL (P3.T4) (M.Ervin),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+408,0022200880,579,3,10,3,10:00 PM,1:24,Gilgeous-Alexander Free Throw 1 of 1 (23 PTS),,,74 - 110,36,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+409,0022200880,580,2,1,3,10:00 PM,1:12,,,MISS Days 25' 3PT Jump Shot,,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+410,0022200880,581,4,0,3,10:00 PM,1:09,Joe REBOUND (Off:0 Def:1),,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+411,0022200880,582,6,2,3,10:00 PM,1:02,,,Eason S.FOUL (P4.PN) (J.Goble),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+412,0022200880,584,3,11,3,10:01 PM,1:02,Gilgeous-Alexander Free Throw 1 of 2 (24 PTS),,,74 - 111,37,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+413,0022200880,585,3,12,3,10:01 PM,1:02,Gilgeous-Alexander Free Throw 2 of 2 (25 PTS),,,74 - 112,38,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+414,0022200880,586,1,6,3,10:01 PM,0:44,,,Eason 1' Driving Layup (10 PTS) (Christopher 2 AST),76 - 112,36,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+415,0022200880,588,6,2,3,10:01 PM,0:32,,,Eason S.FOUL (P5.PN) (C.Washington),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+416,0022200880,590,3,11,3,10:02 PM,0:32,Gilgeous-Alexander Free Throw 1 of 2 (26 PTS),,,76 - 113,37,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+417,0022200880,591,3,12,3,10:02 PM,0:32,Gilgeous-Alexander Free Throw 2 of 2 (27 PTS),,,76 - 114,38,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+418,0022200880,592,2,75,3,10:02 PM,0:13,,,MISS Christopher 4' Driving Finger Roll Layup,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+419,0022200880,593,4,0,3,10:02 PM,0:11,Robinson-Earl REBOUND (Off:1 Def:1),,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+420,0022200880,594,1,50,3,10:02 PM,0:08,Gilgeous-Alexander 1' Running Dunk (29 PTS) (K. Williams 2 AST),,,76 - 116,40,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+421,0022200880,596,1,98,3,10:03 PM,0:02,,,Days 2' Cutting Layup Shot (5 PTS) (Kaminsky 4 AST),78 - 116,38,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+422,0022200880,598,2,79,3,10:03 PM,0:00,MISS Gilgeous-Alexander 47' 3PT Pullup Jump Shot,,,,,4,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+423,0022200880,599,4,0,3,10:03 PM,0:00,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+424,0022200880,600,13,0,3,10:03 PM,0:00,,End of 3rd Period (10:03 PM EST),,78 - 116,38,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+425,0022200880,605,12,0,4,10:05 PM,12:00,,Start of 4th Period (10:05 PM EST),,78 - 116,38,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+426,0022200880,606,1,1,4,10:06 PM,11:46,,,Hudgins 31' 3PT Jump Shot (3 PTS) (Christopher 3 AST),81 - 116,35,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+427,0022200880,609,1,58,4,10:06 PM,11:21,Saric 6' Turnaround Hook Shot (10 PTS),,,81 - 118,37,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+428,0022200880,610,2,1,4,10:07 PM,11:00,,,MISS Days 24' 3PT Jump Shot,,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+429,0022200880,611,4,0,4,10:07 PM,10:56,Joe REBOUND (Off:0 Def:2),,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+430,0022200880,612,2,1,4,10:07 PM,10:51,MISS Joe 26' 3PT Jump Shot,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+431,0022200880,613,4,0,4,10:07 PM,10:49,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+432,0022200880,615,2,6,4,10:07 PM,10:34,,,MISS Hudgins 4' Driving Layup,,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+433,0022200880,616,4,0,4,10:07 PM,10:32,Joe REBOUND (Off:0 Def:3),,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+434,0022200880,617,1,74,4,10:07 PM,10:28,Robinson-Earl Running Reverse Layup (9 PTS) (Joe 1 AST),,,81 - 120,39,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+435,0022200880,619,6,2,4,10:08 PM,10:13,Saric S.FOUL (P3.T1) (J.Goble),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+436,0022200880,621,3,11,4,10:08 PM,10:13,,,Kaminsky Free Throw 1 of 2 (3 PTS),82 - 120,38,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+437,0022200880,622,8,0,4,10:08 PM,10:13,SUB: Mann FOR K. Williams,,,,,4,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+438,0022200880,624,3,12,4,10:08 PM,10:13,,,Kaminsky Free Throw 2 of 2 (4 PTS),83 - 120,37,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+439,0022200880,625,6,2,4,10:09 PM,9:58,,,Kaminsky S.FOUL (P1.T1) (M.Ervin),,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+440,0022200880,627,3,11,4,10:09 PM,9:58,Saric Free Throw 1 of 2 (11 PTS),,,83 - 121,38,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+441,0022200880,628,3,12,4,10:09 PM,9:58,Saric Free Throw 2 of 2 (12 PTS),,,83 - 122,39,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+442,0022200880,629,2,80,4,10:10 PM,9:41,,,MISS Hudgins 25' 3PT Step Back Jump Shot,,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+443,0022200880,630,4,0,4,10:10 PM,9:38,Saric REBOUND (Off:1 Def:4),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+444,0022200880,631,2,2,4,10:10 PM,9:33,MISS Waters III 30' 3PT Running Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+445,0022200880,632,4,0,4,10:10 PM,9:29,,,Eason REBOUND (Off:1 Def:2),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+446,0022200880,633,2,1,4,10:10 PM,9:20,,,MISS Kaminsky 27' 3PT Jump Shot,,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+447,0022200880,634,4,0,4,10:10 PM,9:17,Robinson-Earl REBOUND (Off:1 Def:2),,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+448,0022200880,635,2,1,4,10:10 PM,8:58,MISS Waters III 26' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+449,0022200880,636,4,0,4,10:10 PM,8:58,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+450,0022200880,637,6,3,4,10:11 PM,8:58,,,Hudgins L.B.FOUL (P1.T2) (C.Washington),,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+451,0022200880,639,8,0,4,10:11 PM,8:58,SUB: Omoruyi FOR Robinson-Earl,,,,,4,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+452,0022200880,641,8,0,4,10:11 PM,8:58,,,SUB: Garuba FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+453,0022200880,643,2,80,4,10:11 PM,8:52,MISS Mann 26' 3PT Step Back Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+454,0022200880,644,4,0,4,10:11 PM,8:49,,,Days REBOUND (Off:0 Def:1),,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+455,0022200880,645,1,79,4,10:11 PM,8:37,,,Christopher 14' Pullup Jump Shot (3 PTS) (Kaminsky 5 AST),85 - 122,37,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+456,0022200880,647,5,45,4,10:12 PM,8:17,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+457,0022200880,648,2,1,4,10:12 PM,8:07,,,MISS Kaminsky 25' 3PT Jump Shot,,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+458,0022200880,649,4,0,4,10:12 PM,8:04,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+459,0022200880,651,2,79,4,10:13 PM,7:46,MISS Saric 26' 3PT Pullup Jump Shot,,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+460,0022200880,652,4,0,4,10:13 PM,7:43,,,Days REBOUND (Off:0 Def:2),,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+461,0022200880,653,1,41,4,10:13 PM,7:34,,,Christopher 1' Running Layup (5 PTS),87 - 122,35,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+462,0022200880,654,2,80,4,10:13 PM,7:18,MISS Joe 19' Step Back Jump Shot,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+463,0022200880,655,4,0,4,10:13 PM,7:15,,,Kaminsky REBOUND (Off:1 Def:2),,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+464,0022200880,656,1,1,4,10:13 PM,7:06,,,Christopher 3PT Jump Shot (8 PTS) (Garuba 1 AST),90 - 122,32,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+465,0022200880,658,9,1,4,10:13 PM,7:06,THUNDER Timeout: Regular (Full 4 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+466,0022200880,661,8,0,4,10:15 PM,7:06,,,SUB: Marjanovic FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612745.0,Houston,Rockets,HOU,5,1626246,Boban Marjanovic,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+467,0022200880,663,5,1,4,10:16 PM,6:54,Saric Bad Pass Turnover (P2.T8),,Garuba STEAL (1 STL),,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+468,0022200880,665,2,80,4,10:17 PM,6:35,,,MISS Hudgins 27' 3PT Step Back Jump Shot,,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+469,0022200880,666,4,0,4,10:17 PM,6:34,,,Christopher REBOUND (Off:1 Def:0),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+470,0022200880,674,5,1,4,10:17 PM,6:32,Omoruyi STEAL (1 STL),,Christopher Bad Pass Turnover (P3.T15),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+471,0022200880,667,1,1,4,10:17 PM,6:24,Mann 3PT Jump Shot (3 PTS) (Joe 2 AST),,,90 - 125,35,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+472,0022200880,670,2,79,4,10:18 PM,6:04,,,MISS Hudgins 26' 3PT Pullup Jump Shot,,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+473,0022200880,671,4,0,4,10:18 PM,5:59,Omoruyi REBOUND (Off:0 Def:1),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+474,0022200880,672,1,41,4,10:18 PM,5:58,Omoruyi 1' Running Layup (2 PTS),,,90 - 127,37,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+475,0022200880,673,6,2,4,10:18 PM,5:58,,,Garuba S.FOUL (P3.T3) (M.Ervin),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+476,0022200880,677,8,0,4,10:18 PM,5:58,SUB: Jay. Williams FOR Saric,,,,,4,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+477,0022200880,678,8,0,4,10:18 PM,5:58,SUB: Wiggins FOR Joe,,,,,4,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+478,0022200880,681,3,10,4,10:18 PM,5:58,Omoruyi Free Throw 1 of 1 (3 PTS),,,90 - 128,38,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+479,0022200880,682,5,1,4,10:19 PM,5:45,Waters III STEAL (1 STL),,Garuba Bad Pass Turnover (P1.T16),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+480,0022200880,684,2,1,4,10:19 PM,5:33,MISS Jay. Williams 26' 3PT Jump Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+481,0022200880,685,4,0,4,10:19 PM,5:29,,,Days REBOUND (Off:0 Def:3),,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+482,0022200880,686,2,1,4,10:19 PM,5:23,,,MISS Hudgins 26' 3PT Jump Shot,,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+483,0022200880,687,4,0,4,10:19 PM,5:20,Wiggins REBOUND (Off:0 Def:1),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+484,0022200880,688,6,2,4,10:19 PM,5:12,,,Days S.FOUL (P1.T4) (C.Washington),,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+485,0022200880,690,3,11,4,10:20 PM,5:12,MISS Mann Free Throw 1 of 2,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+486,0022200880,691,4,1,4,10:20 PM,5:12,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+487,0022200880,692,3,12,4,10:20 PM,5:12,Mann Free Throw 2 of 2 (4 PTS),,,90 - 129,39,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+488,0022200880,693,2,85,4,10:20 PM,4:55,,,MISS Marjanovic 9' Turnaround Bank Shot,,,5,1626246,Boban Marjanovic,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+489,0022200880,694,4,0,4,10:20 PM,4:52,Jay. Williams REBOUND (Off:0 Def:12),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+490,0022200880,695,6,1,4,10:20 PM,4:49,,,Christopher P.FOUL (P4.PN) (J.Goble),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+491,0022200880,697,3,11,4,10:21 PM,4:49,Omoruyi Free Throw 1 of 2 (4 PTS),,,90 - 130,40,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+492,0022200880,698,3,12,4,10:21 PM,4:49,MISS Omoruyi Free Throw 2 of 2,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+493,0022200880,699,4,0,4,10:21 PM,4:48,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+494,0022200880,701,2,79,4,10:21 PM,4:37,,,MISS Hudgins 27' 3PT Pullup Jump Shot,,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+495,0022200880,702,4,0,4,10:21 PM,4:36,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+496,0022200880,704,2,79,4,10:22 PM,4:27,,,MISS Christopher 13' Pullup Jump Shot,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+497,0022200880,705,4,0,4,10:22 PM,4:25,Jay. Williams REBOUND (Off:0 Def:13),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+498,0022200880,706,7,5,4,10:22 PM,4:18,,,Days Violation:Kicked Ball (C.Washington),,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+499,0022200880,707,6,2,4,10:22 PM,4:12,,,Days S.FOUL (P2.PN) (C.Washington),,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+500,0022200880,709,3,11,4,10:23 PM,4:12,Wiggins Free Throw 1 of 2 (5 PTS),,,90 - 131,41,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+501,0022200880,710,3,12,4,10:23 PM,4:12,Wiggins Free Throw 2 of 2 (6 PTS),,,90 - 132,42,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+502,0022200880,711,2,47,4,10:23 PM,3:53,,,MISS Marjanovic 10' Turnaround Jump Shot,,,5,1626246,Boban Marjanovic,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+503,0022200880,712,4,0,4,10:23 PM,3:51,Jay. Williams REBOUND (Off:0 Def:14),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+504,0022200880,713,2,102,4,10:24 PM,3:40,MISS Omoruyi 4' Driving Floating Bank Jump Shot,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+505,0022200880,714,4,0,4,10:24 PM,3:37,,,Christopher REBOUND (Off:1 Def:1),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+506,0022200880,715,1,41,4,10:24 PM,3:33,,,Christopher 2' Running Layup (10 PTS),92 - 132,40,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+507,0022200880,716,5,45,4,10:24 PM,3:10,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+508,0022200880,717,2,1,4,10:24 PM,3:01,,,MISS Days 3PT Jump Shot,,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+509,0022200880,718,4,0,4,10:24 PM,2:58,,,Garuba REBOUND (Off:1 Def:2),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+510,0022200880,719,6,2,4,10:24 PM,2:57,Omoruyi S.FOUL (P1.T2) (C.Washington),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+511,0022200880,721,9,1,4,10:25 PM,2:57,,,Rockets Timeout: Regular (Reg.6 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+512,0022200880,722,3,11,4,10:28 PM,2:57,,,Days Free Throw 1 of 2 (6 PTS),93 - 132,39,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+513,0022200880,723,3,12,4,10:28 PM,2:57,,,Days Free Throw 2 of 2 (7 PTS),94 - 132,38,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+514,0022200880,724,2,6,4,10:28 PM,2:42,MISS Mann 5' Driving Layup,,Days BLOCK (1 BLK),,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1630620,Darius Days,1610612745.0,Houston,Rockets,HOU,1
+515,0022200880,726,4,0,4,10:28 PM,2:36,,,Marjanovic REBOUND (Off:0 Def:1),,,5,1626246,Boban Marjanovic,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+516,0022200880,727,5,45,4,10:28 PM,2:28,,,Marjanovic Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,,5,1626246,Boban Marjanovic,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+517,0022200880,728,2,1,4,10:29 PM,2:16,MISS Omoruyi 25' 3PT Jump Shot,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+518,0022200880,729,4,0,4,10:29 PM,2:13,,,Marjanovic REBOUND (Off:0 Def:2),,,5,1626246,Boban Marjanovic,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+519,0022200880,730,6,26,4,10:29 PM,2:01,,,Christopher Offensive Charge Foul (P5) (J.Goble),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+520,0022200880,732,5,37,4,10:29 PM,2:01,,,Christopher Offensive Foul Turnover (P4.T18),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+521,0022200880,733,2,1,4,10:29 PM,1:50,MISS Waters III 25' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+522,0022200880,734,4,0,4,10:29 PM,1:47,Wiggins REBOUND (Off:1 Def:1),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+523,0022200880,735,5,40,4,10:30 PM,1:42,Jay. Williams Out of Bounds Lost Ball Turnover (P1.T10),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+524,0022200880,736,1,58,4,10:30 PM,1:27,,,Marjanovic 6' Turnaround Hook Shot (2 PTS),96 - 132,36,5,1626246,Boban Marjanovic,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+525,0022200880,738,2,1,4,10:30 PM,1:11,MISS Waters III 27' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+526,0022200880,739,4,0,4,10:30 PM,1:10,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+527,0022200880,740,6,14,4,10:30 PM,1:10,,,Garuba FLAGRANT.FOUL.TYPE1 (P4.PN) (J.Goble),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+528,0022200880,742,18,1,4,10:31 PM,1:10,,Instant Replay4th Period (10:31 PM EST),,96 - 132,36,0,740,,,,,,0,0,,,,,,1,0,,,,,,0
+529,0022200880,743,3,18,4,10:34 PM,1:10,Omoruyi Free Throw Flagrant 1 of 2 (5 PTS),,,96 - 133,37,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+530,0022200880,744,3,19,4,10:34 PM,1:10,MISS Omoruyi Free Throw Flagrant 2 of 2,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+531,0022200880,747,4,1,4,10:34 PM,1:10,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+532,0022200880,745,2,1,4,10:35 PM,1:00,MISS Mann 28' 3PT Jump Shot,,,,,4,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+533,0022200880,746,4,0,4,10:35 PM,0:56,Jay. Williams REBOUND (Off:1 Def:14),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+534,0022200880,748,2,67,4,10:35 PM,0:54,MISS Jay. Williams 3' Hook Bank Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+535,0022200880,749,4,0,4,10:35 PM,0:52,,,Garuba REBOUND (Off:1 Def:3),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+536,0022200880,750,2,80,4,10:35 PM,0:39,,,MISS Hudgins 28' 3PT Step Back Jump Shot,,,5,1631309,Trevor Hudgins,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+537,0022200880,751,4,0,4,10:35 PM,0:36,Jay. Williams REBOUND (Off:1 Def:15),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+538,0022200880,752,5,11,4,10:36 PM,0:13,THUNDER Turnover: Shot Clock (T#11),,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,1
+539,0022200880,753,13,0,4,10:36 PM,0:00,,End of 4th Period (10:36 PM EST),,96 - 133,37,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

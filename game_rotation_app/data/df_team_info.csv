@@ -1,0 +1,31 @@
+TEAM_ID,TEAM_CITY,TEAM_NICKNAME,TEAM_FULL_NAME,TEAM_ABBREVIATION,CONF,DIV,COLOR1,COLOR2,COLOR3
+1610612737,Atlanta,Hawks,Atlanta Hawks,ATL,east,atlantic,#C8102E,#FFC72C,
+1610612751,Brooklyn,Nets,Brooklyn Nets,BKN,east,atlantic,#010101,#707372,#FFFFFF
+1610612738,Boston,Celtics,Boston Celtics,BOS,east,atlantic,#007A33,#896C4C,#FFFFFF
+1610612766,Charlotte,Hornets,Charlotte Hornets,CHA,east,southeast,#00778B,#211747,
+1610612741,Chicago,Bulls,Chicago Bulls,CHI,east,central,#BA0C2F,#010101,
+1610612739,Cleveland,Cavaliers,Cleveland Cavaliers,CLE,east,central,#6F263D,#B9975B,
+1610612742,Dallas,Mavericks,Dallas Mavericks,DAL,west,southwest,#0050B5,#0C2340,
+1610612743,Denver,Nuggets,Denver Nuggets,DEN,west,northwest,#0C2340,#862633,#FFC72C
+1610612765,Detroit,Pistons,Detroit Pistons,DET,east,central,#1D4289,#C8102E,
+1610612744,Golden State,Warriors,Golden State Warriors,GSW,west,pacific,#1D4289,#FFC72C,
+1610612745,Houston,Rockets,Houston Rockets,HOU,west,southwest,#BA0C2F,#010101,#9EA2A2
+1610612754,Indiana,Pacers,Indiana Pacers,IND,east,central,#041E42,#FFC72C,
+1610612746,Los Angeles,Clippers,LA Clippers,LAC,west,pacific,#1D4289,#C8102E,
+1610612747,Los Angeles,Lakers,Los Angeles Lakers,LAL,west,pacific,#582C83,#FFC72C,
+1610612763,Memphis,Grizzlies,Memphis Grizzlies,MEM,west,southwest,#0C2340,#7D9CC0,#FFC72C
+1610612748,Miami,Heat,Miami Heat,MIA,east,southeast,#010101,#862633,#FFA400
+1610612749,Milwaukee,Bucks,Milwaukee Bucks,MIL,east,central,#2C5234,#DDCBA4,
+1610612750,Minnesota,Timberwolves,Minnesota Timberwolves,MIN,west,northwest,#0C2340,#78BE21,#236192
+1610612740,New Orleans,Pelicans,New Orleans Pelicans,NOP,west,southwest,#0C2340,#B9975B,#C8102E
+1610612752,New York,Knicks,New York Knicks,NYK,east,atlantic,#003DA5,#FF6720,#B1B3B3
+1610612760,Oklahoma City,Thunder,Oklahoma City Thunder,OKC,west,northwest,#0072CE,#F9423A,#041E42
+1610612753,Orlando,Magic,Orlando Magic,ORL,east,southeast,#0057B7,#010101,#8D9093
+1610612755,Philadelphia,76ers,Philadelphia 76ers,PHI,east,atlantic,#003DA5,#D50032,
+1610612756,Phoenix,Suns,Phoenix Suns,PHX,west,pacific,#211747,#CB6015,
+1610612757,Portland,Trail Blazers,Portland Trail Blazers,POR,west,northwest,#010101,#C8102E,
+1610612758,Sacramento,Kings,Sacramento Kings,SAC,west,pacific,#582C83,#5B6770,
+1610612759,San Antonio,Spurs,San Antonio Spurs,SAS,west,southwest,#010101,#8D9093,
+1610612761,Toronto,Raptors,Toronto Raptors,TOR,west,atlantic,#BA0C2F,#010101,
+1610612762,Utah,Jazz,Utah Jazz,UTA,west,northwest,#010101,#FBE122,#DBE2E9
+1610612764,Washington,Wizards,Washington Wizards,WAS,east,southeast,#C8102E,#0C2340,#8D9093

@@ -1,0 +1,474 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0022201121,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0022201121,4,10,0,1,8:41 PM,12:00,Jump Ball Looney vs. Gobert: Tip to D. Green,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+2,0022201121,7,1,78,1,8:41 PM,11:41,D. Green 13' Floating Jump Shot (2 PTS) (Curry 1 AST),,,0 - 2,2,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+3,0022201121,9,6,2,1,8:42 PM,11:24,Thompson S.FOUL (P1.T1) (B.Kennedy),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+4,0022201121,11,3,11,1,8:42 PM,11:24,,,Gobert Free Throw 1 of 2 (1 PTS),1 - 2,1,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+5,0022201121,12,3,12,1,8:42 PM,11:24,,,Gobert Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+6,0022201121,13,2,1,1,8:43 PM,11:15,MISS Thompson 27' 3PT Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+7,0022201121,14,4,0,1,8:43 PM,11:12,,,Gobert REBOUND (Off:0 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+8,0022201121,15,2,1,1,8:43 PM,11:02,,,MISS McDaniels 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+9,0022201121,16,4,0,1,8:43 PM,11:00,Thompson REBOUND (Off:0 Def:1),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+10,0022201121,17,5,4,1,8:43 PM,10:50,Thompson Traveling Turnover (P1.T1),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+11,0022201121,18,6,2,1,8:44 PM,10:31,Curry S.FOUL (P1.T2) (T.Maddox),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+12,0022201121,20,3,11,1,8:44 PM,10:31,,,MISS McDaniels Free Throw 1 of 2,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+13,0022201121,21,4,1,1,8:44 PM,10:31,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+14,0022201121,22,3,12,1,8:44 PM,10:31,,,MISS McDaniels Free Throw 2 of 2,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+15,0022201121,23,4,0,1,8:44 PM,10:29,D. Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+16,0022201121,24,1,1,1,8:44 PM,10:17,Curry 3PT Jump Shot (3 PTS) (D. Green 1 AST),,,2 - 5,3,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+17,0022201121,26,2,1,1,8:45 PM,10:03,,,MISS Edwards 28' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+18,0022201121,27,4,0,1,8:45 PM,10:01,D. Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+19,0022201121,28,6,1,1,8:45 PM,9:58,,,McDaniels P.FOUL (P1.T1) (B.Kennedy),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+20,0022201121,30,2,79,1,8:45 PM,9:47,MISS Curry 26' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+21,0022201121,31,4,0,1,8:45 PM,9:45,,,Gobert REBOUND (Off:0 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+22,0022201121,32,1,79,1,8:45 PM,9:34,,,Conley 27' 3PT Pullup Jump Shot (3 PTS),5 - 5,TIE,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+23,0022201121,33,2,98,1,8:46 PM,9:19,MISS D. Green 6' Cutting Layup Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+24,0022201121,34,4,0,1,8:46 PM,9:17,D. Green REBOUND (Off:1 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+25,0022201121,35,1,97,1,8:46 PM,9:17,D. Green Tip Layup Shot (4 PTS),,,5 - 7,2,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+26,0022201121,36,1,79,1,8:46 PM,9:06,,,Conley 25' 3PT Pullup Jump Shot (6 PTS) (Towns 1 AST),8 - 7,-1,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+27,0022201121,38,2,1,1,8:46 PM,8:50,MISS Thompson 16' Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+28,0022201121,39,4,0,1,8:46 PM,8:48,,,Gobert REBOUND (Off:0 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+29,0022201121,40,2,1,1,8:46 PM,8:33,,,MISS Edwards 25' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+30,0022201121,41,4,0,1,8:46 PM,8:32,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0022201121,42,6,3,1,8:47 PM,8:32,,,McDaniels L.B.FOUL (P2.T2) (B.Kennedy),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+32,0022201121,44,8,0,1,8:47 PM,8:32,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+33,0022201121,46,5,2,1,8:48 PM,8:19,Thompson Lost Ball Turnover (P2.T2),,Conley STEAL (1 STL),,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+34,0022201121,48,6,2,1,8:48 PM,8:06,Curry S.FOUL (P2.T3) (B.Kennedy),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+35,0022201121,50,3,11,1,8:48 PM,8:06,,,Anderson Free Throw 1 of 2 (1 PTS),9 - 7,-2,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+36,0022201121,53,3,12,1,8:48 PM,8:06,,,MISS Anderson Free Throw 2 of 2,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+37,0022201121,51,8,0,1,8:48 PM,8:06,SUB: Poole FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+38,0022201121,54,4,0,1,8:48 PM,8:03,,,Edwards REBOUND (Off:1 Def:0),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+39,0022201121,55,2,1,1,8:49 PM,8:02,,,MISS Towns 26' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+40,0022201121,56,4,0,1,8:49 PM,8:00,,,Gobert REBOUND (Off:1 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+41,0022201121,57,6,2,1,8:49 PM,7:58,D. Green S.FOUL (P1.T4) (T.Maddox),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+42,0022201121,59,3,11,1,8:49 PM,7:58,,,MISS Gobert Free Throw 1 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+43,0022201121,60,4,1,1,8:49 PM,7:58,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+44,0022201121,61,3,12,1,8:50 PM,7:58,,,Gobert Free Throw 2 of 2 (3 PTS),10 - 7,-3,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+45,0022201121,62,2,79,1,8:50 PM,7:46,MISS Poole 26' 3PT Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+46,0022201121,63,4,0,1,8:50 PM,7:42,,,Anderson REBOUND (Off:0 Def:1),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+47,0022201121,64,2,80,1,8:50 PM,7:21,,,MISS Edwards 20' Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+48,0022201121,65,4,0,1,8:50 PM,7:17,Thompson REBOUND (Off:0 Def:2),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+49,0022201121,66,2,103,1,8:51 PM,7:11,MISS Poole 10' Running Pull-Up Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+50,0022201121,67,4,0,1,8:51 PM,7:09,,,Anderson REBOUND (Off:0 Def:2),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+51,0022201121,68,1,80,1,8:51 PM,6:58,,,Conley 28' 3PT Step Back Jump Shot (9 PTS),13 - 7,-6,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+52,0022201121,69,9,1,1,8:51 PM,6:57,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+53,0022201121,70,8,0,1,8:54 PM,6:57,,,SUB: Prince FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+54,0022201121,72,2,79,1,8:54 PM,6:46,MISS Thompson 12' Pullup Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+55,0022201121,73,4,0,1,8:54 PM,6:43,,,Anderson REBOUND (Off:0 Def:3),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+56,0022201121,74,1,1,1,8:54 PM,6:35,,,Edwards 26' 3PT Jump Shot (3 PTS) (Anderson 1 AST),16 - 7,-9,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+57,0022201121,76,2,6,1,8:55 PM,6:16,MISS Poole 7' Driving Layup,,Gobert BLOCK (1 BLK),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+58,0022201121,78,4,0,1,8:55 PM,6:14,,,Anderson REBOUND (Off:0 Def:4),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+59,0022201121,79,2,2,1,8:55 PM,6:11,,,MISS Conley 26' 3PT Running Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+60,0022201121,80,4,0,1,8:55 PM,6:09,Looney REBOUND (Off:0 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+61,0022201121,81,5,1,1,8:55 PM,5:57,Looney Bad Pass Turnover (P1.T3),,Anderson STEAL (1 STL),,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+62,0022201121,83,2,1,1,8:55 PM,5:42,,,MISS Anderson 24' 3PT Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+63,0022201121,84,4,0,1,8:55 PM,5:39,,,Gobert REBOUND (Off:2 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+64,0022201121,85,5,1,1,8:55 PM,5:32,Looney STEAL (1 STL),,Edwards Bad Pass Turnover (P1.T1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+65,0022201121,87,1,2,1,8:56 PM,5:25,Thompson 26' 3PT Running Jump Shot (3 PTS) (Poole 1 AST),,,16 - 10,-6,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+66,0022201121,89,2,1,1,8:56 PM,5:01,,,MISS Anderson 3PT Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+67,0022201121,90,4,0,1,8:56 PM,4:59,,,Gobert REBOUND (Off:3 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+68,0022201121,91,1,1,1,8:56 PM,4:55,,,Conley 28' 3PT Jump Shot (12 PTS) (Anderson 2 AST),19 - 10,-9,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+69,0022201121,93,1,1,1,8:56 PM,4:41,Thompson 26' 3PT Jump Shot (6 PTS) (DiVincenzo 1 AST),,,19 - 13,-6,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+70,0022201121,95,6,1,1,8:57 PM,4:23,Poole P.FOUL (P1.PN) (B.Kennedy),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+71,0022201121,97,3,11,1,8:57 PM,4:23,,,Gobert Free Throw 1 of 2 (4 PTS),20 - 13,-7,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+72,0022201121,98,8,0,1,8:57 PM,4:23,SUB: Kuminga FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+73,0022201121,99,8,0,1,8:57 PM,4:23,SUB: J. Green FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+74,0022201121,100,8,0,1,8:57 PM,4:23,,,SUB: Reid FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+75,0022201121,101,8,0,1,8:57 PM,4:23,,,SUB: McLaughlin FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+76,0022201121,106,3,12,1,8:58 PM,4:23,,,Gobert Free Throw 2 of 2 (5 PTS),21 - 13,-8,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+77,0022201121,107,1,80,1,8:58 PM,4:11,Poole 10' Step Back Jump Shot (2 PTS),,,21 - 15,-6,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+78,0022201121,108,2,67,1,8:58 PM,3:52,,,MISS Reid 12' Hook Bank Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+79,0022201121,109,4,0,1,8:58 PM,3:50,DiVincenzo REBOUND (Off:0 Def:1),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+80,0022201121,110,2,78,1,8:58 PM,3:42,MISS J. Green 10' Floating Jump Shot,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+81,0022201121,111,4,0,1,8:58 PM,3:39,,,Gobert REBOUND (Off:3 Def:4),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+82,0022201121,112,1,108,1,8:59 PM,3:32,,,Anderson 4' Cutting Dunk Shot (3 PTS) (Reid 1 AST),23 - 15,-8,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+83,0022201121,114,1,79,1,8:59 PM,3:19,Poole 27' 3PT Pullup Jump Shot (5 PTS),,,23 - 18,-5,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+84,0022201121,115,5,1,1,8:59 PM,3:09,Poole STEAL (1 STL),,McLaughlin Bad Pass Turnover (P1.T2),,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+85,0022201121,117,1,2,1,8:59 PM,3:03,Thompson 3PT Running Jump Shot (9 PTS) (Kuminga 1 AST),,,23 - 21,-2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+86,0022201121,119,9,1,1,8:59 PM,3:02,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+87,0022201121,120,8,0,1,9:00 PM,3:02,SUB: Lamb FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+88,0022201121,121,8,0,1,9:00 PM,3:02,,,SUB: Towns FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+89,0022201121,124,2,57,1,9:02 PM,2:50,,,MISS Towns 7' Driving Hook Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+90,0022201121,125,4,0,1,9:02 PM,2:47,,,Anderson REBOUND (Off:1 Def:4),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+91,0022201121,126,1,6,1,9:02 PM,2:45,,,Reid 2' Driving Layup (2 PTS) (Anderson 3 AST),25 - 21,-4,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+92,0022201121,128,1,75,1,9:03 PM,2:27,Poole 4' Driving Finger Roll Layup (7 PTS) (Lamb 1 AST),,,25 - 23,-2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+93,0022201121,130,1,58,1,9:03 PM,2:02,,,Anderson 7' Turnaround Hook Shot (5 PTS) (Towns 2 AST),27 - 23,-4,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+94,0022201121,132,2,101,1,9:03 PM,1:49,MISS Poole 10' Driving Floating Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+95,0022201121,133,4,0,1,9:03 PM,1:47,,,Reid REBOUND (Off:0 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+96,0022201121,134,2,103,1,9:03 PM,1:41,,,MISS Towns 26' 3PT Running Pull-Up Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+97,0022201121,135,4,0,1,9:03 PM,1:39,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+98,0022201121,137,8,0,1,9:04 PM,1:39,SUB: Curry FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+99,0022201121,139,1,73,1,9:04 PM,1:32,,,Towns 4' Driving Reverse Layup (2 PTS),29 - 23,-6,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+100,0022201121,140,1,9,1,9:04 PM,1:17,Kuminga 4' Driving Dunk (2 PTS) (Curry 2 AST),,,29 - 25,-4,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+101,0022201121,142,2,98,1,9:04 PM,1:00,,,MISS Reid 3' Cutting Layup Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+102,0022201121,143,4,0,1,9:04 PM,1:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+103,0022201121,145,6,2,1,9:05 PM,0:50,,,Prince S.FOUL (P1.T3) (T.Maddox),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+104,0022201121,147,3,11,1,9:05 PM,0:50,MISS Kuminga Free Throw 1 of 2,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+105,0022201121,148,4,1,1,9:05 PM,0:50,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+106,0022201121,149,3,12,1,9:05 PM,0:50,Kuminga Free Throw 2 of 2 (3 PTS),,,29 - 26,-3,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+107,0022201121,150,2,3,1,9:06 PM,0:35,,,MISS Towns 8' Hook Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+108,0022201121,151,4,0,1,9:06 PM,0:32,Curry REBOUND (Off:0 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+109,0022201121,152,6,14,1,9:06 PM,0:30,,,Prince FLAGRANT.FOUL.TYPE1 (P2.PN) (B.Kennedy),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+110,0022201121,154,18,1,1,9:07 PM,0:30,,Instant Replay1st Period (9:07 PM EST),,29 - 26,-3,0,152,,,,,,0,0,,,,,,1,0,,,,,,0
+111,0022201121,155,3,18,1,9:09 PM,0:30,MISS Poole Free Throw Flagrant 1 of 2,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+112,0022201121,156,4,1,1,9:09 PM,0:30,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+113,0022201121,157,3,19,1,9:09 PM,0:30,Poole Free Throw Flagrant 2 of 2 (8 PTS),,,29 - 27,-2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+114,0022201121,158,6,1,1,9:10 PM,0:26,,,Prince P.FOUL (P3.PN) (B.Kennedy),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+115,0022201121,160,3,11,1,9:10 PM,0:26,Poole Free Throw 1 of 2 (9 PTS),,,29 - 28,-1,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+116,0022201121,161,8,0,1,9:10 PM,0:26,SUB: Payton II FOR J. Green,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+117,0022201121,162,8,0,1,9:10 PM,0:26,SUB: D. Green FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+118,0022201121,163,8,0,1,9:10 PM,0:26,,,SUB: Alexander-Walker FOR Prince,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+119,0022201121,167,3,12,1,9:10 PM,0:26,Poole Free Throw 2 of 2 (10 PTS),,,29 - 29,TIE,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+120,0022201121,168,2,57,1,9:11 PM,0:04,,,MISS Towns 13' Driving Hook Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+121,0022201121,169,4,0,1,9:11 PM,0:02,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+122,0022201121,172,13,0,1,9:11 PM,0:00,,End of 1st Period (9:11 PM EST),,29 - 29,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+123,0022201121,179,12,0,2,9:14 PM,12:00,,Start of 2nd Period (9:14 PM EST),,29 - 29,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+124,0022201121,180,1,1,2,9:14 PM,11:46,,,Towns 3PT Jump Shot (5 PTS) (McLaughlin 1 AST),32 - 29,-3,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+125,0022201121,182,2,1,2,9:14 PM,11:22,MISS D. Green 19' Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+126,0022201121,183,4,0,2,9:14 PM,11:20,,,Reid REBOUND (Off:0 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+127,0022201121,184,2,1,2,9:15 PM,11:03,,,MISS Edwards 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+128,0022201121,185,4,0,2,9:15 PM,11:00,D. Green REBOUND (Off:1 Def:3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+129,0022201121,186,6,2,2,9:15 PM,10:52,,,McDaniels S.FOUL (P3.T1) (R.Acosta),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+130,0022201121,188,3,11,2,9:15 PM,10:52,Poole Free Throw 1 of 2 (11 PTS),,,32 - 30,-2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+131,0022201121,189,8,0,2,9:16 PM,10:52,,,SUB: Alexander-Walker FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+132,0022201121,191,3,12,2,9:16 PM,10:52,Poole Free Throw 2 of 2 (12 PTS),,,32 - 31,-1,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+133,0022201121,192,1,57,2,9:16 PM,10:38,,,Reid 7' Driving Hook Shot (4 PTS),34 - 31,-3,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+134,0022201121,193,2,1,2,9:17 PM,10:20,MISS Kuminga 25' 3PT Jump Shot,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+135,0022201121,194,4,0,2,9:17 PM,10:18,,,Towns REBOUND (Off:0 Def:1),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+136,0022201121,195,5,1,2,9:17 PM,10:09,Kuminga STEAL (1 STL),,Towns Bad Pass Turnover (P1.T3),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+137,0022201121,197,5,2,2,9:17 PM,10:05,D. Green Lost Ball Turnover (P1.T4),,Edwards STEAL (1 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+138,0022201121,199,1,41,2,9:17 PM,10:03,,,Reid 5' Running Layup (6 PTS) (Edwards 1 AST),36 - 31,-5,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+139,0022201121,201,6,1,2,9:17 PM,9:41,,,Alexander-Walker P.FOUL (P1.T2) (R.Acosta),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+140,0022201121,204,1,98,2,9:18 PM,9:32,D. Green 5' Cutting Layup Shot (6 PTS) (Curry 3 AST),,,36 - 33,-3,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+141,0022201121,206,2,101,2,9:18 PM,9:23,,,MISS McLaughlin 11' Driving Floating Jump Shot,,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+142,0022201121,207,4,0,2,9:18 PM,9:20,Curry REBOUND (Off:0 Def:2),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+143,0022201121,208,2,80,2,9:18 PM,9:09,MISS Poole 27' 3PT Step Back Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+144,0022201121,209,4,0,2,9:18 PM,9:06,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+145,0022201121,211,1,1,2,9:19 PM,8:50,,,Alexander-Walker 3PT Jump Shot (3 PTS) (Edwards 2 AST),39 - 33,-6,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+146,0022201121,213,9,1,2,9:19 PM,8:49,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+147,0022201121,214,8,0,2,9:21 PM,8:49,SUB: Lamb FOR Kuminga,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+148,0022201121,215,8,0,2,9:21 PM,8:49,,,SUB: Gobert FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+149,0022201121,218,2,80,2,9:22 PM,8:38,MISS Curry 20' Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+150,0022201121,219,4,0,2,9:22 PM,8:36,,,Gobert REBOUND (Off:3 Def:5),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+151,0022201121,220,1,1,2,9:22 PM,8:20,,,Reid 3PT Jump Shot (9 PTS) (McLaughlin 2 AST),42 - 33,-9,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+152,0022201121,222,2,79,2,9:22 PM,8:04,MISS Curry 28' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+153,0022201121,223,4,0,2,9:22 PM,8:02,,,Gobert REBOUND (Off:3 Def:6),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+154,0022201121,224,1,79,2,9:23 PM,7:53,,,Alexander-Walker 25' 3PT Pullup Jump Shot (6 PTS) (Gobert 1 AST),45 - 33,-12,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+155,0022201121,225,2,73,2,9:23 PM,7:34,MISS Curry 5' Driving Reverse Layup,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+156,0022201121,226,4,0,2,9:23 PM,7:32,,,Alexander-Walker REBOUND (Off:0 Def:1),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+157,0022201121,227,5,4,2,9:23 PM,7:23,,,Edwards Traveling Turnover (P2.T4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+158,0022201121,228,8,0,2,9:23 PM,7:23,SUB: Thompson FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+159,0022201121,229,8,0,2,9:23 PM,7:23,SUB: Looney FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+160,0022201121,230,8,0,2,9:23 PM,7:23,,,SUB: Conley FOR McLaughlin,,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+161,0022201121,234,2,80,2,9:24 PM,7:09,MISS Thompson 13' Step Back Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+162,0022201121,235,4,0,2,9:24 PM,7:06,,,Edwards REBOUND (Off:1 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+163,0022201121,236,2,101,2,9:24 PM,6:55,,,MISS Reid 5' Driving Floating Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+164,0022201121,237,4,0,2,9:24 PM,6:54,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+165,0022201121,239,8,0,2,9:24 PM,6:54,,,SUB: Anderson FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+166,0022201121,241,2,79,2,9:25 PM,6:49,,,MISS Conley 28' 3PT Pullup Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+167,0022201121,242,4,0,2,9:25 PM,6:46,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+168,0022201121,244,1,1,2,9:25 PM,6:24,Lamb 26' 3PT Jump Shot (3 PTS) (Curry 4 AST),,,45 - 36,-9,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+169,0022201121,246,1,1,2,9:25 PM,6:04,,,Edwards 26' 3PT Jump Shot (6 PTS) (Alexander-Walker 1 AST),48 - 36,-12,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+170,0022201121,248,1,57,2,9:26 PM,5:56,Payton II 6' Driving Hook Shot (2 PTS) (Curry 5 AST),,,48 - 38,-10,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+171,0022201121,250,1,101,2,9:26 PM,5:40,,,Anderson 6' Driving Floating Jump Shot (7 PTS) (Conley 1 AST),50 - 38,-12,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+172,0022201121,252,1,80,2,9:26 PM,5:26,Curry 14' Step Back Jump Shot (5 PTS),,,50 - 40,-10,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+173,0022201121,253,2,73,2,9:26 PM,5:12,,,MISS Conley 6' Driving Reverse Layup,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+174,0022201121,254,4,0,2,9:26 PM,5:10,,,Conley REBOUND (Off:1 Def:0),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+175,0022201121,255,2,80,2,9:26 PM,5:08,,,MISS Conley 26' 3PT Step Back Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+176,0022201121,256,4,0,2,9:26 PM,5:05,,,Gobert REBOUND (Off:4 Def:6),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+177,0022201121,257,1,78,2,9:26 PM,5:03,,,Gobert 8' Floating Jump Shot (7 PTS),52 - 40,-12,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+178,0022201121,258,2,79,2,9:27 PM,4:52,MISS Curry 28' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+179,0022201121,259,4,0,2,9:27 PM,4:50,Lamb REBOUND (Off:1 Def:0),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+180,0022201121,260,2,72,2,9:27 PM,4:48,MISS Lamb Putback Layup,,Anderson BLOCK (1 BLK),,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1
+181,0022201121,261,4,0,2,9:27 PM,4:48,Payton II REBOUND (Off:1 Def:0),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+182,0022201121,262,6,2,2,9:27 PM,4:48,,,Edwards S.FOUL (P1.T3) (B.Kennedy),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+183,0022201121,265,3,11,2,9:27 PM,4:48,Payton II Free Throw 1 of 2 (3 PTS),,,52 - 41,-11,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+184,0022201121,266,8,0,2,9:27 PM,4:48,SUB: DiVincenzo FOR Lamb,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+185,0022201121,268,3,12,2,9:28 PM,4:48,Payton II Free Throw 2 of 2 (4 PTS),,,52 - 42,-10,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+186,0022201121,269,5,45,2,9:28 PM,4:37,,,Conley Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+187,0022201121,270,8,0,2,9:28 PM,4:37,SUB: D. Green FOR Payton II,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+188,0022201121,272,2,75,2,9:28 PM,4:28,MISS Curry 4' Driving Finger Roll Layup,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+189,0022201121,273,4,0,2,9:28 PM,4:25,,,Gobert REBOUND (Off:4 Def:7),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+190,0022201121,274,5,1,2,9:29 PM,4:07,D. Green STEAL (1 STL),,Anderson Bad Pass Turnover (P1.T6),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+191,0022201121,276,5,1,2,9:29 PM,4:03,D. Green Bad Pass Turnover (P2.T5),,Conley STEAL (2 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+192,0022201121,278,2,2,2,9:29 PM,3:59,,,MISS Edwards 25' 3PT Running Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+193,0022201121,279,4,0,2,9:29 PM,3:57,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+194,0022201121,281,8,0,2,9:29 PM,3:57,,,SUB: Towns FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+195,0022201121,283,1,1,2,9:29 PM,3:43,D. Green 27' 3PT Jump Shot (9 PTS) (Curry 6 AST),,,52 - 45,-7,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+196,0022201121,287,2,101,2,9:30 PM,3:20,,,MISS Conley 10' Driving Floating Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+197,0022201121,288,4,0,2,9:30 PM,3:19,D. Green REBOUND (Off:1 Def:4),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+198,0022201121,289,1,1,2,9:30 PM,3:12,Thompson 28' 3PT Jump Shot (12 PTS) (Curry 7 AST),,,52 - 48,-4,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+199,0022201121,291,9,1,2,9:30 PM,3:10,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+200,0022201121,293,2,75,2,9:33 PM,2:50,,,MISS Anderson 5' Driving Finger Roll Layup,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+201,0022201121,294,4,0,2,9:33 PM,2:48,Curry REBOUND (Off:0 Def:3),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+202,0022201121,295,2,2,2,9:33 PM,2:44,MISS Thompson 3PT Running Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+203,0022201121,296,4,0,2,9:34 PM,2:42,Looney REBOUND (Off:1 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+204,0022201121,297,2,97,2,9:34 PM,2:40,MISS Looney Tip Layup Shot,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+205,0022201121,298,4,0,2,9:34 PM,2:40,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+206,0022201121,300,2,80,2,9:34 PM,2:36,MISS Thompson 17' Step Back Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+207,0022201121,301,4,0,2,9:34 PM,2:33,,,Anderson REBOUND (Off:1 Def:5),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+208,0022201121,302,2,6,2,9:34 PM,2:25,,,MISS Towns 5' Driving Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+209,0022201121,303,4,0,2,9:34 PM,2:22,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+210,0022201121,305,8,0,2,9:34 PM,2:22,,,SUB: Edwards FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+211,0022201121,307,1,102,2,9:35 PM,2:15,Curry 14' Driving Floating Bank Jump Shot (7 PTS) (D. Green 2 AST),,,52 - 50,-2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+212,0022201121,309,5,1,2,9:35 PM,1:59,Thompson STEAL (1 STL),,Conley Bad Pass Turnover (P2.T7),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+213,0022201121,311,1,50,2,9:35 PM,1:55,D. Green 4' Running Dunk (11 PTS) (DiVincenzo 2 AST),,,52 - 52,TIE,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+214,0022201121,313,6,2,2,9:35 PM,1:36,DiVincenzo S.FOUL (P1.T1) (B.Kennedy),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+215,0022201121,315,3,11,2,9:36 PM,1:36,,,MISS Conley Free Throw 1 of 2,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+216,0022201121,316,4,1,2,9:36 PM,1:36,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+217,0022201121,317,3,12,2,9:36 PM,1:36,,,MISS Conley Free Throw 2 of 2,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+218,0022201121,318,4,0,2,9:36 PM,1:34,Thompson REBOUND (Off:0 Def:3),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+219,0022201121,319,1,1,2,9:37 PM,1:20,Curry 24' 3PT Jump Shot (10 PTS) (Looney 1 AST),,,52 - 55,3,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+220,0022201121,322,6,2,2,9:37 PM,1:00,DiVincenzo S.FOUL (P2.PN) (R.Acosta),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+221,0022201121,324,3,11,2,9:37 PM,1:00,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+222,0022201121,325,4,1,2,9:37 PM,1:00,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+223,0022201121,330,3,12,2,9:37 PM,1:00,,,Edwards Free Throw 2 of 2 (7 PTS),53 - 55,2,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+224,0022201121,328,8,0,2,9:38 PM,1:00,SUB: Poole FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+225,0022201121,326,8,0,2,9:38 PM,1:00,,,SUB: Alexander-Walker FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+226,0022201121,331,2,1,2,9:38 PM,0:40,MISS Curry 27' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+227,0022201121,332,4,0,2,9:38 PM,0:37,,,Towns REBOUND (Off:0 Def:2),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+228,0022201121,333,2,79,2,9:39 PM,0:30,,,MISS Edwards 28' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+229,0022201121,334,4,0,2,9:39 PM,0:28,Curry REBOUND (Off:0 Def:4),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+230,0022201121,335,6,1,2,9:39 PM,0:15,,,Conley P.FOUL (P1.T4) (T.Maddox),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+231,0022201121,337,8,0,2,9:39 PM,0:15,SUB: Lamb FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+232,0022201121,339,2,47,2,9:39 PM,0:03,MISS Curry 27' 3PT Turnaround Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+233,0022201121,340,4,0,2,9:40 PM,0:01,,,Gobert REBOUND (Off:4 Def:8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+234,0022201121,341,13,0,2,9:40 PM,0:00,,End of 2nd Period (9:40 PM EST),,53 - 55,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+235,0022201121,348,12,0,3,9:55 PM,12:00,,Start of 3rd Period (9:55 PM EST),,53 - 55,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+236,0022201121,349,2,80,3,9:55 PM,11:47,,,MISS Conley 26' 3PT Step Back Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+237,0022201121,350,4,0,3,9:55 PM,11:44,DiVincenzo REBOUND (Off:0 Def:2),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+238,0022201121,351,2,80,3,9:56 PM,11:31,MISS Thompson 27' 3PT Step Back Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+239,0022201121,352,4,0,3,9:56 PM,11:28,,,Gobert REBOUND (Off:4 Def:9),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+240,0022201121,353,2,6,3,9:56 PM,11:21,,,MISS Edwards 11' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+241,0022201121,354,4,0,3,9:56 PM,11:17,Looney REBOUND (Off:1 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+242,0022201121,355,1,73,3,9:56 PM,11:12,DiVincenzo 4' Driving Reverse Layup (2 PTS) (D. Green 3 AST),,,53 - 57,4,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+243,0022201121,357,2,1,3,9:56 PM,10:56,,,MISS Towns 27' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+244,0022201121,358,4,0,3,9:56 PM,10:53,Looney REBOUND (Off:1 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+245,0022201121,359,5,2,3,9:57 PM,10:39,Curry Lost Ball Turnover (P1.T6),,Towns STEAL (1 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+246,0022201121,361,5,4,3,9:57 PM,10:36,,,Gobert Traveling Turnover (P1.T8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+247,0022201121,362,2,1,3,9:57 PM,10:28,MISS Curry 26' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+248,0022201121,363,4,0,3,9:57 PM,10:24,,,Towns REBOUND (Off:0 Def:3),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+249,0022201121,365,6,26,3,9:57 PM,10:12,,,McDaniels Offensive Charge Foul (P4) (B.Kennedy),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+250,0022201121,367,5,37,3,9:57 PM,10:12,,,McDaniels Offensive Foul Turnover (P1.T9),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+251,0022201121,368,8,0,3,9:58 PM,10:12,,,SUB: Alexander-Walker FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+252,0022201121,370,2,80,3,9:58 PM,9:58,MISS Thompson 11' Step Back Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+253,0022201121,371,4,0,3,9:58 PM,9:56,,,Gobert REBOUND (Off:4 Def:10),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+254,0022201121,372,2,1,3,9:58 PM,9:48,,,MISS Alexander-Walker 24' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+255,0022201121,373,4,0,3,9:58 PM,9:45,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+256,0022201121,375,2,93,3,9:59 PM,9:37,,,MISS Gobert 5' Driving Bank Hook Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+257,0022201121,376,4,0,3,9:59 PM,9:34,Looney REBOUND (Off:1 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+258,0022201121,377,2,1,3,9:59 PM,9:14,MISS D. Green 26' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+259,0022201121,378,4,0,3,9:59 PM,9:11,,,Alexander-Walker REBOUND (Off:0 Def:2),,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+260,0022201121,379,6,2,3,9:59 PM,9:03,D. Green S.FOUL (P2.T1) (B.Kennedy),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+261,0022201121,381,3,11,3,10:00 PM,9:03,,,MISS Gobert Free Throw 1 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+262,0022201121,382,4,1,3,10:00 PM,9:03,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+263,0022201121,385,3,12,3,10:00 PM,9:03,,,MISS Gobert Free Throw 2 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+264,0022201121,383,9,1,3,10:00 PM,9:03,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+265,0022201121,386,4,0,3,10:00 PM,9:01,DiVincenzo REBOUND (Off:0 Def:3),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+266,0022201121,387,6,4,3,10:04 PM,8:51,Thompson OFF.Foul (P2) (R.Acosta),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+267,0022201121,389,5,37,3,10:04 PM,8:51,Thompson Offensive Foul Turnover (P3.T7),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+268,0022201121,390,6,4,3,10:04 PM,8:44,,,Gobert OFF.Foul (P1) (T.Maddox),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+269,0022201121,392,5,37,3,10:04 PM,8:44,,,Gobert Offensive Foul Turnover (P2.T10),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+270,0022201121,393,6,14,3,10:05 PM,8:28,,,Gobert FLAGRANT.FOUL.TYPE1 (P2.T1) (T.Maddox),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+271,0022201121,395,18,1,3,10:05 PM,8:28,,Instant Replay3rd Period (10:05 PM EST),,53 - 57,4,0,393,Rod Strickland,,,,,0,0,,,,,,1,0,,,,,,0
+272,0022201121,396,3,18,3,10:07 PM,8:28,MISS D. Green Free Throw Flagrant 1 of 2,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+273,0022201121,397,4,1,3,10:07 PM,8:28,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+274,0022201121,398,3,19,3,10:07 PM,8:28,D. Green Free Throw Flagrant 2 of 2 (12 PTS),,,53 - 58,5,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+275,0022201121,400,2,86,3,10:08 PM,8:09,MISS Looney 11' Turnaround Fadeaway Shot,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+276,0022201121,401,4,0,3,10:08 PM,8:07,,,Gobert REBOUND (Off:4 Def:11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+277,0022201121,402,1,75,3,10:09 PM,7:45,,,Edwards 5' Driving Finger Roll Layup (9 PTS),55 - 58,3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+278,0022201121,403,6,4,3,10:09 PM,7:37,Curry OFF.Foul (P3) (T.Maddox),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+279,0022201121,405,5,37,3,10:09 PM,7:37,Curry Offensive Foul Turnover (P2.T8),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+280,0022201121,406,8,0,3,10:09 PM,7:37,SUB: Kuminga FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+281,0022201121,408,1,101,3,10:10 PM,7:15,,,Edwards 11' Driving Floating Jump Shot (11 PTS) (Gobert 2 AST),57 - 58,1,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+282,0022201121,410,5,45,3,10:10 PM,6:59,D. Green Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+283,0022201121,411,6,2,3,10:10 PM,6:43,Kuminga S.FOUL (P1.T2) (R.Acosta),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+284,0022201121,413,3,11,3,10:11 PM,6:43,,,Gobert Free Throw 1 of 2 (8 PTS),58 - 58,TIE,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+285,0022201121,414,8,0,3,10:11 PM,6:43,,,SUB: Anderson FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+286,0022201121,416,3,12,3,10:12 PM,6:43,,,Gobert Free Throw 2 of 2 (9 PTS),59 - 58,-1,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+287,0022201121,417,2,79,3,10:12 PM,6:24,MISS Thompson 10' Pullup Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+288,0022201121,418,4,0,3,10:12 PM,6:22,,,Gobert REBOUND (Off:4 Def:12),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+289,0022201121,419,1,101,3,10:12 PM,6:07,,,Edwards 10' Driving Floating Jump Shot (13 PTS),61 - 58,-3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+290,0022201121,421,8,0,3,10:12 PM,5:56,SUB: Poole FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+291,0022201121,423,2,1,3,10:13 PM,5:54,MISS Thompson 3PT Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+292,0022201121,424,4,0,3,10:13 PM,5:52,,,Anderson REBOUND (Off:1 Def:6),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+293,0022201121,425,5,2,3,10:13 PM,5:44,Poole STEAL (2 STL),,Edwards Lost Ball Turnover (P3.T11),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+294,0022201121,428,1,1,3,10:13 PM,5:35,Curry 24' 3PT Jump Shot (13 PTS) (D. Green 4 AST),,,61 - 61,TIE,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+295,0022201121,430,1,1,3,10:14 PM,5:07,,,Anderson 40' 3PT Jump Shot (10 PTS) (Alexander-Walker 2 AST),64 - 61,-3,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+296,0022201121,432,2,79,3,10:14 PM,4:49,MISS Thompson 27' 3PT Pullup Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+297,0022201121,433,4,0,3,10:14 PM,4:46,,,Gobert REBOUND (Off:4 Def:13),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+298,0022201121,434,2,79,3,10:14 PM,4:39,,,MISS Edwards 28' 3PT Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+299,0022201121,435,4,0,3,10:14 PM,4:35,Thompson REBOUND (Off:0 Def:4),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+300,0022201121,436,1,73,3,10:15 PM,4:25,Curry 4' Driving Reverse Layup (15 PTS),,,64 - 63,-1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+301,0022201121,437,2,78,3,10:15 PM,4:06,,,MISS Gobert 9' Floating Jump Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+302,0022201121,438,4,0,3,10:15 PM,4:05,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+303,0022201121,439,6,3,3,10:15 PM,4:05,,,Gobert L.B.FOUL (P3.T2) (T.Maddox),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+304,0022201121,442,8,0,3,10:15 PM,4:05,SUB: Lamb FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+305,0022201121,443,8,0,3,10:15 PM,4:05,SUB: Looney FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+306,0022201121,444,8,0,3,10:15 PM,4:05,,,SUB: McLaughlin FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+307,0022201121,445,8,0,3,10:15 PM,4:05,,,SUB: Prince FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+308,0022201121,446,8,0,3,10:15 PM,4:05,,,SUB: Reid FOR Conley,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+309,0022201121,452,8,0,3,10:15 PM,4:05,,,SUB: Towns FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+310,0022201121,454,1,79,3,10:16 PM,3:52,Curry 28' 3PT Pullup Jump Shot (18 PTS) (Looney 2 AST),,,64 - 66,2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+311,0022201121,456,6,1,3,10:16 PM,3:41,Looney P.FOUL (P1.T3) (B.Kennedy),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+312,0022201121,458,1,1,3,10:17 PM,3:38,,,Towns 26' 3PT Jump Shot (8 PTS) (Anderson 4 AST),67 - 66,-1,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+313,0022201121,460,2,75,3,10:17 PM,3:21,MISS Curry 7' Driving Finger Roll Layup,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+314,0022201121,461,4,0,3,10:17 PM,3:18,Lamb REBOUND (Off:2 Def:0),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+315,0022201121,462,1,6,3,10:17 PM,3:06,Kuminga 5' Driving Layup (5 PTS) (Poole 2 AST),,,67 - 68,1,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+316,0022201121,464,1,1,3,10:17 PM,2:51,,,McLaughlin 27' 3PT Jump Shot (3 PTS) (Towns 3 AST),70 - 68,-2,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+317,0022201121,466,2,79,3,10:18 PM,2:31,MISS Curry 27' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+318,0022201121,467,4,0,3,10:18 PM,2:28,,,Reid REBOUND (Off:0 Def:3),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+319,0022201121,468,5,2,3,10:18 PM,2:18,Kuminga STEAL (2 STL),,Reid Lost Ball Turnover (P1.T12),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+320,0022201121,470,2,79,3,10:18 PM,2:10,MISS Poole 27' 3PT Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+321,0022201121,471,4,0,3,10:18 PM,2:07,,,Prince REBOUND (Off:0 Def:1),,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+322,0022201121,472,9,1,3,10:18 PM,2:07,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+323,0022201121,475,8,0,3,10:20 PM,2:07,SUB: DiVincenzo FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+324,0022201121,477,2,1,3,10:21 PM,1:57,,,MISS Towns 26' 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+325,0022201121,478,4,0,3,10:21 PM,1:55,Lamb REBOUND (Off:2 Def:1),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+326,0022201121,479,6,4,3,10:22 PM,1:45,DiVincenzo OFF.Foul (P3) (R.Acosta),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+327,0022201121,481,5,37,3,10:22 PM,1:45,DiVincenzo Offensive Foul Turnover (P1.T10),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+328,0022201121,482,2,6,3,10:22 PM,1:34,Looney BLOCK (1 BLK),,MISS Towns 4' Driving Layup,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1
+329,0022201121,484,4,0,3,10:22 PM,1:31,,,Reid REBOUND (Off:1 Def:3),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+330,0022201121,485,1,72,3,10:22 PM,1:29,,,Reid 2' Putback Layup (11 PTS),72 - 68,-4,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+331,0022201121,486,2,1,3,10:22 PM,1:14,MISS Looney 14' Jump Shot,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+332,0022201121,487,4,0,3,10:22 PM,1:10,Kuminga REBOUND (Off:1 Def:0),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+333,0022201121,488,2,72,3,10:22 PM,1:10,MISS Kuminga 6' Putback Layup,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+334,0022201121,490,4,0,3,10:22 PM,1:10,,,Anderson REBOUND (Off:1 Def:7),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+335,0022201121,491,1,50,3,10:22 PM,1:03,,,Reid 4' Running Dunk (13 PTS) (McLaughlin 3 AST),74 - 68,-6,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+336,0022201121,493,1,75,3,10:23 PM,0:48,Poole 6' Driving Finger Roll Layup (14 PTS),,,74 - 70,-4,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+337,0022201121,494,6,4,3,10:23 PM,0:37,,,Towns OFF.Foul (P1) (R.Acosta),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+338,0022201121,496,5,37,3,10:23 PM,0:37,,,Towns Offensive Foul Turnover (P2.T13),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+339,0022201121,498,5,1,3,10:24 PM,0:29,Poole Bad Pass Turnover (P1.T11),,Anderson STEAL (2 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+340,0022201121,500,1,98,3,10:24 PM,0:26,,,Prince 4' Cutting Layup Shot (2 PTS) (Anderson 5 AST),76 - 70,-6,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+341,0022201121,502,6,2,3,10:24 PM,0:26,Kuminga S.FOUL (P2.T4) (T.Maddox),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+342,0022201121,504,8,0,3,10:24 PM,0:26,SUB: Curry FOR Kuminga,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+343,0022201121,505,8,0,3,10:24 PM,0:26,SUB: Thompson FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+344,0022201121,508,8,0,3,10:24 PM,0:26,,,SUB: Alexander-Walker FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+345,0022201121,510,3,10,3,10:25 PM,0:26,,,Prince Free Throw 1 of 1 (3 PTS),77 - 70,-7,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+346,0022201121,512,1,79,3,10:25 PM,0:06,Poole 32' 3PT Pullup Jump Shot (17 PTS),,,77 - 73,-4,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+347,0022201121,513,13,0,3,10:25 PM,0:00,,End of 3rd Period (10:25 PM EST),,77 - 73,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+348,0022201121,520,12,0,4,10:28 PM,12:00,,Start of 4th Period (10:28 PM EST),,77 - 73,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+349,0022201121,521,1,63,4,10:29 PM,11:39,Poole 16' Fadeaway Jumper (19 PTS),,,77 - 75,-2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+350,0022201121,522,2,58,4,10:29 PM,11:21,Payton II BLOCK (1 BLK),,MISS Towns 9' Turnaround Hook Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1
+351,0022201121,524,4,0,4,10:29 PM,11:20,Poole REBOUND (Off:0 Def:2),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+352,0022201121,525,5,1,4,10:29 PM,11:17,Poole Bad Pass Turnover (P2.T12),,Anderson STEAL (3 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+353,0022201121,527,1,1,4,10:29 PM,11:08,,,Reid 3PT Jump Shot (16 PTS) (Prince 1 AST),80 - 75,-5,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+354,0022201121,529,5,1,4,10:30 PM,10:50,Curry Bad Pass Turnover (P3.T13),,Towns STEAL (2 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+355,0022201121,531,1,41,4,10:30 PM,10:45,,,Reid 5' Running Layup (18 PTS) (Prince 2 AST),82 - 75,-7,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+356,0022201121,533,5,1,4,10:30 PM,10:30,D. Green Bad Pass Turnover (P4.T14),,Anderson STEAL (4 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+357,0022201121,535,6,2,4,10:30 PM,10:16,Poole S.FOUL (P2.T1) (B.Kennedy),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+358,0022201121,537,3,11,4,10:31 PM,10:16,,,Prince Free Throw 1 of 2 (4 PTS),83 - 75,-8,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+359,0022201121,538,9,1,4,10:31 PM,10:16,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+360,0022201121,539,8,0,4,10:33 PM,10:16,,,SUB: McDaniels FOR McLaughlin,,,5,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+361,0022201121,541,3,12,4,10:34 PM,10:16,,,Prince Free Throw 2 of 2 (5 PTS),84 - 75,-9,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+362,0022201121,542,1,79,4,10:34 PM,10:06,Curry 16' Pullup Jump Shot (20 PTS),,,84 - 77,-7,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+363,0022201121,544,1,102,4,10:35 PM,9:42,,,Anderson 6' Driving Floating Bank Jump Shot (12 PTS),86 - 77,-9,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+364,0022201121,545,2,1,4,10:35 PM,9:16,MISS D. Green 24' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+365,0022201121,546,4,0,4,10:35 PM,9:13,,,Towns REBOUND (Off:0 Def:4),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+366,0022201121,547,2,1,4,10:35 PM,9:05,,,MISS Prince 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+367,0022201121,548,4,0,4,10:36 PM,9:02,Curry REBOUND (Off:0 Def:5),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+368,0022201121,549,1,1,4,10:36 PM,8:55,Payton II 3PT Jump Shot (7 PTS) (Curry 8 AST),,,86 - 80,-6,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+369,0022201121,551,6,4,4,10:36 PM,8:42,,,Towns OFF.Foul (P2) (R.Acosta),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+370,0022201121,553,5,37,4,10:36 PM,8:42,,,Towns Offensive Foul Turnover (P3.T14),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+371,0022201121,554,8,0,4,10:36 PM,8:42,SUB: Thompson FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+372,0022201121,555,8,0,4,10:36 PM,8:42,,,SUB: Gobert FOR Prince,,,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+373,0022201121,556,8,0,4,10:36 PM,8:42,,,SUB: Edwards FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+374,0022201121,560,1,79,4,10:37 PM,8:30,Poole 20' Pullup Jump Shot (21 PTS) (D. Green 5 AST),,,86 - 82,-4,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+375,0022201121,562,9,1,4,10:37 PM,8:28,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+376,0022201121,563,8,0,4,10:39 PM,8:28,,,SUB: Conley FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+377,0022201121,565,1,57,4,10:40 PM,8:11,,,Reid 8' Driving Hook Shot (20 PTS) (Conley 2 AST),88 - 82,-6,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+378,0022201121,566,1,44,4,10:40 PM,7:54,Payton II 3' Reverse Layup (9 PTS) (Thompson 1 AST),,,88 - 84,-4,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+379,0022201121,568,2,57,4,10:41 PM,7:36,,,MISS Reid 7' Driving Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+380,0022201121,569,4,0,4,10:41 PM,7:34,D. Green REBOUND (Off:1 Def:5),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+381,0022201121,570,2,2,4,10:41 PM,7:27,MISS Lamb 26' 3PT Running Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+382,0022201121,571,4,0,4,10:41 PM,7:25,,,McDaniels REBOUND (Off:0 Def:1),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+383,0022201121,572,2,79,4,10:41 PM,7:10,,,MISS McDaniels 12' Pullup Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+384,0022201121,573,4,0,4,10:41 PM,7:07,Poole REBOUND (Off:0 Def:3),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+385,0022201121,574,6,2,4,10:41 PM,6:56,,,McDaniels S.FOUL (P5.T1) (T.Maddox),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+386,0022201121,576,6,11,4,10:42 PM,6:56,,,McDaniels T.FOUL (P5.T1) (R.Acosta),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+387,0022201121,577,3,16,4,10:42 PM,6:56,Poole Free Throw Technical (22 PTS),,,88 - 85,-3,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+388,0022201121,578,8,0,4,10:42 PM,6:56,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+389,0022201121,580,3,11,4,10:43 PM,6:56,Poole Free Throw 1 of 2 (23 PTS),,,88 - 86,-2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+390,0022201121,581,8,0,4,10:43 PM,6:56,SUB: Looney FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+391,0022201121,583,3,12,4,10:43 PM,6:56,Poole Free Throw 2 of 2 (24 PTS),,,88 - 87,-1,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+392,0022201121,584,2,108,4,10:43 PM,6:38,,,MISS Reid 4' Cutting Dunk Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+393,0022201121,586,4,0,4,10:43 PM,6:35,Looney REBOUND (Off:1 Def:5),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+394,0022201121,587,2,80,4,10:44 PM,6:22,MISS Poole 27' 3PT Step Back Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+395,0022201121,588,4,0,4,10:44 PM,6:19,,,Edwards REBOUND (Off:1 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+396,0022201121,589,1,1,4,10:44 PM,6:12,,,Reid 3PT Jump Shot (23 PTS) (Anderson 6 AST),91 - 87,-4,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+397,0022201121,591,2,1,4,10:44 PM,5:51,MISS Payton II 3PT Jump Shot,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+398,0022201121,592,4,0,4,10:44 PM,5:49,,,Reid REBOUND (Off:1 Def:4),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+399,0022201121,593,2,101,4,10:44 PM,5:29,,,MISS Anderson 14' Driving Floating Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+400,0022201121,594,4,0,4,10:44 PM,5:28,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+401,0022201121,595,6,3,4,10:45 PM,5:28,Looney L.B.FOUL (P2.T2) (T.Maddox),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+402,0022201121,597,8,0,4,10:45 PM,5:28,SUB: Curry FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+403,0022201121,598,8,0,4,10:45 PM,5:28,SUB: D. Green FOR Lamb,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+404,0022201121,601,2,1,4,10:45 PM,5:19,,,MISS Reid 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+405,0022201121,602,4,0,4,10:45 PM,5:17,,,Anderson REBOUND (Off:2 Def:7),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+406,0022201121,603,2,1,4,10:45 PM,5:14,,,MISS Conley 27' 3PT Jump Shot,,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+407,0022201121,604,4,0,4,10:45 PM,5:11,D. Green REBOUND (Off:1 Def:6),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+408,0022201121,605,1,98,4,10:46 PM,5:01,Looney 5' Cutting Layup Shot (2 PTS) (Payton II 1 AST),,,91 - 89,-2,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+409,0022201121,607,2,1,4,10:46 PM,4:35,,,MISS Reid 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+410,0022201121,608,4,0,4,10:46 PM,4:32,Payton II REBOUND (Off:1 Def:1),,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+411,0022201121,609,2,79,4,10:46 PM,4:26,MISS Curry 27' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+412,0022201121,610,4,0,4,10:46 PM,4:23,,,Reid REBOUND (Off:1 Def:5),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+413,0022201121,611,9,1,4,10:46 PM,4:22,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+414,0022201121,612,8,0,4,10:48 PM,4:22,SUB: Poole FOR Payton II,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+415,0022201121,613,8,0,4,10:48 PM,4:22,,,SUB: Towns FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+416,0022201121,616,2,102,4,10:48 PM,4:09,,,MISS Edwards 9' Driving Floating Bank Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+417,0022201121,617,4,0,4,10:48 PM,4:07,Looney REBOUND (Off:1 Def:6),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+418,0022201121,618,2,1,4,10:49 PM,3:57,MISS Thompson 26' 3PT Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+419,0022201121,619,4,0,4,10:49 PM,3:54,,,Towns REBOUND (Off:0 Def:5),,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+420,0022201121,620,2,1,4,10:49 PM,3:36,,,MISS Towns 3PT Jump Shot,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+421,0022201121,621,4,0,4,10:49 PM,3:33,Curry REBOUND (Off:0 Def:6),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+422,0022201121,622,2,80,4,10:49 PM,3:23,MISS Curry 18' Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+423,0022201121,623,4,0,4,10:49 PM,3:21,,,Edwards REBOUND (Off:1 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+424,0022201121,624,5,1,4,10:50 PM,3:02,Looney STEAL (2 STL),,Gobert Bad Pass Turnover (P3.T15),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+425,0022201121,626,9,1,4,10:50 PM,3:02,WARRIORS Timeout: Regular (Full 5 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+426,0022201121,627,6,1,4,10:52 PM,2:53,,,Conley P.FOUL (P2.T2) (T.Maddox),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+427,0022201121,629,1,79,4,10:52 PM,2:47,Thompson 26' 3PT Pullup Jump Shot (15 PTS) (Curry 9 AST),,,91 - 92,1,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+428,0022201121,631,5,2,4,10:52 PM,2:31,Curry STEAL (1 STL),,Anderson Lost Ball Turnover (P2.T16),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+429,0022201121,633,2,41,4,10:52 PM,2:27,MISS Curry 6' Running Layup,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+430,0022201121,634,4,0,4,10:52 PM,2:24,,,Gobert REBOUND (Off:4 Def:14),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+431,0022201121,635,6,26,4,10:53 PM,2:13,,,Gobert Offensive Charge Foul (P4) (T.Maddox),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+432,0022201121,637,5,37,4,10:53 PM,2:13,,,Gobert Offensive Foul Turnover (P4.T17),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+433,0022201121,638,18,3,4,10:54 PM,2:13,,Instant Replay4th Period (10:54 PM EST),,91 - 92,1,0,635,,,,,,0,0,,,,,,1,0,,,,,,0
+434,0022201121,640,6,2,4,10:56 PM,2:03,,,Gobert S.FOUL (P5.T3) (B.Kennedy),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+435,0022201121,642,9,1,4,10:56 PM,2:03,,,Timberwolves Timeout: Regular (Reg.6 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+436,0022201121,643,18,4,4,10:56 PM,2:03,,Instant Replay4th Period (10:56 PM EST),,91 - 92,1,0,640,,,,,,0,0,,,,,,1,0,,,,,,1
+437,0022201121,644,3,11,4,10:59 PM,2:03,Looney Free Throw 1 of 2 (3 PTS),,,91 - 93,2,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+438,0022201121,645,3,12,4,10:59 PM,2:03,MISS Looney Free Throw 2 of 2,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+439,0022201121,646,4,0,4,10:59 PM,2:01,,,Anderson REBOUND (Off:2 Def:8),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+440,0022201121,647,1,1,4,11:00 PM,1:49,,,Towns 28' 3PT Jump Shot (11 PTS) (Edwards 3 AST),94 - 93,-1,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+441,0022201121,649,1,1,4,11:00 PM,1:28,Poole 3PT Jump Shot (27 PTS) (Thompson 2 AST),,,94 - 96,2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+442,0022201121,651,6,1,4,11:00 PM,1:12,D. Green P.FOUL (P3.T3) (R.Acosta),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+443,0022201121,653,2,101,4,11:01 PM,0:57,,,MISS Anderson 17' Driving Floating Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+444,0022201121,654,4,0,4,11:01 PM,0:54,Poole REBOUND (Off:0 Def:4),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+445,0022201121,655,2,80,4,11:01 PM,0:38,MISS Poole 28' 3PT Step Back Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+446,0022201121,656,4,0,4,11:01 PM,0:35,,,Conley REBOUND (Off:1 Def:1),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+447,0022201121,657,6,1,4,11:01 PM,0:27,D. Green P.FOUL (P4.PN) (B.Kennedy),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+448,0022201121,659,3,11,4,11:02 PM,0:27,,,MISS Gobert Free Throw 1 of 2,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+449,0022201121,660,4,1,4,11:02 PM,0:27,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+450,0022201121,661,3,12,4,11:02 PM,0:27,,,Gobert Free Throw 2 of 2 (10 PTS),95 - 96,1,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+451,0022201121,662,5,1,4,11:03 PM,0:14,D. Green Bad Pass Turnover (P5.T15),,Anderson STEAL (5 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+452,0022201121,664,1,2,4,11:03 PM,0:11,,,Towns 26' 3PT Running Jump Shot (14 PTS) (Anderson 7 AST),98 - 96,-2,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+453,0022201121,666,9,1,4,11:03 PM,0:09,WARRIORS Timeout: Regular (Full 6 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+454,0022201121,667,8,0,4,11:04 PM,0:09,SUB: DiVincenzo FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+455,0022201121,668,8,0,4,11:04 PM,0:09,,,SUB: McDaniels FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+456,0022201121,671,5,45,4,11:05 PM,0:04,Poole Out of Bounds - Bad Pass Turnover Turnover (P3.T16),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+457,0022201121,672,9,1,4,11:05 PM,0:04,,,Timberwolves Timeout: Regular (Reg.7 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+458,0022201121,673,8,0,4,11:06 PM,0:04,SUB: Payton II FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+459,0022201121,674,8,0,4,11:06 PM,0:04,,,SUB: Towns FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+460,0022201121,677,6,28,4,11:07 PM,0:02,Thompson Personal Take Foul (P3.PN) (T.Maddox),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+461,0022201121,679,3,11,4,11:07 PM,0:02,,,MISS McDaniels Free Throw 1 of 2,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+462,0022201121,680,4,1,4,11:07 PM,0:02,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+463,0022201121,681,8,0,4,11:07 PM,0:02,SUB: Looney FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+464,0022201121,683,3,12,4,11:08 PM,0:02,,,McDaniels Free Throw 2 of 2 (1 PTS),99 - 96,-3,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+465,0022201121,684,9,1,4,11:08 PM,0:02,WARRIORS Timeout: Regular (Full 7 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+466,0022201121,685,8,0,4,11:09 PM,0:02,SUB: DiVincenzo FOR Payton II,,,,,4,1627780,Gary Payton II,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+467,0022201121,686,8,0,4,11:09 PM,0:02,SUB: Poole FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+468,0022201121,687,8,0,4,11:09 PM,0:02,,,SUB: Prince FOR Towns,,,5,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+469,0022201121,691,6,1,4,11:09 PM,0:02,,,Conley P.FOUL (P3.T4) (T.Maddox),,,5,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+470,0022201121,693,2,80,4,11:10 PM,0:00,MISS Curry 3PT Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+471,0022201121,694,4,0,4,11:10 PM,0:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+472,0022201121,695,13,0,4,11:10 PM,0:00,,End of 4th Period (11:10 PM EST),,99 - 96,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

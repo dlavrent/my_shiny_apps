@@ -1,0 +1,437 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0022300785,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1,0022300785,4,10,0,1,8:41 PM,12:00,Jump Ball Gafford vs. Wembanyama: Tip to Jones,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1
+2,0022300785,7,2,75,1,8:41 PM,11:48,,,MISS Wembanyama 6' Driving Finger Roll Layup,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+3,0022300785,8,4,0,1,8:41 PM,11:44,Doncic REBOUND (Off:0 Def:1),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+4,0022300785,9,5,2,1,8:41 PM,11:28,Doncic Lost Ball Turnover (P1.T1),,Sochan STEAL (1 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+5,0022300785,12,6,2,1,8:42 PM,11:24,Green S.FOUL (P1.T1) (L.Wood),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+6,0022300785,14,3,11,1,8:42 PM,11:24,,,MISS Sochan Free Throw 1 of 2,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+7,0022300785,15,4,1,1,8:42 PM,11:24,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+8,0022300785,16,3,12,1,8:42 PM,11:24,,,Sochan Free Throw 2 of 2 (1 PTS),1 - 0,-1,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+9,0022300785,17,2,1,1,8:42 PM,11:13,MISS Irving 25' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+10,0022300785,18,4,0,1,8:43 PM,11:09,,,Wembanyama REBOUND (Off:0 Def:1),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+11,0022300785,19,2,58,1,8:43 PM,10:57,,,MISS Sochan 4' Turnaround Hook Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+12,0022300785,20,4,0,1,8:43 PM,10:55,Irving REBOUND (Off:0 Def:1),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+13,0022300785,21,2,106,1,8:43 PM,10:52,MISS Washington 2' Running Alley Oop Dunk Shot,,Wembanyama BLOCK (1 BLK),,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1
+14,0022300785,23,4,0,1,8:43 PM,10:52,,,Champagnie REBOUND (Off:0 Def:1),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+15,0022300785,24,2,1,1,8:43 PM,10:42,,,MISS Vassell 26' 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+16,0022300785,25,4,0,1,8:43 PM,10:39,,,Wembanyama REBOUND (Off:1 Def:1),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+17,0022300785,26,1,80,1,8:43 PM,10:31,,,Wembanyama 27' 3PT Step Back Jump Shot (3 PTS),4 - 0,-4,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+18,0022300785,27,2,80,1,8:43 PM,10:17,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+19,0022300785,28,4,0,1,8:43 PM,10:15,,,Jones REBOUND (Off:0 Def:1),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+20,0022300785,29,2,103,1,8:44 PM,10:11,,,MISS Wembanyama 27' 3PT Running Pull-Up Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+21,0022300785,30,4,0,1,8:44 PM,10:11,,,Sochan REBOUND (Off:1 Def:0),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+22,0022300785,31,1,72,1,8:44 PM,10:05,,,Sochan Putback Layup (3 PTS),6 - 0,-6,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+23,0022300785,32,2,63,1,8:44 PM,9:54,MISS Irving 8' Fadeaway Jumper,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+24,0022300785,33,4,0,1,8:44 PM,9:51,Irving REBOUND (Off:1 Def:1),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+25,0022300785,34,5,1,1,8:44 PM,9:47,Irving Bad Pass Turnover (P1.T2),,Sochan STEAL (2 STL),,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+26,0022300785,36,2,101,1,8:44 PM,9:39,Irving BLOCK (1 BLK),,MISS Wembanyama 11' Driving Floating Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1
+27,0022300785,38,4,0,1,8:44 PM,9:37,Irving REBOUND (Off:1 Def:2),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+28,0022300785,39,1,50,1,8:44 PM,9:35,Green 1' Running Dunk (2 PTS) (Irving 1 AST),,,6 - 2,-4,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+29,0022300785,41,1,79,1,8:44 PM,9:21,,,Vassell 14' Pullup Jump Shot (2 PTS) (Wembanyama 1 AST),8 - 2,-6,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+30,0022300785,43,1,7,1,8:44 PM,9:12,Gafford 2' Dunk (2 PTS) (Doncic 1 AST),,,8 - 4,-4,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+31,0022300785,45,1,1,1,8:45 PM,9:04,,,Wembanyama 27' 3PT Jump Shot (6 PTS) (Vassell 1 AST),11 - 4,-7,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+32,0022300785,47,2,80,1,8:45 PM,8:52,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+33,0022300785,48,4,0,1,8:45 PM,8:50,Gafford REBOUND (Off:1 Def:0),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+34,0022300785,110,5,45,1,8:45 PM,8:48,Gafford Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+35,0022300785,50,6,2,1,8:45 PM,8:38,Gafford S.FOUL (P1.T2) (M.Davis),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+36,0022300785,52,3,11,1,8:46 PM,8:38,,,MISS Wembanyama Free Throw 1 of 2,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+37,0022300785,53,4,1,1,8:46 PM,8:38,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+38,0022300785,54,3,12,1,8:46 PM,8:38,,,Wembanyama Free Throw 2 of 2 (7 PTS),12 - 4,-8,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+39,0022300785,55,5,1,1,8:46 PM,8:28,Doncic Bad Pass Turnover (P2.T4),,Sochan STEAL (3 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+40,0022300785,57,2,1,1,8:46 PM,8:21,,,MISS Jones 24' 3PT Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+41,0022300785,58,4,0,1,8:47 PM,8:17,Washington REBOUND (Off:0 Def:1),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+42,0022300785,59,1,41,1,8:47 PM,8:13,Doncic 3' Running Layup (2 PTS) (Washington 1 AST),,,12 - 6,-6,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+43,0022300785,61,1,43,1,8:47 PM,7:58,,,Wembanyama 1' Alley Oop Layup (9 PTS) (Vassell 2 AST),14 - 6,-8,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+44,0022300785,63,2,79,1,8:47 PM,7:48,MISS Irving 25' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+45,0022300785,64,4,0,1,8:47 PM,7:45,,,Vassell REBOUND (Off:0 Def:1),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+46,0022300785,65,1,86,1,8:47 PM,7:34,,,Wembanyama 20' Turnaround Fadeaway (11 PTS) (Sochan 1 AST),16 - 6,-10,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+47,0022300785,67,6,2,1,8:47 PM,7:34,Doncic S.FOUL (P1.T3) (A.Nagy),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+48,0022300785,69,3,10,1,8:48 PM,7:34,,,Wembanyama Free Throw 1 of 1 (12 PTS),17 - 6,-11,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+49,0022300785,75,6,2,1,8:49 PM,7:19,,,Sochan S.FOUL (P1.T1) (A.Nagy),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+50,0022300785,77,3,11,1,8:50 PM,7:19,Doncic Free Throw 1 of 2 (3 PTS),,,17 - 7,-10,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+51,0022300785,78,8,0,1,8:50 PM,7:19,SUB: Hardaway Jr. FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+52,0022300785,79,8,0,1,8:50 PM,7:19,SUB: Powell FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+53,0022300785,82,3,12,1,8:50 PM,7:19,Doncic Free Throw 2 of 2 (4 PTS),,,17 - 8,-9,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+54,0022300785,83,2,80,1,8:50 PM,7:09,,,MISS Vassell 17' Step Back Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+55,0022300785,84,4,0,1,8:50 PM,7:07,Doncic REBOUND (Off:0 Def:2),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+56,0022300785,85,2,98,1,8:51 PM,6:59,MISS Powell 2' Cutting Layup Shot,,Wembanyama BLOCK (2 BLK),,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1
+57,0022300785,87,4,0,1,8:51 PM,6:56,,,Champagnie REBOUND (Off:0 Def:2),,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+58,0022300785,88,1,1,1,8:51 PM,6:38,,,Champagnie 27' 3PT Jump Shot (3 PTS) (Wembanyama 2 AST),20 - 8,-12,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+59,0022300785,90,2,1,1,8:51 PM,6:24,MISS Doncic 27' 3PT Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+60,0022300785,91,4,0,1,8:51 PM,6:21,,,Jones REBOUND (Off:0 Def:2),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+61,0022300785,92,2,2,1,8:51 PM,6:16,,,MISS Wembanyama 27' 3PT Running Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+62,0022300785,93,4,0,1,8:51 PM,6:14,Hardaway Jr. REBOUND (Off:0 Def:1),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+63,0022300785,94,1,98,1,8:51 PM,6:02,Powell 2' Cutting Layup Shot (2 PTS) (Doncic 2 AST),,,20 - 10,-10,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+64,0022300785,96,9,1,1,8:52 PM,6:01,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+65,0022300785,97,6,11,1,8:52 PM,6:01,Doncic T.FOUL (P1.T3) (A.Nagy),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+66,0022300785,98,8,0,1,8:52 PM,6:01,,,SUB: Collins FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+67,0022300785,99,8,0,1,8:52 PM,6:01,,,SUB: Johnson FOR Champagnie,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+68,0022300785,102,3,16,1,8:55 PM,6:01,,,Vassell Free Throw Technical (3 PTS),21 - 10,-11,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+69,0022300785,103,1,1,1,8:55 PM,5:41,,,Sochan 25' 3PT Jump Shot (6 PTS) (Collins 1 AST),24 - 10,-14,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+70,0022300785,106,8,0,1,8:56 PM,5:21,SUB: Hardy FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+71,0022300785,108,6,2,1,8:56 PM,5:16,,,Collins S.FOUL (P1.T2) (M.Davis),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+72,0022300785,111,3,11,1,8:57 PM,5:16,MISS Powell Free Throw 1 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+73,0022300785,112,4,1,1,8:57 PM,5:16,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+74,0022300785,113,3,12,1,8:57 PM,5:16,Powell Free Throw 2 of 2 (3 PTS),,,24 - 11,-13,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+75,0022300785,114,1,101,1,8:57 PM,5:01,,,Jones 9' Driving Floating Jump Shot (2 PTS) (Vassell 3 AST),26 - 11,-15,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+76,0022300785,116,6,2,1,8:57 PM,4:50,,,Vassell S.FOUL (P1.T3) (M.Davis),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+77,0022300785,118,3,11,1,8:58 PM,4:50,Doncic Free Throw 1 of 2 (5 PTS),,,26 - 12,-14,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+78,0022300785,123,3,12,1,8:58 PM,4:50,Doncic Free Throw 2 of 2 (6 PTS),,,26 - 13,-13,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+79,0022300785,184,8,0,1,8:58 PM,4:50,SUB: Lively II FOR Washington,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+80,0022300785,185,8,0,1,8:58 PM,4:50,SUB: Jones Jr. FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+81,0022300785,124,2,75,1,8:59 PM,4:42,,,MISS Vassell 4' Driving Finger Roll Layup,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+82,0022300785,125,4,0,1,8:59 PM,4:39,,,Collins REBOUND (Off:1 Def:0),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+83,0022300785,126,1,108,1,8:59 PM,4:37,,,Sochan 1' Cutting Dunk Shot (8 PTS) (Collins 2 AST),28 - 13,-15,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+84,0022300785,128,2,75,1,8:59 PM,4:20,MISS Jones Jr. 2' Driving Finger Roll Layup,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+85,0022300785,129,4,0,1,8:59 PM,4:17,Jones Jr. REBOUND (Off:1 Def:0),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+86,0022300785,130,2,1,1,8:59 PM,4:17,MISS Hardy 26' 3PT Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+87,0022300785,131,4,0,1,8:59 PM,4:13,,,Collins REBOUND (Off:1 Def:1),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+88,0022300785,132,2,1,1,8:59 PM,4:01,,,MISS Collins 25' 3PT Jump Shot,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+89,0022300785,133,4,0,1,8:59 PM,3:58,Hardy REBOUND (Off:0 Def:1),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+90,0022300785,134,1,1,1,8:59 PM,3:50,Hardaway Jr. 3PT Jump Shot (3 PTS) (Doncic 3 AST),,,28 - 16,-12,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+91,0022300785,136,2,6,1,9:00 PM,3:34,Hardy BLOCK (1 BLK),,MISS Jones 2' Driving Layup,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1
+92,0022300785,138,4,0,1,9:00 PM,3:32,Lively II REBOUND (Off:0 Def:1),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+93,0022300785,139,6,2,1,9:00 PM,3:24,,,Jones S.FOUL (P1.T4) (A.Nagy),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+94,0022300785,141,3,11,1,9:00 PM,3:24,Lively II Free Throw 1 of 2 (1 PTS),,,28 - 17,-11,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+95,0022300785,142,8,0,1,9:00 PM,3:24,,,SUB: Wesley FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+96,0022300785,144,3,12,1,9:01 PM,3:24,Lively II Free Throw 2 of 2 (2 PTS),,,28 - 18,-10,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+97,0022300785,145,1,63,1,9:01 PM,3:14,,,Vassell 15' Fadeaway Jumper (5 PTS) (Collins 3 AST),30 - 18,-12,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+98,0022300785,147,1,6,1,9:01 PM,3:04,Doncic 3' Driving Layup (8 PTS),,,30 - 20,-10,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+99,0022300785,148,2,6,1,9:01 PM,2:51,,,MISS Johnson 4' Driving Layup,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+100,0022300785,149,4,0,1,9:01 PM,2:49,Lively II REBOUND (Off:0 Def:2),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+101,0022300785,150,1,1,1,9:01 PM,2:44,Doncic 26' 3PT Jump Shot (11 PTS) (Hardaway Jr. 1 AST),,,30 - 23,-7,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+102,0022300785,152,2,79,1,9:01 PM,2:30,,,MISS Vassell 18' Pullup Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+103,0022300785,153,4,0,1,9:02 PM,2:27,,,Sochan REBOUND (Off:2 Def:0),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+104,0022300785,154,2,1,1,9:02 PM,2:17,,,MISS Collins 26' 3PT Jump Shot,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+105,0022300785,155,4,0,1,9:02 PM,2:13,Hardy REBOUND (Off:0 Def:2),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+106,0022300785,156,2,43,1,9:02 PM,2:06,MISS Lively II 3' Alley Oop Layup,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+107,0022300785,157,4,0,1,9:02 PM,2:04,,,Collins REBOUND (Off:1 Def:2),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+108,0022300785,158,1,44,1,9:02 PM,1:55,,,Sochan 1' Reverse Layup (10 PTS) (Vassell 4 AST),32 - 23,-9,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+109,0022300785,160,2,1,1,9:02 PM,1:40,MISS Hardaway Jr. 26' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+110,0022300785,161,4,0,1,9:02 PM,1:36,,,Vassell REBOUND (Off:0 Def:2),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+111,0022300785,162,5,1,1,9:02 PM,1:31,Hardaway Jr. STEAL (1 STL),,Vassell Bad Pass Turnover (P1.T1),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+112,0022300785,164,5,2,1,9:02 PM,1:27,Hardaway Jr. Lost Ball Turnover (P1.T5),,Vassell STEAL (1 STL),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+113,0022300785,166,2,73,1,9:03 PM,1:11,Lively II BLOCK (1 BLK),,MISS Vassell 2' Driving Reverse Layup,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1
+114,0022300785,168,4,0,1,9:03 PM,1:08,Doncic REBOUND (Off:0 Def:3),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+115,0022300785,169,2,80,1,9:03 PM,0:54,MISS Doncic 24' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+116,0022300785,170,4,0,1,9:03 PM,0:53,,,Sochan REBOUND (Off:2 Def:1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+117,0022300785,171,5,1,1,9:03 PM,0:47,Doncic STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T2),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+118,0022300785,174,9,1,1,9:04 PM,0:31,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+119,0022300785,175,8,0,1,9:04 PM,0:31,,,SUB: Champagnie FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+120,0022300785,177,1,58,1,9:07 PM,0:25,Doncic 6' Turnaround Hook Shot (13 PTS),,,32 - 25,-7,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+121,0022300785,178,7,2,1,9:07 PM,0:25,,,Sochan Violation:Defensive Goaltending (L.Wood),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+122,0022300785,179,5,1,1,9:07 PM,0:02,Doncic STEAL (2 STL),,Sochan Bad Pass Turnover (P1.T3),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+123,0022300785,181,2,1,1,9:07 PM,0:00,MISS Hardy 50' 3PT Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+124,0022300785,182,4,0,1,9:07 PM,0:00,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+125,0022300785,183,13,0,1,9:07 PM,0:00,,End of 1st Period (9:07 PM EST),,32 - 25,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+126,0022300785,198,12,0,2,9:10 PM,12:00,,Start of 2nd Period (9:10 PM EST),,32 - 25,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0022300785,199,2,52,2,9:10 PM,11:41,MISS Gafford 2' Alley Oop Dunk,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+128,0022300785,200,4,0,2,9:10 PM,11:38,,,Osman REBOUND (Off:0 Def:1),,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+129,0022300785,202,6,2,2,9:11 PM,11:29,Gafford S.FOUL (P2.T1) (M.Davis),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+130,0022300785,205,3,11,2,9:11 PM,11:29,,,Wembanyama Free Throw 1 of 2 (13 PTS),33 - 25,-8,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+131,0022300785,206,3,12,2,9:11 PM,11:29,,,Wembanyama Free Throw 2 of 2 (14 PTS),34 - 25,-9,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+132,0022300785,207,1,79,2,9:12 PM,11:19,Irving 18' Pullup Jump Shot (2 PTS),,,34 - 27,-7,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+133,0022300785,208,1,44,2,9:12 PM,11:05,,,Branham 1' Reverse Layup (2 PTS) (Wesley 1 AST),36 - 27,-9,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+134,0022300785,210,5,40,2,9:12 PM,10:57,Jones Jr. Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+135,0022300785,211,2,1,2,9:12 PM,10:46,,,MISS Wesley 26' 3PT Jump Shot,,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+136,0022300785,212,4,0,2,9:12 PM,10:44,Gafford REBOUND (Off:1 Def:1),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+137,0022300785,213,1,103,2,9:12 PM,10:39,Hardaway Jr. 18' Running Pull-Up Jump Shot (5 PTS) (Irving 2 AST),,,36 - 29,-7,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+138,0022300785,215,2,1,2,9:13 PM,10:13,,,MISS Osman 24' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+139,0022300785,216,4,0,2,9:13 PM,10:09,Gafford REBOUND (Off:1 Def:2),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+140,0022300785,217,1,79,2,9:13 PM,10:01,Irving 20' Pullup Jump Shot (4 PTS),,,36 - 31,-5,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+141,0022300785,218,1,43,2,9:13 PM,9:45,,,Wembanyama 2' Alley Oop Layup (16 PTS) (Wesley 2 AST),38 - 31,-7,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+142,0022300785,220,5,2,2,9:14 PM,9:31,Hardaway Jr. Lost Ball Turnover (P2.T7),,Champagnie STEAL (1 STL),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+143,0022300785,222,1,50,2,9:14 PM,9:28,,,Wesley 2' Running Dunk (2 PTS) (Champagnie 1 AST),40 - 31,-9,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+144,0022300785,224,1,80,2,9:14 PM,9:09,Hardy 8' Step Back Jump Shot (2 PTS),,,40 - 33,-7,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+145,0022300785,225,9,1,2,9:14 PM,9:08,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+146,0022300785,226,8,0,2,9:15 PM,9:08,SUB: Green FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+147,0022300785,228,1,98,2,9:17 PM,8:52,,,Champagnie 1' Cutting Layup Shot (5 PTS) (Osman 1 AST),42 - 33,-9,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+148,0022300785,230,6,4,2,9:18 PM,8:42,Hardaway Jr. OFF.Foul (P1) (L.Wood),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+149,0022300785,232,5,37,2,9:18 PM,8:42,Hardaway Jr. Offensive Foul Turnover (P3.T8),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+150,0022300785,233,8,0,2,9:18 PM,8:42,SUB: Washington FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+151,0022300785,235,1,47,2,9:18 PM,8:25,,,Wembanyama 6' Turnaround Jump Shot (18 PTS) (Branham 1 AST),44 - 33,-11,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+152,0022300785,237,2,79,2,9:18 PM,8:13,MISS Hardaway Jr. 17' Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+153,0022300785,238,4,0,2,9:19 PM,8:09,,,Wembanyama REBOUND (Off:1 Def:2),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+154,0022300785,239,2,1,2,9:19 PM,8:03,,,MISS Champagnie 25' 3PT Jump Shot,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+155,0022300785,240,4,0,2,9:19 PM,7:59,Gafford REBOUND (Off:1 Def:3),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+156,0022300785,241,1,79,2,9:19 PM,7:42,Irving 17' Pullup Jump Shot (6 PTS),,,44 - 35,-9,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+157,0022300785,242,2,1,2,9:19 PM,7:28,,,MISS Wembanyama 25' 3PT Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+158,0022300785,243,4,0,2,9:19 PM,7:25,Hardaway Jr. REBOUND (Off:0 Def:2),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+159,0022300785,244,5,39,2,9:19 PM,7:19,Washington Step Out of Bounds Turnover (P1.T9),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+160,0022300785,245,8,0,2,9:19 PM,7:19,SUB: Doncic FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+161,0022300785,247,1,86,2,9:20 PM,7:00,,,Wembanyama 6' Turnaround Fadeaway (20 PTS) (Osman 2 AST),46 - 35,-11,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+162,0022300785,249,1,79,2,9:20 PM,6:47,Irving 9' Pullup Jump Shot (8 PTS),,,46 - 37,-9,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+163,0022300785,250,6,2,2,9:20 PM,6:35,Gafford S.FOUL (P3.T2) (L.Wood),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+164,0022300785,252,3,11,2,9:21 PM,6:35,,,Wesley Free Throw 1 of 2 (3 PTS),47 - 37,-10,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+165,0022300785,253,8,0,2,9:21 PM,6:35,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+166,0022300785,254,8,0,2,9:21 PM,6:35,,,SUB: Johnson FOR Champagnie,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+167,0022300785,257,3,12,2,9:21 PM,6:35,,,Wesley Free Throw 2 of 2 (4 PTS),48 - 37,-11,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+168,0022300785,258,1,75,2,9:22 PM,6:24,Irving 2' Driving Finger Roll Layup (10 PTS) (Doncic 4 AST),,,48 - 39,-9,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+169,0022300785,260,2,1,2,9:22 PM,6:10,,,MISS Johnson 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+170,0022300785,261,4,0,2,9:22 PM,6:07,Irving REBOUND (Off:1 Def:3),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+171,0022300785,262,1,52,2,9:22 PM,6:02,Lively II 1' Alley Oop Dunk (4 PTS) (Irving 3 AST),,,48 - 41,-7,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+172,0022300785,264,1,58,2,9:22 PM,5:44,,,Wesley 3' Turnaround Hook Shot (6 PTS) (Wembanyama 3 AST),50 - 41,-9,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+173,0022300785,266,1,63,2,9:22 PM,5:31,Doncic 12' Fadeaway Jumper (15 PTS),,,50 - 43,-7,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+174,0022300785,267,2,79,2,9:23 PM,5:18,,,MISS Branham 11' Pullup Jump Shot,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+175,0022300785,268,4,0,2,9:23 PM,5:17,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+176,0022300785,269,6,3,2,9:23 PM,5:17,Green L.B.FOUL (P2.T3) (A.Nagy),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+177,0022300785,271,8,0,2,9:23 PM,5:17,,,SUB: Sochan FOR Wesley,,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+178,0022300785,272,8,0,2,9:23 PM,5:17,,,SUB: Vassell FOR Osman,,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+179,0022300785,273,8,0,2,9:23 PM,5:17,,,SUB: Jones FOR Branham,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+180,0022300785,277,2,63,2,9:23 PM,5:07,,,MISS Wembanyama 18' Fadeaway Jumper,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+181,0022300785,278,4,0,2,9:23 PM,5:06,Irving REBOUND (Off:1 Def:4),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+182,0022300785,279,5,40,2,9:24 PM,4:58,Doncic Out of Bounds Lost Ball Turnover (P3.T10),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+183,0022300785,280,2,1,2,9:24 PM,4:51,,,MISS Johnson 27' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+184,0022300785,281,4,0,2,9:24 PM,4:46,Washington REBOUND (Off:0 Def:2),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+185,0022300785,282,1,1,2,9:24 PM,4:31,Irving 28' 3PT Jump Shot (13 PTS) (Doncic 5 AST),,,50 - 46,-4,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+186,0022300785,284,5,40,2,9:25 PM,4:14,,,Sochan Out of Bounds Lost Ball Turnover (P2.T4),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+187,0022300785,285,2,1,2,9:25 PM,4:05,MISS Irving 25' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+188,0022300785,286,4,0,2,9:25 PM,4:03,,,Vassell REBOUND (Off:0 Def:3),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+189,0022300785,287,2,63,2,9:25 PM,3:53,,,MISS Vassell 7' Fadeaway Jumper,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+190,0022300785,288,4,0,2,9:25 PM,3:47,Irving REBOUND (Off:1 Def:5),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+191,0022300785,289,1,75,2,9:25 PM,3:39,Irving 2' Driving Finger Roll Layup (15 PTS) (Green 1 AST),,,50 - 48,-2,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+192,0022300785,291,9,1,2,9:26 PM,3:38,,,Spurs Timeout: Regular (Reg.3 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+193,0022300785,292,8,0,2,9:27 PM,3:38,,,SUB: Collins FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+194,0022300785,294,2,1,2,9:29 PM,3:21,,,MISS Sochan 25' 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+195,0022300785,295,4,0,2,9:29 PM,3:18,Green REBOUND (Off:0 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+196,0022300785,296,1,1,2,9:29 PM,2:59,Green 26' 3PT Jump Shot (5 PTS) (Irving 4 AST),,,50 - 51,1,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+197,0022300785,299,6,2,2,9:30 PM,2:36,Irving S.FOUL (P1.T4) (M.Davis),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+198,0022300785,301,3,11,2,9:30 PM,2:36,,,Vassell Free Throw 1 of 2 (6 PTS),51 - 51,TIE,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+199,0022300785,302,3,12,2,9:30 PM,2:36,,,MISS Vassell Free Throw 2 of 2,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+200,0022300785,303,4,0,2,9:30 PM,2:35,Doncic REBOUND (Off:0 Def:4),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+201,0022300785,304,2,108,2,9:31 PM,2:18,MISS Lively II 4' Cutting Dunk Shot,,Johnson BLOCK (1 BLK),,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1
+202,0022300785,306,4,0,2,9:31 PM,2:14,,,Johnson REBOUND (Off:0 Def:1),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+203,0022300785,307,2,6,2,9:31 PM,2:09,Lively II BLOCK (2 BLK),,MISS Vassell 3' Driving Layup,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1
+204,0022300785,309,4,0,2,9:31 PM,2:07,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+205,0022300785,311,2,102,2,9:31 PM,1:52,MISS Doncic 9' Driving Floating Bank Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+206,0022300785,312,4,0,2,9:31 PM,1:48,,,Jones REBOUND (Off:0 Def:3),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+207,0022300785,313,2,2,2,9:31 PM,1:45,,,MISS Johnson 25' 3PT Running Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+208,0022300785,314,4,0,2,9:31 PM,1:43,Doncic REBOUND (Off:0 Def:5),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+209,0022300785,315,2,1,2,9:32 PM,1:31,MISS Irving 27' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+210,0022300785,316,4,0,2,9:32 PM,1:29,,,Vassell REBOUND (Off:0 Def:4),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+211,0022300785,317,2,2,2,9:32 PM,1:27,,,MISS Jones 3PT Running Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+212,0022300785,318,4,0,2,9:32 PM,1:24,,,Sochan REBOUND (Off:3 Def:1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+213,0022300785,319,2,47,2,9:32 PM,1:12,,,MISS Sochan 20' Turnaround Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+214,0022300785,320,4,0,2,9:32 PM,1:09,Lively II REBOUND (Off:0 Def:3),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+215,0022300785,321,2,80,2,9:32 PM,0:59,MISS Doncic 18' Step Back Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+216,0022300785,322,4,0,2,9:32 PM,0:56,,,Collins REBOUND (Off:1 Def:3),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+217,0022300785,323,2,76,2,9:32 PM,0:52,,,MISS Jones Running Finger Roll Layup,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+218,0022300785,324,4,0,2,9:32 PM,0:50,Washington REBOUND (Off:0 Def:3),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+219,0022300785,325,1,1,2,9:32 PM,0:45,Green 24' 3PT Jump Shot (8 PTS) (Lively II 1 AST),,,51 - 54,3,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+220,0022300785,327,6,4,2,9:33 PM,0:35,,,Collins OFF.Foul (P2) (A.Nagy),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+221,0022300785,329,5,37,2,9:33 PM,0:35,,,Collins Offensive Foul Turnover (P1.T5),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+222,0022300785,330,1,6,2,9:33 PM,0:30,Irving 3' Driving Layup (17 PTS) (Doncic 6 AST),,,51 - 56,5,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+223,0022300785,332,2,79,2,9:34 PM,0:10,,,MISS Jones 26' 3PT Pullup Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+224,0022300785,333,4,0,2,9:34 PM,0:08,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+225,0022300785,335,6,1,2,9:34 PM,0:02,,,Jones P.FOUL (P2.T1) (L.Wood),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+226,0022300785,337,2,79,2,9:34 PM,0:00,MISS Doncic 38' 3PT Pullup Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+227,0022300785,338,4,0,2,9:34 PM,0:00,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+228,0022300785,339,13,0,2,9:35 PM,0:00,,End of 2nd Period (9:35 PM EST),,51 - 56,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+229,0022300785,346,12,0,3,9:50 PM,12:00,,Start of 3rd Period (9:50 PM EST),,51 - 56,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+230,0022300785,348,1,101,3,9:50 PM,11:42,Irving 10' Driving Floating Jump Shot (19 PTS) (Gafford 1 AST),,,51 - 58,7,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+231,0022300785,350,6,1,3,9:50 PM,11:31,Doncic P.FOUL (P2.T1) (L.Wood),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+232,0022300785,352,2,1,3,9:51 PM,11:24,,,MISS Champagnie 24' 3PT Jump Shot,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+233,0022300785,353,4,0,3,9:51 PM,11:17,Doncic REBOUND (Off:0 Def:6),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+234,0022300785,354,1,99,3,9:51 PM,11:08,Gafford 1' Cutting Finger Roll Layup Shot (4 PTS) (Irving 5 AST),,,51 - 60,9,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+235,0022300785,356,2,101,3,9:51 PM,10:53,,,MISS Vassell 5' Driving Floating Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+236,0022300785,357,4,0,3,9:51 PM,10:51,,,Wembanyama REBOUND (Off:2 Def:2),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+237,0022300785,358,2,47,3,9:51 PM,10:49,,,MISS Wembanyama 10' Turnaround Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+238,0022300785,359,4,0,3,9:51 PM,10:46,Doncic REBOUND (Off:0 Def:7),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+239,0022300785,360,1,1,3,9:52 PM,10:37,Irving 3PT Jump Shot (22 PTS) (Doncic 7 AST),,,51 - 63,12,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+240,0022300785,362,9,1,3,9:52 PM,10:36,,,Spurs Timeout: Regular (Reg.4 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+241,0022300785,363,2,9,3,9:55 PM,10:22,Washington BLOCK (1 BLK),,MISS Wembanyama 8' Driving Dunk,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1
+242,0022300785,365,4,0,3,9:55 PM,10:20,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+243,0022300785,367,2,66,3,9:55 PM,10:18,,,MISS Vassell 14' Jump Bank Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+244,0022300785,368,4,0,3,9:55 PM,10:15,Irving REBOUND (Off:1 Def:6),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+245,0022300785,369,5,1,3,9:55 PM,10:07,Doncic Bad Pass Turnover (P4.T11),,Wembanyama STEAL (1 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+246,0022300785,371,1,106,3,9:55 PM,10:03,,,Vassell 3' Running Alley Oop Dunk Shot (8 PTS) (Jones 1 AST),53 - 63,10,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+247,0022300785,373,5,1,3,9:56 PM,9:45,Doncic Bad Pass Turnover (P5.T12),,Vassell STEAL (2 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+248,0022300785,375,5,45,3,9:56 PM,9:42,,,Wembanyama Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+249,0022300785,376,1,101,3,9:56 PM,9:29,Irving 6' Driving Floating Jump Shot (24 PTS) (Doncic 8 AST),,,53 - 65,12,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+250,0022300785,378,1,78,3,9:56 PM,9:12,,,Jones 4' Floating Jump Shot (4 PTS) (Wembanyama 4 AST),55 - 65,10,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+251,0022300785,380,6,1,3,9:57 PM,9:01,,,Sochan P.FOUL (P2.T1) (L.Wood),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+252,0022300785,382,1,98,3,9:57 PM,8:59,Doncic 3' Cutting Layup Shot (17 PTS) (Green 2 AST),,,55 - 67,12,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+253,0022300785,384,2,98,3,9:57 PM,8:48,,,MISS Sochan 2' Cutting Layup Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+254,0022300785,385,4,0,3,9:57 PM,8:46,Gafford REBOUND (Off:1 Def:4),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+255,0022300785,386,2,79,3,9:57 PM,8:40,MISS Green 14' Pullup Jump Shot,,Wembanyama BLOCK (3 BLK),,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1
+256,0022300785,388,4,0,3,9:57 PM,8:37,Green REBOUND (Off:1 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+257,0022300785,389,2,1,3,9:57 PM,8:35,MISS Washington 25' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+258,0022300785,390,4,0,3,9:57 PM,8:33,,,Wembanyama REBOUND (Off:2 Def:3),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+259,0022300785,391,2,1,3,9:58 PM,8:24,,,MISS Vassell 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+260,0022300785,392,4,0,3,9:58 PM,8:21,Green REBOUND (Off:1 Def:2),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+261,0022300785,393,2,103,3,9:58 PM,8:16,MISS Irving 13' Running Pull-Up Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+262,0022300785,395,1,97,3,9:58 PM,8:11,Gafford Tip Layup Shot (6 PTS),,,55 - 69,14,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+263,0022300785,394,4,0,3,9:58 PM,8:11,Gafford REBOUND (Off:2 Def:4),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+264,0022300785,396,6,1,3,9:58 PM,7:58,Washington P.FOUL (P1.T2) (L.Wood),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+265,0022300785,398,2,47,3,9:59 PM,7:45,Doncic BLOCK (1 BLK),,MISS Sochan 10' Turnaround Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1
+266,0022300785,400,4,0,3,9:59 PM,7:44,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+267,0022300785,401,5,11,3,9:59 PM,7:44,,,Spurs Turnover: Shot Clock (T#7),,,3,1610612759,,,,,,0,0,,,,,,1,0,,,,,,0
+268,0022300785,402,8,0,3,9:59 PM,7:44,SUB: Hardaway Jr. FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+269,0022300785,404,2,80,3,9:59 PM,7:30,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+270,0022300785,405,4,0,3,9:59 PM,7:27,,,Wembanyama REBOUND (Off:2 Def:4),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+271,0022300785,406,2,1,3,9:59 PM,7:17,,,MISS Jones 3PT Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+272,0022300785,407,4,0,3,9:59 PM,7:14,Gafford REBOUND (Off:2 Def:5),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+273,0022300785,408,1,73,3,10:00 PM,7:06,Irving 3' Driving Reverse Layup (26 PTS),,,55 - 71,16,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+274,0022300785,409,2,98,3,10:00 PM,6:51,Gafford BLOCK (1 BLK),,MISS Sochan 3' Cutting Layup Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,1
+275,0022300785,411,4,0,3,10:00 PM,6:49,Gafford REBOUND (Off:2 Def:6),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+276,0022300785,412,2,1,3,10:00 PM,6:42,MISS Washington 25' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+277,0022300785,413,4,0,3,10:00 PM,6:39,,,Jones REBOUND (Off:0 Def:4),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+278,0022300785,414,1,2,3,10:00 PM,6:34,,,Vassell 26' 3PT Running Jump Shot (11 PTS) (Jones 2 AST),58 - 71,13,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+279,0022300785,416,1,80,3,10:01 PM,6:10,Doncic 22' Step Back Jump Shot (19 PTS),,,58 - 73,15,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+280,0022300785,417,2,101,3,10:01 PM,5:57,,,MISS Wembanyama 12' Driving Floating Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+281,0022300785,418,4,0,3,10:01 PM,5:55,Gafford REBOUND (Off:2 Def:7),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+282,0022300785,419,1,1,3,10:01 PM,5:45,Washington 25' 3PT Jump Shot (3 PTS) (Hardaway Jr. 2 AST),,,58 - 76,18,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+283,0022300785,421,9,1,3,10:01 PM,5:43,,,Spurs Timeout: Regular (Reg.5 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+284,0022300785,422,8,0,3,10:04 PM,5:43,SUB: Lively II FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+285,0022300785,423,8,0,3,10:04 PM,5:43,,,SUB: Johnson FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+286,0022300785,424,8,0,3,10:04 PM,5:43,,,SUB: Wesley FOR Champagnie,,,5,1630577,Julian Champagnie,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+287,0022300785,425,8,0,3,10:04 PM,5:43,,,SUB: Collins FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+288,0022300785,430,2,1,3,10:04 PM,5:24,,,MISS Johnson 26' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+289,0022300785,431,4,0,3,10:04 PM,5:21,Washington REBOUND (Off:0 Def:4),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+290,0022300785,432,1,63,3,10:05 PM,5:03,Doncic 7' Fadeaway Jumper (21 PTS),,,58 - 78,20,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+291,0022300785,433,6,1,3,10:05 PM,4:52,Hardaway Jr. P.FOUL (P2.T3) (L.Wood),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+292,0022300785,435,2,1,3,10:05 PM,4:42,,,MISS Collins 25' 3PT Jump Shot,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+293,0022300785,436,4,0,3,10:06 PM,4:39,Irving REBOUND (Off:1 Def:7),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+294,0022300785,437,1,75,3,10:06 PM,4:28,Doncic 1' Driving Finger Roll Layup (23 PTS),,,58 - 80,22,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+295,0022300785,438,6,1,3,10:06 PM,4:18,Washington P.FOUL (P2.T4) (M.Davis),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+296,0022300785,440,8,0,3,10:06 PM,4:18,SUB: Jones Jr. FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+297,0022300785,441,8,0,3,10:06 PM,4:18,,,SUB: Osman FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+298,0022300785,444,2,73,3,10:06 PM,4:15,,,MISS Wesley 2' Driving Reverse Layup,,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+299,0022300785,445,4,0,3,10:07 PM,4:13,Washington REBOUND (Off:0 Def:5),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+300,0022300785,446,2,103,3,10:07 PM,4:10,MISS Doncic 27' 3PT Running Pull-Up Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+301,0022300785,447,4,0,3,10:07 PM,4:07,,,Wesley REBOUND (Off:0 Def:1),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+302,0022300785,448,2,1,3,10:07 PM,3:54,,,MISS Johnson 25' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+303,0022300785,449,4,0,3,10:07 PM,3:51,Doncic REBOUND (Off:0 Def:8),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+304,0022300785,452,2,5,3,10:09 PM,3:41,MISS Washington 2' Layup,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+305,0022300785,453,4,0,3,10:09 PM,3:38,Lively II REBOUND (Off:1 Def:3),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+306,0022300785,454,1,107,3,10:09 PM,3:37,Lively II Tip Dunk Shot (6 PTS),,,58 - 82,24,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+307,0022300785,455,2,75,3,10:09 PM,3:23,Lively II BLOCK (3 BLK),,MISS Vassell 3' Driving Finger Roll Layup,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1
+308,0022300785,457,4,0,3,10:09 PM,3:21,Jones Jr. REBOUND (Off:1 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+309,0022300785,458,2,74,3,10:09 PM,3:17,MISS Hardaway Jr. 2' Running Reverse Layup,,Collins BLOCK (1 BLK),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,1
+310,0022300785,460,4,0,3,10:09 PM,3:15,,,Collins REBOUND (Off:1 Def:4),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+311,0022300785,462,1,98,3,10:10 PM,3:00,,,Collins 2' Cutting Layup Shot (2 PTS) (Wesley 3 AST),60 - 82,22,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+312,0022300785,464,1,101,3,10:10 PM,2:49,Doncic 17' Driving Floating Jump Shot (25 PTS),,,60 - 84,24,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+313,0022300785,465,2,79,3,10:10 PM,2:41,,,MISS Johnson 25' 3PT Pullup Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+314,0022300785,466,4,0,3,10:10 PM,2:35,,,Collins REBOUND (Off:2 Def:4),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+315,0022300785,467,1,1,3,10:10 PM,2:24,,,Johnson 26' 3PT Jump Shot (3 PTS) (Collins 4 AST),63 - 84,21,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+316,0022300785,469,6,2,3,10:11 PM,2:04,,,Johnson S.FOUL (P1.T2) (A.Nagy),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+317,0022300785,471,3,11,3,10:11 PM,2:04,MISS Washington Free Throw 1 of 2,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+318,0022300785,472,4,1,3,10:11 PM,2:04,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+319,0022300785,475,3,12,3,10:11 PM,2:04,MISS Washington Free Throw 2 of 2,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+320,0022300785,499,8,0,3,10:11 PM,2:04,,,SUB: Branham FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+321,0022300785,476,4,0,3,10:11 PM,2:02,,,Collins REBOUND (Off:2 Def:5),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+322,0022300785,477,5,39,3,10:12 PM,1:57,,,Wesley Step Out of Bounds Turnover (P1.T8),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+323,0022300785,478,1,86,3,10:12 PM,1:42,Doncic 10' Turnaround Fadeaway (27 PTS),,,63 - 86,23,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+324,0022300785,479,2,1,3,10:12 PM,1:28,,,MISS Branham 26' 3PT Jump Shot,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+325,0022300785,480,4,0,3,10:12 PM,1:25,,,Collins REBOUND (Off:3 Def:5),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+326,0022300785,481,1,72,3,10:12 PM,1:23,,,Collins 2' Putback Layup (4 PTS),65 - 86,21,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+327,0022300785,482,1,98,3,10:13 PM,1:05,Lively II 2' Cutting Layup Shot (8 PTS) (Washington 2 AST),,,65 - 88,23,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+328,0022300785,484,2,1,3,10:13 PM,0:53,,,MISS Johnson 26' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+329,0022300785,485,4,0,3,10:13 PM,0:51,Doncic REBOUND (Off:0 Def:9),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+330,0022300785,486,2,1,3,10:13 PM,0:40,MISS Hardaway Jr. 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+331,0022300785,487,4,0,3,10:13 PM,0:36,Washington REBOUND (Off:1 Def:5),,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+332,0022300785,488,2,101,3,10:13 PM,0:35,MISS Washington 6' Driving Floating Jump Shot,,,,,4,1629023,P.J. Washington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+333,0022300785,489,4,0,3,10:13 PM,0:35,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+334,0022300785,491,2,101,3,10:14 PM,0:16,Lively II BLOCK (4 BLK),,MISS Johnson 6' Driving Floating Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1
+335,0022300785,493,4,0,3,10:14 PM,0:14,Lively II REBOUND (Off:1 Def:4),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+336,0022300785,494,6,28,3,10:14 PM,0:05,,,Osman Personal Take Foul (P1.T3) (A.Nagy),,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+337,0022300785,496,2,1,3,10:14 PM,0:00,MISS Jones Jr. 3PT Jump Shot,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+338,0022300785,497,4,0,3,10:14 PM,0:00,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+339,0022300785,498,13,0,3,10:14 PM,0:00,,End of 3rd Period (10:14 PM EST),,65 - 88,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+340,0022300785,509,12,0,4,10:17 PM,12:00,,Start of 4th Period (10:17 PM EST),,65 - 88,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+341,0022300785,510,1,80,4,10:17 PM,11:44,,,Branham 27' 3PT Step Back Jump Shot (5 PTS) (Wembanyama 5 AST),68 - 88,20,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+342,0022300785,512,1,1,4,10:18 PM,11:24,Irving 25' 3PT Jump Shot (29 PTS) (Hardaway Jr. 3 AST),,,68 - 91,23,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+343,0022300785,514,2,102,4,10:18 PM,11:10,,,MISS Johnson 11' Driving Floating Bank Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+344,0022300785,515,4,0,4,10:18 PM,11:08,Gafford REBOUND (Off:2 Def:8),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+345,0022300785,516,2,63,4,10:18 PM,11:01,MISS Hardy 13' Fadeaway Jumper,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+346,0022300785,517,4,0,4,10:18 PM,10:57,,,Johnson REBOUND (Off:0 Def:2),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+347,0022300785,518,5,2,4,10:18 PM,10:53,Irving STEAL (1 STL),,Wembanyama Lost Ball Turnover (P2.T9),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+348,0022300785,520,1,102,4,10:18 PM,10:44,Hardy 6' Driving Floating Bank Jump Shot (4 PTS) (Hardaway Jr. 4 AST),,,68 - 93,25,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+349,0022300785,522,5,1,4,10:19 PM,10:28,Irving STEAL (2 STL),,Wesley Bad Pass Turnover (P2.T10),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+350,0022300785,524,1,50,4,10:19 PM,10:23,Gafford 1' Running Dunk (8 PTS) (Irving 6 AST),,,68 - 95,27,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+351,0022300785,526,1,1,4,10:19 PM,10:08,,,Branham 25' 3PT Jump Shot (8 PTS) (Wesley 4 AST),71 - 95,24,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+352,0022300785,528,2,71,4,10:19 PM,9:49,MISS Gafford 2' Finger Roll Layup,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+353,0022300785,529,4,0,4,10:19 PM,9:48,,,Wembanyama REBOUND (Off:2 Def:5),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+354,0022300785,530,2,79,4,10:19 PM,9:42,,,MISS Wembanyama 26' 3PT Pullup Jump Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+355,0022300785,531,4,0,4,10:19 PM,9:38,Jones Jr. REBOUND (Off:1 Def:2),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+356,0022300785,532,1,79,4,10:19 PM,9:32,Irving 3PT Pullup Jump Shot (32 PTS),,,71 - 98,27,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+357,0022300785,533,9,1,4,10:20 PM,9:30,,,Spurs Timeout: Regular (Reg.6 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+358,0022300785,534,8,0,4,10:21 PM,9:30,,,SUB: Vassell FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+359,0022300785,536,2,58,4,10:23 PM,9:13,,,MISS Wembanyama 12' Turnaround Hook Shot,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+360,0022300785,537,4,0,4,10:23 PM,9:10,Irving REBOUND (Off:1 Def:8),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+361,0022300785,538,1,78,4,10:23 PM,9:01,Irving 8' Floating Jump Shot (34 PTS) (Hardy 1 AST),,,71 - 100,29,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+362,0022300785,540,2,75,4,10:23 PM,8:47,,,MISS Branham 8' Driving Finger Roll Layup,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+363,0022300785,542,1,97,4,10:23 PM,8:43,,,Branham Tip Layup Shot (10 PTS),73 - 100,27,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+364,0022300785,541,4,0,4,10:23 PM,8:43,,,Branham REBOUND (Off:1 Def:0),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+365,0022300785,543,1,6,4,10:24 PM,8:26,Gafford 3' Driving Layup (10 PTS) (Hardaway Jr. 5 AST),,,73 - 102,29,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+366,0022300785,545,1,1,4,10:24 PM,8:19,,,Branham 25' 3PT Jump Shot (13 PTS) (Wesley 5 AST),76 - 102,26,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+367,0022300785,547,1,79,4,10:24 PM,8:04,Hardy 24' 3PT Pullup Jump Shot (7 PTS),,,76 - 105,29,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+368,0022300785,548,7,5,4,10:24 PM,7:53,Irving Violation:Kicked Ball (A.Nagy),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+369,0022300785,549,6,2,4,10:25 PM,7:49,Gafford S.FOUL (P4.T1) (A.Nagy),,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+370,0022300785,551,3,11,4,10:25 PM,7:49,,,MISS Wesley Free Throw 1 of 2,,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+371,0022300785,552,4,1,4,10:25 PM,7:49,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+372,0022300785,553,3,12,4,10:25 PM,7:49,,,Wesley Free Throw 2 of 2 (7 PTS),77 - 105,28,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+373,0022300785,554,5,1,4,10:26 PM,7:29,Gafford Bad Pass Turnover (P2.T13),,Vassell STEAL (3 STL),,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+374,0022300785,556,2,1,4,10:26 PM,7:21,,,MISS Vassell 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+375,0022300785,557,4,0,4,10:26 PM,7:18,,,Wembanyama REBOUND (Off:3 Def:5),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+376,0022300785,558,1,1,4,10:26 PM,7:13,,,Wesley 5' Jump Shot (9 PTS) (Osman 3 AST),79 - 105,26,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+377,0022300785,560,2,1,4,10:26 PM,6:57,MISS Irving 26' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+378,0022300785,561,4,0,4,10:26 PM,6:55,,,Wembanyama REBOUND (Off:3 Def:6),,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+379,0022300785,562,1,75,4,10:27 PM,6:38,,,Wembanyama 3' Driving Finger Roll Layup (22 PTS),81 - 105,24,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+380,0022300785,563,1,1,4,10:27 PM,6:17,Hardaway Jr. 3PT Jump Shot (8 PTS) (Irving 7 AST),,,81 - 108,27,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+381,0022300785,565,1,52,4,10:27 PM,6:02,,,Wembanyama 2' Alley Oop Dunk (24 PTS) (Vassell 5 AST),83 - 108,25,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+382,0022300785,567,1,79,4,10:27 PM,5:44,Hardy 18' Pullup Jump Shot (9 PTS) (Gafford 2 AST),,,83 - 110,27,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+383,0022300785,569,1,1,4,10:28 PM,5:27,,,Wembanyama 15' Jump Shot (26 PTS) (Vassell 6 AST),85 - 110,25,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+384,0022300785,571,9,1,4,10:28 PM,5:26,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+385,0022300785,572,8,0,4,10:28 PM,5:26,SUB: Powell FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+386,0022300785,573,8,0,4,10:28 PM,5:26,SUB: Williams FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+387,0022300785,574,8,0,4,10:28 PM,5:26,SUB: Lawson FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+388,0022300785,575,8,0,4,10:28 PM,5:26,SUB: Prosper FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+389,0022300785,576,8,0,4,10:28 PM,5:26,,,SUB: Mamukelashvili FOR Wembanyama,,,5,1641705,Victor Wembanyama,1610612759.0,San Antonio,Spurs,SAS,5,1630572,Sandro Mamukelashvili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+390,0022300785,577,8,0,4,10:28 PM,5:26,,,SUB: Collins FOR Osman,,,5,1626224,Cedi Osman,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+391,0022300785,578,8,0,4,10:28 PM,5:26,,,SUB: Graham FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1628984,Devonte' Graham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+392,0022300785,586,2,75,4,10:31 PM,5:02,MISS Williams 3' Driving Finger Roll Layup,,,,,4,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+393,0022300785,587,4,0,4,10:31 PM,5:01,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+394,0022300785,589,2,1,4,10:32 PM,5:00,MISS Hardy 13' Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+395,0022300785,590,4,0,4,10:32 PM,4:56,,,Collins REBOUND (Off:3 Def:6),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+396,0022300785,591,2,80,4,10:32 PM,4:41,,,MISS Branham 19' Step Back Jump Shot,,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+397,0022300785,592,4,0,4,10:32 PM,4:38,Lawson REBOUND (Off:0 Def:1),,,,,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+398,0022300785,593,2,101,4,10:32 PM,4:31,MISS Lawson 5' Driving Floating Jump Shot,,,,,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+399,0022300785,594,4,0,4,10:32 PM,4:27,,,Graham REBOUND (Off:0 Def:1),,,5,1628984,Devonte' Graham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+400,0022300785,595,2,47,4,10:32 PM,4:16,,,MISS Mamukelashvili 12' Turnaround Jump Shot,,,5,1630572,Sandro Mamukelashvili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+401,0022300785,596,4,0,4,10:32 PM,4:13,Powell REBOUND (Off:0 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+402,0022300785,597,1,6,4,10:32 PM,4:05,Hardy 2' Driving Layup (11 PTS),,,85 - 112,27,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+403,0022300785,598,2,101,4,10:33 PM,3:55,,,MISS Collins 10' Driving Floating Jump Shot,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+404,0022300785,599,4,0,4,10:33 PM,3:54,,,Mamukelashvili REBOUND (Off:1 Def:0),,,5,1630572,Sandro Mamukelashvili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+405,0022300785,637,2,97,4,10:33 PM,3:53,Prosper BLOCK (1 BLK),,MISS Mamukelashvili 3' Tip Layup Shot,,,5,1630572,Sandro Mamukelashvili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0
+406,0022300785,639,4,0,4,10:33 PM,3:52,,,Collins REBOUND (Off:4 Def:6),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+407,0022300785,600,2,5,4,10:33 PM,3:50,,,MISS Collins 3' Layup,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+408,0022300785,601,4,0,4,10:33 PM,3:48,Powell REBOUND (Off:0 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+409,0022300785,602,5,45,4,10:33 PM,3:39,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+410,0022300785,603,1,80,4,10:33 PM,3:23,,,Collins 13' Step Back Jump Shot (6 PTS),87 - 112,25,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+411,0022300785,605,5,40,4,10:34 PM,3:09,Prosper Out of Bounds Lost Ball Turnover (P1.T15),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+412,0022300785,606,2,1,4,10:34 PM,2:59,,,MISS Collins 24' 3PT Jump Shot,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+413,0022300785,607,4,0,4,10:34 PM,2:57,Lawson REBOUND (Off:0 Def:2),,,,,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+414,0022300785,608,2,75,4,10:34 PM,2:50,MISS Hardy 2' Driving Finger Roll Layup,,Collins BLOCK (2 BLK),,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,1
+415,0022300785,610,4,0,4,10:34 PM,2:46,,,Branham REBOUND (Off:1 Def:1),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+416,0022300785,611,2,2,4,10:34 PM,2:42,,,MISS Graham 26' 3PT Running Jump Shot,,,5,1628984,Devonte' Graham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+417,0022300785,612,4,0,4,10:34 PM,2:39,Prosper REBOUND (Off:0 Def:1),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+418,0022300785,614,1,79,4,10:35 PM,2:19,Hardy 17' Pullup Jump Shot (13 PTS),,,87 - 114,27,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+419,0022300785,615,1,101,4,10:35 PM,2:02,,,Branham 10' Driving Floating Jump Shot (15 PTS),89 - 114,25,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+420,0022300785,616,6,2,4,10:35 PM,2:02,Williams S.FOUL (P1.T2) (M.Davis),,,,,4,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+421,0022300785,618,3,10,4,10:35 PM,2:02,,,Branham Free Throw 1 of 1 (16 PTS),90 - 114,24,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+422,0022300785,619,2,9,4,10:36 PM,1:51,MISS Williams 2' Driving Dunk,,Collins BLOCK (3 BLK),,,4,1630314,Brandon Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,1
+423,0022300785,621,4,0,4,10:36 PM,1:48,,,Branham REBOUND (Off:1 Def:2),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+424,0022300785,622,2,80,4,10:36 PM,1:34,,,MISS Wesley 24' 3PT Step Back Jump Shot,,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+425,0022300785,623,4,0,4,10:36 PM,1:32,,,Collins REBOUND (Off:5 Def:6),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+426,0022300785,624,1,1,4,10:36 PM,1:29,,,Branham 26' 3PT Jump Shot (19 PTS) (Wesley 6 AST),93 - 114,21,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+427,0022300785,626,2,79,4,10:36 PM,1:12,MISS Hardy 9' Pullup Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+428,0022300785,627,4,0,4,10:36 PM,1:09,Prosper REBOUND (Off:1 Def:1),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+429,0022300785,628,2,1,4,10:36 PM,1:09,MISS Prosper 13' Jump Shot,,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+430,0022300785,629,4,0,4,10:37 PM,1:05,,,Collins REBOUND (Off:5 Def:7),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+431,0022300785,630,5,1,4,10:37 PM,0:50,Prosper STEAL (1 STL),,Branham Bad Pass Turnover (P1.T11),,,5,1631103,Malaki Branham,1610612759.0,San Antonio,Spurs,SAS,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+432,0022300785,632,1,50,4,10:37 PM,0:47,Prosper 1' Running Dunk (2 PTS),,,93 - 116,23,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+433,0022300785,633,5,40,4,10:37 PM,0:34,,,Wesley Out of Bounds Lost Ball Turnover (P3.T12),,,5,1631104,Blake Wesley,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+434,0022300785,634,5,11,4,10:38 PM,0:11,MAVERICKS Turnover: Shot Clock (T#16),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+435,0022300785,635,13,0,4,10:38 PM,0:00,,End of 4th Period (10:38 PM EST),,93 - 116,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

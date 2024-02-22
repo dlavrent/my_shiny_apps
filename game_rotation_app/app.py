@@ -38,7 +38,7 @@ with ui.nav_panel('Main Application'):
     
     with ui.layout_sidebar():
         with ui.sidebar():
-            with ui.accordion(id='plot_settings',bg='#f8f8f8', open='Game Selection'):
+            with ui.accordion(id='plot_settings',bg='#f8f8f8', open=['Game Selection', 'Plot Settings']):
 
                 with ui.accordion_panel('Game Selection'):
                     ui.input_selectize(
@@ -128,7 +128,7 @@ with ui.nav_panel('Main Application'):
                         )
 
                         ui.update_selectize("game_id", choices={str(game_strs.index[i]):str(game_strs.values[i]) for i in range(len(game_strs))},
-                                            label='Select the game ({} choices):'.format(len(game_strs)))
+                                            label='Select the game ({} choice{}):'.format(len(game_strs), '' if len(game_strs) == 1 else 's'))
                     
                 with ui.accordion_panel('Plot Settings'):
                     ui.input_checkbox("checkbox_plottext", 

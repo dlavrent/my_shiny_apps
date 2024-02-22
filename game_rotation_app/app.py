@@ -46,14 +46,20 @@ with ui.nav_panel('Main Application'):
                         {x: x for x in season_strs},
                     )
 
+                    tm_choices = np.concatenate((['All'], tms_byalphabet))
                     ui.input_selectize(  
-                        "away_team",  "Select away team:",  
-                        {x: x for x in tms_byalphabet},
+                        "team1",  "Filter for team:",  
+                        {x: x for x in tm_choices},
                     )  
 
+                    ui.input_checkbox(
+                        'team1_home', 'Home only?',
+                        False
+                    )
+
                     ui.input_selectize(  
-                        "home_team",  "Select home team:",  
-                        {x: x for x in tms_byalphabet},
+                        "team2",  "Filter for opponent:",  
+                        {x: x for x in ['All']},
                     )  
 
                     game_choices = []
@@ -62,32 +68,68 @@ with ui.nav_panel('Main Application'):
                         {x: x for x in game_choices}
                     )  
 
-                    # update games based on whether away/home have played
+                    # update games based on team1 / home status
+
                     @reactive.effect 
                     def _():
                             
                         input_season_str = input.season_str()
+                        tm1 = input.team1()
+                        tm1_home = input.team1_home()
                         
                         df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_{input_season_str}.csv'), 
                             dtype={'GAME_ID': str},
                             index_col=0)
 
                         df_lgl = df_lgl[df_lgl.MATCHUP.str.contains('@')]
+                        df_sub = df_lgl.copy()
 
-                        df_lgl['home_abbrev'] = [x[-3:] for x in df_lgl.MATCHUP]
-                        df_lgl['away_abbrev'] = [x[:3] for x in df_lgl.MATCHUP]
+                        if tm1 != 'All':
+                            df_sub = df_sub[df_sub.MATCHUP.str.contains(tm1)]
+
+                            if tm1_home:
+                                df_sub = df_sub[df_sub.MATCHUP.str.contains(f'@ {tm1}')]
+
+                            opps = np.unique([x.replace(tm1, '').replace('@', '').strip() for x in df_sub.MATCHUP.values])
+                            opps = np.concatenate((['All'], opps))
+
+                            ui.update_selectize('team2', choices={x:x for x in opps})
+
+
+                    @reactive.effect 
+                    def _():
+                            
+                        input_season_str = input.season_str()
+                        tm1 = input.team1()
+                        tm1_home = input.team1_home()
+                        tm2 = input.team2()
+
+                        df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_{input_season_str}.csv'), 
+                            dtype={'GAME_ID': str},
+                            index_col=0)
+
+                        df_lgl = df_lgl[df_lgl.MATCHUP.str.contains('@')]
+
+                        df_sub = df_lgl.copy()
                         
-                        df_sub = df_lgl[(df_lgl.home_abbrev == input.home_team()) & \
-                                        (df_lgl.away_abbrev == input.away_team())# | \
-                                        ]
+                        if tm1 != 'All':
+                            df_sub = df_sub[df_sub.MATCHUP.str.contains(tm1)]
 
+                            if tm1_home:
+                                df_sub = df_sub[df_sub.MATCHUP.str.contains(f'@ {tm1}')]
+                            
+                            if tm2 != 'All':
+                                df_sub = df_sub[(df_sub.MATCHUP.str.contains(tm1)) & \
+                                                (df_sub.MATCHUP.str.replace(tm1, '').str.contains(tm2))]
+                        
                         game_strs = (df_sub
                             .set_index('GAME_ID')
                             .apply(lambda x: x['GAME_DATE']+': '+x['MATCHUP'].replace('.', ''),axis=1)
                         )
 
-                        ui.update_selectize("game_id", choices={str(game_strs.index[i]):str(game_strs.values[i]) for i in range(len(game_strs))})
-                
+                        ui.update_selectize("game_id", choices={str(game_strs.index[i]):str(game_strs.values[i]) for i in range(len(game_strs))},
+                                            label='Select the game ({} choices):'.format(len(game_strs)))
+                    
                 with ui.accordion_panel('Plot Settings'):
                     ui.input_checkbox("checkbox_plottext", 
                                 "Annotate with shift +/-", 

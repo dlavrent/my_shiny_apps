@@ -23,12 +23,15 @@ def pull_and_save_df_lgl(season_end_year, data_dir='data/lgls/', overwrite=True)
                                       season=season_str,
                                       season_type_all_star='Regular Season'
                                       ).get_data_frames()[0]
+        
+    lgl = lgl.sort_values(['GAME_DATE', 'GAME_ID']).reset_index(drop=True)
     
     fsave = os.path.join(data_dir, f'df_lgl_{season_str}.csv')
     if overwrite:
         print(f'saving to... {fsave}')
         lgl.to_csv(fsave)
     
+    return lgl
 
 '''
 import pandas as pd
@@ -52,4 +55,4 @@ print(game_strs)
 '''
 
 if __name__ == '__main__':
-    pull_and_save_df_lgl(2024)
+    lgl = pull_and_save_df_lgl(2024)

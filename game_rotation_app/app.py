@@ -133,7 +133,7 @@ with ui.nav_panel('Main Application'):
                 with ui.accordion_panel('Plot Settings'):
                     ui.input_checkbox("checkbox_plottext", 
                                 "Annotate with shift +/-", 
-                                False)  
+                                True)  
                     
                     ui.input_selectize("plot_cmap_name", 
                                 "Colormap for shift +/-'s", 

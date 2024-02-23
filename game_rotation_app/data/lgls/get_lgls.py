@@ -7,7 +7,7 @@ Created on Tue Feb  6 22:05:04 2024
 import os
 from nba_api.stats.endpoints import leaguegamelog 
 
-def pull_and_save_df_lgl(season_end_year, data_dir='data/lgls/', overwrite=True):
+def pull_and_save_df_lgl(season_end_year, data_dir='data/lgls/', let='T', overwrite=True):
 
     
     season_str = '{}-{}'.format(season_end_year-1, str(season_end_year)[-2:])
@@ -19,19 +19,21 @@ def pull_and_save_df_lgl(season_end_year, data_dir='data/lgls/', overwrite=True)
    
     
     lgl = leaguegamelog.LeagueGameLog(league_id='00',
-                                      player_or_team_abbreviation='T',
+                                      player_or_team_abbreviation=let,
                                       season=season_str,
                                       season_type_all_star='Regular Season'
                                       ).get_data_frames()[0]
         
     lgl = lgl.sort_values(['GAME_DATE', 'GAME_ID']).reset_index(drop=True)
     
-    fsave = os.path.join(data_dir, f'df_lgl_{season_str}.csv')
+    fsave = os.path.join(data_dir, f'df_lgl_{let}_{season_str}.csv')
     if overwrite:
         print(f'saving to... {fsave}')
         lgl.to_csv(fsave)
     
     return lgl
+
+
 
 '''
 import pandas as pd
@@ -55,4 +57,5 @@ print(game_strs)
 '''
 
 if __name__ == '__main__':
-    lgl = pull_and_save_df_lgl(2024)
+    lgl_T = pull_and_save_df_lgl(2024, 'T')
+    lgl_P = pull_and_save_df_lgl(2024, 'P')

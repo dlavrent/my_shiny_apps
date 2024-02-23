@@ -12,6 +12,11 @@ from game_rotations.get_game_rotations import pull_and_save_df_grs
 season_end_year = 2024
 pull_and_save_df_lgl(season_end_year, 
                      data_dir='lgls/',
+                     let='T',
+                     overwrite=True)
+pull_and_save_df_lgl(season_end_year, 
+                     data_dir='lgls/',
+                     let='P',
                      overwrite=True)
 pull_and_save_df_pbps(season_end_year, 
                       #subset=['0022300771', '0022300772', '0022300773'],

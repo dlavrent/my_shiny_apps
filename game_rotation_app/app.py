@@ -25,22 +25,41 @@ tms_byalphabet = np.sort(df_team_info['TEAM_ABBREVIATION'].values)
 season_end_yrs = [2024, 2023]
 season_strs = ['{}-{}'.format(season_end_year-1, str(season_end_year)[-2:]) for season_end_year in season_end_yrs]
 
-df_lgl_all = []
+df_lgl_T_all = []
+df_lgl_P_all = []
 for s_str in season_strs:
-    cur_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_{s_str}.csv'), 
+    cur_lgl_T = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_T_{s_str}.csv'), 
                             dtype={'GAME_ID': str},
                             index_col=0)
-    cur_lgl['season_str'] = s_str
-    df_lgl_all.append(cur_lgl)
-df_lgl_all = pd.concat(df_lgl_all)
+    cur_lgl_T['season_str'] = s_str
+    df_lgl_T_all.append(cur_lgl_T)
+    cur_lgl_P = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_P_{s_str}.csv'), 
+                            dtype={'GAME_ID': str},
+                            index_col=0)
+    cur_lgl_P['season_str'] = s_str
+    df_lgl_P_all.append(cur_lgl_P)
+df_lgl_T_all = pd.concat(df_lgl_T_all)
+df_lgl_P_all = pd.concat(df_lgl_P_all)
 
 with ui.nav_panel('Main Application'):
     
     with ui.layout_sidebar():
         with ui.sidebar():
-            with ui.accordion(id='plot_settings',bg='#f8f8f8', open=['Game Selection', 'Plot Settings']):
+            with ui.accordion(id='plot_settings',
+                              color='#f8f8f8', 
+                              open=[#'Data Availability', 
+                                    'Game Selection',
+                                    'Plot Settings']):
+                
 
-                with ui.accordion_panel('Game Selection'):
+                #with ui.accordion_panel('Data Availability'):            
+                #    @render.text(inline=True)  
+                #    def lastupdate():
+                #        last_date = df_lgl_T_all['GAME_DATE'].max()
+                #        return f'Games through: {last_date}'
+                    
+                with ui.accordion_panel('Game Selection', 
+                                        ):
                     ui.input_selectize(
                         "season_str", "Select a season:",
                         {x: x for x in season_strs},
@@ -52,9 +71,9 @@ with ui.nav_panel('Main Application'):
                         {x: x for x in tm_choices},
                     )  
 
-                    ui.input_checkbox(
-                        'team1_home', 'Home only?',
-                        False
+                    ui.input_radio_buttons(
+                        'team1_homestat', 'Filter team playing',
+                        ['either home or away', 'home only', 'away only']
                     )
 
                     ui.input_selectize(  
@@ -75,9 +94,9 @@ with ui.nav_panel('Main Application'):
                             
                         input_season_str = input.season_str()
                         tm1 = input.team1()
-                        tm1_home = input.team1_home()
+                        tm1_homestat = input.team1_homestat()
                         
-                        df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_{input_season_str}.csv'), 
+                        df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_T_{input_season_str}.csv'), 
                             dtype={'GAME_ID': str},
                             index_col=0)
 
@@ -87,8 +106,10 @@ with ui.nav_panel('Main Application'):
                         if tm1 != 'All':
                             df_sub = df_sub[df_sub.MATCHUP.str.contains(tm1)]
 
-                            if tm1_home:
+                            if tm1_homestat == 'home only':
                                 df_sub = df_sub[df_sub.MATCHUP.str.contains(f'@ {tm1}')]
+                            elif tm1_homestat == 'away only':
+                                df_sub = df_sub[df_sub.MATCHUP.str.contains(f'{tm1} @')]
 
                             opps = np.unique([x.replace(tm1, '').replace('@', '').strip() for x in df_sub.MATCHUP.values])
                             opps = np.concatenate((['All'], opps))
@@ -101,10 +122,10 @@ with ui.nav_panel('Main Application'):
                             
                         input_season_str = input.season_str()
                         tm1 = input.team1()
-                        tm1_home = input.team1_home()
+                        tm1_homestat = input.team1_homestat()
                         tm2 = input.team2()
 
-                        df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_{input_season_str}.csv'), 
+                        df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_T_{input_season_str}.csv'), 
                             dtype={'GAME_ID': str},
                             index_col=0)
 
@@ -115,8 +136,10 @@ with ui.nav_panel('Main Application'):
                         if tm1 != 'All':
                             df_sub = df_sub[df_sub.MATCHUP.str.contains(tm1)]
 
-                            if tm1_home:
+                            if tm1_homestat == 'home only':
                                 df_sub = df_sub[df_sub.MATCHUP.str.contains(f'@ {tm1}')]
+                            elif tm1_homestat == 'away only':
+                                df_sub = df_sub[df_sub.MATCHUP.str.contains(f'{tm1} @')]
                             
                             if tm2 != 'All':
                                 df_sub = df_sub[(df_sub.MATCHUP.str.contains(tm1)) & \
@@ -129,6 +152,8 @@ with ui.nav_panel('Main Application'):
 
                         ui.update_selectize("game_id", choices={str(game_strs.index[i]):str(game_strs.values[i]) for i in range(len(game_strs))},
                                             label='Select the game ({} choice{}):'.format(len(game_strs), '' if len(game_strs) == 1 else 's'))
+
+                
                     
                 with ui.accordion_panel('Plot Settings'):
                     ui.input_checkbox("checkbox_plottext", 
@@ -146,7 +171,7 @@ with ui.nav_panel('Main Application'):
             def plot(width='100%', height='100%', fill=False):
                 
                 g_id = input.game_id()               
-                game_info = df_lgl_all[df_lgl_all['GAME_ID'] == g_id]
+                game_info = df_lgl_T_all[df_lgl_T_all['GAME_ID'] == g_id]
                 
                 if len(game_info) > 0:
 
@@ -170,16 +195,97 @@ with ui.nav_panel('Main Application'):
             def text():
                 #nbacom_url = f'https://www.nba.com/game/{input.game_id()}/box-score'
                 return 'nba.com/stats game ID: {}'.format(input.game_id())
+
+        
+        #with ui.card():  
+        #    ui.card_header("Data Availability")
+        #    ui.markdown("Games for 2023-24 regular season up to Feb 13, 2024")
+        
+        
+        with ui.layout_columns():  
             
-                #
-                #ui.markdown('nba.com/stats game ID: [{}]({})'.format(input.game_id(), nbacom_url))
-                #ui.markdown('yeah')
-                #return 
+            plot_cols = ['PLAYER_NAME', 'MIN', 
+                         'PTS', 'REB', 'AST', 'STL', 'BLK', 'TOV', 'PF',
+                             'FGM', 'FGA', 'FG_PCT', 
+                             'FG3M', 'FG3A', 'FG3_PCT',
+                             'FTM', 'FTA', 'FT_PCT',
+                             'PLUS_MINUS']
+            
+            rename_col_d = {'PLUS_MINUS': '+/-',
+                            'PLAYER_NAME': 'PLAYER',
+                            'FG_PCT': 'FG%', 
+                            'FG3_PCT': 'FG3%',
+                            'FT_PCT': 'FT%',}
+            with ui.card():       
+                ui.card_header('Away Box Score')
 
-        with ui.card():  
-            ui.card_header("Data Availability")
-            ui.markdown("Games for 2023-24 regular season up to Feb 13, 2024")
+                @render.data_frame 
+                def box_away():
+                    
+                    g_id = input.game_id()       
 
+                     
+
+                    game_info = df_lgl_T_all[df_lgl_T_all['GAME_ID'] == g_id]
+                    df_box_game = df_lgl_P_all[df_lgl_P_all['GAME_ID'] == g_id]
+                    df_box_away = df_box_game[df_box_game.MATCHUP.str.contains('@')]
+                    fintabl = df_box_away[plot_cols].sort_values('MIN', ascending=0)
+                    fintabl = fintabl.rename(columns=rename_col_d)
+
+                    return render.DataGrid(fintabl)
+                
+            
+            with ui.card():  
+
+                ui.card_header('Home Box Score')
+                @render.data_frame 
+                def box_home():
+                    
+                    g_id = input.game_id()         
+
+                    game_info = df_lgl_T_all[df_lgl_T_all['GAME_ID'] == g_id]
+                    df_box_game = df_lgl_P_all[df_lgl_P_all['GAME_ID'] == g_id]
+                    df_box_home = df_box_game[df_box_game.MATCHUP.str.contains('vs.')]
+                    fintabl = df_box_home[plot_cols].sort_values('MIN', ascending=0)
+                    fintabl = fintabl.rename(columns = rename_col_d)
+
+                    return render.DataGrid(fintabl)
+
+
+
+with ui.nav_panel('Info'):
+
+    with ui.card():       
+        ui.card_header('About')
+        ui.markdown('Individual player shifts and +/- in shifts are pulled from ' +\
+                    'the GameRotations endpoint on nba.com/stats.\n\n' +\
+                    'Accessed using the [nba_api](https://github.com/swar/nba_api) python API (endpoint info [here](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/gamerotation.md)).'
+        )
+
+
+    with ui.card():       
+        ui.card_header('Contact')
+        ui.markdown('Feature requests? Feedback? Questions? '+\
+                    'Happy to chat on [Twitter](https://twitter.com/d_lavrent) or by [email](mailto:moondogdata@gmail.com)'
+        )
+
+        
+    with ui.card():
+        ui.card_header('Releases')
+        ui.markdown('- v0.0 (Feb 23, 2024)\n'+\
+                    '   - 2022-23, 2023-24 seasons\n'+\
+                    '   - optional text annotation, +/- colormap selection'
+        )
+
+    with ui.card():
+        ui.card_header('Future Directions')
+        ui.markdown('- add playoff games\n' +\
+                    '- allow for plotting/highlighting subset of players\n' +\
+                    '- add interactivity (hovering vertical bar that shows score, 5-man lineups)\n' +\
+                    '- add support for ESPN box scores\n'
+        )
+            
 with ui.nav_menu("Contact"):
     with ui.nav_control():
         ui.a("Twitter", href="https://twitter.com/d_lavrent/", target="_blank")
+        ui.a("email", href="mailto:moondogdata@gmail.com", target="_blank")

@@ -43,6 +43,11 @@ app_ui = ui.page_navbar(
         ui.layout_sidebar(
             ui.sidebar(
                 ui.accordion(
+                    ui.accordion_panel('About',
+                        ui.output_text('lastupdatetxt'),
+                        ui.markdown('\n\nData updated daily at 3am EST'),
+                    ), 
+
                     ui.accordion_panel('Game Selection',
                         ui.input_selectize("season_str", 
                                         "Select a season:",
@@ -59,7 +64,6 @@ app_ui = ui.page_navbar(
                         ui.input_selectize('game_id',
                                         'Select the game:',
                                         {x: x for x in []}),
-                        ui.output_text('lastupdatetxt')
                     ),
 
                     ui.accordion_panel('Plot Settings',
@@ -110,7 +114,7 @@ app_ui = ui.page_navbar(
         ),
         ui.card(
             ui.card_header('Releases'),
-            ui.markdown('- v0.0 (Feb 23, 2024)\n'+\
+            ui.markdown('- v0.0 (Mar 1, 2024)\n'+\
                         '   - 2022-23, 2023-24 seasons\n'+\
                         '   - optional text annotation, +/- colormap selection'
             )
@@ -279,10 +283,8 @@ def server(input: Inputs, output: Outputs, session: Session):
         
     @render.text 
     def lastupdatetxt():
-        last_update = 'Feb 23, 2024, 6pm EST'
         last_date = df_lgl_T_all['GAME_DATE'].max()
-        output_str = f'Data last updated:\n\n{last_update}\n\n'+\
-                     f'Games through: {last_date}'
+        output_str = f'Games through: {last_date}'
         return output_str
   
 app = App(app_ui, server)

@@ -7,6 +7,9 @@ import os
 from load_data_utils import get_gr, get_pbp
 from plot_utils import make_final_fig
 
+### SOMETHING BROKEN WITH 2024-02-25: SAS @ UTA
+# (0022300825)
+
 # load relevant data
 data_dir = './data/'
 df_team_info = pd.read_csv(os.path.join(data_dir, 'df_team_info.csv'))
@@ -55,7 +58,8 @@ app_ui = ui.page_navbar(
                                         {x: x for x in ['All']}),
                         ui.input_selectize('game_id',
                                         'Select the game:',
-                                        {x: x for x in []})
+                                        {x: x for x in []}),
+                        ui.output_text('lastupdatetxt')
                     ),
 
                     ui.accordion_panel('Plot Settings',
@@ -71,15 +75,18 @@ app_ui = ui.page_navbar(
                 open='always'
             ),
 
-            ui.card('Rotation Plot',
+            ui.card(
+                ui.card_header('Rotation Plot'),
                 ui.output_plot("plot", height='100%', width='1200px'),
             ),
 
             ui.layout_columns(
-                ui.card('Away Box Score',
+                ui.card(
+                    ui.card_header('Away Box Score'),
                     ui.output_data_frame('away_box')
                 ),
-                ui.card('Home Box Score',
+                ui.card(
+                    ui.card_header('Home Box Score'),
                     ui.output_data_frame('home_box')
                 )
             ),
@@ -88,29 +95,34 @@ app_ui = ui.page_navbar(
 
     ui.nav_panel('Info',
                  
-        ui.card('About',
+        ui.card(
+            ui.card_header('About'),
             ui.markdown('Individual player shifts and +/- in shifts are pulled from ' +\
                     'the GameRotations endpoint on nba.com/stats.\n\n' +\
                     'Accessed using the [nba_api](https://github.com/swar/nba_api) python API (endpoint info [here](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/gamerotation.md)).'
             )
         ),
-        ui.card('Contact',
+        ui.card(
+            ui.card_header('Contact'),
             ui.markdown('Feature requests? Feedback? Questions? '+\
                         'Happy to chat on [Twitter](https://twitter.com/d_lavrent) or by [email](mailto:moondogdata@gmail.com)'
             )
         ),
-        ui.card('Releases',
+        ui.card(
+            ui.card_header('Releases'),
             ui.markdown('- v0.0 (Feb 23, 2024)\n'+\
                         '   - 2022-23, 2023-24 seasons\n'+\
                         '   - optional text annotation, +/- colormap selection'
             )
         ),
-        ui.card('Future Directions',
+        ui.card(
+            ui.card_header('Future Directions'),
             ui.markdown('- add playoff games\n' +\
                         '- allow for plotting/highlighting subset of players\n' +\
                         '- add interactivity (hovering vertical bar that shows score, 5-man lineups)\n' +\
                         '- add support for ESPN box scores\n'
-            )
+            ),
+            style=".card-header { color:white; background:#2A2A2A !important; }"
         )
                  
     ),
@@ -142,7 +154,9 @@ def server(input: Inputs, output: Outputs, session: Session):
         df_lgl = df_lgl[df_lgl.MATCHUP.str.contains('@')]
         df_sub = df_lgl.copy()
 
-        if tm1 != 'All':
+        if tm1 == 'All':
+            ui.update_selectize('team2', choices={x:x for x in ['All']})
+        else:
             df_sub = df_sub[df_sub.MATCHUP.str.contains(tm1)]
 
             if tm1_homestat == 'home only':
@@ -241,6 +255,9 @@ def server(input: Inputs, output: Outputs, session: Session):
         df_box_away = df_box_game[df_box_game.MATCHUP.str.contains('@')]
         fintabl = df_box_away[plot_cols].sort_values('MIN', ascending=0)
         fintabl = fintabl.rename(columns=rename_col_d)
+        pct_cols = [c for c in fintabl.columns if '%' in c]
+        for pct_col in pct_cols:
+            fintabl[pct_col] = (fintabl[pct_col]*100).round(0)
 
         return render.DataGrid(fintabl)
 
@@ -254,7 +271,18 @@ def server(input: Inputs, output: Outputs, session: Session):
         df_box_home = df_box_game[df_box_game.MATCHUP.str.contains('vs.')]
         fintabl = df_box_home[plot_cols].sort_values('MIN', ascending=0)
         fintabl = fintabl.rename(columns = rename_col_d)
+        pct_cols = [c for c in fintabl.columns if '%' in c]
+        for pct_col in pct_cols:
+            fintabl[pct_col] = (fintabl[pct_col]*100).round(0)
 
         return render.DataGrid(fintabl)
+        
+    @render.text 
+    def lastupdatetxt():
+        last_update = 'Feb 23, 2024, 6pm EST'
+        last_date = df_lgl_T_all['GAME_DATE'].max()
+        output_str = f'Data last updated:\n\n{last_update}\n\n'+\
+                     f'Games through: {last_date}'
+        return output_str
   
 app = App(app_ui, server)

@@ -9,6 +9,8 @@ from plot_utils import make_final_fig
 
 ### SOMETHING BROKEN WITH 2024-02-25: SAS @ UTA
 # (0022300825)
+### SOMETHING BROKEN WITH 2024-02-27: UTA @ ATL
+# (0022300835)
 
 # load relevant data
 data_dir = './data/'

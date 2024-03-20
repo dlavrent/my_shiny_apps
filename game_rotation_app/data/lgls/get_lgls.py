@@ -23,9 +23,14 @@ def pull_and_save_df_lgl(season_end_year, data_dir='data/lgls/', let='T', overwr
                                       season=season_str,
                                       season_type_all_star='Regular Season'
                                       ).get_data_frames()[0]
-        
-    lgl = lgl.sort_values(['GAME_DATE', 'GAME_ID']).reset_index(drop=True)
     
+        
+    
+    if let == 'T':
+        lgl = lgl.sort_values(['GAME_DATE', 'GAME_ID', 'TEAM_ID']).reset_index(drop=True)
+    else:
+        lgl = lgl.sort_values(['GAME_DATE', 'GAME_ID', 'TEAM_ID', 'PLAYER_ID']).reset_index(drop=True)
+        
     fsave = os.path.join(data_dir, f'df_lgl_{let}_{season_str}.csv')
     if overwrite:
         print(f'saving to... {fsave}')
@@ -34,27 +39,6 @@ def pull_and_save_df_lgl(season_end_year, data_dir='data/lgls/', let='T', overwr
     return lgl
 
 
-
-'''
-import pandas as pd
-df_lgl = pd.read_csv('df_lgl_2023-24.csv', 
-                     index_col=0, 
-                     dtype={'GAME_ID': 'string'}
-)
-
-df_lgl[['TEAM_ID', 'TEAM_ABBREVIATION', 'TEAM_NAME']].drop_duplicates().to_csv('df_team_info_simple.csv')
-df_lgl = df_lgl[df_lgl.MATCHUP.str.contains('vs.')]
-df_lgl['home_abbrev'] = [x[:3] for x in df_lgl.MATCHUP]
-df_lgl['away_abbrev'] = [x[-3:] for x in df_lgl.MATCHUP]
-
-print(df_lgl.iloc[0]['GAME_ID'])
-game_strs = (df_lgl
- .set_index('GAME_ID')
- .apply(lambda x: x['GAME_DATE']+': '+x['MATCHUP'].replace('.', ''),axis=1)
- )
-
-print(game_strs)
-'''
 
 if __name__ == '__main__':
     lgl_T = pull_and_save_df_lgl(2024, 'T')

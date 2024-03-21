@@ -59,15 +59,15 @@ def pull_and_save_df_grs(season_end_year, data_dir = './',
             df_gr.loc[df_gr['TEAM_ID'] == away_team_id, 'h_a'] = 'away'
     
             # check if any suspect data
-            if np.any(np.isnan(df_gr['PT_DIFF'])):
+            if np.any(df_gr['PT_DIFF'].isna()):
                 print('flag!')
                 print(f'NaN values found in {cur_fname}')
                 flagged_ids.append(game_id)
                 
-    
-            print(f'saving to {cur_fname}...')
-            df_gr.to_csv(os.path.join(season_dir, cur_fname))
-    
+            else:
+                print(f'saving to {cur_fname}...')
+                df_gr.to_csv(os.path.join(season_dir, cur_fname))
+        
             time.sleep(0.6)
 
     return flagged_ids

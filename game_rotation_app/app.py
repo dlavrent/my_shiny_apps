@@ -45,7 +45,7 @@ app_ui = ui.page_navbar(
         ui.layout_sidebar(
             ui.sidebar(
                 ui.accordion(
-                    ui.accordion_panel('About',
+                    ui.accordion_panel('Data Availability',
                         ui.output_text('lastupdatetxt'),
                         ui.markdown('\n\nData updated daily at 3am EST'),
                     ), 
@@ -83,7 +83,10 @@ app_ui = ui.page_navbar(
 
             ui.card(
                 ui.card_header('Rotation Plot'),
-                ui.output_plot("plot", height='100%', width='1200px'),
+                ui.output_plot("plot", 
+                               height='100%', 
+                               width='1200px'
+                               ),
             ),
 
             ui.layout_columns(
@@ -104,8 +107,8 @@ app_ui = ui.page_navbar(
         ui.card(
             ui.card_header('About'),
             ui.markdown('Individual player shifts and +/- in shifts are pulled from ' +\
-                    'the GameRotations endpoint on nba.com/stats.\n\n' +\
-                    'Accessed using the [nba_api](https://github.com/swar/nba_api) python API (endpoint info [here](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/gamerotation.md)).'
+                    'the GameRotations endpoint on nba.com/stats'+\
+                    ', accessed using the [nba_api](https://github.com/swar/nba_api) python API (endpoint info [here](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/gamerotation.md)).'
             )
         ),
         ui.card(
@@ -123,8 +126,11 @@ app_ui = ui.page_navbar(
         ),
         ui.card(
             ui.card_header('Future Directions'),
-            ui.markdown('- add playoff games\n' +\
+            ui.markdown('- add live game updates\n' +\
+                        '- add playoff games\n' +\
+                        '- filter games by player\n' +\
                         '- allow for plotting/highlighting subset of players\n' +\
+                        '- color player shifts by other factors than team +/-, like player points\n' +\
                         '- add interactivity (hovering vertical bar that shows score, 5-man lineups)\n' +\
                         '- add support for ESPN box scores\n'
             ),

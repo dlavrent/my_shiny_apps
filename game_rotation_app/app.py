@@ -108,7 +108,7 @@ app_ui = ui.page_navbar(
             ui.card_header('About'),
             ui.markdown('Individual player shifts and +/- in shifts are pulled from ' +\
                     'the GameRotations endpoint on nba.com/stats'+\
-                    ', accessed using the [nba_api](https://github.com/swar/nba_api) python API (endpoint info [here](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/gamerotation.md)).'
+                    ', accessed using the [nba_api](https://github.com/swar/nba_api) python API (endpoint info [here](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/gamerotation.md))'
             )
         ),
         ui.card(
@@ -119,14 +119,15 @@ app_ui = ui.page_navbar(
         ),
         ui.card(
             ui.card_header('Releases'),
-            ui.markdown('- v0.0 (Mar 1, 2024)\n'+\
+            ui.markdown('- v0.0 (Mar 24, 2024)\n'+\
                         '   - 2022-23, 2023-24 seasons\n'+\
                         '   - optional text annotation, +/- colormap selection'
             )
         ),
         ui.card(
-            ui.card_header('Future Directions'),
-            ui.markdown('- add live game updates\n' +\
+            ui.card_header('Under development / future directions'),
+            ui.markdown('- better support for mobile browsers\n' +\
+                        '- add live game updates\n' +\
                         '- add playoff games\n' +\
                         '- filter games by player\n' +\
                         '- allow for plotting/highlighting subset of players\n' +\

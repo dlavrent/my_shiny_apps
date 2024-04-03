@@ -119,7 +119,7 @@ app_ui = ui.page_navbar(
         ),
         ui.card(
             ui.card_header('Releases'),
-            ui.markdown('- v0.0 (Mar 24, 2024)\n'+\
+            ui.markdown('- v0.0 (Apr 3, 2024)\n'+\
                         '   - 2022-23, 2023-24 seasons\n'+\
                         '   - optional text annotation, +/- colormap selection'
             )

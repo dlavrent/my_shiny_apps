@@ -143,8 +143,9 @@ app_ui = ui.page_navbar(
 
     ui.nav_menu('Contact',
         ui.nav_control(
+            ui.a("Website", href="https://plotandroll.com", target="_blank"),
             ui.a("Twitter", href="https://twitter.com/d_lavrent/", target="_blank"),
-            ui.a("email", href="mailto:pnr@plotandroll.com", target="_blank")
+            ui.a("Email", href="mailto:pnr@plotandroll.com", target="_blank")
         )
     ),
 

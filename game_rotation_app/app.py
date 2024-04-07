@@ -47,7 +47,7 @@ app_ui = ui.page_navbar(
                 ui.accordion(
                     ui.accordion_panel('Data Availability',
                         ui.output_text('lastupdatetxt'),
-                        ui.markdown('\n\nData updated daily at 3am EST'),
+                        ui.markdown('\n\nData updated nightly at 3am EST'),
                     ), 
 
                     ui.accordion_panel('Game Selection',
@@ -107,14 +107,15 @@ app_ui = ui.page_navbar(
         ui.card(
             ui.card_header('About'),
             ui.markdown('Individual player shifts and +/- in shifts are pulled from ' +\
-                    'the GameRotations endpoint on nba.com/stats'+\
+                    'the GameRotation endpoint on nba.com/stats'+\
                     ', accessed using the [nba_api](https://github.com/swar/nba_api) python API (endpoint info [here](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/gamerotation.md))'
             )
         ),
         ui.card(
             ui.card_header('Contact'),
             ui.markdown('Feature requests? Feedback? Questions? '+\
-                        'Happy to chat on [Twitter](https://twitter.com/d_lavrent) or by [email](mailto:moondogdata@gmail.com)'
+                        'Check out my website at [PlotandRoll.com](https://plotandroll.com).\n'+\
+                        'Happy to chat on [Twitter](https://twitter.com/d_lavrent) or by [email](mailto:pnr@plotandroll.com)'
             )
         ),
         ui.card(
@@ -143,7 +144,7 @@ app_ui = ui.page_navbar(
     ui.nav_menu('Contact',
         ui.nav_control(
             ui.a("Twitter", href="https://twitter.com/d_lavrent/", target="_blank"),
-            ui.a("email", href="mailto:moondogdata@gmail.com", target="_blank")
+            ui.a("email", href="mailto:pnr@plotandroll.com", target="_blank")
         )
     ),
 

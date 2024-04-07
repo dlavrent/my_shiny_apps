@@ -338,7 +338,7 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
     
     # add author information
     axs[-1, 0].text(1, -0.45, 
-                'by: @d_lavrent\n'+\
+                'apps.plotandroll.com/game_rotation_app/\n'+\
                 'API: swar/nba_api\n'+\
                 'nba.com/stats game ID: {}'.format(game_id),
                 ha='right',

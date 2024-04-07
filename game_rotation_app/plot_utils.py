@@ -327,6 +327,7 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
     ax_diff.xaxis.set_minor_locator(MultipleLocator(1))
     ax_diff.set_xticks(my_xticks)
     ax_diff.set_xlim(0, 48+5*num_OTs)
+    ax_diff.set_xlabel('minute in game')
     
     # make suptitle
     final_score_tag = make_final_score_tag(home_info, away_info, df_pbp, num_OTs)
@@ -337,9 +338,9 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
         ax.xaxis.grid()
     
     # add author information
-    axs[-1, 0].text(1, -0.45, 
-                'apps.plotandroll.com/game_rotation_app/\n'+\
-                'API: swar/nba_api\n'+\
+    axs[-1, 0].text(1, -0.53, 
+                'by: plotandroll.com\n'+\
+                'data accessed with: swar/nba_api\n'+\
                 'nba.com/stats game ID: {}'.format(game_id),
                 ha='right',
                 va='top',

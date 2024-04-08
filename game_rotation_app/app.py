@@ -131,6 +131,10 @@ app_ui = ui.page_navbar(
         ),
         ui.card(
             ui.card_header('Releases'),
+            ui.markdown('- v0.1 (Apr 8, 2024)\n'+\
+                        '   - added playoff + play-in games for 2022-23\n'+\
+                        '       - fingers crossed it works for the upcoming 2023-24 postseason!\n'
+            ),
             ui.markdown('- v0.0 (Apr 3, 2024)\n'+\
                         '   - 2022-23, 2023-24 seasons\n'+\
                         '   - optional text annotation, +/- colormap selection'
@@ -140,7 +144,6 @@ app_ui = ui.page_navbar(
             ui.card_header('Under development / future directions'),
             ui.markdown('- better support for mobile browsers\n' +\
                         '- add live game updates\n' +\
-                        '- add playoff games\n' +\
                         '- filter games by player\n' +\
                         '- allow for plotting/highlighting subset of players\n' +\
                         '- color player shifts by other factors than team +/-, like player points\n' +\

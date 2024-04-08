@@ -1,0 +1,486 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0052200101,2,12,0,1,7:33 PM,12:00,,Start of 1st Period (7:33 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0052200101,4,10,0,1,7:33 PM,12:00,Jump Ball Adebayo vs. Capela: Tip to Young,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1
+2,0052200101,7,2,1,1,7:34 PM,11:36,,,MISS Collins 25' 3PT Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+3,0052200101,8,4,0,1,7:34 PM,11:34,,,Murray REBOUND (Off:1 Def:0),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+4,0052200101,9,5,1,1,7:34 PM,11:32,Adebayo STEAL (1 STL),,Young Bad Pass Turnover (P1.T1),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+5,0052200101,11,1,76,1,7:34 PM,11:24,Butler 6' Running Finger Roll Layup (2 PTS),,,0 - 2,2,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+6,0052200101,12,6,1,1,7:34 PM,11:19,Vincent P.FOUL (P1.T1) (J.Goble),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+7,0052200101,14,2,79,1,7:34 PM,11:11,,,MISS Murray 25' 3PT Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+8,0052200101,15,4,0,1,7:34 PM,11:09,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+9,0052200101,16,6,3,1,7:35 PM,11:09,Herro L.B.FOUL (P1.T2) (S.Wright),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+10,0052200101,18,2,86,1,7:35 PM,11:05,,,MISS Hunter 15' Turnaround Fadeaway Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+11,0052200101,19,4,0,1,7:35 PM,11:01,Herro REBOUND (Off:0 Def:1),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+12,0052200101,20,2,2,1,7:35 PM,10:59,MISS Herro 26' 3PT Running Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+13,0052200101,21,4,0,1,7:35 PM,10:54,,,Capela REBOUND (Off:0 Def:1),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+14,0052200101,22,2,101,1,7:35 PM,10:43,,,MISS Murray 6' Driving Floating Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+15,0052200101,23,4,0,1,7:35 PM,10:40,Butler REBOUND (Off:0 Def:1),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+16,0052200101,24,2,79,1,7:35 PM,10:28,MISS Butler 17' Pullup Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+17,0052200101,25,4,0,1,7:36 PM,10:25,,,Young REBOUND (Off:0 Def:1),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+18,0052200101,26,1,1,1,7:36 PM,10:19,,,Collins 26' 3PT Jump Shot (3 PTS) (Young 1 AST),3 - 2,-1,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+19,0052200101,29,2,66,1,7:36 PM,9:53,MISS Butler 4' Jump Bank Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+20,0052200101,30,4,0,1,7:36 PM,9:53,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+21,0052200101,31,6,3,1,7:36 PM,9:53,,,Collins L.B.FOUL (P1.T1) (J.Goble),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+22,0052200101,33,2,1,1,7:37 PM,9:43,MISS Strus 24' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+23,0052200101,34,4,0,1,7:37 PM,9:40,,,Young REBOUND (Off:0 Def:2),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+24,0052200101,35,1,79,1,7:37 PM,9:33,,,Hunter 13' Pullup Jump Shot (2 PTS),5 - 2,-3,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+25,0052200101,36,1,5,1,7:37 PM,9:20,Butler 5' Layup (4 PTS) (Vincent 1 AST),,,5 - 4,-1,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+26,0052200101,38,6,2,1,7:38 PM,9:03,Strus S.FOUL (P1.T3) (S.Wright),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+27,0052200101,40,3,11,1,7:38 PM,9:03,,,Collins Free Throw 1 of 2 (4 PTS),6 - 4,-2,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+28,0052200101,41,3,12,1,7:38 PM,9:03,,,MISS Collins Free Throw 2 of 2,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+29,0052200101,42,4,0,1,7:38 PM,9:01,Strus REBOUND (Off:0 Def:1),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+30,0052200101,43,5,40,1,7:38 PM,8:56,Herro Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+31,0052200101,44,1,101,1,7:39 PM,8:45,,,Young 9' Driving Floating Jump Shot (2 PTS),8 - 4,-4,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+32,0052200101,45,2,57,1,7:39 PM,8:30,MISS Adebayo 9' Driving Hook Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+33,0052200101,46,4,0,1,7:39 PM,8:26,,,Capela REBOUND (Off:0 Def:2),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+34,0052200101,47,1,1,1,7:39 PM,8:19,,,Murray 3PT Jump Shot (3 PTS) (Young 2 AST),11 - 4,-7,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+35,0052200101,49,6,2,1,7:40 PM,7:55,,,Capela S.FOUL (P1.T2) (J.DeRosa),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+36,0052200101,51,3,11,1,7:40 PM,7:55,Butler Free Throw 1 of 2 (5 PTS),,,11 - 5,-6,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+37,0052200101,52,3,12,1,7:40 PM,7:55,Butler Free Throw 2 of 2 (6 PTS),,,11 - 6,-5,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+38,0052200101,53,2,101,1,7:40 PM,7:43,,,MISS Young 8' Driving Floating Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+39,0052200101,54,4,0,1,7:40 PM,7:40,Vincent REBOUND (Off:0 Def:1),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+40,0052200101,55,1,2,1,7:41 PM,7:36,Herro 24' 3PT Running Jump Shot (3 PTS) (Strus 1 AST),,,11 - 9,-2,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+41,0052200101,57,1,79,1,7:41 PM,7:19,,,Hunter 12' Pullup Jump Shot (4 PTS) (Murray 1 AST),13 - 9,-4,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+42,0052200101,58,6,2,1,7:41 PM,7:19,Herro S.FOUL (P2.T4) (J.Goble),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+43,0052200101,60,3,10,1,7:41 PM,7:19,,,MISS Hunter Free Throw 1 of 1,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+44,0052200101,61,4,0,1,7:41 PM,7:17,Strus REBOUND (Off:0 Def:2),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+45,0052200101,62,2,101,1,7:42 PM,6:57,MISS Herro 6' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+46,0052200101,63,4,0,1,7:42 PM,6:54,,,Capela REBOUND (Off:0 Def:3),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+47,0052200101,64,1,63,1,7:42 PM,6:51,,,Young 10' Fadeaway Jumper (4 PTS) (Murray 2 AST),15 - 9,-6,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+48,0052200101,65,6,2,1,7:42 PM,6:51,Strus S.FOUL (P2.PN) (S.Wright),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+49,0052200101,68,9,1,1,7:42 PM,6:51,HEAT Timeout: Regular (Full 1 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+50,0052200101,70,8,0,1,7:44 PM,6:51,SUB: Lowry FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+51,0052200101,72,3,10,1,7:46 PM,6:51,,,Young Free Throw 1 of 1 (5 PTS),16 - 9,-7,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+52,0052200101,73,1,71,1,7:46 PM,6:33,Lowry 6' Finger Roll Layup (2 PTS),,,16 - 11,-5,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+53,0052200101,74,1,1,1,7:46 PM,6:16,,,Murray 24' 3PT Jump Shot (6 PTS) (Young 3 AST),19 - 11,-8,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+54,0052200101,76,2,1,1,7:46 PM,6:08,MISS Vincent 24' 3PT Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+55,0052200101,77,4,0,1,7:46 PM,6:06,,,Young REBOUND (Off:0 Def:3),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+56,0052200101,78,2,103,1,7:47 PM,6:02,,,MISS Murray 26' 3PT Running Pull-Up Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+57,0052200101,79,4,0,1,7:47 PM,5:58,Vincent REBOUND (Off:0 Def:2),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+58,0052200101,80,2,1,1,7:47 PM,5:46,MISS Lowry 27' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+59,0052200101,81,4,0,1,7:47 PM,5:43,,,Capela REBOUND (Off:0 Def:4),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+60,0052200101,82,6,4,1,7:47 PM,5:40,,,Hunter OFF.Foul (P1) (S.Wright),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+61,0052200101,84,5,37,1,7:47 PM,5:40,,,Hunter Offensive Foul Turnover (P1.T2),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+62,0052200101,85,8,0,1,7:47 PM,5:40,SUB: Martin FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+63,0052200101,86,8,0,1,7:47 PM,5:40,,,SUB: Bogdanovic FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+64,0052200101,90,2,79,1,7:48 PM,5:15,MISS Butler 11' Pullup Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+65,0052200101,91,4,0,1,7:48 PM,5:14,Adebayo REBOUND (Off:1 Def:0),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+66,0052200101,92,2,3,1,7:48 PM,5:11,MISS Adebayo 3' Hook Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+67,0052200101,93,4,0,1,7:48 PM,5:09,,,Capela REBOUND (Off:0 Def:5),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+68,0052200101,94,6,26,1,7:48 PM,5:06,,,Murray Offensive Charge Foul (P1) (J.DeRosa),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+69,0052200101,96,5,37,1,7:48 PM,5:06,,,Murray Offensive Foul Turnover (P1.T3),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+70,0052200101,97,6,2,1,7:49 PM,4:59,,,Collins S.FOUL (P2.T3) (S.Wright),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+71,0052200101,99,3,11,1,7:49 PM,4:59,Butler Free Throw 1 of 2 (7 PTS),,,19 - 12,-7,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+72,0052200101,100,8,0,1,7:49 PM,4:59,,,SUB: Bey FOR Collins,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+73,0052200101,102,3,12,1,7:49 PM,4:59,Butler Free Throw 2 of 2 (8 PTS),,,19 - 13,-6,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+74,0052200101,104,8,0,1,7:50 PM,4:49,SUB: Love FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+75,0052200101,106,8,0,1,7:50 PM,4:49,,,SUB: Okongwu FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+76,0052200101,108,2,1,1,7:50 PM,4:41,,,MISS Bogdanovic 28' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+77,0052200101,109,4,0,1,7:50 PM,4:39,,,Hunter REBOUND (Off:1 Def:0),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+78,0052200101,110,6,2,1,7:50 PM,4:39,Lowry S.FOUL (P1.PN) (S.Wright),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+79,0052200101,112,3,11,1,7:51 PM,4:39,,,Hunter Free Throw 1 of 2 (5 PTS),20 - 13,-7,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+80,0052200101,113,3,12,1,7:51 PM,4:39,,,Hunter Free Throw 2 of 2 (6 PTS),21 - 13,-8,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+81,0052200101,114,5,2,1,7:51 PM,4:24,Butler Lost Ball Turnover (P1.T2),,Bogdanovic STEAL (1 STL),,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+82,0052200101,116,2,1,1,7:51 PM,4:14,,,MISS Hunter 24' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+83,0052200101,117,4,0,1,7:51 PM,4:11,Lowry REBOUND (Off:0 Def:1),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+84,0052200101,118,2,41,1,7:52 PM,4:07,MISS Butler 5' Running Layup,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+85,0052200101,119,4,0,1,7:52 PM,4:04,,,Bogdanovic REBOUND (Off:0 Def:1),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+86,0052200101,120,1,101,1,7:52 PM,3:50,,,Okongwu 4' Driving Floating Jump Shot (2 PTS) (Bogdanovic 1 AST),23 - 13,-10,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+87,0052200101,122,6,2,1,7:52 PM,3:39,,,Hunter S.FOUL (P2.T4) (J.DeRosa),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+88,0052200101,125,8,0,1,7:53 PM,3:39,,,SUB: Johnson FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+89,0052200101,127,3,11,1,7:54 PM,3:39,Lowry Free Throw 1 of 2 (3 PTS),,,23 - 14,-9,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+90,0052200101,128,3,12,1,7:54 PM,3:39,Lowry Free Throw 2 of 2 (4 PTS),,,23 - 15,-8,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+91,0052200101,129,8,0,1,7:54 PM,3:39,SUB: Vincent FOR Lowry,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+92,0052200101,132,1,79,1,7:55 PM,3:25,,,Bogdanovic 17' Pullup Jump Shot (2 PTS) (Okongwu 1 AST),25 - 15,-10,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+93,0052200101,134,1,5,1,7:55 PM,3:10,Love 4' Layup (2 PTS) (Martin 1 AST),,,25 - 17,-8,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+94,0052200101,136,1,98,1,7:55 PM,3:00,,,Okongwu 7' Cutting Layup Shot (4 PTS) (Johnson 1 AST),27 - 17,-10,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+95,0052200101,138,1,1,1,7:55 PM,2:45,Vincent 28' 3PT Jump Shot (3 PTS) (Butler 1 AST),,,27 - 20,-7,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+96,0052200101,140,9,1,1,7:55 PM,2:44,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+97,0052200101,141,8,0,1,7:57 PM,2:44,SUB: Herro FOR Strus,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+98,0052200101,142,8,0,1,7:57 PM,2:44,SUB: Lowry FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+99,0052200101,143,8,0,1,7:57 PM,2:44,,,SUB: Young FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+100,0052200101,147,1,102,1,7:59 PM,2:26,,,Johnson 2' Driving Floating Bank Jump Shot (2 PTS) (Young 4 AST),29 - 20,-9,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+101,0052200101,149,2,1,1,7:59 PM,2:17,MISS Love 27' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+102,0052200101,150,4,0,1,7:59 PM,2:13,,,Johnson REBOUND (Off:0 Def:1),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+103,0052200101,151,5,1,1,7:59 PM,2:13,Butler STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T4),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+104,0052200101,153,1,7,1,8:00 PM,2:09,Butler 4' Dunk (10 PTS),,,29 - 22,-7,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+105,0052200101,154,1,52,1,8:00 PM,1:58,,,Okongwu 1' Alley Oop Dunk (6 PTS) (Johnson 2 AST),31 - 22,-9,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+106,0052200101,156,5,2,1,8:00 PM,1:41,Butler Lost Ball Turnover (P2.T3),,Johnson STEAL (1 STL),,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+107,0052200101,158,1,1,1,8:00 PM,1:35,,,Bey 26' 3PT Jump Shot (3 PTS) (Young 5 AST),34 - 22,-12,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+108,0052200101,160,1,6,1,8:00 PM,1:23,Lowry 5' Driving Layup (6 PTS),,,34 - 24,-10,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+109,0052200101,161,6,2,1,8:00 PM,1:23,,,Okongwu S.FOUL (P1.PN) (J.Goble),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+110,0052200101,163,8,0,1,8:01 PM,1:23,SUB: Adebayo FOR Love,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+111,0052200101,165,3,10,1,8:01 PM,1:23,Lowry Free Throw 1 of 1 (7 PTS),,,34 - 25,-9,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+112,0052200101,166,2,1,1,8:01 PM,1:04,,,MISS Johnson 26' 3PT Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+113,0052200101,167,4,0,1,8:01 PM,1:00,Herro REBOUND (Off:0 Def:2),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+114,0052200101,168,1,66,1,8:02 PM,0:54,Herro 11' Jump Bank Shot (5 PTS),,,34 - 27,-7,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+115,0052200101,170,2,79,1,8:02 PM,0:43,,,MISS Young 32' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+116,0052200101,171,4,0,1,8:02 PM,0:40,Lowry REBOUND (Off:0 Def:2),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+117,0052200101,172,2,103,1,8:02 PM,0:37,MISS Herro 28' 3PT Running Pull-Up Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+118,0052200101,173,4,0,1,8:02 PM,0:34,,,Johnson REBOUND (Off:0 Def:2),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+119,0052200101,174,2,103,1,8:02 PM,0:32,,,MISS Bey 27' 3PT Running Pull-Up Jump Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+120,0052200101,175,4,0,1,8:03 PM,0:30,,,Johnson REBOUND (Off:1 Def:2),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+121,0052200101,176,1,97,1,8:03 PM,0:30,,,Johnson Tip Layup Shot (4 PTS),36 - 27,-9,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+122,0052200101,177,2,98,1,8:03 PM,0:11,MISS Butler 5' Cutting Layup Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+123,0052200101,178,4,0,1,8:03 PM,0:09,,,Young REBOUND (Off:0 Def:4),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+124,0052200101,179,5,1,1,8:03 PM,0:01,Adebayo STEAL (2 STL),,Young Bad Pass Turnover (P2.T5),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+125,0052200101,181,2,1,1,8:03 PM,0:00,MISS Butler 43' 3PT Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+126,0052200101,182,4,0,1,8:03 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+127,0052200101,183,13,0,1,8:04 PM,0:00,,End of 1st Period (8:04 PM EST),,36 - 27,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+128,0052200101,186,12,0,2,8:07 PM,12:00,,Start of 2nd Period (8:07 PM EST),,36 - 27,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0052200101,187,5,1,2,8:07 PM,11:45,Herro Bad Pass Turnover (P2.T4),,Bogdanovic STEAL (2 STL),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+130,0052200101,189,1,76,2,8:07 PM,11:41,,,Young 3' Running Finger Roll Layup (7 PTS) (Okongwu 2 AST),38 - 27,-11,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+131,0052200101,191,5,39,2,8:07 PM,11:31,Martin Step Out of Bounds Turnover (P1.T5),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+132,0052200101,192,1,7,2,8:08 PM,11:13,,,Okongwu 1' Dunk (8 PTS) (Bogdanovic 2 AST),40 - 27,-13,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+133,0052200101,194,2,1,2,8:08 PM,10:50,MISS Oladipo 3PT Jump Shot,,,,,4,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+134,0052200101,195,4,0,2,8:08 PM,10:47,,,Young REBOUND (Off:0 Def:5),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+135,0052200101,196,2,2,2,8:08 PM,10:42,,,MISS Bogdanovic 26' 3PT Running Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+136,0052200101,197,4,0,2,8:08 PM,10:40,,,Bey REBOUND (Off:1 Def:0),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+137,0052200101,198,2,79,2,8:08 PM,10:37,,,MISS Young 27' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+138,0052200101,199,4,0,2,8:09 PM,10:33,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+139,0052200101,201,1,101,2,8:09 PM,10:21,Herro 10' Driving Floating Jump Shot (7 PTS),,,40 - 29,-11,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+140,0052200101,202,2,1,2,8:09 PM,10:09,,,MISS Bey 3PT Jump Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+141,0052200101,203,4,0,2,8:09 PM,10:05,Martin REBOUND (Off:0 Def:1),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+142,0052200101,205,2,79,2,8:10 PM,9:56,MISS Lowry 19' Pullup Jump Shot,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+143,0052200101,206,4,0,2,8:10 PM,9:54,,,Johnson REBOUND (Off:1 Def:3),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+144,0052200101,207,1,2,2,8:10 PM,9:49,,,Bey 24' 3PT Running Jump Shot (6 PTS) (Young 6 AST),43 - 29,-14,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+145,0052200101,209,2,101,2,8:10 PM,9:37,MISS Herro 13' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+146,0052200101,210,4,0,2,8:10 PM,9:37,,,Okongwu REBOUND (Off:0 Def:1),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+147,0052200101,211,2,98,2,8:10 PM,9:27,Oladipo BLOCK (1 BLK),,MISS Okongwu 7' Cutting Layup Shot,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,1
+148,0052200101,213,4,0,2,8:10 PM,9:23,Herro REBOUND (Off:0 Def:3),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+149,0052200101,214,5,1,2,8:10 PM,9:20,Herro Bad Pass Turnover (P3.T6),,Johnson STEAL (2 STL),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+150,0052200101,216,2,103,2,8:10 PM,9:16,,,MISS Young 26' 3PT Running Pull-Up Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+151,0052200101,217,4,0,2,8:10 PM,9:11,Martin REBOUND (Off:0 Def:2),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+152,0052200101,218,6,2,2,8:10 PM,9:06,,,Bogdanovic S.FOUL (P1.T1) (J.Goble),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+153,0052200101,220,3,11,2,8:11 PM,9:06,Adebayo Free Throw 1 of 2 (1 PTS),,,43 - 30,-13,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+154,0052200101,223,3,12,2,8:11 PM,9:06,MISS Adebayo Free Throw 2 of 2,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+155,0052200101,221,8,0,2,8:11 PM,9:06,,,SUB: Murray FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+156,0052200101,224,4,0,2,8:11 PM,9:03,,,Johnson REBOUND (Off:1 Def:4),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+157,0052200101,225,6,2,2,8:12 PM,8:53,Oladipo S.FOUL (P1.T1) (J.Goble),,,,,4,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+158,0052200101,227,3,11,2,8:12 PM,8:53,,,Bogdanovic Free Throw 1 of 2 (3 PTS),44 - 30,-14,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+159,0052200101,228,3,12,2,8:12 PM,8:53,,,Bogdanovic Free Throw 2 of 2 (4 PTS),45 - 30,-15,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+160,0052200101,229,1,57,2,8:13 PM,8:35,Adebayo 11' Driving Hook Shot (3 PTS),,,45 - 32,-13,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+161,0052200101,230,1,1,2,8:13 PM,8:24,,,Bogdanovic 26' 3PT Jump Shot (7 PTS) (Murray 3 AST),48 - 32,-16,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+162,0052200101,233,8,0,2,8:13 PM,8:11,,,SUB: Hunter FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+163,0052200101,235,1,1,2,8:13 PM,8:08,Herro 16' Jump Shot (9 PTS) (Lowry 1 AST),,,48 - 34,-14,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+164,0052200101,237,2,1,2,8:14 PM,7:52,,,MISS Bey 25' 3PT Jump Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+165,0052200101,238,4,0,2,8:14 PM,7:49,Lowry REBOUND (Off:0 Def:3),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+166,0052200101,239,1,41,2,8:14 PM,7:44,Lowry 6' Running Layup (9 PTS),,,48 - 36,-12,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+167,0052200101,240,1,108,2,8:14 PM,7:27,,,Bey 2' Cutting Dunk Shot (8 PTS) (Okongwu 3 AST),50 - 36,-14,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+168,0052200101,242,2,1,2,8:14 PM,7:10,MISS Herro 27' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+169,0052200101,243,4,0,2,8:14 PM,7:07,,,Hunter REBOUND (Off:1 Def:1),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+170,0052200101,244,1,1,2,8:15 PM,6:50,,,Bogdanovic 25' 3PT Jump Shot (10 PTS) (Hunter 1 AST),53 - 36,-17,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+171,0052200101,246,9,1,2,8:15 PM,6:49,HEAT Timeout: Regular (Full 2 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+172,0052200101,247,8,0,2,8:17 PM,6:49,SUB: Strus FOR Lowry,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+173,0052200101,248,8,0,2,8:17 PM,6:49,SUB: Vincent FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+174,0052200101,249,8,0,2,8:17 PM,6:49,SUB: Butler FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+175,0052200101,253,1,3,2,8:19 PM,6:32,Adebayo 3' Hook Shot (5 PTS) (Butler 2 AST),,,53 - 38,-15,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+176,0052200101,255,6,2,2,8:19 PM,6:21,Vincent S.FOUL (P2.T2) (J.DeRosa),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+177,0052200101,257,3,11,2,8:19 PM,6:21,,,Okongwu Free Throw 1 of 2 (9 PTS),54 - 38,-16,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+178,0052200101,258,3,12,2,8:20 PM,6:21,,,Okongwu Free Throw 2 of 2 (10 PTS),55 - 38,-17,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+179,0052200101,259,2,1,2,8:20 PM,6:07,MISS Vincent 27' 3PT Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+180,0052200101,260,4,0,2,8:20 PM,6:03,,,Murray REBOUND (Off:1 Def:1),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+181,0052200101,261,2,101,2,8:20 PM,5:52,,,MISS Hunter 7' Driving Floating Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+182,0052200101,262,4,0,2,8:20 PM,5:48,Adebayo REBOUND (Off:1 Def:1),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+183,0052200101,263,6,2,2,8:20 PM,5:45,,,Okongwu S.FOUL (P2.T2) (J.DeRosa),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+184,0052200101,265,3,11,2,8:21 PM,5:45,Adebayo Free Throw 1 of 2 (6 PTS),,,55 - 39,-16,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+185,0052200101,270,3,12,2,8:21 PM,5:45,MISS Adebayo Free Throw 2 of 2,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+186,0052200101,266,8,0,2,8:21 PM,5:45,,,SUB: Young FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+187,0052200101,267,8,0,2,8:21 PM,5:45,,,SUB: Capela FOR Okongwu,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+188,0052200101,271,4,0,2,8:21 PM,5:42,,,Capela REBOUND (Off:0 Def:6),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+189,0052200101,272,2,79,2,8:22 PM,5:30,,,MISS Murray 16' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+190,0052200101,273,4,0,2,8:22 PM,5:25,Strus REBOUND (Off:0 Def:3),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+191,0052200101,274,2,78,2,8:22 PM,5:19,MISS Adebayo 8' Floating Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+192,0052200101,275,4,0,2,8:22 PM,5:17,Adebayo REBOUND (Off:2 Def:1),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+193,0052200101,276,2,72,2,8:22 PM,5:16,MISS Adebayo 5' Putback Layup,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+194,0052200101,277,4,0,2,8:22 PM,5:14,,,Hunter REBOUND (Off:1 Def:2),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+195,0052200101,278,5,1,2,8:22 PM,5:09,Butler STEAL (2 STL),,Young Bad Pass Turnover (P3.T6),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+196,0052200101,280,2,2,2,8:22 PM,5:04,MISS Strus 27' 3PT Running Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+197,0052200101,281,4,0,2,8:22 PM,4:59,,,Capela REBOUND (Off:0 Def:7),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+198,0052200101,282,1,101,2,8:23 PM,4:33,,,Young 11' Driving Floating Jump Shot (9 PTS),57 - 39,-18,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+199,0052200101,283,2,6,2,8:23 PM,4:20,MISS Butler 8' Driving Layup,,Bey BLOCK (1 BLK),,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,1
+200,0052200101,285,4,0,2,8:23 PM,4:20,,,Capela REBOUND (Off:0 Def:8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+201,0052200101,286,2,41,2,8:23 PM,4:15,Adebayo BLOCK (1 BLK),,MISS Murray 6' Running Layup,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1
+202,0052200101,288,4,0,2,8:23 PM,4:08,Butler REBOUND (Off:0 Def:2),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+203,0052200101,289,2,1,2,8:23 PM,3:50,MISS Adebayo 14' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+204,0052200101,290,4,0,2,8:23 PM,3:45,,,Murray REBOUND (Off:1 Def:2),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+205,0052200101,291,1,6,2,8:24 PM,3:30,,,Young 5' Driving Layup (11 PTS),59 - 39,-20,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+206,0052200101,292,9,1,2,8:24 PM,3:30,HEAT Timeout: Regular (Full 3 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+207,0052200101,293,8,0,2,8:26 PM,3:30,SUB: Zeller FOR Oladipo,,,,,4,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+208,0052200101,294,8,0,2,8:26 PM,3:30,SUB: Lowry FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+209,0052200101,297,2,6,2,8:28 PM,3:17,MISS Butler 8' Driving Layup,,Capela BLOCK (1 BLK),,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+210,0052200101,299,4,0,2,8:28 PM,3:13,,,Hunter REBOUND (Off:1 Def:3),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+211,0052200101,300,1,2,2,8:28 PM,3:10,,,Bey 3PT Running Jump Shot (11 PTS) (Murray 4 AST),62 - 39,-23,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+212,0052200101,302,2,6,2,8:28 PM,2:57,MISS Butler 7' Driving Layup,,Capela BLOCK (2 BLK),,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+213,0052200101,304,4,0,2,8:28 PM,2:54,,,Bey REBOUND (Off:1 Def:1),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+214,0052200101,305,2,2,2,8:28 PM,2:50,,,MISS Bey 24' 3PT Running Jump Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+215,0052200101,306,4,0,2,8:28 PM,2:46,,,Capela REBOUND (Off:1 Def:8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+216,0052200101,314,7,5,2,8:28 PM,2:45,Kicked Ball,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+217,0052200101,308,8,0,2,8:28 PM,2:45,SUB: Herro FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+218,0052200101,309,8,0,2,8:28 PM,2:45,SUB: Martin FOR Strus,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+219,0052200101,312,8,0,2,8:29 PM,2:45,SUB: Adebayo FOR Zeller,,,,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+220,0052200101,315,6,2,2,8:29 PM,2:37,Herro S.FOUL (P3.T3) (S.Wright),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+221,0052200101,317,3,11,2,8:29 PM,2:37,,,Murray Free Throw 1 of 2 (7 PTS),63 - 39,-24,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+222,0052200101,318,8,0,2,8:29 PM,2:37,SUB: Strus FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+223,0052200101,320,3,12,2,8:29 PM,2:37,,,MISS Murray Free Throw 2 of 2,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+224,0052200101,321,4,0,2,8:29 PM,2:34,Martin REBOUND (Off:0 Def:3),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+225,0052200101,322,1,2,2,8:30 PM,2:30,Lowry 27' 3PT Running Jump Shot (12 PTS) (Butler 3 AST),,,63 - 42,-21,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+226,0052200101,325,2,80,2,8:30 PM,2:04,,,MISS Murray 26' 3PT Step Back Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+227,0052200101,326,4,0,2,8:30 PM,2:00,,,Capela REBOUND (Off:2 Def:8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+228,0052200101,327,2,72,2,8:30 PM,1:59,Butler BLOCK (1 BLK),,MISS Capela 3' Putback Layup,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1
+229,0052200101,329,4,0,2,8:31 PM,1:56,,,Capela REBOUND (Off:3 Def:8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+230,0052200101,330,6,2,2,8:31 PM,1:56,Lowry S.FOUL (P2.T4) (J.Goble),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+231,0052200101,332,3,11,2,8:31 PM,1:56,,,MISS Capela Free Throw 1 of 2,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+232,0052200101,333,4,1,2,8:31 PM,1:56,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+233,0052200101,334,3,12,2,8:31 PM,1:56,,,MISS Capela Free Throw 2 of 2,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+234,0052200101,335,4,0,2,8:31 PM,1:53,Adebayo REBOUND (Off:2 Def:2),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+235,0052200101,336,6,2,2,8:31 PM,1:47,,,Bey S.FOUL (P1.T3) (S.Wright),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+236,0052200101,338,3,11,2,8:32 PM,1:47,Lowry Free Throw 1 of 2 (13 PTS),,,63 - 43,-20,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+237,0052200101,339,3,12,2,8:32 PM,1:47,Lowry Free Throw 2 of 2 (14 PTS),,,63 - 44,-19,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+238,0052200101,343,5,1,2,8:33 PM,1:29,Adebayo STEAL (3 STL),,Young Bad Pass Turnover (P4.T7),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+239,0052200101,345,2,2,2,8:33 PM,1:24,MISS Martin 27' 3PT Running Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+240,0052200101,346,4,0,2,8:33 PM,1:21,,,Hunter REBOUND (Off:1 Def:4),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+241,0052200101,347,2,6,2,8:33 PM,1:13,,,MISS Hunter 5' Driving Layup,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+242,0052200101,348,4,0,2,8:33 PM,1:09,,,Young REBOUND (Off:1 Def:5),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+243,0052200101,349,2,79,2,8:33 PM,1:07,,,MISS Young 29' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+244,0052200101,350,4,0,2,8:33 PM,1:05,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+245,0052200101,351,6,3,2,8:33 PM,1:05,,,Hunter L.B.FOUL (P3.PN) (S.Wright),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+246,0052200101,353,3,11,2,8:34 PM,1:05,MISS Butler Free Throw 1 of 2,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+247,0052200101,354,4,1,2,8:34 PM,1:05,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+248,0052200101,355,8,0,2,8:34 PM,1:05,SUB: Oladipo FOR Strus,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+249,0052200101,356,8,0,2,8:34 PM,1:05,,,SUB: Bogdanovic FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+250,0052200101,359,3,12,2,8:34 PM,1:05,Butler Free Throw 2 of 2 (11 PTS),,,63 - 45,-18,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+251,0052200101,360,2,6,2,8:34 PM,0:49,Adebayo BLOCK (2 BLK),,MISS Young 6' Driving Layup,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1
+252,0052200101,362,4,0,2,8:34 PM,0:45,Adebayo REBOUND (Off:2 Def:3),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+253,0052200101,363,1,80,2,8:35 PM,0:39,Lowry 28' 3PT Step Back Jump Shot (17 PTS) (Oladipo 1 AST),,,63 - 48,-15,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+254,0052200101,365,2,79,2,8:35 PM,0:28,,,MISS Murray 27' 3PT Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+255,0052200101,366,4,0,2,8:35 PM,0:24,Lowry REBOUND (Off:0 Def:4),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+256,0052200101,368,8,0,2,8:35 PM,0:20,SUB: Strus FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+257,0052200101,369,8,0,2,8:35 PM,0:20,SUB: Herro FOR Oladipo,,,,,4,203506,Victor Oladipo,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+258,0052200101,370,8,0,2,8:35 PM,0:20,,,SUB: Johnson FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+259,0052200101,374,1,101,2,8:36 PM,0:04,Lowry 6' Driving Floating Jump Shot (19 PTS),,,63 - 50,-13,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+260,0052200101,375,6,1,2,8:36 PM,0:00,Strus P.FOUL (P3.PN) (S.Wright),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+261,0052200101,377,3,11,2,8:37 PM,0:00,,,Young Free Throw 1 of 2 (12 PTS),64 - 50,-14,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+262,0052200101,378,8,0,2,8:37 PM,0:00,SUB: Love FOR Strus,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+263,0052200101,380,3,12,2,8:37 PM,0:00,,,Young Free Throw 2 of 2 (13 PTS),65 - 50,-15,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+264,0052200101,381,13,0,2,8:37 PM,0:00,,End of 2nd Period (8:37 PM EST),,65 - 50,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+265,0052200101,390,12,0,3,8:53 PM,12:00,,Start of 3rd Period (8:53 PM EST),,65 - 50,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+266,0052200101,391,1,79,3,8:54 PM,11:42,Herro 16' Pullup Jump Shot (11 PTS) (Butler 4 AST),,,65 - 52,-13,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+267,0052200101,393,2,78,3,8:54 PM,11:25,,,MISS Hunter 12' Floating Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+268,0052200101,394,4,0,3,8:54 PM,11:25,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+269,0052200101,396,6,3,3,8:54 PM,11:25,,,Hunter L.B.FOUL (P4.T1) (S.Wright),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+270,0052200101,398,8,0,3,8:54 PM,11:25,,,SUB: Bey FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+271,0052200101,400,1,6,3,8:55 PM,11:09,Herro 5' Driving Layup (13 PTS) (Butler 5 AST),,,65 - 54,-11,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+272,0052200101,402,2,79,3,8:55 PM,10:45,,,MISS Murray 27' 3PT Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+273,0052200101,403,4,0,3,8:55 PM,10:41,,,Capela REBOUND (Off:4 Def:8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+274,0052200101,404,1,58,3,8:55 PM,10:39,,,Capela 8' Turnaround Hook Shot (2 PTS),67 - 54,-13,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+275,0052200101,405,1,80,3,8:55 PM,10:28,Herro 16' Step Back Jump Shot (15 PTS) (Butler 6 AST),,,67 - 56,-11,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+276,0052200101,406,9,1,3,8:56 PM,10:28,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+277,0052200101,408,2,6,3,8:59 PM,10:10,,,MISS Bey 9' Driving Layup,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+278,0052200101,409,4,0,3,8:59 PM,10:06,,,Bey REBOUND (Off:3 Def:1),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+279,0052200101,410,2,97,3,8:59 PM,10:06,,,MISS Bey Tip Layup Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+280,0052200101,411,4,0,3,8:59 PM,10:05,,,Bey REBOUND (Off:3 Def:1),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+281,0052200101,412,2,72,3,8:59 PM,10:04,,,MISS Bey 9' Putback Layup,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+282,0052200101,413,4,0,3,9:00 PM,10:02,Strus REBOUND (Off:0 Def:4),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+283,0052200101,414,2,103,3,9:00 PM,9:58,MISS Vincent 26' 3PT Running Pull-Up Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+284,0052200101,415,4,0,3,9:00 PM,9:57,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+285,0052200101,416,6,3,3,9:00 PM,9:57,,,Murray L.B.FOUL (P2.T2) (J.DeRosa),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+286,0052200101,418,1,108,3,9:00 PM,9:50,Butler 3' Cutting Dunk Shot (13 PTS) (Adebayo 1 AST),,,67 - 58,-9,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+287,0052200101,420,2,58,3,9:00 PM,9:31,,,MISS Collins 7' Turnaround Hook Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+288,0052200101,421,4,0,3,9:00 PM,9:27,Strus REBOUND (Off:0 Def:5),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+289,0052200101,422,1,78,3,9:01 PM,9:18,Herro 9' Floating Jump Shot (17 PTS) (Butler 7 AST),,,67 - 60,-7,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+290,0052200101,424,2,79,3,9:01 PM,8:59,,,MISS Young 11' Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+291,0052200101,425,4,0,3,9:01 PM,8:56,Adebayo REBOUND (Off:2 Def:4),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+292,0052200101,426,2,103,3,9:01 PM,8:52,MISS Vincent 24' 3PT Running Pull-Up Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+293,0052200101,427,4,0,3,9:01 PM,8:49,,,Capela REBOUND (Off:4 Def:9),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+294,0052200101,428,1,41,3,9:01 PM,8:44,,,Bey 5' Running Layup (13 PTS) (Murray 5 AST),69 - 60,-9,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+295,0052200101,430,2,79,3,9:02 PM,8:26,MISS Herro 13' Pullup Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+296,0052200101,431,4,0,3,9:02 PM,8:22,,,Capela REBOUND (Off:4 Def:10),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+297,0052200101,432,2,2,3,9:02 PM,8:21,,,MISS Bey 24' 3PT Running Jump Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+298,0052200101,433,4,0,3,9:02 PM,8:17,Butler REBOUND (Off:0 Def:3),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+299,0052200101,434,1,1,3,9:02 PM,8:09,Strus 3PT Jump Shot (3 PTS) (Butler 8 AST),,,69 - 63,-6,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+300,0052200101,436,9,1,3,9:02 PM,8:07,,,Hawks Timeout: Regular (Reg.3 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+301,0052200101,437,1,79,3,9:06 PM,7:46,,,Murray 8' Pullup Jump Shot (9 PTS),71 - 63,-8,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+302,0052200101,438,1,86,3,9:06 PM,7:21,Butler 15' Turnaround Fadeaway (15 PTS),,,71 - 65,-6,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+303,0052200101,439,6,2,3,9:06 PM,7:21,,,Murray S.FOUL (P3.T3) (S.Wright),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+304,0052200101,441,3,10,3,9:07 PM,7:21,Butler Free Throw 1 of 1 (16 PTS),,,71 - 66,-5,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+305,0052200101,442,5,13,3,9:07 PM,7:02,,,Capela Backcourt Turnover (P1.T8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+306,0052200101,443,2,5,3,9:08 PM,6:50,MISS Adebayo 2' Layup,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+307,0052200101,444,4,0,3,9:08 PM,6:48,,,Collins REBOUND (Off:0 Def:1),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+308,0052200101,445,6,1,3,9:08 PM,6:44,Adebayo P.FOUL (P1.T1) (S.Wright),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+309,0052200101,447,8,0,3,9:08 PM,6:44,,,SUB: Bogdanovic FOR Bey,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+310,0052200101,449,1,86,3,9:08 PM,6:31,,,Collins 12' Turnaround Fadeaway (6 PTS),73 - 66,-7,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+311,0052200101,450,1,98,3,9:09 PM,6:15,Butler 3' Cutting Layup Shot (18 PTS) (Vincent 2 AST),,,73 - 68,-5,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+312,0052200101,452,2,1,3,9:09 PM,6:01,,,MISS Collins 27' 3PT Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+313,0052200101,453,4,0,3,9:09 PM,5:59,,,Capela REBOUND (Off:5 Def:10),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+314,0052200101,454,6,2,3,9:09 PM,5:59,Butler S.FOUL (P1.T2) (J.DeRosa),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+315,0052200101,456,3,11,3,9:09 PM,5:59,,,MISS Capela Free Throw 1 of 2,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+316,0052200101,457,4,1,3,9:09 PM,5:59,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+317,0052200101,460,3,12,3,9:09 PM,5:59,,,MISS Capela Free Throw 2 of 2,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+318,0052200101,458,8,0,3,9:09 PM,5:59,SUB: Lowry FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+319,0052200101,461,4,0,3,9:09 PM,5:56,Vincent REBOUND (Off:0 Def:3),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+320,0052200101,462,2,71,3,9:10 PM,5:42,MISS Butler 3' Finger Roll Layup,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+321,0052200101,463,4,0,3,9:10 PM,5:39,,,Capela REBOUND (Off:5 Def:11),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+322,0052200101,464,6,2,3,9:10 PM,5:35,Lowry S.FOUL (P3.T3) (S.Wright),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+323,0052200101,466,3,11,3,9:11 PM,5:35,,,Young Free Throw 1 of 2 (14 PTS),74 - 68,-6,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+324,0052200101,467,3,12,3,9:11 PM,5:35,,,MISS Young Free Throw 2 of 2,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+325,0052200101,468,4,0,3,9:11 PM,5:33,Adebayo REBOUND (Off:2 Def:5),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+326,0052200101,469,2,80,3,9:11 PM,5:12,MISS Lowry 3PT Step Back Jump Shot,,Murray BLOCK (1 BLK),,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1
+327,0052200101,471,4,0,3,9:12 PM,5:07,,,Capela REBOUND (Off:5 Def:12),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+328,0052200101,472,1,80,3,9:12 PM,5:02,,,Young 27' 3PT Step Back Jump Shot (17 PTS) (Murray 6 AST),77 - 68,-9,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+329,0052200101,473,1,78,3,9:12 PM,4:42,Adebayo 8' Floating Jump Shot (8 PTS) (Butler 9 AST),,,77 - 70,-7,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+330,0052200101,476,1,102,3,9:12 PM,4:27,,,Young 13' Driving Floating Bank Jump Shot (19 PTS) (Collins 1 AST),79 - 70,-9,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+331,0052200101,478,6,1,3,9:13 PM,4:14,,,Collins P.FOUL (P3.T4) (S.Wright),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+332,0052200101,480,8,0,3,9:13 PM,4:14,SUB: Zeller FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+333,0052200101,481,8,0,3,9:13 PM,4:14,SUB: Martin FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+334,0052200101,482,8,0,3,9:13 PM,4:14,,,SUB: Johnson FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+335,0052200101,483,8,0,3,9:13 PM,4:14,,,SUB: Bey FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+336,0052200101,484,8,0,3,9:13 PM,4:14,,,SUB: Okongwu FOR Collins,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+337,0052200101,490,2,1,3,9:13 PM,4:07,MISS Strus 27' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+338,0052200101,491,4,0,3,9:13 PM,4:00,,,Okongwu REBOUND (Off:0 Def:2),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+339,0052200101,492,1,75,3,9:13 PM,3:54,,,Murray 5' Driving Finger Roll Layup (11 PTS),81 - 70,-11,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+340,0052200101,493,2,1,3,9:14 PM,3:43,MISS Strus 24' 3PT Jump Shot,,Okongwu BLOCK (1 BLK),,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+341,0052200101,495,4,0,3,9:14 PM,3:43,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+342,0052200101,496,2,98,3,9:14 PM,3:35,MISS Zeller 7' Cutting Layup Shot,,Okongwu BLOCK (2 BLK),,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+343,0052200101,498,4,0,3,9:14 PM,3:34,Zeller REBOUND (Off:1 Def:0),,,,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+344,0052200101,524,2,72,3,9:14 PM,3:34,MISS Zeller 1' Putback Layup,,,,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+345,0052200101,525,4,0,3,9:14 PM,3:32,Zeller REBOUND (Off:2 Def:0),,,,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+346,0052200101,499,2,72,3,9:14 PM,3:27,MISS Zeller 3' Putback Layup,,Okongwu BLOCK (3 BLK),,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+347,0052200101,501,4,0,3,9:14 PM,3:24,Zeller REBOUND (Off:3 Def:0),,,,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+348,0052200101,502,1,97,3,9:14 PM,3:23,Zeller 5' Tip Layup Shot (2 PTS),,,81 - 72,-9,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+349,0052200101,504,5,45,3,9:14 PM,3:14,,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+350,0052200101,505,8,0,3,9:14 PM,3:14,SUB: Herro FOR Strus,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+351,0052200101,507,6,2,3,9:15 PM,2:58,,,Johnson S.FOUL (P1.PN) (J.Goble),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+352,0052200101,509,3,11,3,9:15 PM,2:58,MISS Butler Free Throw 1 of 2,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+353,0052200101,510,4,1,3,9:15 PM,2:58,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+354,0052200101,511,3,12,3,9:16 PM,2:58,Butler Free Throw 2 of 2 (19 PTS),,,81 - 73,-8,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+355,0052200101,512,2,1,3,9:16 PM,2:36,,,MISS Johnson 28' 3PT Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+356,0052200101,513,4,0,3,9:16 PM,2:33,,,Bey REBOUND (Off:4 Def:1),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+357,0052200101,514,1,72,3,9:16 PM,2:31,,,Bey 5' Putback Layup (15 PTS),83 - 73,-10,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+358,0052200101,515,1,1,3,9:16 PM,2:21,Herro 25' 3PT Jump Shot (20 PTS) (Lowry 2 AST),,,83 - 76,-7,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+359,0052200101,516,2,73,3,9:17 PM,1:56,,,MISS Johnson 3' Driving Reverse Layup,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+360,0052200101,517,4,0,3,9:17 PM,1:51,,,Okongwu REBOUND (Off:1 Def:2),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+361,0052200101,518,1,78,3,9:17 PM,1:51,,,Johnson 10' Floating Jump Shot (6 PTS),85 - 76,-9,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+362,0052200101,521,2,6,3,9:17 PM,1:29,MISS Butler 3' Driving Layup,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+363,0052200101,522,4,0,3,9:17 PM,1:26,,,Bey REBOUND (Off:4 Def:2),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+364,0052200101,523,6,2,3,9:17 PM,1:26,Zeller S.FOUL (P1.T4) (S.Wright),,,,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+365,0052200101,527,3,11,3,9:18 PM,1:26,,,MISS Johnson Free Throw 1 of 2,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+366,0052200101,528,4,1,3,9:18 PM,1:26,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+367,0052200101,533,3,12,3,9:18 PM,1:26,,,MISS Johnson Free Throw 2 of 2,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+368,0052200101,529,8,0,3,9:18 PM,1:26,SUB: Adebayo FOR Zeller,,,,,4,203469,Cody Zeller,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+369,0052200101,530,8,0,3,9:18 PM,1:26,,,SUB: Young FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+370,0052200101,534,4,0,3,9:18 PM,1:23,Martin REBOUND (Off:0 Def:4),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+371,0052200101,535,2,80,3,9:18 PM,1:14,MISS Herro 24' 3PT Step Back Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+372,0052200101,536,4,0,3,9:18 PM,1:14,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+373,0052200101,537,6,3,3,9:18 PM,1:14,,,Johnson L.B.FOUL (P2.PN) (S.Wright),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+374,0052200101,539,3,11,3,9:19 PM,1:14,Butler Free Throw 1 of 2 (20 PTS),,,85 - 77,-8,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+375,0052200101,540,3,12,3,9:19 PM,1:14,Butler Free Throw 2 of 2 (21 PTS),,,85 - 78,-7,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+376,0052200101,541,6,1,3,9:19 PM,1:08,Martin P.FOUL (P1.PN) (J.DeRosa),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+377,0052200101,543,3,11,3,9:20 PM,1:08,,,Young Free Throw 1 of 2 (20 PTS),86 - 78,-8,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+378,0052200101,544,3,12,3,9:20 PM,1:08,,,Young Free Throw 2 of 2 (21 PTS),87 - 78,-9,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+379,0052200101,545,2,102,3,9:20 PM,0:54,MISS Herro 9' Driving Floating Bank Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+380,0052200101,546,4,0,3,9:20 PM,0:50,,,Okongwu REBOUND (Off:1 Def:3),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+381,0052200101,547,2,1,3,9:21 PM,0:32,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+382,0052200101,548,4,0,3,9:21 PM,0:29,,,Johnson REBOUND (Off:2 Def:4),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+383,0052200101,549,1,44,3,9:21 PM,0:29,,,Johnson 4' Reverse Layup (8 PTS),89 - 78,-11,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+384,0052200101,550,5,1,3,9:21 PM,0:07,Herro Bad Pass Turnover (P4.T7),,Johnson STEAL (3 STL),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+385,0052200101,552,1,106,3,9:21 PM,0:03,,,Okongwu 5' Running Alley Oop Dunk Shot (12 PTS) (Johnson 3 AST),91 - 78,-13,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+386,0052200101,554,13,0,3,9:22 PM,0:00,,End of 3rd Period (9:22 PM EST),,91 - 78,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+387,0052200101,559,12,0,4,9:25 PM,12:00,,Start of 4th Period (9:25 PM EST),,91 - 78,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+388,0052200101,560,7,5,4,9:26 PM,11:44,Adebayo Violation:Kicked Ball (J.DeRosa),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+389,0052200101,561,2,79,4,9:26 PM,11:38,,,MISS Young 29' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+390,0052200101,562,4,0,4,9:26 PM,11:32,,,Johnson REBOUND (Off:3 Def:4),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+391,0052200101,563,1,107,4,9:26 PM,11:32,,,Johnson Tip Dunk Shot (10 PTS),93 - 78,-15,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+392,0052200101,564,1,101,4,9:26 PM,11:18,Herro 12' Driving Floating Jump Shot (22 PTS) (Lowry 3 AST),,,93 - 80,-13,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+393,0052200101,566,5,4,4,9:27 PM,11:03,,,Johnson Traveling Turnover (P3.T10),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+394,0052200101,567,1,79,4,9:27 PM,10:54,Lowry 26' 3PT Pullup Jump Shot (22 PTS),,,93 - 83,-10,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+395,0052200101,568,1,75,4,9:27 PM,10:42,,,Young 6' Driving Finger Roll Layup (23 PTS),95 - 83,-12,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+396,0052200101,569,1,1,4,9:27 PM,10:17,Vincent 24' 3PT Jump Shot (6 PTS) (Lowry 4 AST),,,95 - 86,-9,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+397,0052200101,571,2,80,4,9:28 PM,9:59,,,MISS Young 27' 3PT Step Back Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+398,0052200101,572,4,0,4,9:28 PM,9:56,Herro REBOUND (Off:0 Def:4),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+399,0052200101,573,2,98,4,9:28 PM,9:50,MISS Adebayo 6' Cutting Layup Shot,,Okongwu BLOCK (4 BLK),,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+400,0052200101,580,4,0,4,9:28 PM,9:50,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+401,0052200101,575,8,0,4,9:28 PM,9:50,,,SUB: Bey FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+402,0052200101,577,10,0,4,9:29 PM,9:50,Jump Ball Adebayo vs. Okongwu: Tip to Hunter,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1
+403,0052200101,581,2,1,4,9:29 PM,9:34,,,MISS Bogdanovic 24' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+404,0052200101,582,4,0,4,9:29 PM,9:29,Herro REBOUND (Off:0 Def:5),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+405,0052200101,583,2,79,4,9:29 PM,9:21,MISS Herro 26' 3PT Pullup Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+406,0052200101,584,4,0,4,9:29 PM,9:18,,,Bogdanovic REBOUND (Off:0 Def:2),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+407,0052200101,585,2,86,4,9:29 PM,9:09,,,MISS Hunter 10' Turnaround Fadeaway Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+408,0052200101,586,4,0,4,9:29 PM,9:07,Adebayo REBOUND (Off:2 Def:6),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+409,0052200101,587,2,6,4,9:30 PM,8:53,MISS Lowry 6' Driving Layup,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+410,0052200101,588,4,0,4,9:30 PM,8:51,,,Young REBOUND (Off:1 Def:6),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+411,0052200101,589,1,41,4,9:30 PM,8:47,,,Bogdanovic 5' Running Layup (12 PTS) (Young 7 AST),97 - 86,-11,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+412,0052200101,591,1,6,4,9:30 PM,8:18,Lowry 3' Driving Layup (24 PTS),,,97 - 88,-9,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+413,0052200101,592,2,86,4,9:31 PM,7:50,,,MISS Bey 12' Turnaround Fadeaway Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+414,0052200101,593,4,0,4,9:31 PM,7:47,Adebayo REBOUND (Off:2 Def:7),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+415,0052200101,594,1,1,4,9:31 PM,7:42,Lowry 26' 3PT Jump Shot (27 PTS) (Martin 2 AST),,,97 - 91,-6,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+416,0052200101,596,9,1,4,9:31 PM,7:40,,,Hawks Timeout: Regular (Reg.4 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+417,0052200101,597,8,0,4,9:33 PM,7:40,SUB: Butler FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+418,0052200101,598,8,0,4,9:33 PM,7:40,,,SUB: Murray FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+419,0052200101,599,8,0,4,9:33 PM,7:40,,,SUB: Capela FOR Okongwu,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+420,0052200101,600,8,0,4,9:33 PM,7:40,,,SUB: Collins FOR Bey,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+421,0052200101,605,2,1,4,9:35 PM,7:23,,,MISS Collins 3PT Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+422,0052200101,606,4,0,4,9:35 PM,7:18,,,Capela REBOUND (Off:6 Def:12),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+423,0052200101,607,2,1,4,9:35 PM,7:16,,,MISS Bogdanovic 28' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+424,0052200101,608,4,0,4,9:35 PM,7:14,Herro REBOUND (Off:0 Def:6),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+425,0052200101,609,2,6,4,9:35 PM,7:08,MISS Martin 3' Driving Layup,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+426,0052200101,610,4,0,4,9:35 PM,7:08,,,Capela REBOUND (Off:6 Def:13),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+427,0052200101,611,2,1,4,9:35 PM,6:52,,,MISS Bogdanovic 28' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+428,0052200101,612,4,0,4,9:35 PM,6:49,,,Capela REBOUND (Off:7 Def:13),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+429,0052200101,613,1,108,4,9:35 PM,6:47,,,Bogdanovic 4' Cutting Dunk Shot (14 PTS) (Capela 1 AST),99 - 91,-8,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+430,0052200101,615,2,1,4,9:36 PM,6:25,MISS Martin 3PT Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+431,0052200101,616,4,0,4,9:36 PM,6:22,,,Hunter REBOUND (Off:1 Def:5),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+432,0052200101,617,2,1,4,9:36 PM,6:16,,,MISS Hunter 26' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+433,0052200101,618,4,0,4,9:36 PM,6:11,,,Collins REBOUND (Off:1 Def:1),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+434,0052200101,619,1,1,4,9:36 PM,6:10,,,Murray 3PT Jump Shot (14 PTS) (Hunter 2 AST),102 - 91,-11,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+435,0052200101,621,9,1,4,9:36 PM,6:08,HEAT Timeout: Regular (Full 4 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+436,0052200101,622,8,0,4,9:37 PM,6:08,SUB: Vincent FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+437,0052200101,626,1,1,4,9:41 PM,5:52,Lowry 26' 3PT Jump Shot (30 PTS) (Adebayo 2 AST),,,102 - 94,-8,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+438,0052200101,628,1,79,4,9:41 PM,5:24,,,Murray 7' Pullup Jump Shot (16 PTS),104 - 94,-10,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+439,0052200101,629,6,1,4,9:41 PM,5:17,,,Hunter P.FOUL (P5.T1) (J.DeRosa),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+440,0052200101,631,8,0,4,9:42 PM,5:17,,,SUB: Young FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+441,0052200101,633,8,0,4,9:42 PM,5:17,,,SUB: Bey FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+442,0052200101,635,6,1,4,9:42 PM,5:10,,,Bey P.FOUL (P2.T2) (J.Goble),,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+443,0052200101,637,8,0,4,9:43 PM,5:10,SUB: Martin FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+444,0052200101,639,1,1,4,9:43 PM,5:05,Lowry 26' 3PT Jump Shot (33 PTS) (Adebayo 3 AST),,,104 - 97,-7,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+445,0052200101,641,1,101,4,9:43 PM,4:41,,,Collins 5' Driving Floating Jump Shot (8 PTS),106 - 97,-9,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+446,0052200101,642,6,1,4,9:44 PM,4:33,,,Young P.FOUL (P1.T3) (S.Wright),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+447,0052200101,644,2,98,4,9:44 PM,4:24,MISS Butler 3' Cutting Layup Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+448,0052200101,645,4,0,4,9:44 PM,4:24,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+449,0052200101,647,2,1,4,9:45 PM,4:21,MISS Herro 24' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+450,0052200101,648,4,0,4,9:45 PM,4:19,Butler REBOUND (Off:1 Def:3),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+451,0052200101,649,5,4,4,9:45 PM,4:19,Butler Traveling Turnover (P3.T8),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+452,0052200101,650,1,7,4,9:45 PM,4:05,,,Capela 5' Dunk (4 PTS),108 - 97,-11,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+453,0052200101,651,1,78,4,9:45 PM,3:47,Adebayo 8' Floating Jump Shot (10 PTS) (Lowry 5 AST),,,108 - 99,-9,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+454,0052200101,653,2,1,4,9:46 PM,3:29,,,MISS Bey 26' 3PT Jump Shot,,,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+455,0052200101,654,4,0,4,9:46 PM,3:27,,,Collins REBOUND (Off:2 Def:1),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+456,0052200101,655,1,108,4,9:46 PM,3:27,,,Bey 5' Cutting Dunk Shot (17 PTS) (Collins 2 AST),110 - 99,-11,5,1630180,Saddiq Bey,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+457,0052200101,657,9,1,4,9:46 PM,3:27,HEAT Timeout: Regular (Full 5 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+458,0052200101,658,9,1,4,9:47 PM,3:27,,,Hawks Timeout: Regular (Reg.5 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+459,0052200101,659,6,1,4,9:49 PM,3:11,,,Collins P.FOUL (P4.T4) (J.Goble),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+460,0052200101,662,1,101,4,9:50 PM,2:59,Herro 9' Driving Floating Jump Shot (24 PTS) (Adebayo 4 AST),,,110 - 101,-9,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+461,0052200101,664,2,1,4,9:50 PM,2:30,,,MISS Young 30' 3PT Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+462,0052200101,665,4,0,4,9:50 PM,2:30,,,Capela REBOUND (Off:8 Def:13),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+463,0052200101,666,6,1,4,9:50 PM,2:30,Lowry P.FOUL (P4.T1) (J.DeRosa),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+464,0052200101,668,1,102,4,9:51 PM,2:12,,,Murray 8' Driving Floating Bank Jump Shot (18 PTS),112 - 101,-11,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+465,0052200101,669,2,78,4,9:51 PM,2:00,MISS Butler 9' Floating Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+466,0052200101,670,4,0,4,9:51 PM,1:57,,,Young REBOUND (Off:1 Def:7),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+467,0052200101,671,2,79,4,9:51 PM,1:41,,,MISS Murray 17' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+468,0052200101,672,4,0,4,9:51 PM,1:40,,,Collins REBOUND (Off:3 Def:1),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+469,0052200101,673,1,72,4,9:51 PM,1:40,,,Collins 4' Putback Layup (10 PTS),114 - 101,-13,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+470,0052200101,674,6,2,4,9:52 PM,1:40,Adebayo S.FOUL (P2.T2) (S.Wright),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+471,0052200101,676,3,10,4,9:52 PM,1:40,,,MISS Collins Free Throw 1 of 1,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+472,0052200101,677,4,0,4,9:52 PM,1:37,Martin REBOUND (Off:0 Def:5),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+473,0052200101,678,2,1,4,9:52 PM,1:31,MISS Lowry 26' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+474,0052200101,679,4,0,4,9:52 PM,1:26,,,Murray REBOUND (Off:1 Def:3),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+475,0052200101,680,5,2,4,9:52 PM,1:10,Herro STEAL (1 STL),,Murray Lost Ball Turnover (P2.T11),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+476,0052200101,682,1,101,4,9:52 PM,1:06,Herro 6' Driving Floating Jump Shot (26 PTS),,,114 - 103,-11,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+477,0052200101,683,5,1,4,9:53 PM,0:51,Herro STEAL (2 STL),,Young Bad Pass Turnover (P5.T12),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+478,0052200101,685,2,103,4,9:53 PM,0:44,MISS Herro 27' 3PT Running Pull-Up Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+479,0052200101,686,4,0,4,9:53 PM,0:41,,,Murray REBOUND (Off:1 Def:4),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+480,0052200101,687,6,1,4,9:53 PM,0:31,Herro P.FOUL (P4.PN) (S.Wright),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+481,0052200101,689,3,11,4,9:53 PM,0:31,,,Young Free Throw 1 of 2 (24 PTS),115 - 103,-12,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+482,0052200101,690,3,12,4,9:54 PM,0:31,,,Young Free Throw 2 of 2 (25 PTS),116 - 103,-13,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+483,0052200101,691,1,1,4,9:54 PM,0:19,Adebayo 21' Jump Shot (12 PTS),,,116 - 105,-11,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+484,0052200101,692,13,0,4,9:54 PM,0:00,,End of 4th Period (9:54 PM EST),,116 - 105,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

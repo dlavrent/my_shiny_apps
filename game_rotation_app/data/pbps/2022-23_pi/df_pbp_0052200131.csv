@@ -1,0 +1,480 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0052200131,2,12,0,1,9:52 PM,12:00,,Start of 1st Period (9:52 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0052200131,4,10,0,1,9:52 PM,12:00, ,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,2,1610612740,,,,,,1
+2,0052200131,8,2,102,1,9:53 PM,11:43,MISS Murphy III 13' Driving Floating Bank Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+3,0052200131,9,4,0,1,9:53 PM,11:42,Valanciunas REBOUND (Off:1 Def:0),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+4,0052200131,10,1,72,1,9:53 PM,11:41,Valanciunas Putback Layup (2 PTS),,,0 - 2,2,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+5,0052200131,11,2,1,1,9:53 PM,11:20,,,MISS Jay. Williams 25' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+6,0052200131,12,4,0,1,9:53 PM,11:17,Valanciunas REBOUND (Off:1 Def:1),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+7,0052200131,13,2,79,1,9:53 PM,11:03,MISS Murphy III 15' Pullup Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+8,0052200131,14,4,0,1,9:53 PM,10:59,,,Gilgeous-Alexander REBOUND (Off:0 Def:1),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+9,0052200131,15,2,6,1,9:53 PM,10:56,Jones BLOCK (1 BLK),,MISS Gilgeous-Alexander 8' Driving Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+10,0052200131,17,4,0,1,9:54 PM,10:55,Jones REBOUND (Off:0 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+11,0052200131,18,2,79,1,9:54 PM,10:42,MISS Ingram 21' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+12,0052200131,19,4,0,1,9:54 PM,10:37,Valanciunas REBOUND (Off:2 Def:1),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+13,0052200131,20,1,97,1,9:54 PM,10:37,Valanciunas Tip Layup Shot (4 PTS),,,0 - 4,4,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+14,0052200131,22,1,9,1,9:54 PM,10:19,,,Dort 1' Driving Dunk (2 PTS) (Giddey 1 AST),2 - 4,2,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+15,0052200131,24,2,6,1,9:55 PM,10:04,MISS Murphy III 7' Driving Layup,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+16,0052200131,25,4,0,1,9:55 PM,10:00,,,Gilgeous-Alexander REBOUND (Off:0 Def:2),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+17,0052200131,28,2,80,1,9:55 PM,9:51,,,MISS Gilgeous-Alexander 18' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+18,0052200131,29,4,0,1,9:55 PM,9:49,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+19,0052200131,30,2,80,1,9:55 PM,9:40,MISS Ingram 10' Step Back Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+20,0052200131,31,4,0,1,9:55 PM,9:38,Valanciunas REBOUND (Off:3 Def:1),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+21,0052200131,32,1,58,1,9:55 PM,9:36,Valanciunas 6' Turnaround Hook Shot (6 PTS),,,2 - 6,4,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+22,0052200131,33,2,1,1,9:55 PM,9:25,,,MISS Dort 25' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+23,0052200131,34,4,0,1,9:55 PM,9:20,,,Giddey REBOUND (Off:1 Def:0),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+24,0052200131,35,1,72,1,9:55 PM,9:19,,,Giddey 2' Putback Layup (2 PTS),4 - 6,2,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+25,0052200131,37,1,1,1,9:56 PM,8:58,McCollum 20' Jump Shot (2 PTS) (Jones 1 AST),,,4 - 8,4,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+26,0052200131,39,2,101,1,9:56 PM,8:46,,,MISS Giddey 7' Driving Floating Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+27,0052200131,40,4,0,1,9:56 PM,8:43,Valanciunas REBOUND (Off:3 Def:2),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+28,0052200131,41,6,2,1,9:56 PM,8:37,,,Jay. Williams S.FOUL (P1.T1) (S.Corbin),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+29,0052200131,43,3,11,1,9:57 PM,8:37,Ingram Free Throw 1 of 2 (1 PTS),,,4 - 9,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+30,0052200131,44,3,12,1,9:57 PM,8:37,Ingram Free Throw 2 of 2 (2 PTS),,,4 - 10,6,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+31,0052200131,45,1,6,1,9:57 PM,8:27,,,Dort 2' Driving Layup (4 PTS) (Jay. Williams 1 AST),6 - 10,4,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+32,0052200131,46,6,2,1,9:57 PM,8:27,Murphy III S.FOUL (P1.T1) (S.Corbin),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+33,0052200131,49,3,10,1,9:58 PM,8:27,,,Dort Free Throw 1 of 1 (5 PTS),7 - 10,3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+34,0052200131,50,2,1,1,9:58 PM,8:18,MISS Valanciunas 17' Jump Shot,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+35,0052200131,51,4,0,1,9:58 PM,8:16,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+36,0052200131,53,1,108,1,9:58 PM,8:13,Ingram 1' Cutting Dunk Shot (4 PTS) (Jones 2 AST),,,7 - 12,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+37,0052200131,55,2,6,1,9:59 PM,8:04,,,MISS Jal. Williams 8' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+38,0052200131,56,4,0,1,9:59 PM,8:02,,,Dort REBOUND (Off:1 Def:0),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+39,0052200131,57,2,1,1,9:59 PM,8:01,,,MISS Jay. Williams 26' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+40,0052200131,58,4,0,1,9:59 PM,7:59,Valanciunas REBOUND (Off:3 Def:3),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+41,0052200131,59,2,6,1,9:59 PM,7:54,MISS McCollum 5' Driving Layup,,Gilgeous-Alexander BLOCK (1 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+42,0052200131,61,4,0,1,9:59 PM,7:54,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+43,0052200131,63,2,80,1,9:59 PM,7:46,MISS Murphy III 27' 3PT Step Back Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+44,0052200131,64,4,0,1,9:59 PM,7:41,Valanciunas REBOUND (Off:4 Def:3),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+45,0052200131,65,2,6,1,9:59 PM,7:37,MISS Jones 6' Driving Layup,,Giddey BLOCK (1 BLK),,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1
+46,0052200131,67,4,0,1,10:00 PM,7:35,Valanciunas REBOUND (Off:5 Def:3),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+47,0052200131,68,1,98,1,10:00 PM,7:30,Jones 3' Cutting Layup Shot (2 PTS) (Valanciunas 1 AST),,,7 - 14,7,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+48,0052200131,70,1,1,1,10:00 PM,7:17,,,Dort 25' 3PT Jump Shot (8 PTS) (Jay. Williams 2 AST),10 - 14,4,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+49,0052200131,72,6,2,1,10:00 PM,7:06,,,Dort S.FOUL (P1.T2) (S.Corbin),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+50,0052200131,74,3,11,1,10:00 PM,7:06,Ingram Free Throw 1 of 2 (5 PTS),,,10 - 15,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+51,0052200131,75,3,12,1,10:01 PM,7:06,Ingram Free Throw 2 of 2 (6 PTS),,,10 - 16,6,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+52,0052200131,76,2,1,1,10:01 PM,6:57,,,MISS Jay. Williams 25' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+53,0052200131,77,4,0,1,10:01 PM,6:53,Ingram REBOUND (Off:0 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+54,0052200131,78,1,1,1,10:01 PM,6:43,Jones 26' 3PT Jump Shot (5 PTS) (Ingram 1 AST),,,10 - 19,9,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+55,0052200131,80,6,2,1,10:02 PM,6:31,Ingram S.FOUL (P1.T2) (S.Corbin),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+56,0052200131,82,9,1,1,10:02 PM,6:31,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+57,0052200131,83,8,0,1,10:05 PM,6:31,SUB: Lewis Jr. FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+58,0052200131,85,3,11,1,10:05 PM,6:31,,,MISS Dort Free Throw 1 of 2,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+59,0052200131,86,4,1,1,10:05 PM,6:31,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+60,0052200131,87,3,12,1,10:06 PM,6:31,,,Dort Free Throw 2 of 2 (9 PTS),11 - 19,8,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+61,0052200131,88,2,1,1,10:06 PM,6:15,MISS Lewis Jr. 26' 3PT Jump Shot,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+62,0052200131,89,4,0,1,10:06 PM,6:12,,,Giddey REBOUND (Off:1 Def:1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+63,0052200131,91,1,80,1,10:07 PM,5:52,,,Dort 25' 3PT Step Back Jump Shot (12 PTS) (Jay. Williams 3 AST),14 - 19,5,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+64,0052200131,93,1,98,1,10:07 PM,5:33,Valanciunas 2' Cutting Layup Shot (8 PTS) (Ingram 2 AST),,,14 - 21,7,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+65,0052200131,95,1,1,1,10:07 PM,5:22,,,Giddey 25' 3PT Jump Shot (5 PTS) (Jay. Williams 4 AST),17 - 21,4,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+66,0052200131,97,2,1,1,10:08 PM,4:56,MISS Jones 26' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+67,0052200131,98,4,0,1,10:08 PM,4:54,Lewis Jr. REBOUND (Off:1 Def:0),,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+68,0052200131,99,2,1,1,10:08 PM,4:52,MISS Jones 26' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+69,0052200131,100,4,0,1,10:08 PM,4:47,,,Jal. Williams REBOUND (Off:0 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+70,0052200131,101,1,79,1,10:08 PM,4:38,,,Giddey 13' Pullup Jump Shot (7 PTS),19 - 21,2,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+71,0052200131,102,5,2,1,10:08 PM,4:25,Murphy III Lost Ball Turnover (P1.T1),,Gilgeous-Alexander STEAL (1 STL),,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+72,0052200131,104,1,6,1,10:08 PM,4:19,,,Jal. Williams 4' Driving Layup (2 PTS) (Gilgeous-Alexander 1 AST),21 - 21,TIE,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+73,0052200131,106,2,6,1,10:08 PM,4:05,MISS Lewis Jr. 3' Driving Layup,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+74,0052200131,107,4,0,1,10:08 PM,4:03,,,Giddey REBOUND (Off:1 Def:2),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+75,0052200131,108,1,2,1,10:08 PM,4:01,,,Gilgeous-Alexander 27' 3PT Running Jump Shot (3 PTS) (Giddey 2 AST),24 - 21,-3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+76,0052200131,109,9,1,1,10:09 PM,4:01,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+77,0052200131,111,8,0,1,10:11 PM,4:01,SUB: Richardson FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+78,0052200131,112,8,0,1,10:11 PM,4:01,SUB: Hayes FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+79,0052200131,113,8,0,1,10:11 PM,4:01,,,SUB: Saric FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+80,0052200131,114,8,0,1,10:11 PM,4:01,,,SUB: Joe FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+81,0052200131,119,1,58,1,10:12 PM,3:40,Hayes 5' Turnaround Hook Shot (2 PTS) (Ingram 3 AST),,,24 - 23,-1,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+82,0052200131,121,2,102,1,10:13 PM,3:27,,,MISS Giddey 6' Driving Floating Bank Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+83,0052200131,122,4,0,1,10:13 PM,3:25,Hayes REBOUND (Off:0 Def:1),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+84,0052200131,123,2,1,1,10:13 PM,3:09,MISS Richardson 25' 3PT Jump Shot,,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+85,0052200131,124,4,0,1,10:13 PM,3:06,,,Saric REBOUND (Off:0 Def:1),,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+86,0052200131,125,1,101,1,10:13 PM,2:56,,,Saric 5' Driving Floating Jump Shot (2 PTS) (Gilgeous-Alexander 2 AST),26 - 23,-3,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+87,0052200131,127,1,98,1,10:14 PM,2:35,Ingram 2' Cutting Layup Shot (8 PTS) (Jones 3 AST),,,26 - 25,-1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+88,0052200131,129,2,1,1,10:14 PM,2:22,,,MISS Giddey 25' 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+89,0052200131,130,4,0,1,10:14 PM,2:18,,,Joe REBOUND (Off:1 Def:0),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+90,0052200131,131,1,98,1,10:14 PM,2:15,,,Saric 2' Cutting Layup Shot (4 PTS) (Dort 1 AST),28 - 25,-3,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+91,0052200131,133,6,2,1,10:14 PM,1:52,,,Gilgeous-Alexander S.FOUL (P1.T3) (E.Lewis),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+92,0052200131,135,3,11,1,10:15 PM,1:52,Jones Free Throw 1 of 2 (6 PTS),,,28 - 26,-2,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+93,0052200131,136,8,0,1,10:15 PM,1:52,SUB: McCollum FOR Lewis Jr.,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+94,0052200131,137,8,0,1,10:15 PM,1:52,,,SUB: Waters III FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+95,0052200131,140,3,12,1,10:15 PM,1:52,Jones Free Throw 2 of 2 (7 PTS),,,28 - 27,-1,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+96,0052200131,141,5,45,1,10:15 PM,1:52,,,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+97,0052200131,142,5,45,1,10:16 PM,1:40,Richardson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+98,0052200131,143,6,1,1,10:16 PM,1:39,Jones P.FOUL (P1.T3) (B.Taylor),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+99,0052200131,145,6,2,1,10:17 PM,1:22,Ingram S.FOUL (P2.PN) (E.Lewis),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+100,0052200131,147,3,11,1,10:17 PM,1:22,,,Dort Free Throw 1 of 2 (13 PTS),29 - 27,-2,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+101,0052200131,148,8,0,1,10:17 PM,1:22,SUB: Murphy III FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+102,0052200131,150,3,12,1,10:18 PM,1:22,,,Dort Free Throw 2 of 2 (14 PTS),30 - 27,-3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+103,0052200131,151,2,79,1,10:18 PM,1:03,MISS McCollum 17' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+104,0052200131,152,4,0,1,10:18 PM,1:00,,,Waters III REBOUND (Off:0 Def:1),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+105,0052200131,153,1,75,1,10:18 PM,0:53,,,Gilgeous-Alexander 2' Driving Finger Roll Layup (5 PTS),32 - 27,-5,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+106,0052200131,154,2,108,1,10:18 PM,0:46,MISS Murphy III 1' Cutting Dunk Shot,,Saric BLOCK (1 BLK),,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,1
+107,0052200131,156,4,0,1,10:19 PM,0:43,,,Gilgeous-Alexander REBOUND (Off:0 Def:3),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+108,0052200131,157,2,1,1,10:19 PM,0:40,,,MISS Gilgeous-Alexander 25' 3PT Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+109,0052200131,158,4,0,1,10:19 PM,0:36,Hayes REBOUND (Off:0 Def:2),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+110,0052200131,159,1,41,1,10:19 PM,0:32,Jones 1' Running Layup (9 PTS) (McCollum 1 AST),,,32 - 29,-3,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+111,0052200131,161,2,79,1,10:19 PM,0:18,,,MISS Joe 11' Pullup Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+112,0052200131,162,4,0,1,10:19 PM,0:15,Hayes REBOUND (Off:0 Def:3),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+113,0052200131,163,2,1,1,10:19 PM,0:02,MISS Richardson 27' 3PT Jump Shot,,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+114,0052200131,164,4,0,1,10:19 PM,0:02,,,Saric REBOUND (Off:0 Def:2),,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+115,0052200131,165,13,0,1,10:19 PM,0:00,,End of 1st Period (10:19 PM EST),,32 - 29,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+116,0052200131,174,12,0,2,10:23 PM,12:00,,Start of 2nd Period (10:23 PM EST),,32 - 29,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+117,0052200131,175,2,6,2,10:23 PM,11:44,,,MISS Giddey 5' Driving Layup,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+118,0052200131,176,4,0,2,10:23 PM,11:41,Murphy III REBOUND (Off:0 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+119,0052200131,177,2,80,2,10:24 PM,11:24,MISS McCollum 14' Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+120,0052200131,178,4,0,2,10:24 PM,11:19,,,Saric REBOUND (Off:0 Def:3),,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+121,0052200131,179,2,6,2,10:24 PM,11:13,,,MISS Giddey 3' Driving Layup,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+122,0052200131,180,4,0,2,10:24 PM,11:11,Valanciunas REBOUND (Off:5 Def:4),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+123,0052200131,181,1,80,2,10:24 PM,10:53,Richardson 18' Step Back Jump Shot (2 PTS) (Murphy III 1 AST),,,32 - 31,-1,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+124,0052200131,183,2,80,2,10:24 PM,10:38,,,MISS Jal. Williams 27' 3PT Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+125,0052200131,184,4,0,2,10:25 PM,10:34,,,Giddey REBOUND (Off:2 Def:2),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+126,0052200131,185,1,1,2,10:25 PM,10:33,,,Giddey 25' 3PT Jump Shot (10 PTS),35 - 31,-4,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+127,0052200131,186,6,2,2,10:25 PM,10:17,,,Waters III S.FOUL (P1.T1) (E.Lewis),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+128,0052200131,188,3,11,2,10:25 PM,10:17,Murphy III Free Throw 1 of 2 (1 PTS),,,35 - 32,-3,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+129,0052200131,189,3,12,2,10:26 PM,10:17,Murphy III Free Throw 2 of 2 (2 PTS),,,35 - 33,-2,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+130,0052200131,190,2,58,2,10:26 PM,10:05,,,MISS Jal. Williams 6' Turnaround Hook Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+131,0052200131,191,4,0,2,10:26 PM,10:04,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+132,0052200131,193,1,1,2,10:26 PM,10:02,,,Joe 25' 3PT Jump Shot (3 PTS) (Giddey 3 AST),38 - 33,-5,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+133,0052200131,195,1,98,2,10:27 PM,9:36,Richardson 2' Cutting Layup Shot (4 PTS) (Valanciunas 2 AST),,,38 - 35,-3,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+134,0052200131,197,2,1,2,10:27 PM,9:30,,,MISS Saric 26' 3PT Jump Shot,,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+135,0052200131,198,4,0,2,10:27 PM,9:30,Marshall REBOUND (Off:0 Def:1),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+136,0052200131,199,6,2,2,10:27 PM,9:18,,,Waters III S.FOUL (P2.T2) (S.Corbin),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+137,0052200131,201,3,11,2,10:27 PM,9:18,Murphy III Free Throw 1 of 2 (3 PTS),,,38 - 36,-2,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+138,0052200131,202,8,0,2,10:27 PM,9:18,,,SUB: Wiggins FOR Waters III,,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+139,0052200131,204,3,12,2,10:28 PM,9:18,Murphy III Free Throw 2 of 2 (4 PTS),,,38 - 37,-1,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+140,0052200131,205,1,98,2,10:28 PM,9:04,,,Wiggins 2' Cutting Layup Shot (2 PTS) (Jal. Williams 1 AST),40 - 37,-3,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+141,0052200131,207,1,80,2,10:28 PM,8:47,Murphy III 24' 3PT Step Back Jump Shot (7 PTS) (Richardson 1 AST),,,40 - 40,TIE,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+142,0052200131,209,5,1,2,10:28 PM,8:34,Murphy III STEAL (1 STL),,Jal. Williams Bad Pass Turnover (P1.T2),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+143,0052200131,211,1,50,2,10:28 PM,8:31,Murphy III 1' Running Dunk (9 PTS),,,40 - 42,2,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+144,0052200131,212,9,1,2,10:29 PM,8:31,,,Thunder Timeout: Regular (Reg.1 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+145,0052200131,215,1,6,2,10:32 PM,8:12,,,Giddey 1' Driving Layup (12 PTS),42 - 42,TIE,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+146,0052200131,216,1,58,2,10:33 PM,7:53,Valanciunas 5' Turnaround Hook Shot (10 PTS) (Richardson 2 AST),,,42 - 44,2,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+147,0052200131,218,6,2,2,10:33 PM,7:47,Richardson S.FOUL (P1.T1) (B.Taylor),,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+148,0052200131,220,3,11,2,10:33 PM,7:47,,,Wiggins Free Throw 1 of 2 (3 PTS),43 - 44,1,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+149,0052200131,221,8,0,2,10:33 PM,7:47,SUB: Jones FOR Richardson,,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+150,0052200131,222,8,0,2,10:33 PM,7:47,,,SUB: Gilgeous-Alexander FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+151,0052200131,223,8,0,2,10:33 PM,7:47,,,SUB: Jay. Williams FOR Saric,,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+152,0052200131,227,3,12,2,10:34 PM,7:47,,,Wiggins Free Throw 2 of 2 (4 PTS),44 - 44,TIE,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+153,0052200131,228,2,47,2,10:34 PM,7:28,MISS Jones 11' Turnaround Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+154,0052200131,229,4,0,2,10:34 PM,7:25,,,Jay. Williams REBOUND (Off:0 Def:1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+155,0052200131,230,2,80,2,10:34 PM,7:16,,,MISS Joe 24' 3PT Step Back Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+156,0052200131,231,4,0,2,10:34 PM,7:11,Valanciunas REBOUND (Off:5 Def:5),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+157,0052200131,232,2,1,2,10:35 PM,7:02,MISS Jones 24' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+158,0052200131,233,4,0,2,10:35 PM,6:59,,,Wiggins REBOUND (Off:0 Def:1),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+159,0052200131,234,6,1,2,10:35 PM,6:53,Marshall P.FOUL (P1.T2) (S.Corbin),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+160,0052200131,236,8,0,2,10:35 PM,6:53,SUB: Ingram FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+161,0052200131,237,8,0,2,10:35 PM,6:53,,,SUB: Dort FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+162,0052200131,240,2,1,2,10:35 PM,6:51,,,MISS Joe 26' 3PT Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+163,0052200131,241,4,0,2,10:35 PM,6:46,Valanciunas REBOUND (Off:5 Def:6),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+164,0052200131,243,2,1,2,10:36 PM,6:33,MISS Murphy III 26' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+165,0052200131,244,4,0,2,10:36 PM,6:28,,,Dort REBOUND (Off:1 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+166,0052200131,245,2,80,2,10:36 PM,6:23,,,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+167,0052200131,246,4,0,2,10:36 PM,6:20,,,Jay. Williams REBOUND (Off:1 Def:1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+168,0052200131,247,1,1,2,10:36 PM,6:14,,,Dort 26' 3PT Jump Shot (17 PTS) (Jay. Williams 5 AST),47 - 44,-3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+169,0052200131,249,2,73,2,10:37 PM,5:50,MISS Valanciunas 3' Driving Reverse Layup,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+170,0052200131,250,4,0,2,10:37 PM,5:49,Valanciunas REBOUND (Off:6 Def:6),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+171,0052200131,251,6,2,2,10:37 PM,5:48,,,Jay. Williams S.FOUL (P2.T3) (S.Corbin),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+172,0052200131,253,3,11,2,10:37 PM,5:48,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+173,0052200131,254,4,1,2,10:37 PM,5:48,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+174,0052200131,255,3,12,2,10:38 PM,5:48,Valanciunas Free Throw 2 of 2 (11 PTS),,,47 - 45,-2,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+175,0052200131,256,2,79,2,10:38 PM,5:36,,,MISS Joe 16' Pullup Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+176,0052200131,257,4,0,2,10:38 PM,5:32,,,Jay. Williams REBOUND (Off:2 Def:1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+177,0052200131,258,2,1,2,10:38 PM,5:30,,,MISS Dort 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+178,0052200131,259,4,0,2,10:38 PM,5:27,McCollum REBOUND (Off:0 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+179,0052200131,260,1,108,2,10:38 PM,5:18,Jones 1' Cutting Dunk Shot (11 PTS) (Ingram 4 AST),,,47 - 47,TIE,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+180,0052200131,262,1,1,2,10:38 PM,5:07,,,Dort 26' 3PT Jump Shot (20 PTS) (Jay. Williams 6 AST),50 - 47,-3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+181,0052200131,264,6,1,2,10:39 PM,4:51,,,Wiggins P.FOUL (P1.T4) (E.Lewis),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+182,0052200131,266,8,0,2,10:39 PM,4:51,,,SUB: Giddey FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+183,0052200131,267,8,0,2,10:39 PM,4:51,,,SUB: Jal. Williams FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+184,0052200131,270,8,0,2,10:39 PM,4:51,SUB: Hayes FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+185,0052200131,272,1,6,2,10:39 PM,4:39,McCollum 2' Driving Layup (4 PTS),,,50 - 49,-1,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+186,0052200131,273,2,80,2,10:39 PM,4:26,,,MISS Gilgeous-Alexander 20' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+187,0052200131,274,4,0,2,10:39 PM,4:23,Ingram REBOUND (Off:0 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+188,0052200131,275,5,2,2,10:40 PM,4:18,Ingram Lost Ball Turnover (P1.T3),,Gilgeous-Alexander STEAL (2 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+189,0052200131,277,6,2,2,10:40 PM,4:16,McCollum S.FOUL (P1.T3) (E.Lewis),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+190,0052200131,279,3,11,2,10:40 PM,4:16,,,Jal. Williams Free Throw 1 of 2 (3 PTS),51 - 49,-2,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+191,0052200131,280,3,12,2,10:40 PM,4:16,,,Jal. Williams Free Throw 2 of 2 (4 PTS),52 - 49,-3,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+192,0052200131,302,2,6,2,10:41 PM,3:57,MISS Ingram 6' Driving Layup,,Jal. Williams BLOCK (1 BLK),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+193,0052200131,304,4,0,2,10:41 PM,3:57,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+194,0052200131,282,2,1,2,10:41 PM,3:51,,,MISS Wiggins 3PT Jump Shot,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+195,0052200131,283,4,0,2,10:41 PM,3:47,Murphy III REBOUND (Off:0 Def:2),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+196,0052200131,284,1,43,2,10:41 PM,3:40,Hayes 2' Alley Oop Layup (4 PTS) (Murphy III 2 AST),,,52 - 51,-1,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+197,0052200131,286,2,6,2,10:42 PM,3:24,,,MISS Jal. Williams 4' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+198,0052200131,287,4,0,2,10:42 PM,3:21,Hayes REBOUND (Off:0 Def:4),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+199,0052200131,288,2,1,2,10:42 PM,3:12,MISS Jones 24' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+200,0052200131,289,4,0,2,10:42 PM,3:07,Hayes REBOUND (Off:1 Def:4),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+201,0052200131,290,6,2,2,10:42 PM,3:03,,,Wiggins S.FOUL (P2.PN) (E.Lewis),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+202,0052200131,292,3,11,2,10:43 PM,3:03,Jones Free Throw 1 of 2 (12 PTS),,,52 - 52,TIE,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+203,0052200131,293,3,12,2,10:43 PM,3:03,Jones Free Throw 2 of 2 (13 PTS),,,52 - 53,1,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+204,0052200131,294,2,80,2,10:43 PM,2:44,,,MISS Gilgeous-Alexander 16' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+205,0052200131,295,4,0,2,10:43 PM,2:40,Hayes REBOUND (Off:1 Def:5),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+206,0052200131,296,5,2,2,10:43 PM,2:40,Hayes Lost Ball Turnover (P1.T4),,Wiggins STEAL (1 STL),,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+207,0052200131,298,1,5,2,10:43 PM,2:40,,,Wiggins 2' Layup (6 PTS),54 - 53,-1,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+208,0052200131,299,6,2,2,10:43 PM,2:40,Hayes S.FOUL (P1.T4) (E.Lewis),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+209,0052200131,301,9,1,2,10:44 PM,2:40,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+210,0052200131,305,3,10,2,10:47 PM,2:40,,,Wiggins Free Throw 1 of 1 (7 PTS),55 - 53,-2,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+211,0052200131,307,1,1,2,10:48 PM,2:24,Murphy III 24' 3PT Jump Shot (12 PTS) (Jones 4 AST),,,55 - 56,1,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+212,0052200131,309,5,1,2,10:48 PM,2:06,Jones STEAL (1 STL),,Gilgeous-Alexander Bad Pass Turnover (P1.T3),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+213,0052200131,311,2,6,2,10:48 PM,2:04,MISS Ingram 3' Driving Layup,,Dort BLOCK (1 BLK),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1
+214,0052200131,313,4,0,2,10:48 PM,2:03,Jones REBOUND (Off:1 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+215,0052200131,314,1,87,2,10:48 PM,2:03,Jones Putback Dunk (15 PTS),,,55 - 58,3,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+216,0052200131,315,1,6,2,10:48 PM,1:39,,,Gilgeous-Alexander 2' Driving Layup (7 PTS),57 - 58,1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+217,0052200131,316,6,1,2,10:49 PM,1:21,,,Wiggins P.FOUL (P3.PN) (S.Corbin),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+218,0052200131,318,3,11,2,10:49 PM,1:21,Ingram Free Throw 1 of 2 (9 PTS),,,57 - 59,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+219,0052200131,319,3,12,2,10:50 PM,1:21,Ingram Free Throw 2 of 2 (10 PTS),,,57 - 60,3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+220,0052200131,320,2,79,2,10:50 PM,1:05,,,MISS Gilgeous-Alexander 29' 3PT Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+221,0052200131,321,4,0,2,10:50 PM,1:01,Hayes REBOUND (Off:1 Def:6),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+222,0052200131,322,1,1,2,10:50 PM,0:41,Murphy III 26' 3PT Jump Shot (15 PTS) (Ingram 5 AST),,,57 - 63,6,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+223,0052200131,324,2,1,2,10:51 PM,0:29,,,MISS Giddey 25' 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+224,0052200131,325,4,0,2,10:51 PM,0:25,Ingram REBOUND (Off:0 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+225,0052200131,326,2,1,2,10:51 PM,0:04,MISS Murphy III 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+226,0052200131,327,4,0,2,10:51 PM,0:03,Ingram REBOUND (Off:1 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+227,0052200131,328,2,63,2,10:51 PM,0:02,MISS Ingram 12' Fadeaway Jumper,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+228,0052200131,329,4,0,2,10:51 PM,0:01,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+229,0052200131,332,13,0,2,10:51 PM,0:00,,End of 2nd Period (10:51 PM EST),,57 - 63,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+230,0052200131,337,12,0,3,11:07 PM,12:00,,Start of 3rd Period (11:07 PM EST),,57 - 63,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+231,0052200131,339,1,79,3,11:07 PM,11:44,,,Gilgeous-Alexander 17' Pullup Jump Shot (9 PTS) (Giddey 4 AST),59 - 63,4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+232,0052200131,341,2,98,3,11:08 PM,11:17,MISS Jones 4' Cutting Layup Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+233,0052200131,342,4,0,3,11:08 PM,11:17,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+234,0052200131,344,1,80,3,11:08 PM,11:03,,,Gilgeous-Alexander 26' 3PT Step Back Jump Shot (12 PTS) (Giddey 5 AST),62 - 63,1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+235,0052200131,346,1,1,3,11:08 PM,10:49,Murphy III 24' 3PT Jump Shot (18 PTS) (McCollum 2 AST),,,62 - 66,4,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+236,0052200131,348,5,1,3,11:08 PM,10:38,McCollum STEAL (1 STL),,Gilgeous-Alexander Bad Pass Turnover (P2.T4),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+237,0052200131,350,2,1,3,11:09 PM,10:29,MISS Murphy III 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+238,0052200131,351,4,0,3,11:09 PM,10:27,Jones REBOUND (Off:2 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+239,0052200131,352,6,2,3,11:09 PM,10:27,,,Dort S.FOUL (P2.T1) (E.Lewis),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+240,0052200131,354,3,11,3,11:09 PM,10:27,MISS Jones Free Throw 1 of 2,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+241,0052200131,355,4,1,3,11:09 PM,10:27,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+242,0052200131,356,3,12,3,11:09 PM,10:27,Jones Free Throw 2 of 2 (16 PTS),,,62 - 67,5,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+243,0052200131,358,2,1,3,11:11 PM,10:07,,,MISS Jay. Williams 26' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+244,0052200131,359,4,0,3,11:11 PM,10:03,Murphy III REBOUND (Off:0 Def:3),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+245,0052200131,360,1,101,3,11:11 PM,9:59,Murphy III 6' Driving Floating Jump Shot (20 PTS),,,62 - 69,7,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+246,0052200131,361,1,6,3,11:11 PM,9:45,,,Giddey 1' Driving Layup (14 PTS),64 - 69,5,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+247,0052200131,362,5,2,3,11:11 PM,9:32,Valanciunas Lost Ball Turnover (P1.T5),,Jal. Williams STEAL (1 STL),,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+248,0052200131,364,1,6,3,11:11 PM,9:29,,,Giddey 1' Driving Layup (16 PTS) (Jal. Williams 2 AST),66 - 69,3,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+249,0052200131,366,2,79,3,11:11 PM,9:21,MISS McCollum 26' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+250,0052200131,367,4,0,3,11:12 PM,9:17,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+251,0052200131,369,2,1,3,11:12 PM,9:05,,,MISS Dort 26' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+252,0052200131,370,4,0,3,11:12 PM,9:02,Valanciunas REBOUND (Off:6 Def:7),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+253,0052200131,371,2,1,3,11:12 PM,8:56,MISS Murphy III 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+254,0052200131,372,4,0,3,11:12 PM,8:53,,,Gilgeous-Alexander REBOUND (Off:0 Def:4),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+255,0052200131,373,2,6,3,11:12 PM,8:48,Ingram BLOCK (1 BLK),,MISS Dort 3' Driving Layup,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1
+256,0052200131,375,4,0,3,11:12 PM,8:45,,,Jal. Williams REBOUND (Off:1 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+257,0052200131,376,2,1,3,11:12 PM,8:43,,,MISS Jay. Williams 26' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+258,0052200131,377,4,0,3,11:12 PM,8:39,Valanciunas REBOUND (Off:6 Def:8),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+259,0052200131,378,2,6,3,11:12 PM,8:34,MISS Jones 4' Driving Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+260,0052200131,379,4,0,3,11:12 PM,8:30,Jones REBOUND (Off:3 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+261,0052200131,382,5,2,3,11:13 PM,8:30,Jones Lost Ball Turnover (P1.T6),,Jal. Williams STEAL (2 STL),,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+262,0052200131,380,1,6,3,11:13 PM,8:25,,,Dort 4' Driving Layup (22 PTS) (Giddey 6 AST),68 - 69,1,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+263,0052200131,381,7,2,3,11:13 PM,8:25,Valanciunas Violation:Defensive Goaltending (B.Taylor),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+264,0052200131,384,6,2,3,11:13 PM,8:25,McCollum S.FOUL (P2.T1) (S.Corbin),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+265,0052200131,386,3,10,3,11:13 PM,8:25,,,Dort Free Throw 1 of 1 (23 PTS),69 - 69,TIE,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+266,0052200131,387,1,86,3,11:14 PM,8:06,Ingram 14' Turnaround Fadeaway (12 PTS),,,69 - 71,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+267,0052200131,388,1,75,3,11:14 PM,7:53,,,Jay. Williams 2' Driving Finger Roll Layup (2 PTS) (Giddey 7 AST),71 - 71,TIE,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+268,0052200131,390,6,1,3,11:14 PM,7:37,,,Dort P.FOUL (P3.T2) (B.Taylor),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+269,0052200131,392,5,40,3,11:15 PM,7:31,Ingram Out of Bounds Lost Ball Turnover (P2.T7),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+270,0052200131,393,1,6,3,11:15 PM,7:19,,,Gilgeous-Alexander 3' Driving Layup (14 PTS),73 - 71,-2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+271,0052200131,394,6,2,3,11:15 PM,7:19,Jones S.FOUL (P2.T2) (B.Taylor),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+272,0052200131,396,3,10,3,11:16 PM,7:19,,,Gilgeous-Alexander Free Throw 1 of 1 (15 PTS),74 - 71,-3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+273,0052200131,397,6,2,3,11:16 PM,7:01,,,Gilgeous-Alexander S.FOUL (P2.T3) (B.Taylor),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+274,0052200131,399,3,11,3,11:16 PM,7:01,McCollum Free Throw 1 of 2 (5 PTS),,,74 - 72,-2,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+275,0052200131,400,3,12,3,11:16 PM,7:01,MISS McCollum Free Throw 2 of 2,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+276,0052200131,401,4,0,3,11:16 PM,6:59,,,Gilgeous-Alexander REBOUND (Off:0 Def:5),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+277,0052200131,402,1,101,3,11:17 PM,6:53,,,Giddey 8' Driving Floating Jump Shot (18 PTS),76 - 72,-4,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+278,0052200131,403,1,98,3,11:17 PM,6:36,Jones 3' Cutting Layup Shot (18 PTS) (McCollum 3 AST),,,76 - 74,-2,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+279,0052200131,405,1,6,3,11:17 PM,6:15,,,Gilgeous-Alexander 3' Driving Layup (17 PTS),78 - 74,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+280,0052200131,406,6,17,3,11:18 PM,6:08,,,Thunder T.Foul (Def. 3 Sec Jay. Williams ) (E.Lewis),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+281,0052200131,407,9,1,3,11:18 PM,6:08,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+282,0052200131,409,3,16,3,11:22 PM,6:08,Murphy III Free Throw Technical (21 PTS),,,78 - 75,-3,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+283,0052200131,410,2,1,3,11:22 PM,5:58,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+284,0052200131,411,4,0,3,11:22 PM,5:53,,,Jay. Williams REBOUND (Off:2 Def:2),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+285,0052200131,412,1,73,3,11:22 PM,5:38,,,Dort 2' Driving Reverse Layup (25 PTS) (Giddey 8 AST),80 - 75,-5,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+286,0052200131,414,1,80,3,11:23 PM,5:14,Ingram 13' Step Back Jump Shot (14 PTS) (Valanciunas 3 AST),,,80 - 77,-3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+287,0052200131,416,1,80,3,11:23 PM,4:59,,,Gilgeous-Alexander 9' Step Back Jump Shot (19 PTS),82 - 77,-5,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+288,0052200131,417,1,75,3,11:23 PM,4:39,Ingram 2' Driving Finger Roll Layup (16 PTS),,,82 - 79,-3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+289,0052200131,418,6,2,3,11:23 PM,4:39,,,Jal. Williams S.FOUL (P1.T4) (E.Lewis),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+290,0052200131,420,8,0,3,11:23 PM,4:39,SUB: Hayes FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+291,0052200131,421,8,0,3,11:23 PM,4:39,SUB: Richardson FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+292,0052200131,424,3,10,3,11:24 PM,4:39,MISS Ingram Free Throw 1 of 1,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+293,0052200131,425,4,0,3,11:24 PM,4:36,,,Jay. Williams REBOUND (Off:2 Def:3),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+294,0052200131,426,6,2,3,11:24 PM,4:22,Jones S.FOUL (P3.T3) (B.Taylor),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+295,0052200131,428,3,11,3,11:25 PM,4:22,,,Gilgeous-Alexander Free Throw 1 of 2 (20 PTS),83 - 79,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+296,0052200131,429,8,0,3,11:25 PM,4:22,,,SUB: Joe FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+297,0052200131,431,3,12,3,11:25 PM,4:22,,,Gilgeous-Alexander Free Throw 2 of 2 (21 PTS),84 - 79,-5,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+298,0052200131,432,5,1,3,11:25 PM,4:08,Jones Bad Pass Turnover (P2.T8),,Jay. Williams STEAL (1 STL),,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+299,0052200131,434,2,80,3,11:26 PM,4:01,,,MISS Gilgeous-Alexander 20' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+300,0052200131,435,4,0,3,11:26 PM,3:59,,,Dort REBOUND (Off:2 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+301,0052200131,436,2,97,3,11:26 PM,3:58,,,MISS Dort Tip Layup Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+302,0052200131,437,4,0,3,11:26 PM,3:57,Jones REBOUND (Off:3 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+303,0052200131,438,1,1,3,11:26 PM,3:44,Ingram 13' Jump Shot (18 PTS),,,84 - 81,-3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+304,0052200131,439,1,6,3,11:26 PM,3:32,,,Gilgeous-Alexander 2' Driving Layup (23 PTS),86 - 81,-5,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+305,0052200131,440,6,2,3,11:27 PM,3:11,,,Dort S.FOUL (P4.PN) (E.Lewis),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+306,0052200131,443,6,11,3,11:28 PM,3:11,Ingram T.FOUL (P2.T3) (E.Lewis),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+307,0052200131,449,18,1,3,11:29 PM,3:11,,Instant Replay3rd Period (11:29 PM EST),,86 - 81,-5,0,443,,,,,,0,0,,,,,,0,0,,,,,,0
+308,0052200131,444,8,0,3,11:29 PM,3:11,,,SUB: Jal. Williams FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+309,0052200131,446,3,16,3,11:29 PM,3:11,,,Gilgeous-Alexander Free Throw Technical (24 PTS),87 - 81,-6,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+310,0052200131,447,3,11,3,11:29 PM,3:11,Ingram Free Throw 1 of 2 (19 PTS),,,87 - 82,-5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+311,0052200131,448,3,12,3,11:30 PM,3:11,Ingram Free Throw 2 of 2 (20 PTS),,,87 - 83,-4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+312,0052200131,450,2,80,3,11:30 PM,2:51,,,MISS Jal. Williams 26' 3PT Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+313,0052200131,451,4,0,3,11:30 PM,2:48,,,Jay. Williams REBOUND (Off:3 Def:3),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+314,0052200131,452,1,6,3,11:30 PM,2:45,,,Jal. Williams 2' Driving Layup (6 PTS) (Jay. Williams 7 AST),89 - 83,-6,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+315,0052200131,454,2,1,3,11:31 PM,2:21,MISS Ingram 17' Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+316,0052200131,455,4,0,3,11:31 PM,2:18,,,Joe REBOUND (Off:1 Def:1),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+317,0052200131,456,2,1,3,11:31 PM,2:06,,,MISS Jal. Williams 26' 3PT Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+318,0052200131,457,4,0,3,11:31 PM,2:02,,,Giddey REBOUND (Off:3 Def:2),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+319,0052200131,458,1,6,3,11:31 PM,1:56,,,Giddey 2' Driving Layup (20 PTS),91 - 83,-8,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+320,0052200131,459,6,2,3,11:31 PM,1:56,Hayes S.FOUL (P2.T4) (E.Lewis),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+321,0052200131,461,9,1,3,11:31 PM,1:56,,,Thunder Timeout: Regular (Reg.2 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+322,0052200131,462,8,0,3,11:34 PM,1:56,SUB: McCollum FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+323,0052200131,464,3,10,3,11:35 PM,1:56,,,Giddey Free Throw 1 of 1 (21 PTS),92 - 83,-9,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+324,0052200131,465,1,6,3,11:35 PM,1:45,McCollum 1' Driving Layup (7 PTS) (Jones 5 AST),,,92 - 85,-7,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+325,0052200131,467,2,79,3,11:35 PM,1:25,,,MISS Gilgeous-Alexander 11' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+326,0052200131,468,4,0,3,11:35 PM,1:25,Richardson REBOUND (Off:0 Def:1),,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+327,0052200131,469,2,1,3,11:35 PM,1:21,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+328,0052200131,470,4,0,3,11:36 PM,1:16,,,Jay. Williams REBOUND (Off:3 Def:4),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+329,0052200131,471,1,79,3,11:36 PM,0:56,,,Giddey 26' 3PT Pullup Jump Shot (24 PTS) (Gilgeous-Alexander 3 AST),95 - 85,-10,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+330,0052200131,473,2,101,3,11:36 PM,0:42,MISS McCollum 8' Driving Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+331,0052200131,474,4,0,3,11:36 PM,0:41,Hayes REBOUND (Off:2 Def:6),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+332,0052200131,475,6,2,3,11:36 PM,0:41,,,Gilgeous-Alexander S.FOUL (P3.PN) (E.Lewis),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+333,0052200131,477,3,11,3,11:37 PM,0:41,Hayes Free Throw 1 of 2 (5 PTS),,,95 - 86,-9,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+334,0052200131,478,8,0,3,11:37 PM,0:41,,,SUB: Saric FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+335,0052200131,479,8,0,3,11:37 PM,0:41,,,SUB: Wiggins FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+336,0052200131,482,3,12,3,11:37 PM,0:41,Hayes Free Throw 2 of 2 (6 PTS),,,95 - 87,-8,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+337,0052200131,483,6,2,3,11:37 PM,0:27,Jones S.FOUL (P4.PN) (E.Lewis),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+338,0052200131,485,3,11,3,11:38 PM,0:27,,,Jal. Williams Free Throw 1 of 2 (7 PTS),96 - 87,-9,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+339,0052200131,490,3,12,3,11:38 PM,0:27,,,MISS Jal. Williams Free Throw 2 of 2,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+340,0052200131,486,8,0,3,11:38 PM,0:27,,,SUB: Giddey FOR Gilgeous-Alexander,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+341,0052200131,488,8,0,3,11:38 PM,0:27,SUB: Murphy III FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+342,0052200131,491,4,0,3,11:38 PM,0:25,Ingram REBOUND (Off:1 Def:4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+343,0052200131,492,6,26,3,11:39 PM,0:06,Ingram Offensive Charge Foul (P3) (E.Lewis),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+344,0052200131,494,5,37,3,11:39 PM,0:06,Ingram Offensive Foul Turnover (P3.T9),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+345,0052200131,495,9,1,3,11:39 PM,0:06,,,Thunder Timeout: Regular (Reg.3 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+346,0052200131,496,8,0,3,11:40 PM,0:06,SUB: Marshall FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+347,0052200131,497,8,0,3,11:40 PM,0:06,,,SUB: Waters III FOR Saric,,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+348,0052200131,498,8,0,3,11:40 PM,0:06,,,SUB: Gilgeous-Alexander FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+349,0052200131,502,2,6,3,11:41 PM,0:01,,,MISS Gilgeous-Alexander 2' Driving Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+350,0052200131,503,4,0,3,11:41 PM,0:01,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+351,0052200131,504,13,0,3,11:41 PM,0:00,,End of 3rd Period (11:41 PM EST),,96 - 87,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+352,0052200131,511,12,0,4,11:44 PM,12:00,,Start of 4th Period (11:44 PM EST),,96 - 87,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+353,0052200131,512,1,75,4,11:45 PM,11:39,Marshall 2' Driving Finger Roll Layup (2 PTS) (Richardson 3 AST),,,96 - 89,-7,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+354,0052200131,514,1,6,4,11:45 PM,11:30,,,Giddey 2' Driving Layup (26 PTS),98 - 89,-9,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+355,0052200131,515,1,6,4,11:45 PM,11:09,McCollum 3' Driving Layup (9 PTS),,,98 - 91,-7,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+356,0052200131,516,10,0,4,11:46 PM,10:45,Jump Ball Richardson vs. Joe: Tip to Valanciunas,,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0
+357,0052200131,519,5,2,4,11:46 PM,10:45,Richardson STEAL (1 STL),,Joe Lost Ball Turnover (P1.T5),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+358,0052200131,521,1,1,4,11:46 PM,10:28,Richardson 3PT Jump Shot (7 PTS) (McCollum 4 AST),,,98 - 94,-4,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+359,0052200131,523,2,6,4,11:47 PM,10:13,,,MISS Giddey 3' Driving Layup,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+360,0052200131,524,4,0,4,11:47 PM,10:11,Valanciunas REBOUND (Off:6 Def:9),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+361,0052200131,525,1,58,4,11:47 PM,10:00,Valanciunas 3' Turnaround Hook Shot (13 PTS),,,98 - 96,-2,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+362,0052200131,527,9,1,4,11:47 PM,9:59,,,Thunder Timeout: Regular (Reg.4 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+363,0052200131,528,8,0,4,11:50 PM,9:59,,,SUB: Gilgeous-Alexander FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+364,0052200131,529,8,0,4,11:50 PM,9:59,,,SUB: Jay. Williams FOR Saric,,,5,203967,Dario Saric,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+365,0052200131,532,2,75,4,11:51 PM,9:35,,,MISS Jal. Williams 2' Driving Finger Roll Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+366,0052200131,533,4,0,4,11:51 PM,9:33,Valanciunas REBOUND (Off:6 Def:10),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+367,0052200131,534,2,80,4,11:51 PM,9:16,MISS McCollum 19' Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+368,0052200131,535,4,0,4,11:51 PM,9:14,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+369,0052200131,536,6,3,4,11:51 PM,9:14,Valanciunas L.B.FOUL (P1.T1) (S.Corbin),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+370,0052200131,538,1,57,4,11:52 PM,8:55,,,Jay. Williams 5' Driving Hook Shot (4 PTS) (Joe 1 AST),100 - 96,-4,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+371,0052200131,540,2,1,4,11:52 PM,8:29,MISS Marshall 26' 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+372,0052200131,541,4,0,4,11:53 PM,8:26,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+373,0052200131,543,8,0,4,11:53 PM,8:26,SUB: Ingram FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+374,0052200131,544,8,0,4,11:53 PM,8:26,,,SUB: Dort FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+375,0052200131,545,8,0,4,11:53 PM,8:26,,,SUB: Giddey FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+376,0052200131,549,1,1,4,11:53 PM,8:24,McCollum 3PT Jump Shot (12 PTS) (Richardson 4 AST),,,100 - 99,-1,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+377,0052200131,551,2,1,4,11:53 PM,8:06,,,MISS Jal. Williams 3PT Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+378,0052200131,552,4,0,4,11:53 PM,8:01,Richardson REBOUND (Off:0 Def:2),,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+379,0052200131,553,1,50,4,11:53 PM,7:59,Richardson 1' Running Dunk (9 PTS),,,100 - 101,1,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+380,0052200131,554,6,14,4,11:54 PM,7:52,Richardson FLAGRANT.FOUL.TYPE1 (P2.T2) (B.Taylor),,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+381,0052200131,556,18,1,4,11:54 PM,7:52,,Instant Replay4th Period (11:54 PM EST),,100 - 101,1,0,554,,,,,,0,0,,,,,,1,0,,,,,,0
+382,0052200131,557,3,18,4,11:56 PM,7:52,,,Giddey Free Throw Flagrant 1 of 2 (27 PTS),101 - 101,TIE,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+383,0052200131,558,3,19,4,11:56 PM,7:52,,,MISS Giddey Free Throw Flagrant 2 of 2,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+384,0052200131,559,4,1,4,11:56 PM,7:52,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+385,0052200131,560,8,0,4,11:56 PM,7:52,SUB: Jones FOR Richardson,,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+386,0052200131,562,1,6,4,11:57 PM,7:35,,,Jal. Williams 2' Driving Layup (9 PTS) (Jay. Williams 8 AST),103 - 101,-2,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+387,0052200131,564,2,1,4,11:57 PM,7:18,MISS Murphy III 26' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+388,0052200131,565,4,0,4,11:57 PM,7:16,,,Giddey REBOUND (Off:3 Def:3),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+389,0052200131,566,5,2,4,11:57 PM,7:12,McCollum STEAL (2 STL),,Giddey Lost Ball Turnover (P1.T6),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+390,0052200131,568,1,1,4,11:57 PM,6:58,Valanciunas 24' 3PT Jump Shot (16 PTS) (Ingram 6 AST),,,103 - 104,1,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+391,0052200131,570,2,1,4,11:58 PM,6:37,,,MISS Jay. Williams 26' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+392,0052200131,571,4,0,4,11:58 PM,6:33,,,Dort REBOUND (Off:3 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+393,0052200131,572,2,78,4,11:58 PM,6:31,,,MISS Giddey 7' Floating Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+394,0052200131,573,4,0,4,11:58 PM,6:29,Valanciunas REBOUND (Off:6 Def:11),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+395,0052200131,574,6,1,4,11:58 PM,6:11,,,Gilgeous-Alexander P.FOUL (P4.T1) (S.Corbin),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+396,0052200131,576,2,1,4,11:59 PM,6:07,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+397,0052200131,577,4,0,4,11:59 PM,6:04,,,Giddey REBOUND (Off:3 Def:4),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+398,0052200131,578,1,1,4,11:59 PM,5:55,,,Jay. Williams 26' 3PT Jump Shot (7 PTS) (Giddey 9 AST),106 - 104,-2,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+399,0052200131,580,1,1,4,11:59 PM,5:28,Jones 20' Jump Shot (20 PTS) (Ingram 7 AST),,,106 - 106,TIE,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+400,0052200131,582,2,1,4,12:00 AM,5:05,,,MISS Giddey 28' 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+401,0052200131,583,4,0,4,12:00 AM,5:02,Valanciunas REBOUND (Off:6 Def:12),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+402,0052200131,584,2,79,4,12:00 AM,4:42,MISS Ingram 25' 3PT Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+403,0052200131,585,4,0,4,12:00 AM,4:38,,,Jal. Williams REBOUND (Off:1 Def:2),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+404,0052200131,586,2,6,4,12:00 AM,4:26,,,MISS Jal. Williams 2' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+405,0052200131,587,4,0,4,12:00 AM,4:26,,,Giddey REBOUND (Off:4 Def:4),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+406,0052200131,588,6,2,4,12:00 AM,4:26,Murphy III S.FOUL (P2.T3) (S.Corbin),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+407,0052200131,590,3,11,4,12:01 AM,4:26,,,Giddey Free Throw 1 of 2 (28 PTS),107 - 106,-1,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+408,0052200131,591,8,0,4,12:01 AM,4:26,SUB: Hayes FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+409,0052200131,593,3,12,4,12:01 AM,4:26,,,Giddey Free Throw 2 of 2 (29 PTS),108 - 106,-2,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+410,0052200131,594,6,2,4,12:02 AM,4:06,,,Jay. Williams S.FOUL (P3.T2) (S.Corbin),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+411,0052200131,596,3,11,4,12:02 AM,4:06,McCollum Free Throw 1 of 2 (13 PTS),,,108 - 107,-1,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+412,0052200131,597,3,12,4,12:03 AM,4:06,McCollum Free Throw 2 of 2 (14 PTS),,,108 - 108,TIE,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+413,0052200131,598,5,4,4,12:03 AM,3:46,,,Giddey Traveling Turnover (P2.T7),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+414,0052200131,599,2,6,4,12:04 AM,3:32,MISS Jones 2' Driving Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+415,0052200131,600,4,0,4,12:04 AM,3:31,,,Giddey REBOUND (Off:4 Def:5),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+416,0052200131,601,2,1,4,12:04 AM,3:25,,,MISS Dort 26' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+417,0052200131,602,4,0,4,12:04 AM,3:25,Hayes REBOUND (Off:2 Def:7),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+418,0052200131,603,2,6,4,12:04 AM,3:13,MISS Ingram 6' Driving Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+419,0052200131,604,4,0,4,12:04 AM,3:12,Ingram REBOUND (Off:2 Def:4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+420,0052200131,605,1,87,4,12:04 AM,3:12,Ingram Putback Dunk (22 PTS),,,108 - 110,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+421,0052200131,606,9,1,4,12:04 AM,3:12,,,Thunder Timeout: Regular (Reg.5 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+422,0052200131,607,9,1,4,12:08 AM,3:12,PELICANS Timeout: Regular (Full 5 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+423,0052200131,608,2,6,4,12:09 AM,2:55,McCollum BLOCK (1 BLK),,MISS Giddey 8' Driving Layup,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1
+424,0052200131,610,4,0,4,12:09 AM,2:55,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+425,0052200131,613,2,1,4,12:10 AM,2:49,,,MISS Giddey 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+426,0052200131,614,4,0,4,12:10 AM,2:48,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+427,0052200131,615,6,3,4,12:10 AM,2:48,Murphy III L.B.FOUL (P3.T4) (E.Lewis),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+428,0052200131,617,1,108,4,12:10 AM,2:38,,,Jal. Williams 1' Cutting Dunk Shot (11 PTS) (Giddey 10 AST),110 - 110,TIE,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+429,0052200131,619,1,79,4,12:11 AM,2:23,Ingram 16' Pullup Jump Shot (24 PTS),,,110 - 112,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+430,0052200131,620,2,1,4,12:11 AM,2:08,,,MISS Jal. Williams 3PT Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+431,0052200131,621,4,0,4,12:11 AM,2:04,Murphy III REBOUND (Off:0 Def:4),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+432,0052200131,622,5,2,4,12:11 AM,1:44,Ingram Lost Ball Turnover (P4.T10),,Gilgeous-Alexander STEAL (3 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+433,0052200131,624,1,41,4,12:11 AM,1:40,,,Gilgeous-Alexander 2' Running Layup (26 PTS),112 - 112,TIE,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+434,0052200131,625,1,79,4,12:12 AM,1:21,Ingram 17' Pullup Jump Shot (26 PTS) (Hayes 1 AST),,,112 - 114,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+435,0052200131,628,6,2,4,12:12 AM,0:59,Hayes S.FOUL (P3.PN) (E.Lewis),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+436,0052200131,630,3,11,4,12:13 AM,0:59,,,MISS Jay. Williams Free Throw 1 of 2,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+437,0052200131,631,4,1,4,12:13 AM,0:59,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+438,0052200131,632,3,12,4,12:13 AM,0:59,,,Jay. Williams Free Throw 2 of 2 (8 PTS),113 - 114,1,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+439,0052200131,633,2,101,4,12:13 AM,0:37,MISS McCollum 11' Driving Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+440,0052200131,634,4,0,4,12:13 AM,0:35,,,Jal. Williams REBOUND (Off:1 Def:3),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+441,0052200131,635,1,6,4,12:14 AM,0:28,,,Gilgeous-Alexander 8' Driving Layup (28 PTS),115 - 114,-1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+442,0052200131,636,9,1,4,12:14 AM,0:28,PELICANS Timeout: Regular (Full 6 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+443,0052200131,637,8,0,4,12:15 AM,0:28,SUB: Valanciunas FOR Hayes,,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+444,0052200131,639,2,86,4,12:16 AM,0:18,MISS Ingram 16' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+445,0052200131,640,4,0,4,12:16 AM,0:14,,,Jay. Williams REBOUND (Off:3 Def:5),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+446,0052200131,641,6,28,4,12:16 AM,0:12,Jones Personal Take Foul (P5.PN) (E.Lewis),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+447,0052200131,643,3,11,4,12:16 AM,0:12,,,Giddey Free Throw 1 of 2 (30 PTS),116 - 114,-2,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+448,0052200131,644,3,12,4,12:17 AM,0:12,,,Giddey Free Throw 2 of 2 (31 PTS),117 - 114,-3,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+449,0052200131,645,9,1,4,12:17 AM,0:12,PELICANS Timeout: Regular (Full 7 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+450,0052200131,646,6,1,4,12:18 AM,0:11,,,Jay. Williams P.FOUL (P4.T3) (S.Corbin),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+451,0052200131,648,6,1,4,12:19 AM,0:10,,,Dort P.FOUL (P5.PN) (E.Lewis),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+452,0052200131,650,3,11,4,12:19 AM,0:10,MISS Ingram Free Throw 1 of 2,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+453,0052200131,651,4,1,4,12:19 AM,0:10,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+454,0052200131,652,8,0,4,12:19 AM,0:10,SUB: Richardson FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+455,0052200131,653,8,0,4,12:19 AM,0:10,SUB: Marshall FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+456,0052200131,656,3,12,4,12:20 AM,0:10,Ingram Free Throw 2 of 2 (27 PTS),,,117 - 115,-2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+457,0052200131,657,9,1,4,12:20 AM,0:10,,,Thunder Timeout: Regular (Reg.6 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+458,0052200131,658,8,0,4,12:21 AM,0:10,,,SUB: Joe FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+459,0052200131,660,2,6,4,12:21 AM,0:07,Richardson BLOCK (1 BLK),,MISS Gilgeous-Alexander 2' Driving Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,1
+460,0052200131,662,4,0,4,12:21 AM,0:06,,,Dort REBOUND (Off:4 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+461,0052200131,663,6,1,4,12:22 AM,0:06,Marshall P.FOUL (P2.PN) (S.Corbin),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+462,0052200131,665,3,11,4,12:22 AM,0:06,,,Dort Free Throw 1 of 2 (26 PTS),118 - 115,-3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+463,0052200131,666,8,0,4,12:22 AM,0:06,SUB: Hayes FOR Richardson,,,,,4,1626196,Josh Richardson,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+464,0052200131,667,8,0,4,12:22 AM,0:06,SUB: Jones FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+465,0052200131,668,8,0,4,12:22 AM,0:06,,,SUB: Wiggins FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+466,0052200131,672,3,12,4,12:22 AM,0:06,,,Dort Free Throw 2 of 2 (27 PTS),119 - 115,-4,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+467,0052200131,673,1,1,4,12:23 AM,0:04,Ingram 27' 3PT Jump Shot (30 PTS) (Hayes 2 AST),,,119 - 118,-1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+468,0052200131,675,6,28,4,12:23 AM,0:02,McCollum Personal Take Foul (P3.PN) (S.Corbin),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+469,0052200131,677,3,11,4,12:23 AM,0:02,,,Gilgeous-Alexander Free Throw 1 of 2 (29 PTS),120 - 118,-2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+470,0052200131,687,3,12,4,12:23 AM,0:02,,,Gilgeous-Alexander Free Throw 2 of 2 (30 PTS),121 - 118,-3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+471,0052200131,692,8,0,4,12:23 AM,0:02,,,SUB: Jay. Williams FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+472,0052200131,680,5,45,4,12:24 AM,0:02,Jones Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+473,0052200131,681,8,0,4,12:24 AM,0:02,,,SUB: Joe FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+474,0052200131,683,6,28,4,12:24 AM,0:02,Hayes Personal Take Foul (P4.PN) (B.Taylor),,,,,4,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+475,0052200131,685,3,11,4,12:25 AM,0:02,,,Gilgeous-Alexander Free Throw 1 of 2 (31 PTS),122 - 118,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+476,0052200131,690,8,0,4,12:25 AM,0:02,,,SUB: Jay. Williams FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+477,0052200131,686,3,12,4,12:25 AM,0:02,,,Gilgeous-Alexander Free Throw 2 of 2 (32 PTS),123 - 118,-5,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+478,0052200131,688,13,0,4,12:25 AM,0:00,,End of 4th Period (12:25 AM EST),,123 - 118,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

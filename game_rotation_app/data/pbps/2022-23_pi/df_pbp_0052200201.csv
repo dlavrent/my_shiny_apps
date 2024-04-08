@@ -1,0 +1,451 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0052200201,2,12,0,1,7:06 PM,12:00,,Start of 1st Period (7:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0052200201,4,10,0,1,7:06 PM,12:00,Jump Ball Adebayo vs. Vucevic: Tip to Caruso,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1
+2,0052200201,7,5,45,1,7:06 PM,11:48,,,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+3,0052200201,8,5,2,1,7:07 PM,11:33,Vincent Lost Ball Turnover (P1.T1),,Caruso STEAL (1 STL),,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+4,0052200201,10,1,6,1,7:07 PM,11:19,,,Caruso 5' Driving Layup (2 PTS) (Beverley 1 AST),2 - 0,-2,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+5,0052200201,12,2,1,1,7:07 PM,11:08,MISS Herro 26' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+6,0052200201,13,4,0,1,7:07 PM,11:06,,,Vucevic REBOUND (Off:0 Def:1),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+7,0052200201,14,2,1,1,7:07 PM,10:59,,,MISS Vucevic 26' 3PT Jump Shot,,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+8,0052200201,15,4,0,1,7:07 PM,10:54,Herro REBOUND (Off:0 Def:1),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+9,0052200201,16,1,1,1,7:07 PM,10:44,Strus 27' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),,,2 - 3,1,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+10,0052200201,18,6,1,1,7:08 PM,10:28,Adebayo P.FOUL (P1.T1) (K.Lane),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+11,0052200201,20,2,79,1,7:08 PM,10:21,,,MISS LaVine 26' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+12,0052200201,21,4,0,1,7:08 PM,10:15,Adebayo REBOUND (Off:0 Def:1),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+13,0052200201,22,1,1,1,7:09 PM,9:59,Strus 25' 3PT Jump Shot (6 PTS) (Herro 1 AST),,,2 - 6,4,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+14,0052200201,24,6,1,1,7:09 PM,9:47,Herro P.FOUL (P1.T2) (T.Brothers),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+15,0052200201,26,7,5,1,7:09 PM,9:35,Adebayo Violation:Kicked Ball (J.Tiven),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+16,0052200201,27,1,1,1,7:10 PM,9:27,,,Caruso 27' 3PT Jump Shot (5 PTS) (DeRozan 1 AST),5 - 6,1,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+17,0052200201,29,2,1,1,7:10 PM,9:09,MISS Adebayo 12' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+18,0052200201,30,4,0,1,7:10 PM,9:04,,,LaVine REBOUND (Off:0 Def:1),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+19,0052200201,31,1,2,1,7:10 PM,9:01,,,Caruso 24' 3PT Running Jump Shot (8 PTS) (LaVine 1 AST),8 - 6,-2,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+20,0052200201,33,1,1,1,7:11 PM,8:43,Strus 3PT Jump Shot (9 PTS) (Adebayo 2 AST),,,8 - 9,1,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+21,0052200201,35,2,1,1,7:11 PM,8:26,,,MISS LaVine 27' 3PT Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+22,0052200201,36,4,0,1,7:11 PM,8:23,Adebayo REBOUND (Off:0 Def:2),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+23,0052200201,37,2,1,1,7:11 PM,8:09,MISS Strus 26' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+24,0052200201,38,4,0,1,7:11 PM,8:06,,,Vucevic REBOUND (Off:0 Def:2),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+25,0052200201,40,2,3,1,7:11 PM,7:56,,,MISS Beverley 6' Hook Shot,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+26,0052200201,41,4,0,1,7:12 PM,7:54,,,Beverley REBOUND (Off:1 Def:0),,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+27,0052200201,42,2,1,1,7:12 PM,7:54,,,MISS Caruso 27' 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+28,0052200201,43,4,0,1,7:12 PM,7:50,Butler REBOUND (Off:0 Def:1),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+29,0052200201,44,1,1,1,7:12 PM,7:36,Strus 26' 3PT Jump Shot (12 PTS) (Herro 2 AST),,,8 - 12,4,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+30,0052200201,46,1,6,1,7:12 PM,7:18,,,LaVine 6' Driving Layup (2 PTS) (DeRozan 2 AST),10 - 12,2,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+31,0052200201,48,2,79,1,7:12 PM,7:05,MISS Herro 14' Pullup Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+32,0052200201,49,4,0,1,7:12 PM,7:02,,,Vucevic REBOUND (Off:0 Def:3),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+33,0052200201,50,2,1,1,7:13 PM,6:49,,,MISS Beverley 27' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+34,0052200201,51,4,0,1,7:13 PM,6:45,Herro REBOUND (Off:0 Def:2),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+35,0052200201,52,5,4,1,7:13 PM,6:35,Adebayo Traveling Turnover (P1.T2),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+36,0052200201,53,9,1,1,7:13 PM,6:35,HEAT Timeout: Regular (Full 1 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+37,0052200201,54,2,1,1,7:17 PM,6:22,,,MISS Caruso 27' 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+38,0052200201,55,4,0,1,7:17 PM,6:18,Adebayo REBOUND (Off:0 Def:3),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+39,0052200201,56,2,79,1,7:17 PM,6:00,MISS Adebayo 16' Pullup Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+40,0052200201,57,4,0,1,7:17 PM,5:56,,,LaVine REBOUND (Off:0 Def:2),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+41,0052200201,58,6,26,1,7:17 PM,5:55,,,LaVine Offensive Charge Foul (P1) (T.Brothers),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+42,0052200201,60,5,37,1,7:17 PM,5:55,,,LaVine Offensive Foul Turnover (P1.T2),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+43,0052200201,61,8,0,1,7:17 PM,5:55,,,SUB: White FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+44,0052200201,64,6,2,1,7:18 PM,5:38,,,Caruso S.FOUL (P1.T1) (K.Lane),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+45,0052200201,66,3,11,1,7:19 PM,5:38,Adebayo Free Throw 1 of 2 (1 PTS),,,10 - 13,3,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+46,0052200201,67,8,0,1,7:19 PM,5:38,SUB: Lowry FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+47,0052200201,69,3,12,1,7:19 PM,5:38,Adebayo Free Throw 2 of 2 (2 PTS),,,10 - 14,4,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+48,0052200201,71,8,0,1,7:20 PM,5:28,,,SUB: Williams FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+49,0052200201,73,5,40,1,7:20 PM,5:20,,,LaVine Out of Bounds Lost Ball Turnover (P2.T3),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+50,0052200201,74,1,98,1,7:20 PM,5:03,Butler 6' Cutting Layup Shot (2 PTS) (Vincent 1 AST),,,10 - 16,6,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+51,0052200201,76,1,1,1,7:21 PM,4:38,,,White 29' 3PT Jump Shot (3 PTS) (Beverley 2 AST),13 - 16,3,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+52,0052200201,78,1,47,1,7:21 PM,4:21,Adebayo 7' Turnaround Jump Shot (4 PTS),,,13 - 18,5,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+53,0052200201,80,5,2,1,7:22 PM,4:03,Lowry STEAL (1 STL),,Vucevic Lost Ball Turnover (P1.T4),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+54,0052200201,82,6,2,1,7:22 PM,4:00,,,Beverley S.FOUL (P1.T2) (J.Tiven),,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+55,0052200201,84,3,11,1,7:22 PM,4:00,Strus Free Throw 1 of 2 (13 PTS),,,13 - 19,6,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+56,0052200201,85,8,0,1,7:22 PM,4:00,SUB: Martin FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+57,0052200201,86,8,0,1,7:22 PM,4:00,,,SUB: Dosunmu FOR LaVine,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+58,0052200201,87,8,0,1,7:22 PM,4:00,,,SUB: DeRozan FOR Beverley,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+59,0052200201,91,3,12,1,7:23 PM,4:00,Strus Free Throw 2 of 2 (14 PTS),,,13 - 20,7,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+60,0052200201,92,2,79,1,7:23 PM,3:39,,,MISS DeRozan 16' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+61,0052200201,93,4,0,1,7:23 PM,3:36,Adebayo REBOUND (Off:0 Def:4),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+62,0052200201,94,1,41,1,7:23 PM,3:34,Butler 3' Running Layup (4 PTS) (Adebayo 3 AST),,,13 - 22,9,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+63,0052200201,96,6,2,1,7:23 PM,3:34,,,White S.FOUL (P1.T3) (T.Brothers),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+64,0052200201,98,8,0,1,7:23 PM,3:34,SUB: Love FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+65,0052200201,100,9,1,1,7:24 PM,3:34,,,Bulls Timeout: Regular (Reg.1 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+66,0052200201,101,3,10,1,7:27 PM,3:34,Butler Free Throw 1 of 1 (5 PTS),,,13 - 23,10,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+67,0052200201,102,2,79,1,7:28 PM,3:23,,,MISS DeRozan 21' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+68,0052200201,103,4,0,1,7:28 PM,3:21,Lowry REBOUND (Off:0 Def:1),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+69,0052200201,104,6,4,1,7:28 PM,3:18,Butler OFF.Foul (P1) (J.Tiven),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+70,0052200201,106,5,37,1,7:28 PM,3:18,Butler Offensive Foul Turnover (P1.T3),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+71,0052200201,107,2,1,1,7:28 PM,3:05,,,MISS White 27' 3PT Jump Shot,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+72,0052200201,108,4,0,1,7:28 PM,3:02,Love REBOUND (Off:0 Def:1),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+73,0052200201,109,2,1,1,7:28 PM,2:51,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+74,0052200201,110,4,0,1,7:29 PM,2:48,Martin REBOUND (Off:1 Def:0),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+75,0052200201,111,5,1,1,7:29 PM,2:35,Butler Bad Pass Turnover (P2.T4),,Williams STEAL (1 STL),,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+76,0052200201,113,2,1,1,7:29 PM,2:20,,,MISS Dosunmu 24' 3PT Jump Shot,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+77,0052200201,114,4,0,1,7:29 PM,2:16,Martin REBOUND (Off:1 Def:1),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+78,0052200201,115,1,98,1,7:29 PM,2:08,Butler 2' Cutting Layup Shot (7 PTS) (Love 1 AST),,,13 - 25,12,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+79,0052200201,117,1,6,1,7:29 PM,1:51,,,DeRozan 4' Driving Layup (2 PTS) (White 1 AST),15 - 25,10,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+80,0052200201,118,1,79,1,7:30 PM,1:36,Love 16' Pullup Jump Shot (2 PTS) (Lowry 1 AST),,,15 - 27,12,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+81,0052200201,121,5,2,1,7:30 PM,1:08,Butler STEAL (1 STL),,White Lost Ball Turnover (P1.T5),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+82,0052200201,123,1,50,1,7:30 PM,1:04,Butler 2' Running Dunk (9 PTS) (Love 2 AST),,,15 - 29,14,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+83,0052200201,125,1,1,1,7:31 PM,0:52,,,Vucevic 21' Jump Shot (2 PTS) (DeRozan 3 AST),17 - 29,12,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+84,0052200201,127,2,52,1,7:31 PM,0:47,MISS Strus 4' Alley Oop Dunk,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+85,0052200201,128,4,0,1,7:31 PM,0:44,,,Vucevic REBOUND (Off:0 Def:4),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+86,0052200201,129,6,1,1,7:31 PM,0:36,Strus P.FOUL (P1.T3) (J.Tiven),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+87,0052200201,131,8,0,1,7:31 PM,0:36,SUB: Herro FOR Butler,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+88,0052200201,132,8,0,1,7:31 PM,0:36,,,SUB: LaVine FOR Dosunmu,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+89,0052200201,135,6,2,1,7:32 PM,0:32,Love S.FOUL (P1.PN) (K.Lane),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+90,0052200201,137,3,11,1,7:32 PM,0:32,,,DeRozan Free Throw 1 of 2 (3 PTS),18 - 29,11,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+91,0052200201,138,8,0,1,7:32 PM,0:32,SUB: Butler FOR Strus,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+92,0052200201,139,8,0,1,7:32 PM,0:32,,,SUB: Jones Jr. FOR Vucevic,,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+93,0052200201,142,3,12,1,7:32 PM,0:32,,,DeRozan Free Throw 2 of 2 (4 PTS),19 - 29,10,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+94,0052200201,143,2,79,1,7:32 PM,0:25,MISS Lowry 13' Pullup Jump Shot,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+95,0052200201,144,4,0,1,7:33 PM,0:22,,,White REBOUND (Off:0 Def:1),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+96,0052200201,145,6,2,1,7:33 PM,0:08,Martin S.FOUL (P1.PN) (K.Lane),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+97,0052200201,147,3,11,1,7:33 PM,0:08,,,DeRozan Free Throw 1 of 2 (5 PTS),20 - 29,9,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+98,0052200201,148,8,0,1,7:33 PM,0:08,SUB: Strus FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+99,0052200201,150,3,12,1,7:34 PM,0:08,,,DeRozan Free Throw 2 of 2 (6 PTS),21 - 29,8,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+100,0052200201,151,6,1,1,7:34 PM,0:01,,,Williams P.FOUL (P1.T4) (J.Tiven),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+101,0052200201,153,2,1,1,7:34 PM,0:00,MISS Butler 35' 3PT Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+102,0052200201,154,4,0,1,7:34 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+103,0052200201,155,13,0,1,7:34 PM,0:00,,End of 1st Period (7:34 PM EST),,21 - 29,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+104,0052200201,160,12,0,2,7:38 PM,12:00,,Start of 2nd Period (7:38 PM EST),,21 - 29,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+105,0052200201,161,1,85,2,7:38 PM,11:46,Love 12' Turnaround Bank Shot (4 PTS),,,21 - 31,10,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+106,0052200201,162,1,101,2,7:38 PM,11:34,,,DeRozan 8' Driving Floating Jump Shot (8 PTS),23 - 31,8,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+107,0052200201,163,10,0,2,7:39 PM,11:10,Jump Ball Martin vs. Williams: Tip to Vincent,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0
+108,0052200201,166,2,1,2,7:39 PM,11:08,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+109,0052200201,167,4,0,2,7:39 PM,11:05,,,Williams REBOUND (Off:0 Def:1),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+110,0052200201,168,6,1,2,7:39 PM,11:01,Vincent P.FOUL (P1.T1) (T.Brothers),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+111,0052200201,170,2,63,2,7:40 PM,10:52,,,MISS LaVine 21' Fadeaway Jumper,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+112,0052200201,171,4,0,2,7:40 PM,10:48,Love REBOUND (Off:0 Def:2),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+113,0052200201,172,2,1,2,7:40 PM,10:27,MISS Martin 25' 3PT Jump Shot,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+114,0052200201,173,4,0,2,7:40 PM,10:24,,,White REBOUND (Off:0 Def:2),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+115,0052200201,174,1,63,2,7:40 PM,10:12,,,White 13' Fadeaway Jumper (5 PTS) (DeRozan 4 AST),25 - 31,6,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+116,0052200201,175,2,101,2,7:41 PM,9:55,MISS Herro 10' Driving Floating Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+117,0052200201,176,4,0,2,7:41 PM,9:55,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+118,0052200201,179,8,0,2,7:41 PM,9:55,SUB: Adebayo FOR Love,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+119,0052200201,180,8,0,2,7:41 PM,9:55,,,SUB: Drummond FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+120,0052200201,183,2,1,2,7:41 PM,9:43,,,MISS Williams 27' 3PT Jump Shot,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+121,0052200201,184,4,0,2,7:41 PM,9:41,Lowry REBOUND (Off:0 Def:2),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+122,0052200201,185,2,1,2,7:42 PM,9:23,MISS Adebayo 13' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+123,0052200201,186,4,0,2,7:42 PM,9:20,,,DeRozan REBOUND (Off:0 Def:1),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+124,0052200201,187,2,79,2,7:42 PM,9:13,,,MISS DeRozan 20' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+125,0052200201,188,4,0,2,7:42 PM,9:10,Adebayo REBOUND (Off:0 Def:5),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+126,0052200201,189,6,1,2,7:42 PM,9:06,,,DeRozan P.FOUL (P1.T1) (J.Tiven),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+127,0052200201,191,8,0,2,7:42 PM,9:06,SUB: Butler FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+128,0052200201,192,8,0,2,7:42 PM,9:06,,,SUB: Caruso FOR Williams,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+129,0052200201,195,5,45,2,7:43 PM,9:02,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+130,0052200201,196,2,75,2,7:43 PM,8:38,,,MISS Drummond 5' Driving Finger Roll Layup,,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+131,0052200201,197,4,0,2,7:43 PM,8:36,Adebayo REBOUND (Off:0 Def:6),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+132,0052200201,198,6,26,2,7:43 PM,8:27,Adebayo Offensive Charge Foul (P2) (K.Lane),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+133,0052200201,200,5,37,2,7:43 PM,8:27,Adebayo Offensive Foul Turnover (P3.T6),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+134,0052200201,201,8,0,2,7:44 PM,8:27,,,SUB: Beverley FOR White,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+135,0052200201,203,1,79,2,7:44 PM,8:15,,,DeRozan 18' Pullup Jump Shot (10 PTS) (LaVine 2 AST),27 - 31,4,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+136,0052200201,205,2,1,2,7:45 PM,7:50,MISS Adebayo 12' Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+137,0052200201,206,4,0,2,7:45 PM,7:47,,,Drummond REBOUND (Off:0 Def:1),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+138,0052200201,208,2,1,2,7:45 PM,7:32,,,MISS LaVine 17' Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+139,0052200201,209,4,0,2,7:45 PM,7:28,Herro REBOUND (Off:0 Def:3),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+140,0052200201,210,2,1,2,7:45 PM,7:23,MISS Herro 25' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+141,0052200201,211,4,0,2,7:45 PM,7:19,,,Drummond REBOUND (Off:0 Def:2),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+142,0052200201,212,1,1,2,7:45 PM,7:12,,,Caruso 26' 3PT Jump Shot (11 PTS) (DeRozan 5 AST),30 - 31,1,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+143,0052200201,214,1,1,2,7:46 PM,6:54,Lowry 27' 3PT Jump Shot (3 PTS) (Herro 3 AST),,,30 - 34,4,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+144,0052200201,216,2,79,2,7:46 PM,6:35,,,MISS LaVine 26' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+145,0052200201,217,4,0,2,7:46 PM,6:33,Adebayo REBOUND (Off:0 Def:7),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+146,0052200201,218,1,101,2,7:46 PM,6:23,Herro 11' Driving Floating Jump Shot (2 PTS),,,30 - 36,6,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+147,0052200201,219,9,1,2,7:46 PM,6:23,,,Bulls Timeout: Regular (Reg.2 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+148,0052200201,220,8,0,2,7:48 PM,6:23,,,SUB: White FOR Drummond,,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+149,0052200201,234,8,0,2,7:48 PM,6:23,,,SUB: Vucevic FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+150,0052200201,224,2,6,2,7:50 PM,6:08,,,MISS White 5' Driving Layup,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+151,0052200201,225,4,0,2,7:50 PM,6:08,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+152,0052200201,227,1,57,2,7:51 PM,5:58,,,Vucevic 9' Driving Hook Shot (4 PTS) (White 2 AST),32 - 36,4,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+153,0052200201,229,5,45,2,7:51 PM,5:36,Vincent Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+154,0052200201,230,8,0,2,7:51 PM,5:36,SUB: Strus FOR Lowry,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+155,0052200201,232,2,1,2,7:52 PM,5:22,,,MISS Vucevic 19' Jump Shot,,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+156,0052200201,233,4,0,2,7:52 PM,5:19,Herro REBOUND (Off:0 Def:4),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+157,0052200201,235,2,98,2,7:52 PM,5:04,MISS Butler 5' Cutting Layup Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+158,0052200201,236,4,0,2,7:52 PM,5:00,,,Vucevic REBOUND (Off:0 Def:5),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+159,0052200201,237,2,1,2,7:52 PM,4:55,,,MISS Beverley 25' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+160,0052200201,238,4,0,2,7:52 PM,4:52,Adebayo REBOUND (Off:0 Def:8),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+161,0052200201,239,2,79,2,7:52 PM,4:45,MISS Strus 26' 3PT Pullup Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+162,0052200201,240,4,0,2,7:52 PM,4:41,Adebayo REBOUND (Off:1 Def:8),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+163,0052200201,241,2,79,2,7:52 PM,4:31,MISS Butler 14' Pullup Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+164,0052200201,242,4,0,2,7:52 PM,4:28,,,White REBOUND (Off:0 Def:3),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+165,0052200201,243,1,1,2,7:53 PM,4:17,,,Vucevic 20' Jump Shot (6 PTS) (Caruso 1 AST),34 - 36,2,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+166,0052200201,245,1,1,2,7:53 PM,3:51,Strus 25' 3PT Jump Shot (17 PTS) (Herro 4 AST),,,34 - 39,5,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+167,0052200201,247,1,75,2,7:53 PM,3:34,,,LaVine 4' Driving Finger Roll Layup (4 PTS),36 - 39,3,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+168,0052200201,263,5,39,2,7:54 PM,3:16,Strus Step Out of Bounds Turnover (P1.T8),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+169,0052200201,251,6,1,2,7:54 PM,3:05,Butler P.FOUL (P2.T2) (J.Tiven),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+170,0052200201,253,8,0,2,7:54 PM,3:05,SUB: Martin FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+171,0052200201,254,8,0,2,7:54 PM,3:05,,,SUB: DeRozan FOR Beverley,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+172,0052200201,257,2,79,2,7:54 PM,2:56,,,MISS LaVine 10' Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+173,0052200201,258,4,0,2,7:54 PM,2:53,Strus REBOUND (Off:0 Def:1),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+174,0052200201,259,6,2,2,7:55 PM,2:48,,,White S.FOUL (P2.T2) (J.Tiven),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+175,0052200201,261,9,1,2,7:55 PM,2:48,HEAT Timeout: Regular (Full 2 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+176,0052200201,262,18,7,2,7:57 PM,2:48,,Instant Replay2nd Period (7:57 PM EST),,36 - 39,3,0,263,,,,,,0,0,,,,,,1,0,,,,,,0
+177,0052200201,264,3,11,2,7:59 PM,2:48,Herro Free Throw 1 of 2 (3 PTS),,,36 - 40,4,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+178,0052200201,265,3,12,2,7:59 PM,2:48,Herro Free Throw 2 of 2 (4 PTS),,,36 - 41,5,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+179,0052200201,266,1,58,2,7:59 PM,2:34,,,Vucevic 8' Turnaround Hook Shot (8 PTS),38 - 41,3,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+180,0052200201,267,6,2,2,8:00 PM,2:16,,,Caruso S.FOUL (P2.T3) (J.Tiven),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+181,0052200201,269,3,13,2,8:01 PM,2:16,Strus Free Throw 1 of 3 (18 PTS),,,38 - 42,4,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+182,0052200201,270,3,14,2,8:01 PM,2:16,Strus Free Throw 2 of 3 (19 PTS),,,38 - 43,5,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+183,0052200201,271,3,15,2,8:01 PM,2:16,Strus Free Throw 3 of 3 (20 PTS),,,38 - 44,6,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+184,0052200201,272,1,1,2,8:01 PM,1:58,,,Caruso 3PT Jump Shot (14 PTS) (White 3 AST),41 - 44,3,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+185,0052200201,274,2,47,2,8:02 PM,1:34,MISS Butler 14' Turnaround Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+186,0052200201,275,4,0,2,8:02 PM,1:28,Adebayo REBOUND (Off:2 Def:8),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+187,0052200201,276,1,79,2,8:02 PM,1:20,Strus 28' 3PT Pullup Jump Shot (23 PTS) (Herro 5 AST),,,41 - 47,6,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+188,0052200201,278,2,80,2,8:02 PM,0:54,,,MISS LaVine 18' Step Back Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+189,0052200201,279,4,0,2,8:03 PM,0:47,Herro REBOUND (Off:0 Def:5),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+190,0052200201,280,1,101,2,8:03 PM,0:44,Herro 7' Driving Floating Jump Shot (6 PTS),,,41 - 49,8,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+191,0052200201,281,1,6,2,8:03 PM,0:33,,,LaVine 5' Driving Layup (6 PTS) (White 4 AST),43 - 49,6,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+192,0052200201,283,6,2,2,8:03 PM,0:33,Strus S.FOUL (P2.T3) (K.Lane),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+193,0052200201,285,8,0,2,8:03 PM,0:33,SUB: Love FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+194,0052200201,286,8,0,2,8:03 PM,0:33,,,SUB: Beverley FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+195,0052200201,289,3,10,2,8:04 PM,0:33,,,LaVine Free Throw 1 of 1 (7 PTS),44 - 49,5,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+196,0052200201,290,2,1,2,8:04 PM,0:12,MISS Herro 26' 3PT Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+197,0052200201,291,4,0,2,8:04 PM,0:10,Strus REBOUND (Off:1 Def:1),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+198,0052200201,292,6,1,2,8:04 PM,0:04,,,Beverley P.FOUL (P2.T4) (T.Brothers),,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+199,0052200201,294,8,0,2,8:05 PM,0:04,SUB: Lowry FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+200,0052200201,296,13,0,2,8:05 PM,0:00,,End of 2nd Period (8:05 PM EST),,44 - 49,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+201,0052200201,298,18,0,2,8:06 PM,0:00,,Instant Replay2nd Period (8:06 PM EST),,44 - 49,5,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+202,0052200201,305,12,0,3,8:22 PM,12:00,,Start of 3rd Period (8:22 PM EST),,44 - 49,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+203,0052200201,306,1,43,3,8:22 PM,11:38,Butler 5' Alley Oop Layup (11 PTS) (Adebayo 4 AST),,,44 - 51,7,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+204,0052200201,308,2,1,3,8:22 PM,11:25,,,MISS Beverley 25' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+205,0052200201,309,4,0,3,8:22 PM,11:22,Adebayo REBOUND (Off:2 Def:9),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+206,0052200201,310,2,101,3,8:22 PM,11:16,MISS Adebayo 6' Driving Floating Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+207,0052200201,311,4,0,3,8:22 PM,11:13,,,Vucevic REBOUND (Off:0 Def:6),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+208,0052200201,312,2,1,3,8:23 PM,10:55,,,MISS LaVine 24' 3PT Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+209,0052200201,313,4,0,3,8:23 PM,10:52,Vincent REBOUND (Off:0 Def:1),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+210,0052200201,314,6,1,3,8:23 PM,10:47,,,Beverley P.FOUL (P3.T1) (T.Brothers),,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+211,0052200201,316,18,0,3,8:23 PM,10:47,,Instant Replay3rd Period (8:23 PM EST),,44 - 51,7,0,314,,,,,,0,0,,,,,,1,0,,,,,,0
+212,0052200201,317,1,47,3,8:25 PM,10:43,Butler 11' Turnaround Jump Shot (13 PTS) (Vincent 2 AST),,,44 - 53,9,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+213,0052200201,319,6,2,3,8:25 PM,10:43,,,Caruso S.FOUL (P3.T2) (K.Lane),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+214,0052200201,321,3,10,3,8:25 PM,10:43,Butler Free Throw 1 of 1 (14 PTS),,,44 - 54,10,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+215,0052200201,322,1,79,3,8:25 PM,10:33,,,DeRozan 21' Pullup Jump Shot (12 PTS) (Beverley 3 AST),46 - 54,8,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+216,0052200201,324,2,98,3,8:26 PM,10:11,MISS Butler 5' Cutting Layup Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+217,0052200201,325,4,0,3,8:26 PM,10:07,Adebayo REBOUND (Off:3 Def:9),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+218,0052200201,326,2,101,3,8:26 PM,10:06,MISS Adebayo 4' Driving Floating Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+219,0052200201,327,4,0,3,8:26 PM,10:04,,,Vucevic REBOUND (Off:0 Def:7),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+220,0052200201,328,2,1,3,8:26 PM,9:56,,,MISS DeRozan 26' 3PT Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+221,0052200201,329,4,0,3,8:26 PM,9:50,Herro REBOUND (Off:0 Def:6),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+222,0052200201,330,2,1,3,8:26 PM,9:41,MISS Strus 28' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+223,0052200201,331,4,0,3,8:26 PM,9:37,,,DeRozan REBOUND (Off:0 Def:2),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+224,0052200201,332,1,58,3,8:26 PM,9:30,,,Vucevic 4' Turnaround Hook Shot (10 PTS) (DeRozan 6 AST),48 - 54,6,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+225,0052200201,334,1,79,3,8:27 PM,9:15,Herro 7' Pullup Jump Shot (8 PTS),,,48 - 56,8,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+226,0052200201,335,1,75,3,8:27 PM,8:55,,,LaVine 5' Driving Finger Roll Layup (9 PTS) (Caruso 2 AST),50 - 56,6,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+227,0052200201,337,2,1,3,8:27 PM,8:40,MISS Vincent 24' 3PT Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+228,0052200201,338,4,0,3,8:27 PM,8:38,,,Vucevic REBOUND (Off:0 Def:8),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+229,0052200201,339,1,58,3,8:28 PM,8:26,,,Vucevic 5' Turnaround Hook Shot (12 PTS) (DeRozan 7 AST),52 - 56,4,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+230,0052200201,341,2,79,3,8:28 PM,8:09,MISS Adebayo 11' Pullup Jump Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+231,0052200201,342,4,0,3,8:28 PM,8:06,,,LaVine REBOUND (Off:0 Def:3),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+232,0052200201,343,1,41,3,8:28 PM,8:01,,,LaVine 5' Running Layup (11 PTS),54 - 56,2,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+233,0052200201,344,5,2,3,8:28 PM,7:44,Herro Lost Ball Turnover (P1.T9),,DeRozan STEAL (1 STL),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+234,0052200201,346,1,74,3,8:28 PM,7:40,,,Caruso 2' Running Reverse Layup (16 PTS),56 - 56,TIE,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+235,0052200201,347,9,1,3,8:28 PM,7:40,HEAT Timeout: Regular (Full 3 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+236,0052200201,348,1,108,3,8:32 PM,7:24,Butler 4' Cutting Dunk Shot (16 PTS) (Herro 6 AST),,,56 - 58,2,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+237,0052200201,350,1,47,3,8:33 PM,7:05,,,DeRozan 16' Turnaround Jump Shot (14 PTS),58 - 58,TIE,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+238,0052200201,351,2,66,3,8:33 PM,6:46,MISS Butler 7' Jump Bank Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+239,0052200201,352,4,0,3,8:33 PM,6:45,Adebayo REBOUND (Off:4 Def:9),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+240,0052200201,391,2,97,3,8:33 PM,6:45,MISS Adebayo 1' Tip Layup Shot,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+241,0052200201,392,4,0,3,8:33 PM,6:43,,,Caruso REBOUND (Off:0 Def:1),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+242,0052200201,353,2,79,3,8:33 PM,6:29,Herro BLOCK (1 BLK),,MISS Caruso 18' Pullup Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1
+243,0052200201,355,4,0,3,8:33 PM,6:26,Vincent REBOUND (Off:0 Def:2),,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+244,0052200201,356,2,1,3,8:33 PM,6:21,MISS Strus 27' 3PT Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+245,0052200201,357,4,0,3,8:33 PM,6:16,,,LaVine REBOUND (Off:0 Def:4),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+246,0052200201,358,5,1,3,8:33 PM,6:05,Adebayo STEAL (1 STL),,DeRozan Bad Pass Turnover (P2.T6),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+247,0052200201,360,2,2,3,8:34 PM,5:58,MISS Vincent 24' 3PT Running Jump Shot,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+248,0052200201,361,4,0,3,8:34 PM,5:55,,,Vucevic REBOUND (Off:0 Def:9),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+249,0052200201,362,1,50,3,8:34 PM,5:53,,,LaVine 3' Running Dunk (13 PTS) (Vucevic 1 AST),60 - 58,-2,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+250,0052200201,365,8,0,3,8:34 PM,5:31,SUB: Lowry FOR Herro,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+251,0052200201,366,8,0,3,8:34 PM,5:31,SUB: Martin FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+252,0052200201,367,8,0,3,8:34 PM,5:31,,,SUB: White FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+253,0052200201,371,2,79,3,8:35 PM,5:27,MISS Strus 15' Pullup Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+254,0052200201,372,4,0,3,8:35 PM,5:24,,,Beverley REBOUND (Off:1 Def:1),,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+255,0052200201,373,2,1,3,8:35 PM,5:18,,,MISS Caruso 26' 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+256,0052200201,374,4,0,3,8:35 PM,5:14,Martin REBOUND (Off:1 Def:2),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+257,0052200201,470,2,73,3,8:35 PM,5:05,MISS Butler 1' Driving Reverse Layup,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+258,0052200201,471,4,0,3,8:35 PM,5:03,Martin REBOUND (Off:2 Def:2),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+259,0052200201,375,1,72,3,8:35 PM,5:02,Martin 5' Putback Layup (2 PTS),,,60 - 60,TIE,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+260,0052200201,376,2,79,3,8:35 PM,4:49,,,MISS LaVine 24' Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+261,0052200201,377,4,0,3,8:35 PM,4:45,Strus REBOUND (Off:1 Def:2),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+262,0052200201,378,6,4,3,8:35 PM,4:44,Adebayo OFF.Foul (P3) (J.Tiven),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+263,0052200201,380,5,37,3,8:35 PM,4:44,Adebayo Offensive Foul Turnover (P4.T10),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+264,0052200201,381,8,0,3,8:36 PM,4:44,,,SUB: Williams FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+265,0052200201,382,8,0,3,8:36 PM,4:44,,,SUB: Dosunmu FOR Beverley,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+266,0052200201,385,2,47,3,8:36 PM,4:30,,,MISS Williams 12' Turnaround Jump Shot,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+267,0052200201,386,4,0,3,8:36 PM,4:25,Lowry REBOUND (Off:0 Def:3),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+268,0052200201,387,6,1,3,8:36 PM,4:25,,,White P.FOUL (P3.T3) (T.Brothers),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+269,0052200201,389,8,0,3,8:36 PM,4:25,SUB: Love FOR Adebayo,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+270,0052200201,393,5,1,3,8:37 PM,4:17,Lowry Bad Pass Turnover (P1.T11),,White STEAL (1 STL),,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+271,0052200201,395,5,2,3,8:37 PM,3:59,Love STEAL (1 STL),,LaVine Lost Ball Turnover (P3.T7),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+272,0052200201,397,6,2,3,8:37 PM,3:56,,,Dosunmu S.FOUL (P1.T4) (J.Tiven),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+273,0052200201,399,3,11,3,8:38 PM,3:56,Butler Free Throw 1 of 2 (17 PTS),,,60 - 61,1,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+274,0052200201,400,9,1,3,8:38 PM,3:56,,,Bulls Timeout: Regular (Reg.3 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+275,0052200201,401,3,12,3,8:41 PM,3:56,Butler Free Throw 2 of 2 (18 PTS),,,60 - 62,2,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+276,0052200201,402,2,86,3,8:42 PM,3:38,,,MISS White 7' Turnaround Fadeaway Shot,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+277,0052200201,403,4,0,3,8:42 PM,3:34,Strus REBOUND (Off:1 Def:3),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+278,0052200201,404,2,5,3,8:42 PM,3:22,MISS Martin 2' Layup,,White BLOCK (1 BLK),,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1
+279,0052200201,406,4,0,3,8:42 PM,3:22,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+280,0052200201,408,8,0,3,8:42 PM,3:22,,,SUB: DeRozan FOR Vucevic,,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+281,0052200201,409,8,0,3,8:42 PM,3:22,,,SUB: Drummond FOR Dosunmu,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+282,0052200201,412,2,1,3,8:42 PM,3:16,MISS Love 28' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+283,0052200201,413,4,0,3,8:42 PM,3:14,,,DeRozan REBOUND (Off:0 Def:3),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+284,0052200201,414,2,63,3,8:43 PM,2:58,,,MISS LaVine 13' Fadeaway Jumper,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+285,0052200201,415,4,0,3,8:43 PM,2:55,Love REBOUND (Off:0 Def:3),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+286,0052200201,416,1,1,3,8:43 PM,2:42,Love 27' 3PT Jump Shot (7 PTS) (Butler 1 AST),,,60 - 65,5,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+287,0052200201,418,6,2,3,8:43 PM,2:19,Love S.FOUL (P2.T1) (T.Brothers),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+288,0052200201,420,3,11,3,8:44 PM,2:19,,,MISS LaVine Free Throw 1 of 2,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+289,0052200201,421,4,1,3,8:44 PM,2:19,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+290,0052200201,422,3,12,3,8:44 PM,2:19,,,LaVine Free Throw 2 of 2 (14 PTS),61 - 65,4,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+291,0052200201,423,2,79,3,8:45 PM,2:01,MISS Butler 7' Pullup Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+292,0052200201,424,4,0,3,8:45 PM,2:01,Butler REBOUND (Off:1 Def:1),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+293,0052200201,425,2,97,3,8:45 PM,2:01,MISS Butler Tip Layup Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+294,0052200201,426,4,0,3,8:45 PM,2:01,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+295,0052200201,428,2,101,3,8:45 PM,1:55,MISS Strus 12' Driving Floating Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+296,0052200201,429,4,0,3,8:45 PM,1:53,,,Drummond REBOUND (Off:0 Def:3),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+297,0052200201,430,2,47,3,8:45 PM,1:44,,,MISS DeRozan 12' Turnaround Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+298,0052200201,431,4,0,3,8:45 PM,1:43,,,Drummond REBOUND (Off:1 Def:3),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+299,0052200201,432,6,1,3,8:45 PM,1:43,Love P.FOUL (P3.T2) (K.Lane),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+300,0052200201,434,8,0,3,8:45 PM,1:43,SUB: Herro FOR Strus,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+301,0052200201,436,1,79,3,8:46 PM,1:30,,,Williams 16' Pullup Jump Shot (2 PTS) (DeRozan 8 AST),63 - 65,2,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+302,0052200201,438,2,1,3,8:46 PM,1:13,MISS Lowry 27' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+303,0052200201,439,4,0,3,8:46 PM,1:12,Love REBOUND (Off:1 Def:3),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+304,0052200201,440,6,1,3,8:46 PM,1:12,,,Williams P.FOUL (P2.PN) (T.Brothers),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+305,0052200201,442,3,11,3,8:47 PM,1:12,Love Free Throw 1 of 2 (8 PTS),,,63 - 66,3,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+306,0052200201,443,3,12,3,8:48 PM,1:12,Love Free Throw 2 of 2 (9 PTS),,,63 - 67,4,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+307,0052200201,444,2,79,3,8:48 PM,1:00,,,MISS DeRozan 17' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+308,0052200201,445,4,0,3,8:48 PM,0:58,,,Drummond REBOUND (Off:2 Def:3),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+309,0052200201,446,1,72,3,8:48 PM,0:58,,,Drummond 5' Putback Layup (2 PTS),65 - 67,2,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+310,0052200201,447,6,2,3,8:48 PM,0:58,Lowry S.FOUL (P1.PN) (T.Brothers),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+311,0052200201,449,3,10,3,8:48 PM,0:58,,,MISS Drummond Free Throw 1 of 1,,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+312,0052200201,450,4,0,3,8:48 PM,0:55,Herro REBOUND (Off:0 Def:7),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+313,0052200201,451,2,80,3,8:49 PM,0:34,MISS Butler 25' 3PT Step Back Jump Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+314,0052200201,452,4,0,3,8:49 PM,0:30,,,Drummond REBOUND (Off:2 Def:4),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+315,0052200201,453,2,1,3,8:49 PM,0:18,,,MISS DeRozan 25' 3PT Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+316,0052200201,454,4,0,3,8:49 PM,0:14,,,DeRozan REBOUND (Off:1 Def:3),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+317,0052200201,455,1,102,3,8:49 PM,0:13,,,DeRozan 16' Driving Floating Bank Jump Shot (16 PTS),67 - 67,TIE,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+318,0052200201,456,6,2,3,8:49 PM,0:13,Love S.FOUL (P4.PN) (J.Tiven),,,,,4,201567,Kevin Love,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+319,0052200201,458,8,0,3,8:49 PM,0:13,SUB: Strus FOR Martin,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+320,0052200201,460,8,0,3,8:50 PM,0:13,,,SUB: Jones Jr. FOR Drummond,,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+321,0052200201,472,8,0,3,8:50 PM,0:13,,,SUB: Beverley FOR LaVine,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+322,0052200201,466,3,10,3,8:50 PM,0:13,,,DeRozan Free Throw 1 of 1 (17 PTS),68 - 67,-1,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+323,0052200201,467,2,79,3,8:51 PM,0:00,MISS Herro 27' 3PT Pullup Jump Shot,,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+324,0052200201,468,4,0,3,8:51 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+325,0052200201,469,13,0,3,8:51 PM,0:00,,End of 3rd Period (8:51 PM EST),,68 - 67,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+326,0052200201,481,12,0,4,8:55 PM,12:00,,Start of 4th Period (8:55 PM EST),,68 - 67,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+327,0052200201,482,5,45,4,8:55 PM,11:59,,,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+328,0052200201,483,6,4,4,8:55 PM,11:57,Herro OFF.Foul (P2) (J.Tiven),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+329,0052200201,485,5,37,4,8:55 PM,11:57,Herro Offensive Foul Turnover (P2.T12),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+330,0052200201,486,2,79,4,8:55 PM,11:40,,,MISS DeRozan 17' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+331,0052200201,487,4,0,4,8:55 PM,11:37,Lowry REBOUND (Off:0 Def:4),,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+332,0052200201,488,1,86,4,8:56 PM,11:28,Lowry 13' Turnaround Fadeaway (5 PTS),,,68 - 69,1,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+333,0052200201,489,1,80,4,8:56 PM,11:03,,,White 26' 3PT Step Back Jump Shot (8 PTS),71 - 69,-2,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+334,0052200201,490,2,79,4,8:56 PM,10:43,MISS Herro 27' 3PT Pullup Jump Shot,,Drummond BLOCK (1 BLK),,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1
+335,0052200201,492,4,0,4,8:56 PM,10:39,Herro REBOUND (Off:1 Def:7),,,,,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+336,0052200201,493,1,1,4,8:57 PM,10:36,Martin 24' 3PT Jump Shot (5 PTS) (Herro 7 AST),,,71 - 72,1,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+337,0052200201,495,1,108,4,8:57 PM,10:20,,,Drummond 3' Cutting Dunk Shot (4 PTS) (Beverley 4 AST),73 - 72,-1,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+338,0052200201,497,2,79,4,8:57 PM,10:04,MISS Lowry 27' 3PT Pullup Jump Shot,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+339,0052200201,498,4,0,4,8:57 PM,10:01,,,Drummond REBOUND (Off:2 Def:5),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+340,0052200201,499,1,9,4,8:57 PM,9:51,,,DeRozan 2' Driving Dunk (19 PTS),75 - 72,-3,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+341,0052200201,500,6,2,4,8:57 PM,9:51,Martin S.FOUL (P2.T1) (T.Brothers),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+342,0052200201,502,8,0,4,8:58 PM,9:51,SUB: Butler FOR Lowry,,,,,4,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+343,0052200201,504,3,10,4,8:58 PM,9:51,,,DeRozan Free Throw 1 of 1 (20 PTS),76 - 72,-4,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+344,0052200201,505,7,5,4,8:58 PM,9:42,,,DeRozan Violation:Kicked Ball (T.Brothers),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+345,0052200201,506,1,79,4,8:59 PM,9:27,Herro 14' Pullup Jump Shot (10 PTS),,,76 - 74,-2,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+346,0052200201,507,2,47,4,8:59 PM,9:00,,,MISS DeRozan 15' Turnaround Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+347,0052200201,508,4,0,4,8:59 PM,8:55,,,Drummond REBOUND (Off:3 Def:5),,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+348,0052200201,509,1,97,4,8:59 PM,8:55,,,Drummond Tip Layup Shot (6 PTS),78 - 74,-4,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+349,0052200201,510,6,2,4,9:00 PM,8:43,,,Williams S.FOUL (P3.T1) (T.Brothers),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+350,0052200201,512,3,11,4,9:00 PM,8:43,Martin Free Throw 1 of 2 (6 PTS),,,78 - 75,-3,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+351,0052200201,513,8,0,4,9:00 PM,8:43,,,SUB: LaVine FOR White,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+352,0052200201,515,3,12,4,9:01 PM,8:43,MISS Martin Free Throw 2 of 2,,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+353,0052200201,516,4,0,4,9:01 PM,8:41,,,Williams REBOUND (Off:0 Def:2),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+354,0052200201,517,1,47,4,9:01 PM,8:27,,,DeRozan 17' Turnaround Jump Shot (22 PTS),80 - 75,-5,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+355,0052200201,518,6,2,4,9:01 PM,8:27,Martin S.FOUL (P3.T2) (K.Lane),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+356,0052200201,520,8,0,4,9:01 PM,8:27,,,SUB: Caruso FOR Drummond,,,5,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+357,0052200201,521,8,0,4,9:01 PM,8:27,,,SUB: Vucevic FOR Williams,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+358,0052200201,524,3,10,4,9:02 PM,8:27,,,DeRozan Free Throw 1 of 1 (23 PTS),81 - 75,-6,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+359,0052200201,525,6,1,4,9:02 PM,8:17,,,Beverley P.FOUL (P4.T2) (J.Tiven),,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+360,0052200201,527,8,0,4,9:02 PM,8:17,SUB: Strus FOR Vincent,,,,,4,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+361,0052200201,528,8,0,4,9:02 PM,8:17,,,SUB: White FOR Beverley,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+362,0052200201,531,6,1,4,9:03 PM,8:11,,,DeRozan P.FOUL (P2.T3) (T.Brothers),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+363,0052200201,533,2,86,4,9:03 PM,8:05,MISS Butler 12' Turnaround Fadeaway Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+364,0052200201,534,4,0,4,9:03 PM,8:00,,,White REBOUND (Off:0 Def:4),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+365,0052200201,535,10,0,4,9:04 PM,7:42,Jump Ball Strus vs. White: Tip to Martin,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0
+366,0052200201,538,5,2,4,9:04 PM,7:42,Strus STEAL (1 STL),,White Lost Ball Turnover (P2.T9),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+367,0052200201,540,6,2,4,9:05 PM,7:30,,,Vucevic S.FOUL (P1.T4) (J.Tiven),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+368,0052200201,542,3,11,4,9:05 PM,7:30,Adebayo Free Throw 1 of 2 (5 PTS),,,81 - 76,-5,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+369,0052200201,543,3,12,4,9:05 PM,7:30,MISS Adebayo Free Throw 2 of 2,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+370,0052200201,544,4,0,4,9:05 PM,7:27,,,Caruso REBOUND (Off:0 Def:2),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+371,0052200201,545,7,5,4,9:06 PM,7:17,Adebayo Violation:Kicked Ball (T.Brothers),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+372,0052200201,547,6,2,4,9:06 PM,7:12,Strus S.FOUL (P3.T3) (J.Tiven),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+373,0052200201,549,3,11,4,9:07 PM,7:12,,,MISS LaVine Free Throw 1 of 2,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+374,0052200201,550,4,1,4,9:07 PM,7:12,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+375,0052200201,551,3,12,4,9:07 PM,7:12,,,LaVine Free Throw 2 of 2 (15 PTS),82 - 76,-6,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+376,0052200201,552,1,6,4,9:07 PM,7:01,Butler 5' Driving Layup (20 PTS),,,82 - 78,-4,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+377,0052200201,553,5,1,4,9:07 PM,6:48,Butler STEAL (2 STL),,LaVine Bad Pass Turnover (P4.T10),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+378,0052200201,555,1,41,4,9:08 PM,6:43,Butler 6' Running Layup (22 PTS),,,82 - 80,-2,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+379,0052200201,556,1,1,4,9:08 PM,6:19,,,White 26' 3PT Jump Shot (11 PTS) (Caruso 3 AST),85 - 80,-5,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+380,0052200201,558,9,1,4,9:08 PM,6:17,HEAT Timeout: Regular (Full 4 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+381,0052200201,559,2,86,4,9:12 PM,5:56,MISS Butler 17' Turnaround Fadeaway Shot,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+382,0052200201,561,4,0,4,9:12 PM,5:50,,,Caruso REBOUND (Off:0 Def:3),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+383,0052200201,562,2,1,4,9:12 PM,5:44,,,MISS Vucevic 17' Jump Shot,,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+384,0052200201,563,4,0,4,9:12 PM,5:38,Adebayo REBOUND (Off:4 Def:10),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+385,0052200201,564,1,6,4,9:13 PM,5:29,Butler 6' Driving Layup (24 PTS),,,85 - 82,-3,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+386,0052200201,565,6,2,4,9:13 PM,5:29,,,Caruso S.FOUL (P4.PN) (J.Tiven),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+387,0052200201,567,3,10,4,9:13 PM,5:29,Butler Free Throw 1 of 1 (25 PTS),,,85 - 83,-2,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+388,0052200201,568,2,79,4,9:13 PM,5:13,,,MISS LaVine 26' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+389,0052200201,569,4,0,4,9:13 PM,5:10,Adebayo REBOUND (Off:4 Def:11),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+390,0052200201,570,1,98,4,9:14 PM,5:01,Strus 5' Cutting Layup Shot (25 PTS) (Butler 2 AST),,,85 - 85,TIE,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+391,0052200201,572,9,1,4,9:14 PM,5:01,,,Bulls Timeout: Regular (Reg.4 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+392,0052200201,573,1,1,4,9:17 PM,4:45,,,DeRozan 22' Jump Shot (25 PTS) (Caruso 4 AST),87 - 85,-2,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+393,0052200201,575,2,79,4,9:18 PM,4:29,MISS Strus 27' 3PT Pullup Jump Shot,,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+394,0052200201,576,4,0,4,9:18 PM,4:28,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+395,0052200201,578,5,1,4,9:18 PM,4:12,Herro STEAL (1 STL),,LaVine Bad Pass Turnover (P5.T11),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+396,0052200201,580,5,2,4,9:18 PM,4:06,Martin Lost Ball Turnover (P1.T13),,LaVine STEAL (1 STL),,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+397,0052200201,582,2,6,4,9:18 PM,3:59,,,MISS LaVine 2' Driving Layup,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+398,0052200201,583,4,0,4,9:18 PM,3:59,Butler REBOUND (Off:1 Def:2),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+399,0052200201,585,6,1,4,9:19 PM,3:59,,,LaVine P.FOUL (P2.PN) (T.Brothers),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+400,0052200201,587,3,11,4,9:19 PM,3:59,Butler Free Throw 1 of 2 (26 PTS),,,87 - 86,-1,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+401,0052200201,588,3,12,4,9:19 PM,3:59,Butler Free Throw 2 of 2 (27 PTS),,,87 - 87,TIE,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+402,0052200201,589,1,1,4,9:20 PM,3:47,,,White 26' 3PT Jump Shot (14 PTS) (DeRozan 9 AST),90 - 87,-3,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+403,0052200201,591,9,1,4,9:20 PM,3:45,HEAT Timeout: Regular (Full 5 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+404,0052200201,592,2,6,4,9:22 PM,3:29,MISS Butler 6' Driving Layup,,Caruso BLOCK (1 BLK),,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1
+405,0052200201,594,4,0,4,9:22 PM,3:24,,,White REBOUND (Off:0 Def:5),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+406,0052200201,595,2,102,4,9:22 PM,3:07,,,MISS White 3' Driving Floating Bank Jump Shot,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+407,0052200201,596,4,0,4,9:22 PM,3:03,Strus REBOUND (Off:1 Def:4),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+408,0052200201,598,1,63,4,9:22 PM,2:54,Herro 15' Fadeaway Jumper (12 PTS),,,90 - 89,-1,4,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+409,0052200201,599,2,79,4,9:23 PM,2:29,,,MISS DeRozan 16' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+410,0052200201,600,4,0,4,9:23 PM,2:26,Adebayo REBOUND (Off:4 Def:12),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+411,0052200201,601,1,6,4,9:23 PM,2:17,Butler 5' Driving Layup (29 PTS),,,90 - 91,1,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+412,0052200201,602,6,2,4,9:23 PM,2:17,,,Vucevic S.FOUL (P2.PN) (K.Lane),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+413,0052200201,604,8,0,4,9:23 PM,2:17,,,SUB: Beverley FOR White,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+414,0052200201,606,3,10,4,9:24 PM,2:17,MISS Butler Free Throw 1 of 1,,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+415,0052200201,607,4,0,4,9:24 PM,2:15,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+416,0052200201,609,2,1,4,9:24 PM,1:59,,,MISS Caruso 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+417,0052200201,610,4,0,4,9:24 PM,1:55,Martin REBOUND (Off:2 Def:3),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+418,0052200201,611,6,2,4,9:25 PM,1:41,,,Vucevic S.FOUL (P3.PN) (J.Tiven),,,5,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+419,0052200201,613,3,11,4,9:25 PM,1:41,Adebayo Free Throw 1 of 2 (6 PTS),,,90 - 92,2,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+420,0052200201,614,3,12,4,9:26 PM,1:41,Adebayo Free Throw 2 of 2 (7 PTS),,,90 - 93,3,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+421,0052200201,615,6,2,4,9:26 PM,1:33,Martin S.FOUL (P4.T4) (T.Brothers),,,,,4,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+422,0052200201,617,3,11,4,9:26 PM,1:33,,,MISS DeRozan Free Throw 1 of 2,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+423,0052200201,618,4,1,4,9:26 PM,1:33,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+424,0052200201,619,3,12,4,9:27 PM,1:33,,,DeRozan Free Throw 2 of 2 (26 PTS),91 - 93,2,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+425,0052200201,620,1,1,4,9:27 PM,1:14,Strus 26' 3PT Jump Shot (28 PTS) (Butler 3 AST),,,91 - 96,5,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+426,0052200201,622,2,79,4,9:28 PM,1:02,,,MISS LaVine 18' Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+427,0052200201,623,4,0,4,9:28 PM,0:58,Strus REBOUND (Off:1 Def:5),,,,,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+428,0052200201,627,18,4,4,9:29 PM,0:40,,Instant Replay4th Period (9:29 PM EST),,91 - 96,5,0,624,,,,,,0,0,,,,,,1,0,,,,,,1
+429,0052200201,624,6,2,4,9:29 PM,0:40,,,Caruso S.FOUL (P5.PN) (T.Brothers),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+430,0052200201,628,8,0,4,9:30 PM,0:40,,,SUB: White FOR Beverley,,,5,201976,Patrick Beverley,1610612741.0,Chicago,Bulls,CHI,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+431,0052200201,630,3,13,4,9:30 PM,0:40,Strus Free Throw 1 of 3 (29 PTS),,,91 - 97,6,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+432,0052200201,631,3,14,4,9:30 PM,0:40,Strus Free Throw 2 of 3 (30 PTS),,,91 - 98,7,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+433,0052200201,632,3,15,4,9:30 PM,0:40,Strus Free Throw 3 of 3 (31 PTS),,,91 - 99,8,4,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+434,0052200201,626,9,1,4,9:29 PM,0:39,,,Bulls Timeout: Regular (Reg.5 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+435,0052200201,633,2,6,4,9:31 PM,0:33,Adebayo BLOCK (1 BLK),,MISS LaVine 3' Driving Layup,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1
+436,0052200201,635,4,0,4,9:31 PM,0:33,Adebayo REBOUND (Off:4 Def:13),,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+437,0052200201,636,6,1,4,9:31 PM,0:33,,,White P.FOUL (P4.PN) (T.Brothers),,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+438,0052200201,638,3,11,4,9:32 PM,0:33,MISS Adebayo Free Throw 1 of 2,,,,,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+439,0052200201,639,4,1,4,9:32 PM,0:33,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+440,0052200201,640,3,12,4,9:32 PM,0:33,Adebayo Free Throw 2 of 2 (8 PTS),,,91 - 100,9,4,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+441,0052200201,641,2,79,4,9:32 PM,0:29,,,MISS LaVine 26' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+442,0052200201,642,4,0,4,9:32 PM,0:26,Butler REBOUND (Off:1 Def:3),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+443,0052200201,643,6,28,4,9:32 PM,0:26,,,Caruso Personal Take Foul (P6.PN) (K.Lane),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+444,0052200201,645,8,0,4,9:32 PM,0:26,,,SUB: Williams FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+445,0052200201,647,3,11,4,9:33 PM,0:26,Butler Free Throw 1 of 2 (30 PTS),,,91 - 101,10,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+446,0052200201,648,3,12,4,9:33 PM,0:26,Butler Free Throw 2 of 2 (31 PTS),,,91 - 102,11,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+447,0052200201,649,2,79,4,9:33 PM,0:20,,,MISS White 27' 3PT Pullup Jump Shot,,,5,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+448,0052200201,650,4,0,4,9:33 PM,0:15,Butler REBOUND (Off:1 Def:4),,,,,4,202710,Jimmy Butler,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+449,0052200201,651,13,0,4,9:34 PM,0:00,,End of 4th Period (9:34 PM EST),,91 - 102,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

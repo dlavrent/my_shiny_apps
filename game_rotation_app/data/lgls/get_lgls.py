@@ -35,9 +35,14 @@ def pull_and_save_df_lgl(season_end_year,
     else:
         lgl = lgl.sort_values(['GAME_DATE', 'GAME_ID', 'TEAM_ID', 'PLAYER_ID']).reset_index(drop=True)
         
-    fsave = os.path.join(data_dir, 'df_lgl_{}_{}{}.csv'.format(let,
-                                                               season_str, 
-                                                               '_po' if season_type == 'Playoffs' else ''))
+        
+    suffix = '' 
+    if season_type == 'Playoffs':
+        suffix = '_po'
+    elif season_type == 'PlayIn':
+        suffix = '_pi'
+        
+    fsave = os.path.join(data_dir, 'df_lgl_{}_{}{}.csv'.format(let, season_str, suffix))
     if overwrite:
         print(f'saving to... {fsave}')
         lgl.to_csv(fsave)

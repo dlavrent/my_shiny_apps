@@ -26,6 +26,8 @@ def pull_and_save_df_pbps(season_end_year, subset=[],
     
     if season_type == 'Playoffs':
         season_dir += '_po'
+    elif season_type == 'PlayIn':
+        season_dir += '_pi'
     
     if not os.path.isdir(season_dir):
         os.makedirs(season_dir)
@@ -40,12 +42,14 @@ def pull_and_save_df_pbps(season_end_year, subset=[],
     lgl_matchup = lgl[lgl.MATCHUP.str.contains('@')]
     season_game_ids = lgl_matchup['GAME_ID']
     
+    suffix = '' 
+    if season_type == 'Playoffs':
+        suffix = ' (playoffs)'
+    elif season_type == 'PlayIn':
+        suffix = ' (play in)'
     existing_gr_files = os.listdir(season_dir)
     print('~'*50)
-    print('{} games played in {}{}'.format(len(lgl_matchup), 
-                                           season_str, 
-                                           ' (playoffs)' if season_type == 'Playoffs' else ''
-                                           ))
+    print('{} games played in {}{}'.format(len(lgl_matchup), season_str, suffix))
     print('{} games found in {}'.format(len(existing_gr_files), os.path.abspath(season_dir)))
     print('~'*50)
     

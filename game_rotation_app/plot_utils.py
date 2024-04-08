@@ -244,7 +244,8 @@ def make_final_score_tag(home_info, away_info, df_pbp, num_OTs):
 
 
 def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
-                   show_text=False, show_plot=False, 
+                   show_text=False, show_plot=False,
+                   season_type='Regular Season',
                    cmap_name = 'RdBu_r'):
     '''
     Puts it all together
@@ -331,7 +332,13 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
     
     # make suptitle
     final_score_tag = make_final_score_tag(home_info, away_info, df_pbp, num_OTs)
-    plt.suptitle(final_score_tag + '\n{}'.format(game_start_date))
+    suptitl_suffix = ''
+    if season_type == 'Playoffs':
+        suptitl_suffix = ' (playoffs)'
+    elif season_type == 'PlayIn':
+        suptitl_suffix = ' (play-in tournament)'
+    # to-do: annotate round in playoffs
+    plt.suptitle(final_score_tag + f'\n{game_start_date}')
     
     # add gridlines for each quarter/OT
     for ax in axs[:, 0]:

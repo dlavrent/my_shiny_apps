@@ -11,7 +11,10 @@ import time
 
 
 def pull_and_save_df_pbps(season_end_year, subset=[],
-                          data_dir='./', overwrite=False, return_dfs=False):
+                          data_dir='./', 
+                          overwrite=False, 
+                          return_dfs=False,
+                          season_type='Regular Season'):
     
     season_str = '{}-{}'.format(season_end_year-1, str(season_end_year)[-2:])
     
@@ -21,6 +24,9 @@ def pull_and_save_df_pbps(season_end_year, subset=[],
               
     season_dir = os.path.join(data_dir, season_str )
     
+    if season_type == 'Playoffs':
+        season_dir += '_po'
+    
     if not os.path.isdir(season_dir):
         os.makedirs(season_dir)
         print('making season directory: {}'.format(os.path.abspath(season_dir)))
@@ -29,15 +35,18 @@ def pull_and_save_df_pbps(season_end_year, subset=[],
     lgl = leaguegamelog.LeagueGameLog(league_id='00',
                                       player_or_team_abbreviation='T',
                                       season=season_str,
-                                      season_type_all_star='Regular Season'
+                                      season_type_all_star=season_type,
                                       ).get_data_frames()[0]
     lgl_matchup = lgl[lgl.MATCHUP.str.contains('@')]
     season_game_ids = lgl_matchup['GAME_ID']
     
     existing_gr_files = os.listdir(season_dir)
     print('~'*50)
-    print('{} games played in {}'.format(len(lgl_matchup), season_str))
-    print('{} games found in data/pbps/{}/'.format(len(existing_gr_files), season_str))
+    print('{} games played in {}{}'.format(len(lgl_matchup), 
+                                           season_str, 
+                                           ' (playoffs)' if season_type == 'Playoffs' else ''
+                                           ))
+    print('{} games found in {}'.format(len(existing_gr_files), os.path.abspath(season_dir)))
     print('~'*50)
     
     

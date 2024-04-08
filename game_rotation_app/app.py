@@ -25,16 +25,21 @@ season_strs = ['{}-{}'.format(season_end_year-1, str(season_end_year)[-2:]) for 
 df_lgl_T_all = []
 df_lgl_P_all = []
 for s_str in season_strs:
-    cur_lgl_T = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_T_{s_str}.csv'), 
-                            dtype={'GAME_ID': str},
-                            index_col=0)
-    cur_lgl_T['season_str'] = s_str
-    df_lgl_T_all.append(cur_lgl_T)
-    cur_lgl_P = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_P_{s_str}.csv'), 
-                            dtype={'GAME_ID': str},
-                            index_col=0)
-    cur_lgl_P['season_str'] = s_str
-    df_lgl_P_all.append(cur_lgl_P)
+    for s_type in ['', '_po', '_pi']:
+        fpathT = os.path.join(data_dir, f'lgls/df_lgl_T_{s_str}{s_type}.csv')
+        if os.path.exists(fpathT):
+            cur_lgl_T = pd.read_csv(fpathT, 
+                                    dtype={'GAME_ID': str},
+                                    index_col=0)
+            cur_lgl_T['season_str'] = s_str
+            df_lgl_T_all.append(cur_lgl_T)
+        fpathP = os.path.join(data_dir, f'lgls/df_lgl_P_{s_str}{s_type}.csv')
+        if os.path.exists(fpathP):
+            cur_lgl_P = pd.read_csv(fpathP,
+                                    dtype={'GAME_ID': str},
+                                    index_col=0)
+            cur_lgl_P['season_str'] = s_str
+            df_lgl_P_all.append(cur_lgl_P)
 df_lgl_T_all = pd.concat(df_lgl_T_all)
 df_lgl_P_all = pd.concat(df_lgl_P_all)
 
@@ -54,6 +59,12 @@ app_ui = ui.page_navbar(
                         ui.input_selectize("season_str", 
                                         "Select a season:",
                                         {x: x for x in season_strs}),
+                        ui.input_radio_buttons("season_type",
+                                           "",
+                                           {'Regular Season': 'regular season'} 
+                                            #'PlayIn': 'play-in tournament', 
+                                            #'Playoffs': 'playoffs'}
+                                           ),
                         ui.input_selectize('team1',
                                         'Filter for team:',
                                         {x: x for x in tm_choices}),
@@ -155,6 +166,66 @@ app_ui = ui.page_navbar(
 
 def server(input: Inputs, output: Outputs, session: Session):
 
+    # first, update the types of games available in the current season
+    # (regular season by default, then play-in, playoffs)
+    @reactive.effect 
+    def _():
+        
+        avail_game_types = {'Regular Season': 'regular season'}
+        input_season_str = input.season_str()
+        
+        for post_season_suffix in ['_pi', '_po']:
+            
+            fpath = os.path.join(data_dir, 
+                                'lgls/df_lgl_T_{}{}.csv'.format(input_season_str, 
+                                                                post_season_suffix)
+                                )
+            
+            if os.path.exists(fpath):
+
+                df_lgl = pd.read_csv(fpath, 
+                    dtype={'GAME_ID': str},
+                    index_col=0)
+                
+                if len(df_lgl) > 0:
+                    if post_season_suffix == '_pi':
+                        avail_game_types['PlayIn'] = 'play-in tournament'
+                    elif post_season_suffix == '_po':
+                        avail_game_types['Playoffs'] = 'playoffs'
+
+        # update the radio selection right underneath the season selectize
+        ui.update_radio_buttons('season_type', choices=avail_game_types)
+
+
+    # next, given a choice of season + regular season/play-in/playoffs,
+    # restrict team filter by the teams within that set of games
+    # (so all 30 teams in regular season, only 16 in playoffs, etc.)
+    @reactive.effect 
+    def _():
+
+        input_season_str = input.season_str()
+        season_type = input.season_type()
+
+        suffix = ''
+        if season_type == 'Playoffs':
+            suffix = '_po'
+        elif season_type == 'PlayIn': 
+            suffix = '_pi'
+        fpath = os.path.join(data_dir, 
+                             'lgls/df_lgl_T_{}{}.csv'.format(input_season_str, suffix)
+                            )
+        
+        df_lgl = pd.read_csv(fpath, 
+            dtype={'GAME_ID': str},
+            index_col=0)
+
+        subset_tms = np.sort(df_lgl['TEAM_ABBREVIATION'].unique())
+        subset_choices = np.concatenate((['All'], subset_tms))
+        ui.update_selectize('team1', choices={x:x for x in subset_choices})
+
+    # next, given a choice for team1, restrict the opponent options
+    # based on the games that team1 has played
+    # (so if team1 hasn't played a particular opponent yet, don't show them as a filter option)
     @reactive.effect 
     def _():
             
@@ -162,7 +233,17 @@ def server(input: Inputs, output: Outputs, session: Session):
         tm1 = input.team1()
         tm1_homestat = input.team1_homestat()
         
-        df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_T_{input_season_str}.csv'), 
+        season_type = input.season_type()
+
+        suffix = ''
+        if season_type == 'Playoffs':
+            suffix = '_po'
+        elif season_type == 'PlayIn': 
+            suffix = '_pi'
+        fpath = os.path.join(data_dir, 
+                             'lgls/df_lgl_T_{}{}.csv'.format(input_season_str, suffix)
+                            )
+        df_lgl = pd.read_csv(fpath, 
             dtype={'GAME_ID': str},
             index_col=0)
 
@@ -184,7 +265,8 @@ def server(input: Inputs, output: Outputs, session: Session):
 
             ui.update_selectize('team2', choices={x:x for x in opps})
 
-
+    # finally, populate the possible games, listed as AWAY @ HOME,
+    # based on all of the input settings / filters
     @reactive.effect 
     def _():
             
@@ -193,7 +275,18 @@ def server(input: Inputs, output: Outputs, session: Session):
         tm1_homestat = input.team1_homestat()
         tm2 = input.team2()
 
-        df_lgl = pd.read_csv(os.path.join(data_dir, f'lgls/df_lgl_T_{input_season_str}.csv'), 
+        season_type = input.season_type()
+
+        suffix = ''
+        if season_type == 'Playoffs':
+            suffix = '_po'
+        elif season_type == 'PlayIn': 
+            suffix = '_pi'
+        fpath = os.path.join(data_dir, 
+                             'lgls/df_lgl_T_{}{}.csv'.format(input_season_str, suffix)
+                            )
+
+        df_lgl = pd.read_csv(fpath, 
             dtype={'GAME_ID': str},
             index_col=0)
 
@@ -222,6 +315,7 @@ def server(input: Inputs, output: Outputs, session: Session):
                             label='Select the game ({} choice{}):'.format(len(game_strs), '' if len(game_strs) == 1 else 's'))
 
 
+    # now we render the plot!
     @render.plot(width=1200, height=800, alt='rotation_plot')
     def plot():
         
@@ -231,17 +325,18 @@ def server(input: Inputs, output: Outputs, session: Session):
         if len(game_info) > 0:
 
             game_info = game_info.iloc[0]
-            df_gr = get_gr(input.season_str(), input.game_id())
+            df_gr = get_gr(input.season_str(), input.game_id(), input.season_type())
 
             if len(df_gr) > 0:
 
-                df_pbp = get_pbp(input.season_str(), input.game_id())
+                df_pbp = get_pbp(input.season_str(), input.game_id(), input.season_type())
 
                 if len(df_pbp) > 0:
                     
                     return make_final_fig(df_gr, df_pbp, df_team_info, game_info, 
                                         show_text=input.checkbox_plottext(), 
                                         show_plot=False,
+                                        season_type=input.season_type(),
                                         cmap_name=input.plot_cmap_name())
 
         return None

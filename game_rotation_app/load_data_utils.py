@@ -13,7 +13,8 @@ import pandas as pd
 import numpy as np
 
 
-def get_gr(season_str, game_id):
+def get_gr(season_str, game_id,
+           season_type='Regular Season'):
     '''
     Given a season string (i.e. 2023-24),
     and an nba.com/stats game_id (i.e. '0022300408'),
@@ -26,7 +27,12 @@ def get_gr(season_str, game_id):
     '''
     df_gr = pd.DataFrame()
 
-    season_dir = os.path.join(f'data/game_rotations/{season_str}')
+    suffix = ''
+    if season_type == 'Playoffs':
+        suffix = '_po'
+    elif season_type == 'PlayIn': 
+        suffix = '_pi'
+    season_dir = os.path.join(f'data/game_rotations/{season_str}{suffix}')
     if os.path.isdir(season_dir):
 
         existing_files = os.listdir(season_dir)
@@ -49,7 +55,8 @@ def clean_pbp(df_pbp):
     df_pbp['SCOREMARGIN'] = [np.nan if pd.isna(x) else int(x) for x in newscores]
     return df_pbp
 
-def get_pbp(season_str, game_id):
+def get_pbp(season_str, game_id,
+            season_type='Regular Season'):
     '''
     Given a season string (i.e. 2023-24),
     and an nba.com/stats game_id (i.e. '0022300408'),
@@ -63,7 +70,12 @@ def get_pbp(season_str, game_id):
 
     df_pbp = pd.DataFrame()
 
-    season_dir = os.path.join(f'data/pbps/{season_str}')
+    suffix = ''
+    if season_type == 'Playoffs':
+        suffix = '_po'
+    elif season_type == 'PlayIn': 
+        suffix = '_pi'
+    season_dir = os.path.join(f'data/pbps/{season_str}{suffix}')
     if os.path.isdir(season_dir):
 
         existing_files = os.listdir(season_dir)

@@ -126,7 +126,7 @@ app_ui = ui.page_navbar(
             ui.card_header('Contact'),
             ui.markdown('Feature requests? Feedback? Questions? '+\
                         'Check out my website at [PlotandRoll.com](https://plotandroll.com).\n'+\
-                        'Happy to chat on [Twitter](https://twitter.com/d_lavrent) or by [email](mailto:pnr@plotandroll.com)'
+                        'Happy to chat on [Twitter](https://twitter.com/plotandroll) or by [email](mailto:pnr@plotandroll.com)'
             )
         ),
         ui.card(
@@ -158,7 +158,7 @@ app_ui = ui.page_navbar(
     ui.nav_menu('Contact',
         ui.nav_control(
             ui.a("Website", href="https://plotandroll.com", target="_blank"),
-            ui.a("Twitter", href="https://twitter.com/d_lavrent/", target="_blank"),
+            ui.a("Twitter", href="https://twitter.com/plotandroll", target="_blank"),
             ui.a("Email", href="mailto:pnr@plotandroll.com", target="_blank")
         )
     ),

@@ -1,6 +1,5 @@
 from shiny import App, Inputs, Outputs, Session, render, ui, reactive
 
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import os
@@ -363,7 +362,6 @@ def server(input: Inputs, output: Outputs, session: Session):
         
         g_id = input.game_id()       
 
-        game_info = df_lgl_T_all[df_lgl_T_all['GAME_ID'] == g_id]
         df_box_game = df_lgl_P_all[df_lgl_P_all['GAME_ID'] == g_id]
         df_box_away = df_box_game[df_box_game.MATCHUP.str.contains('@')]
         fintabl = df_box_away[plot_cols].sort_values('MIN', ascending=0)
@@ -379,7 +377,6 @@ def server(input: Inputs, output: Outputs, session: Session):
         
         g_id = input.game_id()         
 
-        game_info = df_lgl_T_all[df_lgl_T_all['GAME_ID'] == g_id]
         df_box_game = df_lgl_P_all[df_lgl_P_all['GAME_ID'] == g_id]
         df_box_home = df_box_game[df_box_game.MATCHUP.str.contains('vs.')]
         fintabl = df_box_home[plot_cols].sort_values('MIN', ascending=0)

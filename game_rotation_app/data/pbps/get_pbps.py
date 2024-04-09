@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb  6 18:28:26 2024
+Code for pulling from nba_api's PlayByPlayV2 endpoint for games
+of a desired season and choice of regular season / play-in / playoffs
+"""
 
-@author: dolavrent@gmail.com
-"""
 import os 
 from nba_api.stats.endpoints import leaguegamelog, playbyplayv2
 import time
@@ -79,4 +78,4 @@ def pull_and_save_df_pbps(season_end_year, subset=[],
 
 if __name__ == '__main__':
     
-    dfs = pull_and_save_df_pbps(2024, subset=['0022300771'])
+    dfs = pull_and_save_df_pbps(2024)

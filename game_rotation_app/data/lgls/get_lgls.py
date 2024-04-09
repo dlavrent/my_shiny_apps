@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb  6 22:05:04 2024
+Code for pulling from nba_api's LeagueGameLog endpoint for games
+of a desired season and choice of regular season / play-in / playoffs
+"""
 
-@author: dolavrent@gmail.com
-"""
 import os
 from nba_api.stats.endpoints import leaguegamelog 
 

@@ -8,6 +8,7 @@ using a script in data/.
 The functions here simply load in the saved dataframes
 for use in the shiny app.
 '''
+
 import os 
 import pandas as pd
 import numpy as np
@@ -48,7 +49,8 @@ def get_gr(season_str, game_id,
 
 def clean_pbp(df_pbp):
     '''
-    Utility function that 
+    Utility function to clean up the SCOREMARGIN column in a play by play dataframe,
+    notably changing 'TIE' to 0, and making it all numeric
     '''
     newscores = df_pbp['SCOREMARGIN'].str.replace('TIE', '0')
     df_pbp = df_pbp.drop(columns='SCOREMARGIN')
@@ -94,6 +96,7 @@ def get_pbp(season_str, game_id,
 
 if __name__ == '__main__':
 
+    # example game
     season_str = '2023-24'
     game_id = '0022300063'
 

@@ -1,9 +1,10 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb  6 18:28:26 2024
+Code for pulling from nba_api's GameRotation endpoint for games
+of a desired season and choice of regular season / play-in / playoffs
+Warning that if you call this during a live game, you may get NaNs in the
+point differential column for each player stint
+"""
 
-@author: dolavrent@gmail.com
-"""
 import os 
 import numpy as np
 import pandas as pd
@@ -89,5 +90,4 @@ def pull_and_save_df_grs(season_end_year, data_dir = './',
 if __name__ == '__main__':
     
     flagged_ids = pull_and_save_df_grs(2024)
-    ['0022300452', '0022300501', '0022300503', '0022301211']
     

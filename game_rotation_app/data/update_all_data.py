@@ -1,8 +1,12 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb 13 15:30:45 2024
+Script that should bring all necessary data in 
+(i.e. league game logs, play by plays, and game rotation info)
+for shiny app.
 
-@author: dolavrent@gmail.com
+I use crontab to run this script once a day, in the deep of night,
+so that the information is complete
+(if you call GameRotation while a game is still live, you may not get
+     all the player stint point differentials)
 """
 
 import os

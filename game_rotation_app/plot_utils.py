@@ -1,9 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb  6 18:28:26 2024
+Necessary plotting utilities for shiny app
+"""
 
-@author: dolavrent@gmail.com
-"""
 import numpy as np
 import pandas as pd
 import matplotlib as mpl
@@ -364,17 +362,11 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
 
 if __name__ == '__main__':
     
+    # example game
     season_str = '2023-24'
-    
-    game_id = '0022300650'
-    game_id = '0022301230'
-    #game_id = '0022300572'
-    game_id = '0022300040'
-    game_id = '0022300452'
-    game_id = '0022300336'
     game_id = '0022300063'
     
-    #import os
+
     from load_data_utils import get_gr, get_pbp
     
     read_data = False 
@@ -384,15 +376,13 @@ if __name__ == '__main__':
         gr_res = gamerotation.GameRotation(game_id=game_id).get_data_frames()
         df_pbp = playbyplayv2.PlayByPlayV2(game_id=game_id).get_data_frames()[0]
     
-    
-    
 
     df_pbp = get_pbp(season_str, game_id)
     df_gr = get_gr(season_str, game_id)
     
     df_team_info = pd.read_csv('data/df_team_info.csv')
     
-    df_lgl = pd.read_csv('data/lgls/df_lgl_2023-24.csv', index_col=0)
+    df_lgl = pd.read_csv('data/lgls/df_lgl_T_2023-24.csv', index_col=0)
     game_info = df_lgl[df_lgl['GAME_ID'] == int(game_id)].iloc[0] 
 
     

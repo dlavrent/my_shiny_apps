@@ -1,0 +1,462 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0052300131,2,12,0,1,10:16 PM,12:00,,Start of 1st Period (10:16 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0052300131,4,10,0,1,10:16 PM,12:00, ,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,3,1610612744,,,,,,1
+2,0052300131,8,1,1,1,10:16 PM,11:44,,,Green 24' 3PT Jump Shot (3 PTS) (Wiggins 1 AST),3 - 0,-3,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+3,0052300131,10,1,79,1,10:16 PM,11:29,Murray 27' 3PT Pullup Jump Shot (3 PTS) (Fox 1 AST),,,3 - 3,TIE,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+4,0052300131,12,1,108,1,10:16 PM,11:19,,,Jackson-Davis 4' Cutting Dunk Shot (2 PTS) (Green 1 AST),5 - 3,-2,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+5,0052300131,14,2,1,1,10:17 PM,11:00,MISS Murray 28' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+6,0052300131,15,4,0,1,10:17 PM,10:57,,,Thompson REBOUND (Off:0 Def:1),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+7,0052300131,16,2,63,1,10:17 PM,10:49,,,MISS Thompson 15' Fadeaway Jumper,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+8,0052300131,17,4,0,1,10:17 PM,10:47,Barnes REBOUND (Off:0 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+9,0052300131,18,1,1,1,10:17 PM,10:37,Murray 24' 3PT Jump Shot (6 PTS) (Barnes 1 AST),,,5 - 6,1,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+10,0052300131,20,1,1,1,10:18 PM,10:16,,,Wiggins 3PT Jump Shot (3 PTS) (Curry 1 AST),8 - 6,-2,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+11,0052300131,22,2,80,1,10:18 PM,10:08,MISS Fox 28' 3PT Step Back Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+12,0052300131,23,4,0,1,10:18 PM,10:06,,,Curry REBOUND (Off:0 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+13,0052300131,37,5,40,1,10:18 PM,10:03,,,Wiggins Out of Bounds Lost Ball Turnover (P1.T1),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+14,0052300131,25,9,1,1,10:18 PM,10:03,KINGS Timeout: Regular (Full 1 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+15,0052300131,26,18,5,1,10:18 PM,10:03,,Instant Replay1st Period (10:18 PM EST),,8 - 6,-2,0,24,Keith Jennings,,,,,0,0,,,,,,1,0,,,,,,0
+16,0052300131,27,2,102,1,10:22 PM,9:38,MISS Murray 6' Driving Floating Bank Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+17,0052300131,28,4,0,1,10:22 PM,9:35,,,Wiggins REBOUND (Off:0 Def:1),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+18,0052300131,29,2,6,1,10:22 PM,9:26,,,MISS Wiggins 8' Driving Layup,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+19,0052300131,30,4,0,1,10:22 PM,9:23,Fox REBOUND (Off:0 Def:1),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+20,0052300131,31,5,2,1,10:22 PM,9:21,Fox Lost Ball Turnover (P1.T1),,Curry STEAL (1 STL),,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+21,0052300131,33,2,79,1,10:23 PM,9:01,,,MISS Thompson 28' 3PT Pullup Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+22,0052300131,34,4,0,1,10:23 PM,8:58,Murray REBOUND (Off:0 Def:1),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+23,0052300131,35,1,1,1,10:23 PM,8:51,Murray 28' 3PT Jump Shot (9 PTS) (Sabonis 1 AST),,,8 - 9,1,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+24,0052300131,38,2,1,1,10:23 PM,8:28,,,MISS Green 24' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+25,0052300131,39,4,0,1,10:23 PM,8:26,Ellis REBOUND (Off:0 Def:1),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+26,0052300131,40,2,101,1,10:23 PM,8:16,MISS Barnes 4' Driving Floating Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+27,0052300131,41,4,0,1,10:23 PM,8:14,Fox REBOUND (Off:1 Def:1),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+28,0052300131,42,1,107,1,10:24 PM,8:14,Fox Tip Dunk Shot (2 PTS),,,8 - 11,3,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+29,0052300131,43,5,45,1,10:24 PM,7:51,,,Jackson-Davis Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+30,0052300131,44,1,79,1,10:24 PM,7:38,Murray 10' Pullup Jump Shot (11 PTS) (Fox 2 AST),,,8 - 13,5,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+31,0052300131,45,5,1,1,10:25 PM,7:22,Sabonis STEAL (1 STL),,Green Bad Pass Turnover (P1.T3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+32,0052300131,47,2,2,1,10:25 PM,7:17,MISS Murray 24' 3PT Running Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+33,0052300131,48,4,0,1,10:25 PM,7:15,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+34,0052300131,49,6,3,1,10:25 PM,7:15,Ellis L.B.FOUL (P1.T1) (A.Smith),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+35,0052300131,51,8,0,1,10:25 PM,7:15,,,SUB: Kuminga FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+36,0052300131,54,8,0,1,10:25 PM,7:15,,,SUB: Podziemski FOR Jackson-Davis,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+37,0052300131,53,1,93,1,10:25 PM,6:58,,,Curry 15' Driving Bank Hook Shot (2 PTS),10 - 13,3,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+38,0052300131,56,1,5,1,10:26 PM,6:45,Sabonis 6' Layup (2 PTS) (Ellis 1 AST),,,10 - 15,5,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+39,0052300131,59,2,6,1,10:26 PM,6:16,,,MISS Green 5' Driving Layup,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+40,0052300131,60,4,0,1,10:26 PM,6:13,Murray REBOUND (Off:0 Def:2),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+41,0052300131,61,5,1,1,10:27 PM,6:06,Ellis Bad Pass Turnover (P1.T2),,Green STEAL (1 STL),,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+42,0052300131,63,1,63,1,10:27 PM,5:53,,,Kuminga 13' Fadeaway Jumper (2 PTS) (Green 2 AST),12 - 15,3,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+43,0052300131,65,1,79,1,10:27 PM,5:42,Fox 17' Pullup Jump Shot (4 PTS),,,12 - 17,5,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+44,0052300131,66,2,1,1,10:27 PM,5:28,,,MISS Curry 28' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+45,0052300131,67,4,0,1,10:27 PM,5:26,Sabonis REBOUND (Off:0 Def:1),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+46,0052300131,68,1,6,1,10:27 PM,5:12,Sabonis 6' Driving Layup (4 PTS),,,12 - 19,7,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+47,0052300131,69,9,1,1,10:28 PM,5:12,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+48,0052300131,71,8,0,1,10:30 PM,5:12,,,SUB: Looney FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+49,0052300131,73,5,2,1,10:31 PM,4:55,Ellis STEAL (1 STL),,Curry Lost Ball Turnover (P1.T4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+50,0052300131,75,6,2,1,10:32 PM,4:53,,,Looney S.FOUL (P1.T1) (J.Williams),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+51,0052300131,77,3,11,1,10:32 PM,4:53,Ellis Free Throw 1 of 2 (1 PTS),,,12 - 20,8,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+52,0052300131,78,3,12,1,10:32 PM,4:53,Ellis Free Throw 2 of 2 (2 PTS),,,12 - 21,9,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+53,0052300131,80,1,1,1,10:33 PM,4:33,,,Curry 28' 3PT Jump Shot (5 PTS) (Wiggins 2 AST),15 - 21,6,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+54,0052300131,82,2,1,1,10:33 PM,4:11,MISS Sabonis 29' 3PT Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+55,0052300131,83,4,0,1,10:33 PM,4:08,,,Podziemski REBOUND (Off:0 Def:1),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+56,0052300131,84,2,6,1,10:34 PM,4:00,Sabonis BLOCK (1 BLK),,MISS Kuminga 5' Driving Layup,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+57,0052300131,85,4,0,1,10:34 PM,3:57,Sabonis REBOUND (Off:0 Def:2),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+58,0052300131,86,1,79,1,10:34 PM,3:50,Fox 16' Pullup Jump Shot (6 PTS),,,15 - 23,8,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+59,0052300131,87,5,2,1,10:34 PM,3:42,Fox STEAL (1 STL),,Wiggins Lost Ball Turnover (P2.T5),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+60,0052300131,89,1,50,1,10:34 PM,3:39,Fox 7' Running Dunk (8 PTS),,,15 - 25,10,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+61,0052300131,90,6,1,1,10:34 PM,3:23,Sabonis P.FOUL (P1.T2) (M.Lindsay),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+62,0052300131,103,8,0,1,10:34 PM,3:23,,,SUB: Green FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+63,0052300131,92,8,0,1,10:34 PM,3:23,SUB: Mitchell FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+64,0052300131,93,8,0,1,10:34 PM,3:23,SUB: Len FOR Ellis,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+65,0052300131,94,8,0,1,10:34 PM,3:23,SUB: Lyles FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+66,0052300131,95,8,0,1,10:34 PM,3:23,,,SUB: Thompson FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+67,0052300131,96,8,0,1,10:34 PM,3:23,,,SUB: Paul FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+68,0052300131,102,1,80,1,10:35 PM,3:10,,,Podziemski 26' 3PT Step Back Jump Shot (3 PTS),18 - 25,7,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+69,0052300131,105,10,0,1,10:36 PM,2:59,Jump Ball Fox vs. Podziemski: Tip to Murray,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1
+70,0052300131,108,2,63,1,10:36 PM,2:51,MISS Murray 14' Fadeaway Jumper,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+71,0052300131,109,4,0,1,10:36 PM,2:49,Lyles REBOUND (Off:1 Def:0),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+72,0052300131,110,2,97,1,10:36 PM,2:49,MISS Lyles Tip Layup Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+73,0052300131,112,2,97,1,10:36 PM,2:47,MISS Lyles Tip Layup Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+74,0052300131,111,4,0,1,10:36 PM,2:47,Lyles REBOUND (Off:2 Def:0),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+75,0052300131,113,4,0,1,10:36 PM,2:46,,,Green REBOUND (Off:0 Def:1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+76,0052300131,114,2,86,1,10:36 PM,2:35,,,MISS Kuminga 11' Turnaround Fadeaway Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+77,0052300131,115,4,0,1,10:37 PM,2:33,Len REBOUND (Off:0 Def:1),,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+78,0052300131,116,2,80,1,10:37 PM,2:25,MISS Mitchell 27' 3PT Step Back Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+79,0052300131,117,4,0,1,10:37 PM,2:23,,,Green REBOUND (Off:0 Def:2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+80,0052300131,118,2,1,1,10:37 PM,2:12,,,MISS Green 27' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+81,0052300131,119,4,0,1,10:37 PM,2:09,Mitchell REBOUND (Off:0 Def:1),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+82,0052300131,120,2,103,1,10:37 PM,2:05,MISS Fox 26' 3PT Running Pull-Up Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+83,0052300131,121,4,0,1,10:37 PM,2:02,,,Podziemski REBOUND (Off:0 Def:2),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+84,0052300131,122,2,1,1,10:37 PM,1:55,,,MISS Thompson 30' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+85,0052300131,123,4,0,1,10:37 PM,1:53,Lyles REBOUND (Off:2 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+86,0052300131,124,6,1,1,10:37 PM,1:50,,,Paul P.FOUL (P1.T2) (A.Smith),,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+87,0052300131,126,5,45,1,10:38 PM,1:44,Murray Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+88,0052300131,127,1,5,1,10:38 PM,1:27,,,Green 6' Layup (5 PTS) (Kuminga 1 AST),20 - 25,5,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+89,0052300131,129,1,1,1,10:39 PM,1:05,Lyles 24' 3PT Jump Shot (3 PTS) (Mitchell 1 AST),,,20 - 28,8,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+90,0052300131,131,1,5,1,10:39 PM,0:49,,,Green 6' Layup (7 PTS) (Thompson 1 AST),22 - 28,6,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+91,0052300131,133,2,101,1,10:39 PM,0:36,MISS Mitchell 8' Driving Floating Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+92,0052300131,134,4,0,1,10:39 PM,0:35,Mitchell REBOUND (Off:1 Def:1),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+93,0052300131,135,2,1,1,10:39 PM,0:23,MISS Murray 25' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+94,0052300131,136,4,0,1,10:39 PM,0:21,Len REBOUND (Off:1 Def:1),,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+95,0052300131,137,2,97,1,10:39 PM,0:21,MISS Len Tip Layup Shot,,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+96,0052300131,138,4,0,1,10:39 PM,0:20,Mitchell REBOUND (Off:2 Def:1),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+97,0052300131,139,1,1,1,10:39 PM,0:18,Murray 27' 3PT Jump Shot (14 PTS) (Mitchell 2 AST),,,22 - 31,9,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+98,0052300131,141,2,79,1,10:40 PM,0:01,,,MISS Paul 15' Pullup Jump Shot,,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+99,0052300131,142,4,0,1,10:40 PM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+100,0052300131,143,13,0,1,10:40 PM,0:00,,End of 1st Period (10:40 PM EST),,22 - 31,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+101,0052300131,155,12,0,2,10:44 PM,12:00,,Start of 2nd Period (10:44 PM EST),,22 - 31,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+102,0052300131,156,2,86,2,10:44 PM,11:46,MISS Barnes 11' Turnaround Fadeaway Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+103,0052300131,157,4,0,2,10:44 PM,11:43,,,Thompson REBOUND (Off:0 Def:2),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+104,0052300131,158,5,45,2,10:44 PM,11:28,,,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+105,0052300131,159,2,6,2,10:45 PM,11:09,MISS Mitchell 8' Driving Layup,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+106,0052300131,160,4,0,2,10:45 PM,11:07,,,Paul REBOUND (Off:0 Def:1),,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+107,0052300131,161,2,79,2,10:45 PM,11:01,,,MISS Wiggins 26' 3PT Pullup Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+108,0052300131,162,4,0,2,10:45 PM,10:59,Mitchell REBOUND (Off:2 Def:2),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+109,0052300131,163,6,1,2,10:45 PM,10:49,,,Paul P.FOUL (P2.T1) (M.Lindsay),,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+110,0052300131,165,6,2,2,10:46 PM,10:35,,,Jackson-Davis S.FOUL (P1.T2) (A.Smith),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+111,0052300131,167,3,11,2,10:46 PM,10:35,Lyles Free Throw 1 of 2 (4 PTS),,,22 - 32,10,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+112,0052300131,168,3,12,2,10:46 PM,10:35,Lyles Free Throw 2 of 2 (5 PTS),,,22 - 33,11,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+113,0052300131,169,2,1,2,10:47 PM,10:21,,,MISS Thompson 27' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+114,0052300131,170,4,0,2,10:47 PM,10:18,Lyles REBOUND (Off:2 Def:2),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+115,0052300131,171,2,1,2,10:47 PM,10:09,MISS Lyles 28' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+116,0052300131,172,4,0,2,10:47 PM,10:06,,,Kuminga REBOUND (Off:0 Def:1),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+117,0052300131,173,2,6,2,10:47 PM,9:55,,,MISS Kuminga 8' Driving Layup,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+118,0052300131,174,4,0,2,10:47 PM,9:52,Sabonis REBOUND (Off:0 Def:3),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+119,0052300131,175,1,2,2,10:47 PM,9:48,Barnes 24' 3PT Running Jump Shot (3 PTS) (Sabonis 2 AST),,,22 - 36,14,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+120,0052300131,177,9,1,2,10:47 PM,9:48,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+121,0052300131,178,8,0,2,10:48 PM,9:48,,,SUB: Looney FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+122,0052300131,179,8,0,2,10:48 PM,9:48,,,SUB: Moody FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+123,0052300131,180,8,0,2,10:48 PM,9:48,,,SUB: Podziemski FOR Jackson-Davis,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+124,0052300131,184,6,1,2,10:51 PM,9:27,Mitchell P.FOUL (P1.T1) (J.Williams),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+125,0052300131,186,5,2,2,10:52 PM,9:24,Ellis STEAL (2 STL),,Thompson Lost Ball Turnover (P1.T7),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+126,0052300131,188,1,5,2,10:52 PM,9:04,Sabonis 5' Layup (6 PTS),,,22 - 38,16,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+127,0052300131,190,1,80,2,10:52 PM,8:44,,,Paul 24' 3PT Step Back Jump Shot (3 PTS),25 - 38,13,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+128,0052300131,191,2,101,2,10:53 PM,8:30,MISS Barnes 10' Driving Floating Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+129,0052300131,192,4,0,2,10:53 PM,8:28,,,Looney REBOUND (Off:0 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+130,0052300131,193,2,103,2,10:53 PM,8:24,,,MISS Podziemski 27' 3PT Running Pull-Up Jump Shot,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+131,0052300131,194,4,0,2,10:53 PM,8:22,Sabonis REBOUND (Off:0 Def:4),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+132,0052300131,195,6,1,2,10:53 PM,8:20,,,Looney P.FOUL (P2.T3) (J.Williams),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+133,0052300131,197,8,0,2,10:53 PM,8:20,SUB: Fox FOR Ellis,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+134,0052300131,198,8,0,2,10:53 PM,8:20,SUB: Murray FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+135,0052300131,199,8,0,2,10:53 PM,8:20,,,SUB: Curry FOR Podziemski,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+136,0052300131,203,1,1,2,10:53 PM,8:05,Mitchell 26' 3PT Jump Shot (3 PTS) (Sabonis 3 AST),,,25 - 41,16,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+137,0052300131,205,1,1,2,10:54 PM,7:53,,,Moody 25' 3PT Jump Shot (3 PTS) (Paul 1 AST),28 - 41,13,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+138,0052300131,207,2,1,2,10:54 PM,7:43,MISS Mitchell 26' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+139,0052300131,208,4,0,2,10:54 PM,7:40,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+140,0052300131,209,6,3,2,10:54 PM,7:40,Lyles L.B.FOUL (P1.T2) (A.Smith),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+141,0052300131,211,1,108,2,10:54 PM,7:27,,,Looney 5' Cutting Dunk Shot (2 PTS) (Moody 1 AST),30 - 41,11,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+142,0052300131,213,2,79,2,10:55 PM,7:14,MISS Fox 17' Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+143,0052300131,214,4,0,2,10:55 PM,7:11,,,Looney REBOUND (Off:0 Def:2),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+144,0052300131,215,2,6,2,10:55 PM,7:03,,,MISS Thompson 8' Driving Layup,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+145,0052300131,216,4,0,2,10:55 PM,7:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+146,0052300131,218,8,0,2,10:55 PM,7:00,SUB: Ellis FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+147,0052300131,219,8,0,2,10:55 PM,7:00,,,SUB: Wiggins FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+148,0052300131,222,6,2,2,10:55 PM,6:59,Lyles S.FOUL (P2.T3) (A.Smith),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+149,0052300131,224,3,13,2,10:56 PM,6:59,,,MISS Moody Free Throw 1 of 3,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+150,0052300131,225,4,1,2,10:56 PM,6:59,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+151,0052300131,226,3,14,2,10:56 PM,6:59,,,Moody Free Throw 2 of 3 (4 PTS),31 - 41,10,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+152,0052300131,227,3,15,2,10:56 PM,6:59,,,Moody Free Throw 3 of 3 (5 PTS),32 - 41,9,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+153,0052300131,228,2,1,2,10:57 PM,6:50,MISS Sabonis 16' Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+154,0052300131,229,4,0,2,10:57 PM,6:47,,,Looney REBOUND (Off:0 Def:3),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+155,0052300131,230,5,1,2,10:57 PM,6:38,Lyles STEAL (1 STL),,Wiggins Bad Pass Turnover (P3.T8),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+156,0052300131,232,2,3,2,10:57 PM,6:33,MISS Sabonis 6' Hook Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+157,0052300131,233,4,0,2,10:57 PM,6:31,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+158,0052300131,234,6,3,2,10:57 PM,6:31,,,Looney L.B.FOUL (P3.T4) (A.Smith),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+159,0052300131,236,8,0,2,10:57 PM,6:31,SUB: Barnes FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+160,0052300131,237,8,0,2,10:57 PM,6:31,,,SUB: Green FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+161,0052300131,240,2,79,2,10:58 PM,6:25,MISS Fox 26' 3PT Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+162,0052300131,241,4,0,2,10:58 PM,6:23,Ellis REBOUND (Off:1 Def:1),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+163,0052300131,242,1,99,2,10:58 PM,6:15,Sabonis 7' Cutting Finger Roll Layup Shot (8 PTS) (Ellis 2 AST),,,32 - 43,11,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+164,0052300131,244,2,43,2,10:58 PM,6:01,,,MISS Wiggins 6' Alley Oop Layup,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+165,0052300131,245,4,0,2,10:58 PM,6:01,Sabonis REBOUND (Off:0 Def:5),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+166,0052300131,246,1,103,2,10:58 PM,5:54,Ellis 27' 3PT Running Pull-Up Jump Shot (5 PTS),,,32 - 46,14,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+167,0052300131,248,6,2,2,10:59 PM,5:36,Sabonis S.FOUL (P2.T4) (A.Smith),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+168,0052300131,250,3,11,2,10:59 PM,5:36,,,Moody Free Throw 1 of 2 (6 PTS),33 - 46,13,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+169,0052300131,251,8,0,2,10:59 PM,5:36,,,SUB: Podziemski FOR Paul,,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+170,0052300131,252,8,0,2,10:59 PM,5:36,,,SUB: Thompson FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+171,0052300131,255,3,12,2,10:59 PM,5:36,,,Moody Free Throw 2 of 2 (7 PTS),34 - 46,12,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+172,0052300131,256,2,79,2,11:00 PM,5:21,MISS Murray 28' 3PT Pullup Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+173,0052300131,257,4,0,2,11:00 PM,5:19,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+174,0052300131,259,8,0,2,11:00 PM,5:19,,,SUB: Kuminga FOR Moody,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+175,0052300131,261,2,80,2,11:00 PM,5:10,MISS Ellis 27' 3PT Step Back Jump Shot,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+176,0052300131,262,4,0,2,11:00 PM,5:08,,,Kuminga REBOUND (Off:0 Def:2),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+177,0052300131,263,2,80,2,11:01 PM,4:54,,,MISS Curry 27' 3PT Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+178,0052300131,264,4,0,2,11:01 PM,4:52,Fox REBOUND (Off:1 Def:2),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+179,0052300131,265,1,41,2,11:01 PM,4:47,Sabonis 5' Running Layup (10 PTS) (Fox 3 AST),,,34 - 48,14,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+180,0052300131,269,1,79,2,11:02 PM,4:21,,,Kuminga 16' Pullup Jump Shot (4 PTS),36 - 48,12,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+181,0052300131,270,2,80,2,11:02 PM,4:05,MISS Barnes 27' 3PT Step Back Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+182,0052300131,271,4,0,2,11:02 PM,4:02,,,Podziemski REBOUND (Off:0 Def:3),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+183,0052300131,272,1,79,2,11:02 PM,3:53,,,Kuminga 17' Pullup Jump Shot (6 PTS),38 - 48,10,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+184,0052300131,273,2,1,2,11:03 PM,3:35,MISS Sabonis 14' Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+185,0052300131,274,4,0,2,11:03 PM,3:33,,,Kuminga REBOUND (Off:0 Def:3),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+186,0052300131,275,1,83,2,11:03 PM,3:25,,,Kuminga 6' Fadeaway Bank Shot (8 PTS),40 - 48,8,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+187,0052300131,276,9,1,2,11:03 PM,3:25,KINGS Timeout: Regular (Full 2 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+188,0052300131,278,1,47,2,11:07 PM,3:11,Fox 17' Turnaround Jump Shot (10 PTS),,,40 - 50,10,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+189,0052300131,279,2,98,2,11:07 PM,2:56,,,MISS Kuminga 7' Cutting Layup Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+190,0052300131,280,4,0,2,11:07 PM,2:53,Murray REBOUND (Off:0 Def:3),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+191,0052300131,281,2,2,2,11:07 PM,2:48,MISS Fox 28' 3PT Running Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+192,0052300131,282,4,0,2,11:07 PM,2:45,,,Kuminga REBOUND (Off:0 Def:4),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+193,0052300131,283,2,80,2,11:08 PM,2:27,Ellis BLOCK (1 BLK),,MISS Kuminga 17' Step Back Jump Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1
+194,0052300131,285,4,0,2,11:08 PM,2:25,Sabonis REBOUND (Off:0 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+195,0052300131,286,5,2,2,11:08 PM,2:18,Ellis Lost Ball Turnover (P2.T4),,Podziemski STEAL (1 STL),,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+196,0052300131,288,1,74,2,11:08 PM,2:15,,,Podziemski 3' Running Reverse Layup (5 PTS),42 - 50,8,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+197,0052300131,289,2,79,2,11:08 PM,1:58,MISS Fox 16' Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+198,0052300131,290,4,0,2,11:08 PM,1:56,,,Podziemski REBOUND (Off:0 Def:4),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+199,0052300131,291,6,2,2,11:08 PM,1:54,Fox S.FOUL (P1.PN) (J.Williams),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+200,0052300131,293,3,11,2,11:09 PM,1:54,,,Kuminga Free Throw 1 of 2 (9 PTS),43 - 50,7,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+201,0052300131,296,3,12,2,11:09 PM,1:54,,,Kuminga Free Throw 2 of 2 (10 PTS),44 - 50,6,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+202,0052300131,294,8,0,2,11:09 PM,1:54,,,SUB: Wiggins FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+203,0052300131,297,2,6,2,11:09 PM,1:40,MISS Ellis 10' Driving Layup,,Curry BLOCK (1 BLK),,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1
+204,0052300131,299,4,0,2,11:09 PM,1:38,Barnes REBOUND (Off:1 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+205,0052300131,300,1,75,2,11:10 PM,1:30,Ellis 5' Driving Finger Roll Layup (7 PTS) (Barnes 2 AST),,,44 - 52,8,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+206,0052300131,302,5,2,2,11:10 PM,1:22,Murray STEAL (1 STL),,Curry Lost Ball Turnover (P2.T9),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+207,0052300131,304,5,2,2,11:10 PM,1:19,Murray Lost Ball Turnover (P2.T5),,Curry STEAL (2 STL),,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+208,0052300131,306,6,2,2,11:10 PM,1:12,Barnes S.FOUL (P1.PN) (M.Lindsay),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+209,0052300131,308,3,11,2,11:10 PM,1:12,,,Wiggins Free Throw 1 of 2 (4 PTS),45 - 52,7,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+210,0052300131,309,3,12,2,11:10 PM,1:12,,,Wiggins Free Throw 2 of 2 (5 PTS),46 - 52,6,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+211,0052300131,310,2,78,2,11:11 PM,0:55,MISS Murray 9' Floating Jump Shot,,Kuminga BLOCK (1 BLK),,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1
+212,0052300131,312,4,0,2,11:11 PM,0:54,Murray REBOUND (Off:1 Def:3),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+213,0052300131,313,6,2,2,11:11 PM,0:53,,,Kuminga S.FOUL (P1.PN) (M.Lindsay),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+214,0052300131,315,3,11,2,11:11 PM,0:53,Murray Free Throw 1 of 2 (15 PTS),,,46 - 53,7,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+215,0052300131,316,3,12,2,11:12 PM,0:53,Murray Free Throw 2 of 2 (16 PTS),,,46 - 54,8,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+216,0052300131,317,2,98,2,11:12 PM,0:43,Ellis BLOCK (2 BLK),,MISS Kuminga 4' Cutting Layup Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1
+217,0052300131,318,4,0,2,11:12 PM,0:42,,,Kuminga REBOUND (Off:1 Def:4),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+218,0052300131,319,1,72,2,11:12 PM,0:39,,,Kuminga 2' Putback Layup (12 PTS),48 - 54,6,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+219,0052300131,320,5,2,2,11:12 PM,0:24,Sabonis Lost Ball Turnover (P1.T6),,Green STEAL (2 STL),,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+220,0052300131,322,6,1,2,11:12 PM,0:23,Sabonis P.FOUL (P3.PN) (A.Smith),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+221,0052300131,324,3,11,2,11:13 PM,0:23,,,Green Free Throw 1 of 2 (8 PTS),49 - 54,5,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+222,0052300131,327,3,12,2,11:13 PM,0:23,,,Green Free Throw 2 of 2 (9 PTS),50 - 54,4,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+223,0052300131,325,8,0,2,11:13 PM,0:23,SUB: Len FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+224,0052300131,328,2,79,2,11:14 PM,0:07,MISS Barnes 8' Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+225,0052300131,329,4,0,2,11:14 PM,0:04,,,Podziemski REBOUND (Off:0 Def:5),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+226,0052300131,330,2,79,2,11:14 PM,0:00,,,MISS Curry 42' 3PT Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+227,0052300131,331,4,0,2,11:14 PM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+228,0052300131,332,13,0,2,11:14 PM,0:00,,End of 2nd Period (11:14 PM EST),,50 - 54,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+229,0052300131,338,12,0,3,11:31 PM,12:00,,Start of 3rd Period (11:31 PM EST),,50 - 54,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+230,0052300131,339,1,101,3,11:31 PM,11:36,Fox 10' Driving Floating Jump Shot (12 PTS),,,50 - 56,6,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+231,0052300131,340,1,6,3,11:32 PM,11:12,,,Curry 3' Driving Layup (7 PTS),52 - 56,4,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+232,0052300131,341,2,6,3,11:32 PM,11:04,MISS Murray 6' Driving Layup,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+233,0052300131,372,10,0,3,11:32 PM,11:00, ,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,3,1610612744,,,,,,1
+234,0052300131,345,4,0,3,11:32 PM,10:58,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+235,0052300131,347,1,80,3,11:33 PM,10:39,,,Curry 27' 3PT Step Back Jump Shot (10 PTS),55 - 56,1,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+236,0052300131,348,1,6,3,11:33 PM,10:31,Fox 4' Driving Layup (14 PTS),,,55 - 58,3,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+237,0052300131,349,7,2,3,11:33 PM,10:31,,,Green Violation:Defensive Goaltending (J.Williams),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+238,0052300131,350,1,57,3,11:34 PM,10:12,,,Wiggins 4' Driving Hook Shot (7 PTS),57 - 58,1,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+239,0052300131,351,2,6,3,11:34 PM,9:59,MISS Fox 4' Driving Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+240,0052300131,352,4,0,3,11:34 PM,9:56,,,Wiggins REBOUND (Off:0 Def:2),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+241,0052300131,353,2,6,3,11:34 PM,9:47,,,MISS Thompson 6' Driving Layup,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+242,0052300131,354,4,0,3,11:34 PM,9:45,Sabonis REBOUND (Off:0 Def:7),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+243,0052300131,355,1,1,3,11:34 PM,9:39,Ellis 25' 3PT Jump Shot (10 PTS) (Barnes 3 AST),,,57 - 61,4,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+244,0052300131,357,5,1,3,11:34 PM,9:21,Fox STEAL (2 STL),,Green Bad Pass Turnover (P2.T10),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+245,0052300131,470,2,41,3,11:34 PM,9:18,MISS Fox 4' Running Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+246,0052300131,472,4,0,3,11:34 PM,9:15,,,Thompson REBOUND (Off:0 Def:3),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+247,0052300131,361,2,103,3,11:35 PM,9:09,,,MISS Thompson 25' 3PT Running Pull-Up Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+248,0052300131,362,4,0,3,11:35 PM,9:07,,,Kuminga REBOUND (Off:2 Def:4),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+249,0052300131,363,6,1,3,11:35 PM,9:03,Fox P.FOUL (P2.T1) (M.Lindsay),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+250,0052300131,365,5,2,3,11:35 PM,8:59,Ellis STEAL (3 STL),,Curry Lost Ball Turnover (P3.T11),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+251,0052300131,367,2,41,3,11:35 PM,8:55,MISS Ellis 6' Running Layup,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+252,0052300131,368,4,0,3,11:35 PM,8:53,Ellis REBOUND (Off:2 Def:1),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+253,0052300131,369,1,1,3,11:35 PM,8:46,Murray 26' 3PT Jump Shot (19 PTS) (Ellis 3 AST),,,57 - 64,7,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+254,0052300131,371,9,1,3,11:36 PM,8:45,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+255,0052300131,376,2,1,3,11:40 PM,8:28,,,MISS Wiggins 28' 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+256,0052300131,377,4,0,3,11:40 PM,8:24,Sabonis REBOUND (Off:0 Def:8),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+257,0052300131,378,1,1,3,11:40 PM,8:12,Barnes 27' 3PT Jump Shot (6 PTS) (Fox 4 AST),,,57 - 67,10,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+258,0052300131,380,1,1,3,11:40 PM,7:57,,,Green 25' 3PT Jump Shot (12 PTS) (Kuminga 2 AST),60 - 67,7,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+259,0052300131,382,2,98,3,11:40 PM,7:45,MISS Sabonis 6' Cutting Layup Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+260,0052300131,383,4,0,3,11:40 PM,7:42,,,Kuminga REBOUND (Off:2 Def:5),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+261,0052300131,384,2,79,3,11:40 PM,7:36,,,MISS Thompson 17' Pullup Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+262,0052300131,385,4,0,3,11:40 PM,7:33,Sabonis REBOUND (Off:0 Def:9),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+263,0052300131,387,8,0,3,11:41 PM,7:30,,,SUB: Podziemski FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+264,0052300131,389,2,79,3,11:41 PM,7:21,MISS Fox 17' Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+265,0052300131,390,4,0,3,11:41 PM,7:19,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+266,0052300131,392,1,79,3,11:42 PM,7:14,Fox 10' Pullup Jump Shot (16 PTS) (Sabonis 4 AST),,,60 - 69,9,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+267,0052300131,394,6,2,3,11:42 PM,7:14,,,Kuminga S.FOUL (P2.T1) (A.Smith),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+268,0052300131,396,3,10,3,11:42 PM,7:14,MISS Fox Free Throw 1 of 1,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+269,0052300131,397,4,0,3,11:42 PM,7:09,,,Thompson REBOUND (Off:0 Def:4),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+270,0052300131,398,6,2,3,11:42 PM,6:57,Sabonis S.FOUL (P4.T2) (J.Williams),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+271,0052300131,400,3,11,3,11:43 PM,6:57,,,Curry Free Throw 1 of 2 (11 PTS),61 - 69,8,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+272,0052300131,403,3,12,3,11:43 PM,6:57,,,Curry Free Throw 2 of 2 (12 PTS),62 - 69,7,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+273,0052300131,437,8,0,3,11:43 PM,6:57,,,SUB: Wiggins FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+274,0052300131,404,1,79,3,11:44 PM,6:42,Barnes 10' Pullup Jump Shot (8 PTS) (Sabonis 5 AST),,,62 - 71,9,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+275,0052300131,406,2,80,3,11:44 PM,6:35,,,MISS Curry 23' Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+276,0052300131,407,4,0,3,11:44 PM,6:33,,,Wiggins REBOUND (Off:1 Def:2),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+277,0052300131,473,2,97,3,11:44 PM,6:33,,,MISS Wiggins 2' Tip Layup Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+278,0052300131,474,4,0,3,11:44 PM,6:32,,,Podziemski REBOUND (Off:1 Def:5),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+279,0052300131,408,2,1,3,11:44 PM,6:26,,,MISS Wiggins 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+280,0052300131,409,4,0,3,11:44 PM,6:24,,,Curry REBOUND (Off:1 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+281,0052300131,410,5,1,3,11:44 PM,6:22,Murray STEAL (2 STL),,Curry Bad Pass Turnover (P4.T12),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+282,0052300131,412,6,1,3,11:44 PM,6:20,,,Green P.FOUL (P1.T2) (J.Williams),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+283,0052300131,414,1,1,3,11:45 PM,6:10,Ellis 26' 3PT Jump Shot (13 PTS) (Sabonis 6 AST),,,62 - 74,12,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+284,0052300131,416,2,79,3,11:45 PM,5:54,,,MISS Kuminga 27' 3PT Pullup Jump Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+285,0052300131,417,4,0,3,11:45 PM,5:51,Fox REBOUND (Off:1 Def:3),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+286,0052300131,418,6,1,3,11:45 PM,5:47,,,Green P.FOUL (P2.T3) (A.Smith),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+287,0052300131,420,8,0,3,11:45 PM,5:47,,,SUB: Looney FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+288,0052300131,422,1,1,3,11:46 PM,5:39,Fox 26' 3PT Jump Shot (19 PTS) (Sabonis 7 AST),,,62 - 77,15,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+289,0052300131,424,1,79,3,11:46 PM,5:26,,,Curry 28' 3PT Pullup Jump Shot (15 PTS) (Looney 1 AST),65 - 77,12,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+290,0052300131,426,6,2,3,11:46 PM,5:26,Ellis S.FOUL (P2.T3) (J.Williams),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+291,0052300131,428,8,0,3,11:46 PM,5:26,,,SUB: Moody FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+292,0052300131,430,3,10,3,11:47 PM,5:26,,,Curry Free Throw 1 of 1 (16 PTS),66 - 77,11,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+293,0052300131,431,6,2,3,11:47 PM,5:13,,,Looney S.FOUL (P4.T4) (A.Smith),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+294,0052300131,433,3,11,3,11:48 PM,5:13,Murray Free Throw 1 of 2 (20 PTS),,,66 - 78,12,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+295,0052300131,434,8,0,3,11:48 PM,5:13,SUB: Len FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+296,0052300131,436,3,12,3,11:48 PM,5:13,Murray Free Throw 2 of 2 (21 PTS),,,66 - 79,13,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+297,0052300131,439,2,101,3,11:48 PM,4:55,,,MISS Wiggins 9' Driving Floating Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+298,0052300131,440,4,0,3,11:49 PM,4:52,,,Looney REBOUND (Off:1 Def:3),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+299,0052300131,441,2,6,3,11:49 PM,4:47,,,MISS Looney 5' Driving Layup,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+300,0052300131,442,4,0,3,11:49 PM,4:45,,,Podziemski REBOUND (Off:2 Def:5),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+301,0052300131,443,1,1,3,11:49 PM,4:44,,,Moody 26' 3PT Jump Shot (10 PTS) (Podziemski 1 AST),69 - 79,10,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+302,0052300131,444,1,101,3,11:49 PM,4:35,Fox 9' Driving Floating Jump Shot (21 PTS),,,69 - 81,12,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+303,0052300131,445,6,1,3,11:49 PM,4:27,Ellis P.FOUL (P3.T4) (M.Lindsay),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+304,0052300131,447,8,0,3,11:49 PM,4:27,SUB: Lyles FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+305,0052300131,450,2,79,3,11:50 PM,4:19,,,MISS Curry 17' Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+306,0052300131,451,4,0,3,11:50 PM,4:17,Lyles REBOUND (Off:2 Def:3),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+307,0052300131,452,2,6,3,11:50 PM,4:10,MISS Len 6' Driving Layup,,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+308,0052300131,453,4,0,3,11:50 PM,4:08,,,Looney REBOUND (Off:1 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+309,0052300131,517,1,5,3,11:50 PM,3:53,,,Moody 4' Layup (12 PTS),71 - 81,10,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+310,0052300131,456,1,79,3,11:50 PM,3:33,Murray 14' Pullup Jump Shot (23 PTS),,,71 - 83,12,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+311,0052300131,457,2,6,3,11:50 PM,3:24,,,MISS Curry 4' Driving Layup,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+312,0052300131,458,4,0,3,11:51 PM,3:21,Murray REBOUND (Off:1 Def:4),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+313,0052300131,459,2,41,3,11:51 PM,3:17,MISS Murray 10' Running Layup,,Wiggins BLOCK (1 BLK),,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1
+314,0052300131,461,4,0,3,11:51 PM,3:13,,,Podziemski REBOUND (Off:2 Def:6),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+315,0052300131,462,2,1,3,11:51 PM,3:04,,,MISS Moody 24' 3PT Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+316,0052300131,463,4,0,3,11:51 PM,3:02,Ellis REBOUND (Off:2 Def:2),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+317,0052300131,464,2,6,3,11:51 PM,2:49,MISS Fox 7' Driving Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+318,0052300131,465,4,0,3,11:51 PM,2:44,Len REBOUND (Off:2 Def:1),,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+319,0052300131,466,1,1,3,11:51 PM,2:42,Fox 27' 3PT Jump Shot (24 PTS) (Lyles 1 AST),,,71 - 86,15,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+320,0052300131,468,1,6,3,11:52 PM,2:23,,,Wiggins 3' Driving Layup (9 PTS),73 - 86,13,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+321,0052300131,469,9,1,3,11:52 PM,2:21,KINGS Timeout: Regular (Full 3 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+322,0052300131,475,8,0,3,11:52 PM,2:21,SUB: Mitchell FOR Ellis,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+323,0052300131,476,8,0,3,11:52 PM,2:21,,,SUB: Paul FOR Podziemski,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+324,0052300131,477,8,0,3,11:52 PM,2:21,,,SUB: Green FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+325,0052300131,478,8,0,3,11:52 PM,2:21,,,SUB: Thompson FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+326,0052300131,483,1,6,3,11:56 PM,2:01,Lyles 6' Driving Layup (7 PTS) (Mitchell 3 AST),,,73 - 88,15,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+327,0052300131,485,2,101,3,11:56 PM,1:41,,,MISS Green 11' Driving Floating Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+328,0052300131,486,4,0,3,11:56 PM,1:39,Len REBOUND (Off:2 Def:2),,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+329,0052300131,487,2,1,3,11:56 PM,1:32,MISS Fox 24' 3PT Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+330,0052300131,488,4,0,3,11:56 PM,1:28,Murray REBOUND (Off:2 Def:4),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+331,0052300131,489,2,1,3,11:56 PM,1:27,MISS Lyles 26' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+332,0052300131,490,4,0,3,11:56 PM,1:26,,,Moody REBOUND (Off:0 Def:1),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+333,0052300131,491,2,1,3,11:56 PM,1:15,,,MISS Moody 29' 3PT Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+334,0052300131,492,4,0,3,11:56 PM,1:12,Murray REBOUND (Off:2 Def:5),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+335,0052300131,493,2,79,3,11:57 PM,1:01,MISS Fox 14' Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+336,0052300131,494,4,0,3,11:57 PM,0:59,,,Moody REBOUND (Off:0 Def:2),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+337,0052300131,495,1,101,3,11:57 PM,0:44,,,Wiggins 11' Driving Floating Jump Shot (11 PTS) (Paul 2 AST),75 - 88,13,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+338,0052300131,497,1,1,3,11:57 PM,0:24,Murray 27' 3PT Jump Shot (26 PTS) (Len 1 AST),,,75 - 91,16,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+339,0052300131,499,6,14,3,11:58 PM,0:05,Len FLAGRANT.FOUL.TYPE1 (P1.PN) (J.Williams),,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+340,0052300131,501,18,1,3,11:59 PM,0:05,,Instant Replay3rd Period (11:59 PM EST),,75 - 91,16,0,499,,,,,,0,0,,,,,,1,0,,,,,,0
+341,0052300131,502,3,27,3,12:00 AM,0:05,,,MISS Wiggins Free Throw Flagrant 1 of 3,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+342,0052300131,503,4,1,3,12:00 AM,0:05,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+343,0052300131,504,3,28,3,12:00 AM,0:05,,,MISS Wiggins Free Throw Flagrant 2 of 3,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+344,0052300131,505,4,1,3,12:00 AM,0:05,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0052300131,506,3,29,3,12:00 AM,0:05,,,Wiggins Free Throw Flagrant 3 of 3 (12 PTS),76 - 91,15,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+346,0052300131,507,8,0,3,12:00 AM,0:05,SUB: Ellis FOR Len,,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+347,0052300131,508,8,0,3,12:00 AM,0:05,,,SUB: Curry FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+348,0052300131,511,2,101,3,12:01 AM,0:01,Ellis BLOCK (3 BLK),,MISS Curry 16' Driving Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1
+349,0052300131,512,4,0,3,12:01 AM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+350,0052300131,514,13,0,3,12:02 AM,0:00,,End of 3rd Period (12:02 AM EST),,76 - 91,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+351,0052300131,526,12,0,4,12:05 AM,12:00,,Start of 4th Period (12:05 AM EST),,76 - 91,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+352,0052300131,527,1,6,4,12:05 AM,11:42,,,Kuminga 3' Driving Layup (14 PTS) (Curry 2 AST),78 - 91,13,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+353,0052300131,529,2,63,4,12:06 AM,11:18,MISS Sabonis 13' Fadeaway Jumper,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+354,0052300131,530,4,0,4,12:06 AM,11:16,Barnes REBOUND (Off:2 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+355,0052300131,531,6,2,4,12:06 AM,11:13,,,Kuminga S.FOUL (P3.T1) (J.Williams),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+356,0052300131,533,3,11,4,12:06 AM,11:13,Sabonis Free Throw 1 of 2 (11 PTS),,,78 - 92,14,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+357,0052300131,534,3,12,4,12:07 AM,11:13,Sabonis Free Throw 2 of 2 (12 PTS),,,78 - 93,15,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+358,0052300131,535,5,1,4,12:07 AM,10:58,Sabonis STEAL (2 STL),,Curry Bad Pass Turnover (P5.T13),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+359,0052300131,537,2,1,4,12:07 AM,10:49,MISS Mitchell 26' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+360,0052300131,538,4,0,4,12:07 AM,10:47,Sabonis REBOUND (Off:1 Def:9),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+361,0052300131,539,1,87,4,12:07 AM,10:43,Sabonis 4' Putback Dunk (14 PTS),,,78 - 95,17,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+362,0052300131,540,2,80,4,12:08 AM,10:29,,,MISS Kuminga 28' 3PT Step Back Jump Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+363,0052300131,541,4,0,4,12:08 AM,10:27,Mitchell REBOUND (Off:2 Def:3),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+364,0052300131,542,2,1,4,12:08 AM,10:15,MISS Sabonis 17' Jump Shot,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+365,0052300131,543,4,0,4,12:08 AM,10:13,,,Curry REBOUND (Off:1 Def:2),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+366,0052300131,544,6,4,4,12:08 AM,9:58,,,Podziemski OFF.Foul (P1) (J.Williams),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+367,0052300131,546,5,37,4,12:08 AM,9:58,,,Podziemski Offensive Foul Turnover (P1.T14),,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+368,0052300131,547,1,63,4,12:09 AM,9:35,Barnes 12' Fadeaway Jumper (10 PTS),,,78 - 97,19,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+369,0052300131,548,9,1,4,12:09 AM,9:35,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+370,0052300131,549,8,0,4,12:10 AM,9:35,,,SUB: Moody FOR Paul,,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+371,0052300131,550,8,0,4,12:10 AM,9:35,,,SUB: Thompson FOR Podziemski,,,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+372,0052300131,551,8,0,4,12:10 AM,9:35,,,SUB: Jackson-Davis FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+373,0052300131,555,1,6,4,12:13 AM,9:20,,,Curry 3' Driving Layup (18 PTS),80 - 97,17,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+374,0052300131,556,1,75,4,12:13 AM,8:58,Mitchell 8' Driving Finger Roll Layup (5 PTS),,,80 - 99,19,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+375,0052300131,557,1,78,4,12:14 AM,8:43,,,Moody 9' Floating Jump Shot (14 PTS) (Green 3 AST),82 - 99,17,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+376,0052300131,559,2,79,4,12:14 AM,8:29,MISS Mitchell 26' 3PT Pullup Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+377,0052300131,560,4,0,4,12:14 AM,8:27,,,Green REBOUND (Off:0 Def:3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+378,0052300131,561,5,39,4,12:14 AM,8:27,,,Green Step Out of Bounds Turnover (P3.T15),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+379,0052300131,562,8,0,4,12:14 AM,8:27,SUB: Fox FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+380,0052300131,563,8,0,4,12:14 AM,8:27,SUB: Murray FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+381,0052300131,566,2,1,4,12:15 AM,8:18,MISS Murray 29' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+382,0052300131,567,4,0,4,12:15 AM,8:16,,,Moody REBOUND (Off:0 Def:3),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+383,0052300131,568,1,44,4,12:15 AM,8:08,,,Curry 6' Reverse Layup (20 PTS) (Green 4 AST),84 - 99,15,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+384,0052300131,570,2,102,4,12:15 AM,7:56,MISS Fox 4' Driving Floating Bank Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+385,0052300131,571,4,0,4,12:15 AM,7:54,,,Curry REBOUND (Off:1 Def:3),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+386,0052300131,572,2,2,4,12:15 AM,7:49,,,MISS Thompson 28' 3PT Running Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+387,0052300131,573,4,0,4,12:15 AM,7:46,Sabonis REBOUND (Off:1 Def:10),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+388,0052300131,574,6,28,4,12:15 AM,7:31,,,Green Personal Take Foul (P3.T2) (A.Smith),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+389,0052300131,576,6,1,4,12:16 AM,7:25,,,Moody P.FOUL (P1.T3) (M.Lindsay),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+390,0052300131,578,2,1,4,12:17 AM,7:18,MISS Fox 26' 3PT Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+391,0052300131,579,4,0,4,12:17 AM,7:15,,,Jackson-Davis REBOUND (Off:0 Def:1),,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+392,0052300131,580,1,43,4,12:17 AM,7:03,,,Moody 4' Alley Oop Layup (16 PTS) (Green 5 AST),86 - 99,13,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+393,0052300131,582,1,1,4,12:17 AM,6:41,Murray 26' 3PT Jump Shot (29 PTS) (Lyles 2 AST),,,86 - 102,16,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+394,0052300131,584,2,1,4,12:18 AM,6:21,,,MISS Thompson 26' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+395,0052300131,585,4,0,4,12:18 AM,6:19,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+396,0052300131,587,8,0,4,12:18 AM,6:19,SUB: Barnes FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+397,0052300131,588,8,0,4,12:18 AM,6:19,,,SUB: Kuminga FOR Moody,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+398,0052300131,591,1,1,4,12:18 AM,6:09,Barnes 26' 3PT Jump Shot (13 PTS) (Ellis 4 AST),,,86 - 105,19,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+399,0052300131,593,5,39,4,12:19 AM,5:57,,,Curry Step Out of Bounds Turnover (P6.T16),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+400,0052300131,594,8,0,4,12:19 AM,5:57,,,SUB: Paul FOR Jackson-Davis,,,5,1631218,Trayce Jackson-Davis,1610612744.0,Golden State,Warriors,GSW,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+401,0052300131,596,5,4,4,12:19 AM,5:44,Ellis Traveling Turnover (P3.T7),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+402,0052300131,597,2,1,4,12:20 AM,5:32,,,MISS Curry 29' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+403,0052300131,598,4,0,4,12:20 AM,5:29,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+404,0052300131,600,6,2,4,12:20 AM,5:11,,,Thompson S.FOUL (P1.T4) (A.Smith),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+405,0052300131,602,3,11,4,12:21 AM,5:11,Barnes Free Throw 1 of 2 (14 PTS),,,86 - 106,20,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+406,0052300131,603,9,1,4,12:21 AM,5:11,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+407,0052300131,604,3,12,4,12:24 AM,5:11,Barnes Free Throw 2 of 2 (15 PTS),,,86 - 107,21,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+408,0052300131,605,2,80,4,12:25 AM,4:52,,,MISS Kuminga 17' Step Back Jump Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+409,0052300131,606,4,0,4,12:25 AM,4:49,Murray REBOUND (Off:2 Def:6),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+410,0052300131,607,6,2,4,12:25 AM,4:39,,,Thompson S.FOUL (P2.PN) (J.Williams),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+411,0052300131,609,3,11,4,12:26 AM,4:39,Barnes Free Throw 1 of 2 (16 PTS),,,86 - 108,22,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+412,0052300131,610,3,12,4,12:26 AM,4:39,Barnes Free Throw 2 of 2 (17 PTS),,,86 - 109,23,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+413,0052300131,611,6,2,4,12:26 AM,4:24,Fox S.FOUL (P3.T1) (M.Lindsay),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+414,0052300131,613,3,11,4,12:27 AM,4:24,,,MISS Kuminga Free Throw 1 of 2,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+415,0052300131,614,4,1,4,12:27 AM,4:24,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+416,0052300131,615,3,12,4,12:27 AM,4:24,,,Kuminga Free Throw 2 of 2 (15 PTS),87 - 109,22,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+417,0052300131,616,1,43,4,12:27 AM,4:14,Sabonis 6' Alley Oop Layup (16 PTS) (Ellis 5 AST),,,87 - 111,24,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+418,0052300131,618,2,80,4,12:27 AM,4:01,,,MISS Paul 29' 3PT Step Back Jump Shot,,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+419,0052300131,619,4,0,4,12:27 AM,3:59,Sabonis REBOUND (Off:1 Def:11),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+420,0052300131,622,5,40,4,12:28 AM,3:41,Murray Out of Bounds Lost Ball Turnover (P3.T8),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+421,0052300131,623,7,5,4,12:28 AM,3:34,Ellis Violation:Kicked Ball (A.Smith),,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+422,0052300131,624,1,98,4,12:28 AM,3:28,,,Curry 3' Cutting Layup Shot (22 PTS) (Green 6 AST),89 - 111,22,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+423,0052300131,626,2,79,4,12:29 AM,3:01,MISS Barnes 15' Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+424,0052300131,627,4,0,4,12:29 AM,2:59,Murray REBOUND (Off:3 Def:6),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+425,0052300131,628,1,101,4,12:29 AM,2:42,Ellis 14' Driving Floating Jump Shot (15 PTS) (Fox 5 AST),,,89 - 113,24,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+426,0052300131,630,6,2,4,12:29 AM,2:32,Sabonis S.FOUL (P5.T2) (A.Smith),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+427,0052300131,632,3,11,4,12:30 AM,2:32,,,Kuminga Free Throw 1 of 2 (16 PTS),90 - 113,23,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+428,0052300131,633,3,12,4,12:30 AM,2:32,,,MISS Kuminga Free Throw 2 of 2,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+429,0052300131,634,4,0,4,12:30 AM,2:29,Barnes REBOUND (Off:2 Def:2),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+430,0052300131,635,1,1,4,12:30 AM,2:15,Murray 27' 3PT Jump Shot (32 PTS) (Fox 6 AST),,,90 - 116,26,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+431,0052300131,637,9,1,4,12:31 AM,2:13,,,Warriors Timeout: Regular (Reg.6 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+432,0052300131,638,8,0,4,12:31 AM,2:13,SUB: Vezenkov FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628426,Sasha Vezenkov,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+433,0052300131,639,8,0,4,12:31 AM,2:13,SUB: McGee FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,201580,JaVale McGee,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+434,0052300131,640,8,0,4,12:31 AM,2:13,SUB: Jones FOR Murray,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1641732,Colby Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+435,0052300131,641,8,0,4,12:31 AM,2:13,SUB: Edwards FOR Ellis,,,,,4,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+436,0052300131,642,8,0,4,12:31 AM,2:13,SUB: Mitchell FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+437,0052300131,643,8,0,4,12:31 AM,2:13,,,SUB: Quinones FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1631311,Lester Quinones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+438,0052300131,644,8,0,4,12:31 AM,2:13,,,SUB: Santos FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+439,0052300131,645,8,0,4,12:31 AM,2:13,,,SUB: Garuba FOR Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630586,Usman Garuba,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+440,0052300131,646,8,0,4,12:31 AM,2:13,,,SUB: Moody FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+441,0052300131,647,8,0,4,12:31 AM,2:13,,,SUB: Podziemski FOR Paul,,,5,101108,Chris Paul,1610612744.0,Golden State,Warriors,GSW,5,1641764,Brandin Podziemski,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+442,0052300131,658,2,79,4,12:32 AM,1:57,,,MISS Moody 17' Pullup Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+443,0052300131,659,4,0,4,12:32 AM,1:55,,,Quinones REBOUND (Off:1 Def:0),,,5,1631311,Lester Quinones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+444,0052300131,660,6,2,4,12:33 AM,1:54,Edwards S.FOUL (P1.T3) (M.Lindsay),,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,5,1631311,Lester Quinones,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+445,0052300131,662,3,11,4,12:33 AM,1:54,,,Quinones Free Throw 1 of 2 (1 PTS),91 - 116,25,5,1631311,Lester Quinones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+446,0052300131,663,3,12,4,12:33 AM,1:54,,,Quinones Free Throw 2 of 2 (2 PTS),92 - 116,24,5,1631311,Lester Quinones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+447,0052300131,664,2,1,4,12:34 AM,1:32,MISS Vezenkov 28' 3PT Jump Shot,,,,,4,1628426,Sasha Vezenkov,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+448,0052300131,665,4,0,4,12:34 AM,1:28,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+449,0052300131,667,2,101,4,12:34 AM,1:14,MISS Jones 13' Driving Floating Jump Shot,,,,,4,1641732,Colby Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+450,0052300131,668,4,0,4,12:34 AM,1:12,,,Garuba REBOUND (Off:0 Def:1),,,5,1630586,Usman Garuba,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+451,0052300131,669,2,41,4,12:34 AM,1:07,McGee BLOCK (1 BLK),,MISS Garuba 4' Running Layup,,,5,1630586,Usman Garuba,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201580,JaVale McGee,1610612758.0,Sacramento,Kings,SAC,1
+452,0052300131,671,4,0,4,12:34 AM,1:05,Vezenkov REBOUND (Off:0 Def:1),,,,,4,1628426,Sasha Vezenkov,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+453,0052300131,672,1,9,4,12:35 AM,0:56,McGee 5' Driving Dunk (2 PTS) (Jones 1 AST),,,92 - 118,26,4,201580,JaVale McGee,1610612758.0,Sacramento,Kings,SAC,4,1641732,Colby Jones,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+454,0052300131,674,1,75,4,12:35 AM,0:44,,,Quinones 7' Driving Finger Roll Layup (4 PTS) (Garuba 1 AST),94 - 118,24,5,1631311,Lester Quinones,1610612744.0,Golden State,Warriors,GSW,5,1630586,Usman Garuba,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+455,0052300131,675,7,2,4,12:35 AM,0:44,McGee Violation:Defensive Goaltending (A.Smith),,,,,4,201580,JaVale McGee,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+456,0052300131,676,2,79,4,12:35 AM,0:26,MISS Mitchell 16' Pullup Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+457,0052300131,677,4,0,4,12:35 AM,0:24,,,Santos REBOUND (Off:0 Def:1),,,5,1630611,Gui Santos,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+458,0052300131,678,2,79,4,12:36 AM,0:13,,,MISS Quinones 27' 3PT Pullup Jump Shot,,,5,1631311,Lester Quinones,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+459,0052300131,679,4,0,4,12:36 AM,0:11,Edwards REBOUND (Off:0 Def:1),,,,,4,1630556,Kessler Edwards,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+460,0052300131,680,13,0,4,12:36 AM,0:00,,End of 4th Period (12:36 AM EST),,94 - 118,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

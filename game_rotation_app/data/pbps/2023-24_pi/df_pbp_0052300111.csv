@@ -1,0 +1,449 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0052300111,2,12,0,1,9:50 PM,12:00,,Start of 1st Period (9:50 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0052300111,4,10,0,1,9:50 PM,12:00,Jump Ball Vucevic vs. Capela: Tip to Bogdanovic,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1
+2,0052300111,7,2,80,1,9:50 PM,11:44,,,MISS Hunter 12' Step Back Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+3,0052300111,8,4,0,1,9:50 PM,11:41,Caruso REBOUND (Off:0 Def:1),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+4,0052300111,9,2,86,1,9:50 PM,11:29,MISS DeRozan 16' Turnaround Fadeaway Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+5,0052300111,10,4,0,1,9:50 PM,11:28,,,Capela REBOUND (Off:0 Def:1),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+6,0052300111,11,2,101,1,9:50 PM,11:18,,,MISS Young 9' Driving Floating Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+7,0052300111,12,4,0,1,9:50 PM,11:14,Vucevic REBOUND (Off:0 Def:1),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+8,0052300111,13,2,1,1,9:51 PM,11:06,MISS Dosunmu 24' 3PT Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+9,0052300111,14,4,0,1,9:51 PM,11:03,,,Capela REBOUND (Off:0 Def:2),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+10,0052300111,15,1,79,1,9:51 PM,10:53,,,Murray 13' Pullup Jump Shot (2 PTS),2 - 0,-2,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+11,0052300111,16,1,44,1,9:51 PM,10:36,Vucevic 1' Reverse Layup (2 PTS) (DeRozan 1 AST),,,2 - 2,TIE,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+12,0052300111,18,1,58,1,9:51 PM,10:18,,,Capela 8' Turnaround Hook Shot (2 PTS) (Hunter 1 AST),4 - 2,-2,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+13,0052300111,20,1,6,1,9:52 PM,10:00,Vucevic 2' Driving Layup (4 PTS),,,4 - 4,TIE,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+14,0052300111,21,1,98,1,9:52 PM,9:48,,,Capela 1' Cutting Layup Shot (4 PTS) (Young 1 AST),6 - 4,-2,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+15,0052300111,23,2,1,1,9:52 PM,9:38,MISS Vucevic 26' 3PT Jump Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+16,0052300111,24,4,0,1,9:52 PM,9:35,,,Hunter REBOUND (Off:0 Def:1),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+17,0052300111,25,2,2,1,9:52 PM,9:31,,,MISS Murray 26' 3PT Running Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+18,0052300111,26,4,0,1,9:52 PM,9:27,White REBOUND (Off:0 Def:1),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+19,0052300111,27,6,2,1,9:52 PM,9:25,,,Hunter S.FOUL (P1.T1) (N.Buchert),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+20,0052300111,29,3,11,1,9:53 PM,9:25,White Free Throw 1 of 2 (1 PTS),,,6 - 5,-1,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+21,0052300111,30,3,12,1,9:53 PM,9:25,White Free Throw 2 of 2 (2 PTS),,,6 - 6,TIE,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+22,0052300111,31,1,80,1,9:53 PM,9:08,,,Murray 18' Step Back Jump Shot (4 PTS) (Hunter 2 AST),8 - 6,-2,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+23,0052300111,33,1,6,1,9:54 PM,8:59,Dosunmu 3' Driving Layup (2 PTS),,,8 - 8,TIE,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+24,0052300111,34,7,2,1,9:54 PM,8:59,,,Bogdanovic Violation:Defensive Goaltending (T.Ford),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+25,0052300111,36,6,4,1,9:54 PM,8:57,,,Young OFF.Foul (P1) (T.Ford),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+26,0052300111,38,5,37,1,9:54 PM,8:57,,,Young Offensive Foul Turnover (P1.T1),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+27,0052300111,39,2,1,1,9:54 PM,8:40,MISS Vucevic 3PT Jump Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+28,0052300111,40,4,0,1,9:54 PM,8:37,,,Murray REBOUND (Off:0 Def:1),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+29,0052300111,41,5,45,1,9:55 PM,8:24,,,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+30,0052300111,42,2,78,1,9:55 PM,8:11,MISS Vucevic 7' Floating Jump Shot,,Bogdanovic BLOCK (1 BLK),,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1
+31,0052300111,44,4,0,1,9:55 PM,8:09,,,Bogdanovic REBOUND (Off:0 Def:1),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+32,0052300111,45,2,41,1,9:55 PM,8:06,,,MISS Capela 2' Running Layup,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+33,0052300111,46,4,0,1,9:55 PM,8:04,Vucevic REBOUND (Off:0 Def:2),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+34,0052300111,47,1,5,1,9:55 PM,7:56,Vucevic 1' Layup (6 PTS) (DeRozan 2 AST),,,8 - 10,2,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+35,0052300111,49,6,2,1,9:56 PM,7:46,Dosunmu S.FOUL (P1.T1) (N.Buchert),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+36,0052300111,51,3,11,1,9:56 PM,7:46,,,Murray Free Throw 1 of 2 (5 PTS),9 - 10,1,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+37,0052300111,52,3,12,1,9:56 PM,7:46,,,Murray Free Throw 2 of 2 (6 PTS),10 - 10,TIE,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+38,0052300111,53,1,1,1,9:57 PM,7:33,Caruso 24' 3PT Jump Shot (3 PTS) (DeRozan 3 AST),,,10 - 13,3,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+39,0052300111,55,2,1,1,9:57 PM,7:20,,,MISS Bogdanovic 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+40,0052300111,56,4,0,1,9:57 PM,7:18,Vucevic REBOUND (Off:0 Def:3),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+41,0052300111,57,2,41,1,9:57 PM,7:12,MISS DeRozan 2' Running Layup,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+42,0052300111,58,4,0,1,9:57 PM,7:10,,,Capela REBOUND (Off:0 Def:3),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+43,0052300111,59,2,79,1,9:57 PM,7:04,Dosunmu BLOCK (1 BLK),,MISS Murray 11' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1
+44,0052300111,61,4,0,1,9:57 PM,7:01,White REBOUND (Off:0 Def:2),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+45,0052300111,62,2,1,1,9:57 PM,6:55,MISS Caruso 25' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+46,0052300111,63,4,0,1,9:57 PM,6:55,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+47,0052300111,65,9,1,1,9:57 PM,6:54,BULLS Timeout: Regular (Full 1 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+48,0052300111,66,8,0,1,10:00 PM,6:54,,,SUB: Mathews FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+49,0052300111,68,2,1,1,10:01 PM,6:39,,,MISS Young 27' 3PT Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+50,0052300111,69,4,0,1,10:01 PM,6:34,White REBOUND (Off:0 Def:3),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+51,0052300111,70,2,41,1,10:01 PM,6:31,MISS Dosunmu 1' Running Layup,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+52,0052300111,71,4,0,1,10:01 PM,6:29,,,Capela REBOUND (Off:0 Def:4),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+53,0052300111,72,6,2,1,10:02 PM,6:21,White S.FOUL (P1.T2) (T.Ford),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+54,0052300111,74,9,1,1,10:02 PM,6:21,BULLS Timeout: Regular (Full 2 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+55,0052300111,75,18,4,1,10:02 PM,6:21,,Instant Replay1st Period (10:02 PM EST),,10 - 13,3,0,72,Kenny Anderson,,,,,0,0,,,,,,1,0,,,,,,0
+56,0052300111,76,3,13,1,10:06 PM,6:21,,,MISS Murray Free Throw 1 of 3,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+57,0052300111,77,4,1,1,10:06 PM,6:21,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+58,0052300111,78,3,14,1,10:06 PM,6:21,,,Murray Free Throw 2 of 3 (7 PTS),11 - 13,2,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+59,0052300111,79,3,15,1,10:06 PM,6:21,,,Murray Free Throw 3 of 3 (8 PTS),12 - 13,1,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+60,0052300111,80,1,1,1,10:06 PM,6:09,DeRozan 3PT Jump Shot (3 PTS) (White 1 AST),,,12 - 16,4,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+61,0052300111,82,2,79,1,10:07 PM,5:53,,,MISS Hunter 13' Pullup Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+62,0052300111,83,4,0,1,10:07 PM,5:49,Vucevic REBOUND (Off:0 Def:4),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+63,0052300111,84,6,2,1,10:07 PM,5:45,,,Mathews S.FOUL (P1.T2) (M.Davis),,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+64,0052300111,86,3,11,1,10:07 PM,5:45,White Free Throw 1 of 2 (3 PTS),,,12 - 17,5,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+65,0052300111,89,3,12,1,10:07 PM,5:45,White Free Throw 2 of 2 (4 PTS),,,12 - 18,6,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+66,0052300111,87,8,0,1,10:07 PM,5:45,SUB: Terry FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+67,0052300111,90,6,2,1,10:08 PM,5:36,Terry S.FOUL (P1.T3) (M.Davis),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+68,0052300111,92,3,11,1,10:08 PM,5:36,,,Young Free Throw 1 of 2 (1 PTS),13 - 18,5,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+69,0052300111,93,3,12,1,10:08 PM,5:36,,,MISS Young Free Throw 2 of 2,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+70,0052300111,94,4,0,1,10:08 PM,5:33,Vucevic REBOUND (Off:0 Def:5),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+71,0052300111,95,1,79,1,10:09 PM,5:20,DeRozan 22' Pullup Jump Shot (5 PTS),,,13 - 20,7,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+72,0052300111,96,1,79,1,10:09 PM,5:04,,,Murray 3PT Pullup Jump Shot (11 PTS),16 - 20,4,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+73,0052300111,97,1,79,1,10:09 PM,4:50,White 10' Pullup Jump Shot (6 PTS),,,16 - 22,6,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+74,0052300111,98,1,58,1,10:09 PM,4:35,,,Capela 5' Turnaround Hook Shot (6 PTS) (Murray 1 AST),18 - 22,4,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+75,0052300111,100,1,79,1,10:10 PM,4:20,DeRozan 18' Pullup Jump Shot (7 PTS),,,18 - 24,6,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+76,0052300111,101,2,79,1,10:10 PM,4:03,,,MISS Hunter 27' 3PT Pullup Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+77,0052300111,102,4,0,1,10:10 PM,4:01,Terry REBOUND (Off:0 Def:1),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+78,0052300111,103,2,1,1,10:10 PM,3:44,MISS Terry 3PT Jump Shot,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+79,0052300111,104,4,0,1,10:10 PM,3:40,,,Capela REBOUND (Off:0 Def:5),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+80,0052300111,105,1,52,1,10:10 PM,3:31,,,Capela 1' Alley Oop Dunk (8 PTS) (Young 2 AST),20 - 24,4,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+81,0052300111,107,6,1,1,10:11 PM,3:18,,,Mathews P.FOUL (P2.T3) (T.Ford),,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+82,0052300111,109,8,0,1,10:11 PM,3:18,SUB: Caruso FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+83,0052300111,110,8,0,1,10:11 PM,3:18,SUB: Drummond FOR Vucevic,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+84,0052300111,111,8,0,1,10:11 PM,3:18,,,SUB: Fernando FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+85,0052300111,115,8,0,1,10:11 PM,3:18,,,SUB: Bogdanovic FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+86,0052300111,117,1,1,1,10:11 PM,3:05,Dosunmu 25' 3PT Jump Shot (5 PTS) (DeRozan 4 AST),,,20 - 27,7,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+87,0052300111,119,2,79,1,10:12 PM,2:40,,,MISS Murray 14' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+88,0052300111,120,4,0,1,10:12 PM,2:36,Drummond REBOUND (Off:0 Def:1),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+89,0052300111,121,1,5,1,10:12 PM,2:23,Drummond 2' Layup (2 PTS),,,20 - 29,9,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+90,0052300111,123,9,1,1,10:12 PM,2:23,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+91,0052300111,124,8,0,1,10:13 PM,2:23,,,SUB: Matthews FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,202083,Wesley Matthews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+92,0052300111,126,8,0,1,10:13 PM,2:23,,,SUB: Gueye FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1631243,Mouhamed Gueye,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+93,0052300111,128,2,1,1,10:14 PM,2:09,,,MISS Matthews 3PT Jump Shot,,,5,202083,Wesley Matthews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+94,0052300111,129,4,0,1,10:14 PM,2:06,Drummond REBOUND (Off:0 Def:2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+95,0052300111,130,1,79,1,10:14 PM,1:55,DeRozan 18' Pullup Jump Shot (9 PTS),,,20 - 31,11,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+96,0052300111,131,2,80,1,10:15 PM,1:40,,,MISS Bogdanovic 27' 3PT Step Back Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+97,0052300111,132,4,0,1,10:15 PM,1:37,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+98,0052300111,133,5,7,1,10:15 PM,1:35,Dosunmu Discontinue Dribble Turnover (P1.T1),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+99,0052300111,134,8,0,1,10:15 PM,1:35,SUB: White FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+100,0052300111,136,5,1,1,10:15 PM,1:18,White STEAL (1 STL),,Young Bad Pass Turnover (P3.T3),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+101,0052300111,141,1,98,1,10:16 PM,1:13,DeRozan Cutting Layup Shot (11 PTS),,,20 - 33,13,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+102,0052300111,142,2,80,1,10:16 PM,1:05,,,MISS Young 27' 3PT Step Back Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+103,0052300111,143,4,0,1,10:16 PM,1:04,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+104,0052300111,145,1,6,1,10:16 PM,0:56,,,Bogdanovic 3' Driving Layup (2 PTS) (Fernando 1 AST),22 - 33,11,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+105,0052300111,146,1,79,1,10:16 PM,0:50,White 25' 3PT Pullup Jump Shot (9 PTS) (DeRozan 5 AST),,,22 - 36,14,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+106,0052300111,148,5,45,1,10:16 PM,0:39,,,Young Out of Bounds - Bad Pass Turnover Turnover (P4.T4),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+107,0052300111,149,2,6,1,10:17 PM,0:28,MISS Terry 3' Driving Layup,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+108,0052300111,150,4,0,1,10:17 PM,0:26,Drummond REBOUND (Off:1 Def:2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+109,0052300111,151,1,97,1,10:17 PM,0:26,Drummond Tip Layup Shot (4 PTS),,,22 - 38,16,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+110,0052300111,152,5,1,1,10:17 PM,0:08,Caruso STEAL (1 STL),,Young Bad Pass Turnover (P5.T5),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+111,0052300111,154,1,50,1,10:17 PM,0:04,Terry 1' Running Dunk (2 PTS) (Caruso 1 AST),,,22 - 40,18,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+112,0052300111,156,2,63,1,10:17 PM,0:00,,,MISS Bogdanovic 24' 3PT Fadeaway Jumper,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+113,0052300111,157,4,0,1,10:17 PM,0:00,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+114,0052300111,158,13,0,1,10:18 PM,0:00,,End of 1st Period (10:18 PM EST),,22 - 40,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+115,0052300111,168,12,0,2,10:21 PM,12:00,,Start of 2nd Period (10:21 PM EST),,22 - 40,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+116,0052300111,169,6,26,2,10:21 PM,11:49,Drummond Offensive Charge Foul (P1) (T.Ford),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+117,0052300111,171,5,37,2,10:21 PM,11:49,Drummond Offensive Foul Turnover (P1.T2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+118,0052300111,172,1,79,2,10:22 PM,11:38,,,Murray 16' Pullup Jump Shot (13 PTS) (Bogdanovic 1 AST),24 - 40,16,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+119,0052300111,174,6,2,2,10:22 PM,11:38,Carter S.FOUL (P1.T1) (M.Davis),,,,,4,1628975,Jevon Carter,1610612741.0,Chicago,Bulls,CHI,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+120,0052300111,176,3,10,2,10:22 PM,11:38,,,Murray Free Throw 1 of 1 (14 PTS),25 - 40,15,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+121,0052300111,177,2,79,2,10:23 PM,11:18,MISS White 17' Pullup Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+122,0052300111,178,4,0,2,10:23 PM,11:16,,,Murray REBOUND (Off:0 Def:2),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+123,0052300111,179,1,41,2,10:23 PM,11:13,,,Fernando 1' Running Layup (2 PTS) (Murray 2 AST),27 - 40,13,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+124,0052300111,181,6,2,2,10:23 PM,11:13,Green S.FOUL (P1.T2) (T.Ford),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+125,0052300111,183,3,10,2,10:23 PM,11:13,,,Fernando Free Throw 1 of 1 (3 PTS),28 - 40,12,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+126,0052300111,184,9,1,2,10:23 PM,11:13,BULLS Timeout: Regular (Full 3 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0052300111,185,8,0,2,10:26 PM,11:13,SUB: Dosunmu FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+128,0052300111,187,2,108,2,10:27 PM,11:01,MISS Drummond 1' Cutting Dunk Shot,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+129,0052300111,188,4,0,2,10:27 PM,10:59,,,Fernando REBOUND (Off:0 Def:1),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+130,0052300111,189,1,1,2,10:27 PM,10:52,,,Mathews 26' 3PT Jump Shot (3 PTS) (Murray 3 AST),31 - 40,9,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+131,0052300111,191,2,6,2,10:28 PM,10:30,MISS Dosunmu 2' Driving Layup,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+132,0052300111,192,4,0,2,10:28 PM,10:27,,,Bogdanovic REBOUND (Off:0 Def:2),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+133,0052300111,195,1,1,2,10:28 PM,10:19,,,Murray 13' Jump Shot (16 PTS) (Matthews 1 AST),33 - 40,7,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,202083,Wesley Matthews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+134,0052300111,197,6,1,2,10:28 PM,10:11,,,Fernando P.FOUL (P1.T1) (M.Davis),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+135,0052300111,199,8,0,2,10:28 PM,10:11,SUB: Vucevic FOR Drummond,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+136,0052300111,200,8,0,2,10:28 PM,10:11,SUB: DeRozan FOR Carter,,,,,4,1628975,Jevon Carter,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+137,0052300111,203,2,86,2,10:29 PM,10:02,MISS DeRozan 15' Turnaround Fadeaway Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+138,0052300111,204,4,0,2,10:29 PM,9:59,Green REBOUND (Off:1 Def:0),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+139,0052300111,205,2,97,2,10:29 PM,9:59,MISS Green Tip Layup Shot,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+140,0052300111,206,4,0,2,10:29 PM,9:59,,,Bogdanovic REBOUND (Off:0 Def:3),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+141,0052300111,207,1,103,2,10:29 PM,9:56,,,Murray 27' 3PT Running Pull-Up Jump Shot (19 PTS),36 - 40,4,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+142,0052300111,208,6,2,2,10:29 PM,9:47,,,Mathews S.FOUL (P3.T2) (N.Buchert),,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+143,0052300111,210,3,11,2,10:29 PM,9:47,White Free Throw 1 of 2 (10 PTS),,,36 - 41,5,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+144,0052300111,211,8,0,2,10:29 PM,9:47,,,SUB: Hunter FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+145,0052300111,213,3,12,2,10:30 PM,9:47,White Free Throw 2 of 2 (11 PTS),,,36 - 42,6,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+146,0052300111,214,2,79,2,10:30 PM,9:31,,,MISS Murray 11' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+147,0052300111,215,4,0,2,10:30 PM,9:29,Green REBOUND (Off:1 Def:1),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+148,0052300111,216,1,103,2,10:30 PM,9:27,Dosunmu 26' 3PT Running Pull-Up Jump Shot (8 PTS) (Vucevic 1 AST),,,36 - 45,9,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+149,0052300111,218,1,3,2,10:30 PM,9:10,,,Fernando 9' Hook Shot (5 PTS) (Murray 4 AST),38 - 45,7,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+150,0052300111,220,5,2,2,10:31 PM,8:56,Green Lost Ball Turnover (P1.T3),,Bogdanovic STEAL (1 STL),,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+151,0052300111,222,1,41,2,10:31 PM,8:52,,,Bogdanovic Running Layup (4 PTS) (Hunter 3 AST),40 - 45,5,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+152,0052300111,224,1,1,2,10:31 PM,8:36,DeRozan 20' Jump Shot (13 PTS) (White 2 AST),,,40 - 47,7,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+153,0052300111,226,1,101,2,10:31 PM,8:22,,,Murray 7' Driving Floating Jump Shot (21 PTS),42 - 47,5,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+154,0052300111,227,6,2,2,10:31 PM,8:09,,,Fernando S.FOUL (P2.T3) (T.Ford),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+155,0052300111,229,3,11,2,10:32 PM,8:09,MISS Vucevic Free Throw 1 of 2,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+156,0052300111,230,4,1,2,10:32 PM,8:09,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+157,0052300111,231,8,0,2,10:32 PM,8:09,,,SUB: Young FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+158,0052300111,232,8,0,2,10:32 PM,8:09,,,SUB: Capela FOR Fernando,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+159,0052300111,235,3,12,2,10:32 PM,8:09,Vucevic Free Throw 2 of 2 (7 PTS),,,42 - 48,6,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+160,0052300111,236,2,1,2,10:33 PM,7:55,,,MISS Murray 24' 3PT Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+161,0052300111,237,4,0,2,10:33 PM,7:50,White REBOUND (Off:0 Def:4),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+162,0052300111,238,2,101,2,10:33 PM,7:41,MISS Vucevic 7' Driving Floating Jump Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+163,0052300111,239,4,0,2,10:33 PM,7:39,Vucevic REBOUND (Off:1 Def:5),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+164,0052300111,240,1,1,2,10:33 PM,7:35,Green 25' 3PT Jump Shot (3 PTS) (White 3 AST),,,42 - 51,9,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+165,0052300111,242,2,1,2,10:33 PM,7:13,,,MISS Hunter 16' Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+166,0052300111,243,4,0,2,10:33 PM,7:11,Green REBOUND (Off:1 Def:2),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+167,0052300111,244,6,1,2,10:33 PM,7:03,,,Murray P.FOUL (P1.T4) (N.Buchert),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+168,0052300111,246,1,101,2,10:34 PM,6:54,DeRozan 5' Driving Floating Jump Shot (15 PTS),,,42 - 53,11,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+169,0052300111,247,1,3,2,10:34 PM,6:40,,,Capela 7' Hook Shot (10 PTS) (Young 3 AST),44 - 53,9,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+170,0052300111,249,1,58,2,10:34 PM,6:23,Vucevic 5' Turnaround Hook Shot (9 PTS) (Green 1 AST),,,44 - 55,11,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+171,0052300111,251,2,63,2,10:35 PM,6:01,Dosunmu BLOCK (2 BLK),,MISS Hunter 10' Fadeaway Jumper,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1
+172,0052300111,253,4,0,2,10:35 PM,5:58,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+173,0052300111,254,1,50,2,10:35 PM,5:58,DeRozan 1' Running Dunk (17 PTS),,,44 - 57,13,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+174,0052300111,256,6,2,2,10:35 PM,5:58,,,Murray S.FOUL (P2.PN) (M.Davis),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+175,0052300111,255,9,1,2,10:35 PM,5:58,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+176,0052300111,258,8,0,2,10:39 PM,5:58,,,SUB: Bogdanovic FOR Matthews,,,5,202083,Wesley Matthews,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+177,0052300111,260,3,10,2,10:39 PM,5:58,DeRozan Free Throw 1 of 1 (18 PTS),,,44 - 58,14,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+178,0052300111,261,1,79,2,10:39 PM,5:47,,,Young 27' 3PT Pullup Jump Shot (4 PTS),47 - 58,11,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+179,0052300111,262,2,101,2,10:39 PM,5:33,MISS Green 6' Driving Floating Jump Shot,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+180,0052300111,263,4,0,2,10:39 PM,5:30,,,Capela REBOUND (Off:0 Def:6),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+181,0052300111,264,1,58,2,10:40 PM,5:19,,,Capela 4' Turnaround Hook Shot (12 PTS) (Young 4 AST),49 - 58,9,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+182,0052300111,266,1,75,2,10:40 PM,4:55,White 2' Driving Finger Roll Layup (13 PTS),,,49 - 60,11,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+183,0052300111,267,6,2,2,10:40 PM,4:48,White S.FOUL (P2.T3) (N.Buchert),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+184,0052300111,269,3,11,2,10:41 PM,4:48,,,Young Free Throw 1 of 2 (5 PTS),50 - 60,10,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+185,0052300111,270,8,0,2,10:41 PM,4:48,SUB: Caruso FOR Green,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+186,0052300111,272,3,12,2,10:41 PM,4:48,,,Young Free Throw 2 of 2 (6 PTS),51 - 60,9,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+187,0052300111,273,1,75,2,10:41 PM,4:25,White 1' Driving Finger Roll Layup (15 PTS),,,51 - 62,11,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+188,0052300111,274,2,79,2,10:41 PM,4:08,,,MISS Murray 17' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+189,0052300111,275,4,0,2,10:42 PM,4:05,Vucevic REBOUND (Off:1 Def:6),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+190,0052300111,276,1,41,2,10:42 PM,4:00,Dosunmu 1' Running Layup (10 PTS) (Caruso 2 AST),,,51 - 64,13,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+191,0052300111,278,1,52,2,10:42 PM,3:44,,,Capela 1' Alley Oop Dunk (14 PTS) (Young 5 AST),53 - 64,11,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+192,0052300111,280,1,102,2,10:42 PM,3:17,Dosunmu 4' Driving Floating Bank Jump Shot (12 PTS),,,53 - 66,13,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+193,0052300111,282,2,1,2,10:43 PM,2:59,,,MISS Young 31' 3PT Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+194,0052300111,284,2,97,2,10:43 PM,2:52,,,MISS Bogdanovic Tip Layup Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+195,0052300111,283,4,0,2,10:43 PM,2:52,,,Bogdanovic REBOUND (Off:1 Def:3),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+196,0052300111,285,4,0,2,10:43 PM,2:52,,,Capela REBOUND (Off:1 Def:6),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+197,0052300111,286,1,79,2,10:43 PM,2:50,,,Bogdanovic 3PT Pullup Jump Shot (7 PTS) (Capela 1 AST),56 - 66,10,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+198,0052300111,288,5,1,2,10:44 PM,2:26,DeRozan Bad Pass Turnover (P1.T4),,Murray STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+199,0052300111,290,6,31,2,10:44 PM,2:25,Caruso Transition Take Foul (P1.T4) (M.Davis),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+200,0052300111,292,3,10,2,10:44 PM,2:25,,,Young Free Throw 1 of 1 (7 PTS),57 - 66,9,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+201,0052300111,293,6,2,2,10:44 PM,2:20,Dosunmu S.FOUL (P2.PN) (N.Buchert),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+202,0052300111,295,3,11,2,10:45 PM,2:20,,,MISS Young Free Throw 1 of 2,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+203,0052300111,296,4,1,2,10:45 PM,2:20,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+204,0052300111,297,3,12,2,10:45 PM,2:20,,,Young Free Throw 2 of 2 (8 PTS),58 - 66,8,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+205,0052300111,299,1,3,2,10:45 PM,2:02,Vucevic 6' Hook Shot (11 PTS) (DeRozan 6 AST),,,58 - 68,10,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+206,0052300111,301,1,80,2,10:46 PM,1:45,,,Bogdanovic 26' 3PT Step Back Jump Shot (10 PTS),61 - 68,7,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+207,0052300111,302,2,79,2,10:46 PM,1:28,MISS DeRozan 18' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+208,0052300111,303,4,0,2,10:46 PM,1:26,,,Murray REBOUND (Off:0 Def:3),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+209,0052300111,304,1,75,2,10:46 PM,1:10,,,Murray 2' Driving Finger Roll Layup (23 PTS),63 - 68,5,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+210,0052300111,305,2,1,2,10:47 PM,0:54,MISS Vucevic 25' 3PT Jump Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+211,0052300111,306,4,0,2,10:47 PM,0:51,,,Bogdanovic REBOUND (Off:1 Def:4),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+212,0052300111,307,6,2,2,10:47 PM,0:43,Caruso S.FOUL (P2.PN) (T.Ford),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+213,0052300111,309,3,11,2,10:47 PM,0:43,,,Young Free Throw 1 of 2 (9 PTS),64 - 68,4,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+214,0052300111,310,3,12,2,10:48 PM,0:43,,,Young Free Throw 2 of 2 (10 PTS),65 - 68,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+215,0052300111,311,1,73,2,10:48 PM,0:32,White 1' Driving Reverse Layup (17 PTS),,,65 - 70,5,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+216,0052300111,312,1,52,2,10:48 PM,0:26,,,Capela Alley Oop Dunk (16 PTS) (Young 6 AST),67 - 70,3,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+217,0052300111,314,1,1,2,10:48 PM,0:16,Caruso 3PT Jump Shot (6 PTS) (White 4 AST),,,67 - 73,6,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+218,0052300111,316,13,0,2,10:49 PM,0:00,,End of 2nd Period (10:49 PM EST),,67 - 73,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+219,0052300111,317,12,0,3,11:04 PM,12:00,,Start of 3rd Period (11:04 PM EST),,67 - 73,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+220,0052300111,318,2,1,3,11:05 PM,11:39,MISS White 25' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+221,0052300111,319,4,0,3,11:05 PM,11:38,,,Capela REBOUND (Off:1 Def:7),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+222,0052300111,320,1,2,3,11:05 PM,11:33,,,Murray 3PT Running Jump Shot (26 PTS) (Bogdanovic 2 AST),70 - 73,3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+223,0052300111,322,6,26,3,11:05 PM,11:28,Dosunmu Offensive Charge Foul (P3) (T.Ford),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+224,0052300111,324,5,37,3,11:05 PM,11:28,Dosunmu Offensive Foul Turnover (P2.T5),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+225,0052300111,325,2,79,3,11:05 PM,11:09,,,MISS Bogdanovic 12' Pullup Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+226,0052300111,326,4,0,3,11:05 PM,11:07,Caruso REBOUND (Off:0 Def:2),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+227,0052300111,327,1,101,3,11:06 PM,11:00,White 7' Driving Floating Jump Shot (19 PTS),,,70 - 75,5,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+228,0052300111,328,2,1,3,11:06 PM,10:47,,,MISS Hunter 24' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+229,0052300111,329,4,0,3,11:06 PM,10:44,Vucevic REBOUND (Off:1 Def:7),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+230,0052300111,330,2,79,3,11:06 PM,10:29,MISS DeRozan 21' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+231,0052300111,331,4,0,3,11:06 PM,10:26,,,Capela REBOUND (Off:1 Def:8),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+232,0052300111,332,5,2,3,11:06 PM,10:21,DeRozan STEAL (1 STL),,Murray Lost Ball Turnover (P1.T6),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+233,0052300111,334,2,1,3,11:07 PM,9:58,MISS White 29' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+234,0052300111,335,4,0,3,11:07 PM,9:54,,,Capela REBOUND (Off:1 Def:9),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+235,0052300111,336,2,98,3,11:07 PM,9:43,DeRozan BLOCK (1 BLK),,MISS Hunter 3' Cutting Layup Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1
+236,0052300111,338,4,0,3,11:07 PM,9:43,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+237,0052300111,340,8,0,3,11:07 PM,9:43,SUB: Green FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+238,0052300111,342,1,79,3,11:07 PM,9:38,,,Bogdanovic 11' Pullup Jump Shot (12 PTS) (Young 7 AST),72 - 75,3,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+239,0052300111,344,6,1,3,11:08 PM,9:25,,,Bogdanovic P.FOUL (P1.T1) (T.Ford),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+240,0052300111,346,1,44,3,11:08 PM,9:11,Vucevic 2' Reverse Layup (13 PTS) (Dosunmu 1 AST),,,72 - 77,5,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+241,0052300111,348,1,79,3,11:08 PM,8:58,,,Young 14' Pullup Jump Shot (12 PTS),74 - 77,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+242,0052300111,349,1,79,3,11:08 PM,8:47,Dosunmu 13' Pullup Jump Shot (14 PTS),,,74 - 79,5,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+243,0052300111,350,1,86,3,11:09 PM,8:31,,,Bogdanovic 4' Turnaround Fadeaway (14 PTS),76 - 79,3,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+244,0052300111,351,1,1,3,11:09 PM,8:16,Vucevic 17' Jump Shot (15 PTS) (Green 2 AST),,,76 - 81,5,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+245,0052300111,353,6,2,3,11:09 PM,7:56,Green S.FOUL (P2.T1) (N.Buchert),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+246,0052300111,355,3,11,3,11:10 PM,7:56,,,Young Free Throw 1 of 2 (13 PTS),77 - 81,4,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+247,0052300111,356,9,1,3,11:10 PM,7:56,BULLS Timeout: Regular (Full 4 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+248,0052300111,357,3,12,3,11:14 PM,7:56,,,Young Free Throw 2 of 2 (14 PTS),78 - 81,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+249,0052300111,358,2,80,3,11:14 PM,7:41,MISS DeRozan 18' Step Back Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+250,0052300111,359,4,0,3,11:14 PM,7:40,Dosunmu REBOUND (Off:1 Def:0),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+251,0052300111,360,1,52,3,11:14 PM,7:36,Green 1' Alley Oop Dunk (5 PTS) (Dosunmu 2 AST),,,78 - 83,5,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+252,0052300111,362,2,1,3,11:15 PM,7:22,,,MISS Hunter 25' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+253,0052300111,363,4,0,3,11:15 PM,7:19,White REBOUND (Off:0 Def:5),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+254,0052300111,364,1,75,3,11:15 PM,7:07,White 1' Driving Finger Roll Layup (21 PTS),,,78 - 85,7,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+255,0052300111,366,1,108,3,11:15 PM,6:43,,,Murray Cutting Dunk Shot (28 PTS) (Capela 2 AST),80 - 85,5,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+256,0052300111,368,6,2,3,11:16 PM,6:28,,,Bogdanovic S.FOUL (P2.T2) (N.Buchert),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+257,0052300111,370,3,11,3,11:16 PM,6:28,MISS White Free Throw 1 of 2,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+258,0052300111,371,4,1,3,11:16 PM,6:28,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+259,0052300111,372,8,0,3,11:16 PM,6:28,,,SUB: Mathews FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+260,0052300111,374,3,12,3,11:17 PM,6:28,White Free Throw 2 of 2 (22 PTS),,,80 - 86,6,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+261,0052300111,375,5,1,3,11:17 PM,6:15,White STEAL (2 STL),,Mathews Bad Pass Turnover (P1.T7),,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+262,0052300111,377,6,1,3,11:17 PM,6:15,,,Young P.FOUL (P2.T3) (T.Ford),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+263,0052300111,379,8,0,3,11:17 PM,6:15,SUB: Terry FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+264,0052300111,381,1,58,3,11:18 PM,6:04,Vucevic 7' Turnaround Hook Shot (17 PTS) (DeRozan 7 AST),,,80 - 88,8,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+265,0052300111,383,1,101,3,11:18 PM,5:52,,,Hunter 10' Driving Floating Jump Shot (2 PTS) (Young 8 AST),82 - 88,6,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+266,0052300111,385,6,2,3,11:18 PM,5:52,DeRozan S.FOUL (P1.T2) (T.Ford),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+267,0052300111,387,3,10,3,11:18 PM,5:52,,,MISS Hunter Free Throw 1 of 1,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+268,0052300111,388,4,0,3,11:18 PM,5:49,Vucevic REBOUND (Off:1 Def:8),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+269,0052300111,389,2,98,3,11:19 PM,5:34,MISS Terry 1' Cutting Layup Shot,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+270,0052300111,390,4,0,3,11:19 PM,5:32,,,Murray REBOUND (Off:0 Def:4),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+271,0052300111,391,1,80,3,11:19 PM,5:15,,,Young 28' 3PT Step Back Jump Shot (17 PTS),85 - 88,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+272,0052300111,392,1,1,3,11:19 PM,4:59,Vucevic 24' 3PT Jump Shot (20 PTS) (DeRozan 8 AST),,,85 - 91,6,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+273,0052300111,394,2,79,3,11:19 PM,4:45,,,MISS Young 28' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+274,0052300111,395,4,0,3,11:19 PM,4:43,Green REBOUND (Off:1 Def:3),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+275,0052300111,396,1,50,3,11:19 PM,4:42,Dosunmu 1' Running Dunk (16 PTS) (Green 3 AST),,,85 - 93,8,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+276,0052300111,398,9,1,3,11:19 PM,4:42,,,Hawks Timeout: Regular (Reg.3 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+277,0052300111,399,8,0,3,11:22 PM,4:42,SUB: White FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+278,0052300111,401,8,0,3,11:23 PM,4:42,,,SUB: Matthews FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,202083,Wesley Matthews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+279,0052300111,404,2,80,3,11:24 PM,4:18,,,MISS Matthews 27' 3PT Step Back Jump Shot,,,5,202083,Wesley Matthews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+280,0052300111,405,4,0,3,11:24 PM,4:18,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+281,0052300111,406,5,11,3,11:24 PM,4:18,,,Hawks Turnover: Shot Clock (T#8),,,3,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+282,0052300111,407,2,58,3,11:24 PM,4:04,MISS Vucevic 9' Turnaround Hook Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+283,0052300111,408,4,0,3,11:24 PM,4:02,,,Murray REBOUND (Off:0 Def:5),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+284,0052300111,409,2,79,3,11:25 PM,3:57,,,MISS Murray 16' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+285,0052300111,410,4,0,3,11:25 PM,3:52,Terry REBOUND (Off:0 Def:2),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+286,0052300111,411,1,75,3,11:25 PM,3:45,White 1' Driving Finger Roll Layup (24 PTS),,,85 - 95,10,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+287,0052300111,412,2,1,3,11:25 PM,3:30,,,MISS Mathews 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+288,0052300111,424,4,0,3,11:25 PM,3:28,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+289,0052300111,413,8,0,3,11:25 PM,3:28,SUB: Drummond FOR Vucevic,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+290,0052300111,414,8,0,3,11:25 PM,3:28,SUB: DeRozan FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+291,0052300111,415,8,0,3,11:25 PM,3:28,,,SUB: Hunter FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+292,0052300111,416,8,0,3,11:25 PM,3:28,,,SUB: Bogdanovic FOR Matthews,,,5,202083,Wesley Matthews,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+293,0052300111,421,10,0,3,11:26 PM,3:28,Jump Ball Terry vs. Capela: Tip to Hunter,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0
+294,0052300111,425,2,79,3,11:26 PM,3:19,,,MISS Young 32' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+295,0052300111,426,4,0,3,11:26 PM,3:18,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+296,0052300111,428,8,0,3,11:26 PM,3:18,,,SUB: Fernando FOR Capela,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+297,0052300111,430,2,80,3,11:27 PM,3:01,MISS White 3PT Step Back Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+298,0052300111,431,4,0,3,11:27 PM,2:58,Terry REBOUND (Off:1 Def:2),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+299,0052300111,432,1,72,3,11:27 PM,2:56,Terry 1' Putback Layup (4 PTS),,,85 - 97,12,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+300,0052300111,433,1,79,3,11:27 PM,2:43,,,Hunter 17' Pullup Jump Shot (4 PTS) (Murray 5 AST),87 - 97,10,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+301,0052300111,435,1,79,3,11:27 PM,2:29,DeRozan 19' Pullup Jump Shot (20 PTS),,,87 - 99,12,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+302,0052300111,436,6,1,3,11:27 PM,2:25,DeRozan P.FOUL (P2.T3) (N.Buchert),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+303,0052300111,438,2,1,3,11:28 PM,2:14,,,MISS Hunter 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+304,0052300111,439,4,0,3,11:28 PM,2:09,White REBOUND (Off:0 Def:6),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+305,0052300111,440,1,41,3,11:28 PM,2:06,White 2' Running Layup (26 PTS),,,87 - 101,14,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+306,0052300111,441,5,1,3,11:28 PM,1:55,Drummond STEAL (1 STL),,Young Bad Pass Turnover (P6.T9),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+307,0052300111,443,2,2,3,11:28 PM,1:49,MISS Green 24' 3PT Running Jump Shot,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+308,0052300111,444,4,0,3,11:28 PM,1:43,White REBOUND (Off:1 Def:6),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+309,0052300111,445,1,108,3,11:28 PM,1:43,Green 1' Cutting Dunk Shot (7 PTS) (White 5 AST),,,87 - 103,16,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+310,0052300111,447,2,6,3,11:29 PM,1:32,Terry BLOCK (1 BLK),,MISS Murray 2' Driving Layup,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,1
+311,0052300111,449,4,0,3,11:29 PM,1:28,Green REBOUND (Off:1 Def:4),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+312,0052300111,450,1,41,3,11:29 PM,1:27,White 1' Running Layup (28 PTS),,,87 - 105,18,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+313,0052300111,452,9,1,3,11:29 PM,1:26,,,Hawks Timeout: Regular (Reg.4 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+314,0052300111,453,8,0,3,11:30 PM,1:26,,,SUB: Mathews FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+315,0052300111,455,8,0,3,11:30 PM,1:26,SUB: Dosunmu FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+316,0052300111,457,6,2,3,11:31 PM,1:16,Green S.FOUL (P3.T4) (T.Ford),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+317,0052300111,459,3,13,3,11:31 PM,1:16,,,Mathews Free Throw 1 of 3 (4 PTS),88 - 105,17,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+318,0052300111,460,3,14,3,11:31 PM,1:16,,,Mathews Free Throw 2 of 3 (5 PTS),89 - 105,16,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+319,0052300111,461,3,15,3,11:31 PM,1:16,,,MISS Mathews Free Throw 3 of 3,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+320,0052300111,462,4,0,3,11:31 PM,1:13,DeRozan REBOUND (Off:0 Def:3),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+321,0052300111,463,1,1,3,11:32 PM,0:58,Dosunmu 25' 3PT Jump Shot (19 PTS) (Terry 1 AST),,,89 - 108,19,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+322,0052300111,465,2,98,3,11:32 PM,0:47,Drummond BLOCK (1 BLK),,MISS Fernando 1' Cutting Layup Shot,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1
+323,0052300111,467,4,0,3,11:32 PM,0:46,Green REBOUND (Off:1 Def:5),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+324,0052300111,468,6,16,3,11:32 PM,0:46,,"Double Technical - Fernando, Drummond (N.Buchert)",,,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+325,0052300111,470,6,1,3,11:33 PM,0:36,,,Mathews P.FOUL (P4.T4) (N.Buchert),,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+326,0052300111,472,7,5,3,11:33 PM,0:26,,,Fernando Violation:Kicked Ball (N.Buchert),,,5,1628981,Bruno Fernando,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+327,0052300111,473,1,79,3,11:34 PM,0:15,DeRozan 23' Pullup Jump Shot (22 PTS),,,89 - 110,21,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+328,0052300111,474,1,1,3,11:34 PM,0:03,,,Mathews 24' 3PT Jump Shot (8 PTS) (Murray 6 AST),92 - 110,18,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+329,0052300111,476,2,79,3,11:34 PM,0:00,MISS Terry 42' 3PT Pullup Jump Shot,,Bogdanovic BLOCK (2 BLK),,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1
+330,0052300111,478,4,0,3,11:34 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+331,0052300111,479,13,0,3,11:34 PM,0:00,,End of 3rd Period (11:34 PM EST),,92 - 110,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+332,0052300111,489,12,0,4,11:38 PM,12:00,,Start of 4th Period (11:38 PM EST),,92 - 110,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+333,0052300111,490,1,75,4,11:38 PM,11:44,,,Hunter 1' Driving Finger Roll Layup (6 PTS) (Capela 3 AST),94 - 110,16,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+334,0052300111,492,1,101,4,11:38 PM,11:29,White 9' Driving Floating Jump Shot (30 PTS),,,94 - 112,18,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+335,0052300111,493,2,6,4,11:39 PM,11:15,Drummond BLOCK (2 BLK),,MISS Bogdanovic 3' Driving Layup,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1
+336,0052300111,495,4,0,4,11:39 PM,11:12,,,Hunter REBOUND (Off:1 Def:1),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+337,0052300111,496,2,79,4,11:39 PM,11:10,,,MISS Murray 13' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+338,0052300111,497,4,0,4,11:39 PM,11:08,DeRozan REBOUND (Off:0 Def:4),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+339,0052300111,498,2,79,4,11:39 PM,11:00,MISS DeRozan 21' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+340,0052300111,499,4,0,4,11:39 PM,10:57,,,Murray REBOUND (Off:0 Def:6),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+341,0052300111,500,2,2,4,11:39 PM,10:52,,,MISS Bogdanovic 3PT Running Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+342,0052300111,501,4,0,4,11:39 PM,10:48,Drummond REBOUND (Off:1 Def:3),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+343,0052300111,502,2,6,4,11:39 PM,10:35,MISS White 4' Driving Layup,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+344,0052300111,503,4,0,4,11:39 PM,10:35,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0052300111,504,6,3,4,11:39 PM,10:35,,,Bogdanovic L.B.FOUL (P3.T1) (M.Davis),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+346,0052300111,506,2,1,4,11:40 PM,10:22,MISS Dosunmu 19' Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+347,0052300111,507,4,0,4,11:40 PM,10:19,,,Capela REBOUND (Off:1 Def:10),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+348,0052300111,508,2,2,4,11:40 PM,10:17,,,MISS Bogdanovic 26' 3PT Running Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+349,0052300111,509,4,0,4,11:40 PM,10:14,,,Capela REBOUND (Off:2 Def:10),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+350,0052300111,510,2,78,4,11:40 PM,10:13,Drummond BLOCK (3 BLK),,MISS Capela 12' Floating Jump Shot,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1
+351,0052300111,512,4,0,4,11:40 PM,10:10,Craig REBOUND (Off:0 Def:1),,,,,4,1628470,Torrey Craig,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+352,0052300111,513,1,6,4,11:40 PM,10:01,White 2' Driving Layup (32 PTS),,,94 - 114,20,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+353,0052300111,514,6,2,4,11:40 PM,9:54,Dosunmu S.FOUL (P4.T1) (M.Davis),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+354,0052300111,516,3,11,4,11:41 PM,9:54,,,Bogdanovic Free Throw 1 of 2 (15 PTS),95 - 114,19,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+355,0052300111,517,3,12,4,11:41 PM,9:54,,,Bogdanovic Free Throw 2 of 2 (16 PTS),96 - 114,18,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+356,0052300111,518,2,78,4,11:41 PM,9:34,MISS Drummond 6' Floating Jump Shot,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+357,0052300111,519,4,0,4,11:41 PM,9:32,DeRozan REBOUND (Off:1 Def:4),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+358,0052300111,520,9,1,4,11:42 PM,9:29,BULLS Timeout: Regular (Full 5 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+359,0052300111,521,8,0,4,11:45 PM,9:29,SUB: Terry FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+360,0052300111,522,8,0,4,11:45 PM,9:29,,,SUB: Mathews FOR Bogdanovic,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+361,0052300111,525,2,79,4,11:45 PM,9:20,MISS Terry 14' Pullup Jump Shot,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+362,0052300111,526,4,0,4,11:45 PM,9:20,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+363,0052300111,527,5,11,4,11:45 PM,9:20,BULLS Turnover: Shot Clock (T#6),,,,,2,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+364,0052300111,528,8,0,4,11:45 PM,9:20,SUB: Vucevic FOR Drummond,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+365,0052300111,530,6,2,4,11:46 PM,9:02,DeRozan S.FOUL (P3.T2) (T.Ford),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+366,0052300111,532,3,11,4,11:46 PM,9:02,,,Hunter Free Throw 1 of 2 (7 PTS),97 - 114,17,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+367,0052300111,533,3,12,4,11:47 PM,9:02,,,Hunter Free Throw 2 of 2 (8 PTS),98 - 114,16,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+368,0052300111,534,1,75,4,11:47 PM,8:50,White 1' Driving Finger Roll Layup (34 PTS),,,98 - 116,18,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+369,0052300111,535,2,98,4,11:47 PM,8:38,Terry BLOCK (2 BLK),,MISS Capela 1' Cutting Layup Shot,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,1
+370,0052300111,537,4,0,4,11:47 PM,8:38,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+371,0052300111,539,2,1,4,11:48 PM,8:32,,,MISS Hunter 25' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+372,0052300111,540,4,0,4,11:48 PM,8:28,Terry REBOUND (Off:1 Def:3),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+373,0052300111,541,2,1,4,11:48 PM,8:07,MISS Vucevic 15' Jump Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+374,0052300111,542,4,0,4,11:48 PM,8:05,Terry REBOUND (Off:2 Def:3),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+375,0052300111,558,2,97,4,11:48 PM,8:02,MISS Terry 1' Tip Layup Shot,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+376,0052300111,559,4,0,4,11:48 PM,8:02,Craig REBOUND (Off:1 Def:1),,,,,4,1628470,Torrey Craig,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+377,0052300111,543,5,1,4,11:48 PM,8:00,Craig Bad Pass Turnover (P1.T7),,Murray STEAL (2 STL),,,4,1628470,Torrey Craig,1610612741.0,Chicago,Bulls,CHI,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+378,0052300111,545,6,1,4,11:48 PM,7:53,Terry P.FOUL (P2.T3) (M.Davis),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+379,0052300111,547,8,0,4,11:48 PM,7:53,SUB: Dosunmu FOR Terry,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+380,0052300111,549,2,1,4,11:49 PM,7:41,,,MISS Mathews 24' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+381,0052300111,550,4,0,4,11:49 PM,7:39,Vucevic REBOUND (Off:1 Def:9),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+382,0052300111,551,1,98,4,11:49 PM,7:26,Vucevic 2' Cutting Layup Shot (22 PTS) (White 6 AST),,,98 - 118,20,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+383,0052300111,553,1,79,4,11:49 PM,7:11,,,Murray 10' Pullup Jump Shot (30 PTS) (Young 9 AST),100 - 118,18,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+384,0052300111,555,1,1,4,11:50 PM,6:51,White 32' 3PT Jump Shot (37 PTS) (DeRozan 9 AST),,,100 - 121,21,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+385,0052300111,557,9,1,4,11:50 PM,6:51,,,Hawks Timeout: Regular (Reg.5 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+386,0052300111,560,8,0,4,11:53 PM,6:51,,,SUB: Bogdanovic FOR Mathews,,,5,1629726,Garrison Mathews,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+387,0052300111,562,2,1,4,11:54 PM,6:36,,,MISS Hunter 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+388,0052300111,563,4,0,4,11:54 PM,6:31,White REBOUND (Off:1 Def:7),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+389,0052300111,564,2,79,4,11:54 PM,6:16,MISS DeRozan 12' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+390,0052300111,565,4,0,4,11:54 PM,6:14,,,Capela REBOUND (Off:2 Def:11),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+391,0052300111,566,7,5,4,11:54 PM,6:12,White Violation:Kicked Ball (M.Davis),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+392,0052300111,567,2,80,4,11:55 PM,5:53,,,MISS Hunter 25' 3PT Step Back Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+393,0052300111,568,4,0,4,11:55 PM,5:53,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+394,0052300111,569,5,11,4,11:55 PM,5:53,,,Hawks Turnover: Shot Clock (T#10),,,3,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+395,0052300111,610,8,0,4,11:55 PM,5:53,SUB: Green FOR Craig,,,,,4,1628470,Torrey Craig,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+396,0052300111,573,2,1,4,11:56 PM,5:30,MISS Vucevic 27' 3PT Jump Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+397,0052300111,574,4,0,4,11:56 PM,5:25,,,Capela REBOUND (Off:2 Def:12),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+398,0052300111,575,6,1,4,11:56 PM,5:20,White P.FOUL (P3.T4) (N.Buchert),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+399,0052300111,577,1,52,4,11:56 PM,5:14,,,Capela 1' Alley Oop Dunk (18 PTS) (Young 10 AST),102 - 121,19,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+400,0052300111,579,1,1,4,11:56 PM,4:57,White 25' 3PT Jump Shot (40 PTS) (Dosunmu 3 AST),,,102 - 124,22,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+401,0052300111,581,2,1,4,11:57 PM,4:42,,,MISS Bogdanovic 24' 3PT Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+402,0052300111,582,4,0,4,11:57 PM,4:36,DeRozan REBOUND (Off:1 Def:5),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+403,0052300111,583,2,1,4,11:57 PM,4:29,MISS White 25' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+404,0052300111,584,4,0,4,11:57 PM,4:22,Vucevic REBOUND (Off:2 Def:9),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+405,0052300111,585,2,97,4,11:57 PM,4:22,MISS Vucevic Tip Layup Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+406,0052300111,586,4,0,4,11:57 PM,4:21,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+407,0052300111,588,5,2,4,11:57 PM,4:12,Green STEAL (1 STL),,Hunter Lost Ball Turnover (P1.T11),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+408,0052300111,590,6,2,4,11:58 PM,4:09,,,Bogdanovic S.FOUL (P4.T2) (M.Davis),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+409,0052300111,592,3,11,4,11:58 PM,4:09,MISS Green Free Throw 1 of 2,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+410,0052300111,593,4,1,4,11:58 PM,4:09,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+411,0052300111,594,3,12,4,11:58 PM,4:09,Green Free Throw 2 of 2 (8 PTS),,,102 - 125,23,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+412,0052300111,595,2,80,4,11:58 PM,3:59,,,MISS Murray 26' 3PT Step Back Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+413,0052300111,596,4,0,4,11:58 PM,3:56,Vucevic REBOUND (Off:2 Def:10),,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+414,0052300111,597,2,79,4,11:59 PM,3:38,MISS DeRozan 28' 3PT Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+415,0052300111,598,4,0,4,11:59 PM,3:36,,,Capela REBOUND (Off:2 Def:13),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+416,0052300111,599,2,80,4,11:59 PM,3:26,,,MISS Young 23' Step Back Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+417,0052300111,600,4,0,4,11:59 PM,3:24,,,Capela REBOUND (Off:3 Def:13),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+418,0052300111,601,2,58,4,11:59 PM,3:22,,,MISS Capela 7' Turnaround Hook Shot,,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+419,0052300111,602,4,0,4,11:59 PM,3:22,,,Young REBOUND (Off:1 Def:0),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+420,0052300111,603,6,2,4,11:59 PM,3:22,Dosunmu S.FOUL (P5.PN) (M.Davis),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+421,0052300111,605,3,11,4,11:59 PM,3:22,,,Young Free Throw 1 of 2 (18 PTS),103 - 125,22,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+422,0052300111,606,3,12,4,12:00 AM,3:22,,,Young Free Throw 2 of 2 (19 PTS),104 - 125,21,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+423,0052300111,607,1,98,4,12:00 AM,3:06,Green 1' Cutting Layup Shot (10 PTS) (Vucevic 2 AST),,,104 - 127,23,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+424,0052300111,609,2,101,4,12:00 AM,2:55,,,MISS Hunter 10' Driving Floating Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+425,0052300111,612,4,0,4,12:00 AM,2:55,,,Capela REBOUND (Off:4 Def:13),,,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+426,0052300111,613,1,72,4,12:00 AM,2:49,,,Capela Putback Layup (20 PTS),106 - 127,21,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+427,0052300111,614,1,6,4,12:01 AM,2:30,Vucevic 1' Driving Layup (24 PTS) (Green 4 AST),,,106 - 129,23,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+428,0052300111,616,1,1,4,12:01 AM,2:15,,,Bogdanovic 3PT Jump Shot (19 PTS) (Hunter 4 AST),109 - 129,20,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+429,0052300111,618,5,2,4,12:01 AM,1:55,Vucevic Lost Ball Turnover (P1.T8),,Bogdanovic STEAL (2 STL),,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+430,0052300111,620,1,103,4,12:01 AM,1:55,,,Bogdanovic 20' Running Pull-Up Jump Shot (21 PTS) (Capela 4 AST),111 - 129,18,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+431,0052300111,622,18,0,4,12:02 AM,1:55,,Instant Replay4th Period (12:02 AM EST),,111 - 129,18,0,620,,,,,,0,0,,,,,,1,0,,,,,,0
+432,0052300111,623,2,79,4,12:02 AM,1:32,MISS Vucevic 27' 3PT Pullup Jump Shot,,,,,4,202696,Nikola Vucevic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+433,0052300111,624,4,0,4,12:02 AM,1:29,,,Young REBOUND (Off:1 Def:1),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+434,0052300111,625,2,79,4,12:02 AM,1:24,,,MISS Young 11' Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+435,0052300111,626,4,0,4,12:02 AM,1:22,,,Murray REBOUND (Off:1 Def:6),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+436,0052300111,627,1,108,4,12:03 AM,1:18,,,Capela 1' Cutting Dunk Shot (22 PTS) (Bogdanovic 3 AST),113 - 129,16,5,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+437,0052300111,629,6,2,4,12:03 AM,1:03,,,Bogdanovic S.FOUL (P5.T3) (M.Davis),,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+438,0052300111,631,3,11,4,12:03 AM,1:03,White Free Throw 1 of 2 (41 PTS),,,113 - 130,17,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+439,0052300111,632,8,0,4,12:04 AM,1:03,SUB: Terry FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+440,0052300111,634,3,12,4,12:04 AM,1:03,White Free Throw 2 of 2 (42 PTS),,,113 - 131,18,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+441,0052300111,635,2,79,4,12:04 AM,0:58,,,MISS Bogdanovic 28' 3PT Pullup Jump Shot,,,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+442,0052300111,636,4,0,4,12:04 AM,0:55,White REBOUND (Off:1 Def:8),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+443,0052300111,637,5,11,4,12:04 AM,0:33,BULLS Turnover: Shot Clock (T#9),,,,,2,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+444,0052300111,638,8,0,4,12:04 AM,0:33,SUB: Craig FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1628470,Torrey Craig,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+445,0052300111,640,1,79,4,12:05 AM,0:24,,,Young 31' 3PT Pullup Jump Shot (22 PTS) (Bogdanovic 4 AST),116 - 131,15,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,203992,Bogdan Bogdanovic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+446,0052300111,642,5,11,4,12:06 AM,0:01,BULLS Turnover: Shot Clock (T#10),,,,,2,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+447,0052300111,643,13,0,4,12:06 AM,0:00,,End of 4th Period (12:06 AM EST),,116 - 131,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

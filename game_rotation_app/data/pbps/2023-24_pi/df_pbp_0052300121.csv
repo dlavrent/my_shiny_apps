@@ -1,0 +1,466 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0052300121,2,12,0,1,7:36 PM,12:00,,Start of 1st Period (7:36 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0052300121,4,10,0,1,7:36 PM,12:00,Jump Ball Valanciunas vs. Davis: Tip to James,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+2,0052300121,7,2,79,1,7:36 PM,11:44,,,MISS Reaves 21' Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+3,0052300121,8,4,0,1,7:36 PM,11:41,Williamson REBOUND (Off:0 Def:1),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+4,0052300121,9,2,1,1,7:36 PM,11:32,MISS Ingram 15' Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+5,0052300121,10,4,0,1,7:36 PM,11:30,Valanciunas REBOUND (Off:1 Def:0),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+6,0052300121,11,2,97,1,7:36 PM,11:30,MISS Valanciunas Tip Layup Shot,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+7,0052300121,12,4,0,1,7:37 PM,11:30,Valanciunas REBOUND (Off:2 Def:0),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+8,0052300121,13,6,2,1,7:37 PM,11:30,,,Hachimura S.FOUL (P1.T1) (C.Blair),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+9,0052300121,15,3,11,1,7:37 PM,11:30,Valanciunas Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+10,0052300121,16,3,12,1,7:37 PM,11:30,Valanciunas Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+11,0052300121,17,2,43,1,7:38 PM,11:13,,,MISS Davis 3' Alley Oop Layup,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+12,0052300121,18,4,0,1,7:38 PM,11:12,Valanciunas REBOUND (Off:2 Def:1),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+13,0052300121,19,1,108,1,7:38 PM,11:05,Williamson 1' Cutting Dunk Shot (2 PTS) (Ingram 1 AST),,,0 - 4,4,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+14,0052300121,21,6,1,1,7:38 PM,11:00,Ingram P.FOUL (P1.T1) (G.Petraitis),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+15,0052300121,23,2,1,1,7:38 PM,10:49,,,MISS Russell 28' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+16,0052300121,24,4,0,1,7:38 PM,10:45,Valanciunas REBOUND (Off:2 Def:2),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+17,0052300121,25,2,1,1,7:39 PM,10:35,MISS Valanciunas 27' 3PT Jump Shot,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+18,0052300121,26,4,0,1,7:39 PM,10:33,,,Reaves REBOUND (Off:0 Def:1),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+19,0052300121,27,1,1,1,7:39 PM,10:22,,,Reaves 26' 3PT Jump Shot (3 PTS) (James 1 AST),3 - 4,1,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+20,0052300121,29,1,1,1,7:39 PM,10:08,Ingram 26' 3PT Jump Shot (3 PTS) (McCollum 1 AST),,,3 - 7,4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+21,0052300121,31,6,2,1,7:39 PM,9:52,Jones S.FOUL (P1.T2) (S.Foster),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+22,0052300121,33,3,11,1,7:40 PM,9:52,,,Russell Free Throw 1 of 2 (1 PTS),4 - 7,3,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+23,0052300121,34,3,12,1,7:40 PM,9:52,,,Russell Free Throw 2 of 2 (2 PTS),5 - 7,2,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+24,0052300121,35,1,58,1,7:40 PM,9:38,Valanciunas 6' Turnaround Hook Shot (4 PTS),,,5 - 9,4,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+25,0052300121,37,1,1,1,7:41 PM,9:20,,,James 29' 3PT Jump Shot (3 PTS) (Russell 1 AST),8 - 9,1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+26,0052300121,39,1,79,1,7:41 PM,9:08,Ingram 17' Pullup Jump Shot (5 PTS) (Valanciunas 1 AST),,,8 - 11,3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+27,0052300121,41,1,78,1,7:41 PM,8:55,,,Davis 6' Floating Jump Shot (2 PTS) (Russell 2 AST),10 - 11,1,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+28,0052300121,43,1,6,1,7:41 PM,8:33,Williamson 2' Driving Layup (4 PTS) (McCollum 2 AST),,,10 - 13,3,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+29,0052300121,45,2,101,1,7:42 PM,8:18,,,MISS Davis 4' Driving Floating Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+30,0052300121,46,4,0,1,7:42 PM,8:16,Valanciunas REBOUND (Off:2 Def:3),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+31,0052300121,47,2,103,1,7:42 PM,8:12,MISS McCollum 10' Running Pull-Up Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+32,0052300121,48,4,0,1,7:42 PM,8:10,McCollum REBOUND (Off:1 Def:0),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+33,0052300121,49,2,79,1,7:42 PM,8:01,MISS Ingram 17' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+34,0052300121,50,4,0,1,7:42 PM,7:58,,,Reaves REBOUND (Off:0 Def:2),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+35,0052300121,51,6,2,1,7:42 PM,7:54,Valanciunas S.FOUL (P1.T3) (C.Blair),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+36,0052300121,53,3,11,1,7:43 PM,7:54,,,MISS Davis Free Throw 1 of 2,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+37,0052300121,54,4,1,1,7:43 PM,7:54,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+38,0052300121,55,3,12,1,7:43 PM,7:54,,,Davis Free Throw 2 of 2 (3 PTS),11 - 13,2,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+39,0052300121,56,2,44,1,7:43 PM,7:37,MISS Valanciunas 2' Reverse Layup,,Davis BLOCK (1 BLK),,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+40,0052300121,58,4,0,1,7:43 PM,7:34,,,Davis REBOUND (Off:0 Def:1),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+41,0052300121,59,1,2,1,7:43 PM,7:33,,,Russell 25' 3PT Running Jump Shot (5 PTS) (James 2 AST),14 - 13,-1,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+42,0052300121,61,1,6,1,7:44 PM,7:13,Jones 1' Driving Layup (2 PTS) (Williamson 1 AST),,,14 - 15,1,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+43,0052300121,62,1,79,1,7:44 PM,7:05,,,Russell 25' 3PT Pullup Jump Shot (8 PTS),17 - 15,-2,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+44,0052300121,64,1,79,1,7:44 PM,6:55,McCollum 27' 3PT Pullup Jump Shot (3 PTS) (Ingram 2 AST),,,17 - 18,1,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+45,0052300121,66,1,73,1,7:44 PM,6:40,,,Davis 1' Driving Reverse Layup (5 PTS) (Russell 3 AST),19 - 18,-1,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+46,0052300121,93,2,101,1,7:45 PM,6:30,MISS Ingram 9' Driving Floating Jump Shot,,Russell BLOCK (1 BLK),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,1
+47,0052300121,95,4,0,1,7:45 PM,6:28,Williamson REBOUND (Off:1 Def:1),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+48,0052300121,68,2,79,1,7:45 PM,6:21,MISS McCollum 27' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+49,0052300121,69,4,0,1,7:45 PM,6:17,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+50,0052300121,70,2,58,1,7:45 PM,6:02,,,MISS Davis 3' Turnaround Hook Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+51,0052300121,71,4,0,1,7:45 PM,6:02,Valanciunas REBOUND (Off:2 Def:4),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+52,0052300121,72,1,41,1,7:45 PM,5:57,Jones 1' Running Layup (4 PTS),,,19 - 20,1,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+53,0052300121,73,7,2,1,7:45 PM,5:57,,,James Violation:Defensive Goaltending (S.Foster),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+54,0052300121,74,1,79,1,7:45 PM,5:50,,,Hachimura 15' Pullup Jump Shot (2 PTS) (Russell 4 AST),21 - 20,-1,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+55,0052300121,76,2,1,1,7:46 PM,5:34,MISS Williamson 24' 3PT Jump Shot,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+56,0052300121,77,4,0,1,7:46 PM,5:31,,,Davis REBOUND (Off:0 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+57,0052300121,78,2,103,1,7:46 PM,5:26,,,MISS James 28' 3PT Running Pull-Up Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+58,0052300121,79,4,0,1,7:46 PM,5:22,Ingram REBOUND (Off:0 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+59,0052300121,80,5,2,1,7:46 PM,5:14,Williamson Lost Ball Turnover (P1.T1),,James STEAL (1 STL),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+60,0052300121,82,2,41,1,7:46 PM,5:10,,,MISS James 2' Running Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+61,0052300121,83,4,0,1,7:46 PM,5:10,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+62,0052300121,85,9,1,1,7:46 PM,5:10,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+63,0052300121,87,8,0,1,7:49 PM,5:10,SUB: Murphy III FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+64,0052300121,88,8,0,1,7:49 PM,5:10,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+65,0052300121,89,8,0,1,7:49 PM,5:10,,,SUB: Dinwiddie FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+66,0052300121,96,2,108,1,7:50 PM,4:55,MISS Nance Jr. 1' Cutting Dunk Shot,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+67,0052300121,97,4,0,1,7:50 PM,4:53,,,Dinwiddie REBOUND (Off:0 Def:1),,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+68,0052300121,98,2,63,1,7:51 PM,4:51,,,MISS James 7' Fadeaway Jumper,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+69,0052300121,99,4,0,1,7:51 PM,4:50,,,Davis REBOUND (Off:1 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+70,0052300121,100,2,97,1,7:51 PM,4:48,,,MISS Davis Tip Layup Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+71,0052300121,101,4,0,1,7:51 PM,4:45,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+72,0052300121,104,2,79,1,7:52 PM,4:34,,,MISS Dinwiddie 13' Pullup Jump Shot,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+73,0052300121,105,4,0,1,7:52 PM,4:31,Ingram REBOUND (Off:0 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+74,0052300121,106,1,1,1,7:52 PM,4:16,Nance Jr. 24' 3PT Jump Shot (3 PTS) (McCollum 3 AST),,,21 - 23,2,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+75,0052300121,108,2,80,1,7:52 PM,4:02,,,MISS Reaves 25' 3PT Step Back Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+76,0052300121,109,4,0,1,7:52 PM,3:59,Nance Jr. REBOUND (Off:0 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+77,0052300121,110,2,101,1,7:52 PM,3:51,MISS Ingram 5' Driving Floating Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+78,0052300121,111,4,0,1,7:52 PM,3:50,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+79,0052300121,113,8,0,1,7:53 PM,3:50,,,SUB: Prince FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+80,0052300121,115,5,40,1,7:53 PM,3:37,,,Reaves Out of Bounds Lost Ball Turnover (P1.T1),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+81,0052300121,116,8,0,1,7:53 PM,3:37,SUB: Williamson FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+82,0052300121,117,8,0,1,7:53 PM,3:37,SUB: Alvarado FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+83,0052300121,120,1,80,1,7:54 PM,3:24,Murphy III 15' Step Back Jump Shot (2 PTS) (Nance Jr. 1 AST),,,21 - 25,4,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+84,0052300121,123,2,1,1,7:54 PM,3:06,,,MISS Dinwiddie 25' 3PT Jump Shot,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+85,0052300121,124,4,0,1,7:54 PM,3:02,Murphy III REBOUND (Off:0 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+86,0052300121,125,6,4,1,7:55 PM,2:56,Williamson OFF.Foul (P1) (S.Foster),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+87,0052300121,127,5,37,1,7:55 PM,2:56,Williamson Offensive Foul Turnover (P2.T2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+88,0052300121,128,9,1,1,7:55 PM,2:56,,,Lakers Timeout: Regular (Reg.1 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+89,0052300121,130,8,0,1,7:58 PM,2:56,,,SUB: Russell FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+90,0052300121,132,2,1,1,7:58 PM,2:42,,,MISS Prince 24' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+91,0052300121,133,4,0,1,7:59 PM,2:39,Williamson REBOUND (Off:1 Def:2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+92,0052300121,134,1,6,1,7:59 PM,2:29,Williamson 2' Driving Layup (6 PTS) (Murphy III 1 AST),,,21 - 27,6,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+93,0052300121,136,1,63,1,7:59 PM,2:12,,,Russell 15' Fadeaway Jumper (10 PTS),23 - 27,4,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+94,0052300121,138,1,86,1,7:59 PM,1:58,Williamson 7' Turnaround Fadeaway (8 PTS) (Alvarado 1 AST),,,23 - 29,6,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+95,0052300121,140,2,80,1,7:59 PM,1:46,,,MISS Russell 16' Step Back Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+96,0052300121,141,4,0,1,7:59 PM,1:46,Williamson REBOUND (Off:1 Def:3),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+97,0052300121,142,2,103,1,8:00 PM,1:38,MISS Murphy III 26' 3PT Running Pull-Up Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+98,0052300121,143,4,0,1,8:00 PM,1:34,,,Dinwiddie REBOUND (Off:0 Def:2),,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+99,0052300121,144,1,2,1,8:00 PM,1:32,,,Russell 26' 3PT Running Jump Shot (13 PTS) (Dinwiddie 1 AST),26 - 29,3,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+100,0052300121,146,2,101,1,8:00 PM,1:15,MISS Murphy III 5' Driving Floating Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+101,0052300121,147,4,0,1,8:00 PM,1:14,Nance Jr. REBOUND (Off:1 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+102,0052300121,148,1,108,1,8:00 PM,1:12,Williamson 1' Cutting Dunk Shot (10 PTS) (Nance Jr. 2 AST),,,26 - 31,5,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+103,0052300121,150,6,1,1,8:00 PM,0:58,Alvarado P.FOUL (P1.T4) (S.Foster),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+104,0052300121,152,6,16,1,8:00 PM,0:58,,"Double Technical - Alvarado, Russell (S.Foster)",,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+105,0052300121,157,18,3,1,8:03 PM,0:58,,Instant Replay1st Period (8:03 PM EST),,26 - 31,5,0,153,,,,,,0,0,,,,,,1,0,,,,,,0
+106,0052300121,159,2,79,1,8:04 PM,0:44,,,MISS Hachimura 17' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+107,0052300121,160,4,0,1,8:04 PM,0:42,Williamson REBOUND (Off:1 Def:4),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+108,0052300121,161,1,1,1,8:05 PM,0:34,Jones 3PT Jump Shot (7 PTS) (Williamson 2 AST),,,26 - 34,8,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+109,0052300121,163,2,79,1,8:05 PM,0:27,,,MISS Russell 26' 3PT Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+110,0052300121,164,4,0,1,8:05 PM,0:24,Williamson REBOUND (Off:1 Def:5),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+111,0052300121,165,2,1,1,8:05 PM,0:06,MISS Murphy III 27' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+112,0052300121,166,4,0,1,8:05 PM,0:02,,,Davis REBOUND (Off:1 Def:3),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+113,0052300121,167,2,79,1,8:05 PM,0:00,,,MISS Dinwiddie 42' 3PT Pullup Jump Shot,,,5,203915,Spencer Dinwiddie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+114,0052300121,168,4,0,1,8:05 PM,0:00,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+115,0052300121,169,13,0,1,8:05 PM,0:00,,End of 1st Period (8:05 PM EST),,26 - 34,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+116,0052300121,178,12,0,2,8:09 PM,12:00,,Start of 2nd Period (8:09 PM EST),,26 - 34,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+117,0052300121,179,1,79,2,8:09 PM,11:39,Williamson 15' Pullup Jump Shot (12 PTS),,,26 - 36,10,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+118,0052300121,180,1,1,2,8:10 PM,11:19,,,Vincent 3PT Jump Shot (3 PTS) (James 3 AST),29 - 36,7,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+119,0052300121,182,5,1,2,8:10 PM,11:00,Nance Jr. Bad Pass Turnover (P1.T3),,Vincent STEAL (1 STL),,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+120,0052300121,184,2,6,2,8:10 PM,10:45,Williamson BLOCK (1 BLK),,MISS James 4' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1
+121,0052300121,186,4,0,2,8:10 PM,10:42,Nance Jr. REBOUND (Off:1 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+122,0052300121,187,2,41,2,8:10 PM,10:38,MISS Williamson 4' Running Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+123,0052300121,188,4,0,2,8:10 PM,10:35,,,Vincent REBOUND (Off:0 Def:1),,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+124,0052300121,189,1,50,2,8:10 PM,10:30,,,James Running Dunk (5 PTS) (Russell 5 AST),31 - 36,5,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+125,0052300121,190,5,1,2,8:11 PM,10:19,Nance Jr. Bad Pass Turnover (P2.T4),,Prince STEAL (1 STL),,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+126,0052300121,192,1,50,2,8:11 PM,10:13,,,Hayes 1' Running Dunk (2 PTS) (James 4 AST),33 - 36,3,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+127,0052300121,194,2,1,2,8:11 PM,9:51,MISS Daniels 24' 3PT Jump Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+128,0052300121,195,4,0,2,8:11 PM,9:49,,,James REBOUND (Off:0 Def:2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+129,0052300121,196,1,63,2,8:11 PM,9:40,,,Russell 14' Fadeaway Jumper (15 PTS) (James 5 AST),35 - 36,1,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+130,0052300121,198,9,1,2,8:11 PM,9:40,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+131,0052300121,200,8,0,2,8:14 PM,9:40,SUB: Valanciunas FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+132,0052300121,201,8,0,2,8:14 PM,9:40,SUB: McCollum FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+133,0052300121,204,2,1,2,8:15 PM,9:25,MISS Murphy III 29' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+134,0052300121,205,4,0,2,8:15 PM,9:21,,,Prince REBOUND (Off:0 Def:1),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+135,0052300121,206,1,1,2,8:15 PM,9:14,,,Prince 26' 3PT Jump Shot (3 PTS) (Russell 6 AST),38 - 36,-2,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+136,0052300121,208,1,63,2,8:16 PM,9:00,McCollum 12' Fadeaway Jumper (5 PTS) (Williamson 3 AST),,,38 - 38,TIE,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+137,0052300121,210,5,1,2,8:16 PM,8:40,Murphy III STEAL (1 STL),,James Bad Pass Turnover (P1.T2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+138,0052300121,212,6,1,2,8:16 PM,8:38,,,Russell P.FOUL (P1.T1) (C.Blair),,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+139,0052300121,214,8,0,2,8:16 PM,8:38,SUB: Jones FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+140,0052300121,215,8,0,2,8:16 PM,8:38,,,SUB: Reaves FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+141,0052300121,218,2,79,2,8:17 PM,8:33,MISS McCollum 31' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+142,0052300121,219,4,0,2,8:17 PM,8:29,,,Prince REBOUND (Off:0 Def:2),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+143,0052300121,220,1,1,2,8:17 PM,8:11,,,Vincent 26' 3PT Jump Shot (6 PTS) (Reaves 1 AST),41 - 38,-3,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+144,0052300121,222,2,79,2,8:17 PM,7:59,MISS McCollum 12' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+145,0052300121,223,4,0,2,8:17 PM,7:57,,,Prince REBOUND (Off:0 Def:3),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+146,0052300121,224,2,1,2,8:17 PM,7:44,,,MISS Vincent 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+147,0052300121,225,4,0,2,8:17 PM,7:40,McCollum REBOUND (Off:1 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+148,0052300121,226,1,6,2,8:18 PM,7:28,Williamson 3' Driving Layup (14 PTS) (McCollum 4 AST),,,41 - 40,-1,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+149,0052300121,228,2,1,2,8:18 PM,7:23,,,MISS Prince 26' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+150,0052300121,229,4,0,2,8:18 PM,7:19,Williamson REBOUND (Off:1 Def:6),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+151,0052300121,230,6,2,2,8:18 PM,7:14,,,Prince S.FOUL (P1.T2) (S.Foster),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+152,0052300121,232,3,11,2,8:18 PM,7:14,Williamson Free Throw 1 of 2 (15 PTS),,,41 - 41,TIE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+153,0052300121,233,8,0,2,8:18 PM,7:14,,,SUB: Hachimura FOR Hayes,,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+154,0052300121,234,8,0,2,8:18 PM,7:14,,,SUB: Davis FOR Prince,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+155,0052300121,237,3,12,2,8:19 PM,7:14,Williamson Free Throw 2 of 2 (16 PTS),,,41 - 42,1,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+156,0052300121,238,2,83,2,8:19 PM,7:02,,,MISS Reaves 13' Fadeaway Bank Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+157,0052300121,239,4,0,2,8:19 PM,6:59,Valanciunas REBOUND (Off:2 Def:5),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+158,0052300121,240,2,80,2,8:19 PM,6:46,MISS McCollum 26' 3PT Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+159,0052300121,241,4,0,2,8:19 PM,6:41,,,Reaves REBOUND (Off:0 Def:3),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+160,0052300121,242,1,1,2,8:20 PM,6:30,,,Hachimura 27' 3PT Jump Shot (5 PTS) (Reaves 2 AST),44 - 42,-2,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+161,0052300121,244,2,79,2,8:20 PM,6:17,MISS Williamson 15' Pullup Jump Shot,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+162,0052300121,245,4,0,2,8:20 PM,6:14,,,James REBOUND (Off:0 Def:3),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+163,0052300121,246,6,2,2,8:20 PM,6:06,Valanciunas S.FOUL (P2.T1) (S.Foster),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+164,0052300121,250,8,0,2,8:21 PM,6:06,SUB: Ingram FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+165,0052300121,252,3,11,2,8:22 PM,6:06,,,MISS Davis Free Throw 1 of 2,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+166,0052300121,253,4,1,2,8:22 PM,6:06,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+167,0052300121,254,3,12,2,8:22 PM,6:06,,,Davis Free Throw 2 of 2 (6 PTS),45 - 42,-3,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+168,0052300121,255,2,78,2,8:23 PM,5:40,MISS Jones 26' 3PT Floating Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+169,0052300121,256,4,0,2,8:23 PM,5:36,,,Davis REBOUND (Off:1 Def:4),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+170,0052300121,257,2,6,2,8:23 PM,5:27,,,MISS James 5' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+171,0052300121,258,4,0,2,8:23 PM,5:25,Valanciunas REBOUND (Off:2 Def:6),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+172,0052300121,259,1,76,2,8:23 PM,5:19,Ingram 2' Running Finger Roll Layup (7 PTS),,,45 - 44,-1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+173,0052300121,261,2,78,2,8:23 PM,4:59,,,MISS Davis 7' Floating Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+174,0052300121,262,4,0,2,8:23 PM,4:57,McCollum REBOUND (Off:1 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+175,0052300121,263,2,86,2,8:24 PM,4:44,MISS Ingram 11' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+176,0052300121,264,4,0,2,8:24 PM,4:41,,,James REBOUND (Off:0 Def:4),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+177,0052300121,265,1,41,2,8:24 PM,4:33,,,James 2' Running Layup (7 PTS),47 - 44,-3,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+178,0052300121,266,2,1,2,8:24 PM,4:18,MISS McCollum 27' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+179,0052300121,267,4,0,2,8:24 PM,4:13,,,Davis REBOUND (Off:1 Def:5),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+180,0052300121,268,1,41,2,8:24 PM,4:09,,,James 1' Running Layup (9 PTS),49 - 44,-5,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+181,0052300121,270,6,1,2,8:24 PM,3:55,,,Reaves P.FOUL (P1.T3) (G.Petraitis),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+182,0052300121,272,8,0,2,8:24 PM,3:55,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+183,0052300121,273,8,0,2,8:24 PM,3:55,,,SUB: Russell FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+184,0052300121,277,8,0,2,8:25 PM,3:48,,,SUB: Prince FOR Vincent,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+185,0052300121,279,2,80,2,8:26 PM,3:41,MISS Jones 22' Step Back Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+186,0052300121,280,4,0,2,8:26 PM,3:41,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+187,0052300121,281,5,11,2,8:26 PM,3:41,PELICANS Turnover: Shot Clock (T#5),,,,,2,1610612740,,,,,,0,0,,,,,,1,0,,,,,,1
+188,0052300121,282,9,1,2,8:26 PM,3:41,,,Lakers Timeout: Regular (Reg.2 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+189,0052300121,283,8,0,2,8:29 PM,3:41,SUB: Williamson FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+190,0052300121,285,1,1,2,8:30 PM,3:22,,,Prince 26' 3PT Jump Shot (6 PTS) (Reaves 3 AST),52 - 44,-8,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+191,0052300121,287,5,1,2,8:30 PM,3:02,Ingram Bad Pass Turnover (P1.T6),,Hachimura STEAL (1 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+192,0052300121,289,6,2,2,8:30 PM,2:53,Nance Jr. S.FOUL (P1.T2) (S.Foster),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+193,0052300121,291,3,11,2,8:31 PM,2:53,,,Reaves Free Throw 1 of 2 (4 PTS),53 - 44,-9,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+194,0052300121,292,8,0,2,8:31 PM,2:53,,,SUB: James FOR Hachimura,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+195,0052300121,294,3,12,2,8:31 PM,2:53,,,Reaves Free Throw 2 of 2 (5 PTS),54 - 44,-10,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+196,0052300121,295,6,1,2,8:32 PM,2:39,,,Prince P.FOUL (P2.T4) (G.Petraitis),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+197,0052300121,297,2,79,2,8:32 PM,2:29,MISS Williamson 6' Pullup Jump Shot,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+198,0052300121,298,4,0,2,8:32 PM,2:27,,,Davis REBOUND (Off:1 Def:6),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+199,0052300121,299,6,2,2,8:32 PM,2:20,Nance Jr. S.FOUL (P2.T3) (G.Petraitis),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+200,0052300121,301,3,11,2,8:33 PM,2:20,,,James Free Throw 1 of 2 (10 PTS),55 - 44,-11,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+201,0052300121,302,3,12,2,8:33 PM,2:20,,,James Free Throw 2 of 2 (11 PTS),56 - 44,-12,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+202,0052300121,303,2,1,2,8:33 PM,2:06,MISS McCollum 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+203,0052300121,304,4,0,2,8:33 PM,2:02,,,Davis REBOUND (Off:1 Def:7),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+204,0052300121,305,6,2,2,8:34 PM,1:40,Nance Jr. S.FOUL (P3.T4) (S.Foster),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+205,0052300121,307,3,11,2,8:34 PM,1:40,,,James Free Throw 1 of 2 (12 PTS),57 - 44,-13,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+206,0052300121,308,8,0,2,8:34 PM,1:40,SUB: Valanciunas FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+207,0052300121,310,3,12,2,8:35 PM,1:40,,,James Free Throw 2 of 2 (13 PTS),58 - 44,-14,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+208,0052300121,311,2,101,2,8:35 PM,1:29,MISS Williamson 3' Driving Floating Jump Shot,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+209,0052300121,312,4,0,2,8:35 PM,1:28,Williamson REBOUND (Off:2 Def:6),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+210,0052300121,313,2,72,2,8:35 PM,1:26,MISS Williamson Putback Layup,,James BLOCK (1 BLK),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+211,0052300121,315,4,0,2,8:35 PM,1:23,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+212,0052300121,317,1,63,2,8:35 PM,1:17,Ingram 8' Fadeaway Jumper (9 PTS),,,58 - 46,-12,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+213,0052300121,318,2,1,2,8:36 PM,0:56,,,MISS Prince 24' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+214,0052300121,319,4,0,2,8:36 PM,0:54,Ingram REBOUND (Off:0 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+215,0052300121,320,1,7,2,8:36 PM,0:47,Williamson 1' Dunk (18 PTS) (Ingram 3 AST),,,58 - 48,-10,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+216,0052300121,322,6,2,2,8:37 PM,0:33,Williamson S.FOUL (P2.PN) (C.Blair),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+217,0052300121,324,3,11,2,8:37 PM,0:33,,,James Free Throw 1 of 2 (14 PTS),59 - 48,-11,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+218,0052300121,325,3,12,2,8:37 PM,0:33,,,James Free Throw 2 of 2 (15 PTS),60 - 48,-12,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+219,0052300121,326,2,3,2,8:38 PM,0:21,MISS Valanciunas 3' Hook Shot,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+220,0052300121,327,4,0,2,8:38 PM,0:21,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+221,0052300121,329,5,45,2,8:38 PM,0:04,,,Davis Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+222,0052300121,330,8,0,2,8:38 PM,0:04,SUB: Murphy III FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+223,0052300121,331,8,0,2,8:38 PM,0:04,,,SUB: Hachimura FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+224,0052300121,334,1,6,2,8:39 PM,0:00,Williamson 2' Driving Layup (20 PTS),,,60 - 50,-10,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+225,0052300121,335,18,0,2,8:39 PM,0:00,,Instant Replay2nd Period (8:39 PM EST),,60 - 50,-10,0,334,,,,,,0,0,,,,,,1,0,,,,,,0
+226,0052300121,336,13,0,2,8:39 PM,0:00,,End of 2nd Period (8:39 PM EST),,60 - 50,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+227,0052300121,341,12,0,3,8:56 PM,12:00,,Start of 3rd Period (8:56 PM EST),,60 - 50,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+228,0052300121,342,2,47,3,8:56 PM,11:41,MISS Ingram 15' Turnaround Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+229,0052300121,343,4,0,3,8:56 PM,11:38,,,Reaves REBOUND (Off:0 Def:4),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+230,0052300121,344,1,1,3,8:56 PM,11:29,,,Reaves 3PT Jump Shot (8 PTS) (James 6 AST),63 - 50,-13,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+231,0052300121,346,1,1,3,8:56 PM,11:13,Jones 3PT Jump Shot (10 PTS) (Williamson 4 AST),,,63 - 53,-10,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+232,0052300121,348,2,63,3,8:57 PM,10:46,,,MISS Davis 12' Fadeaway Jumper,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+233,0052300121,349,4,0,3,8:57 PM,10:43,Ingram REBOUND (Off:0 Def:4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+234,0052300121,350,6,26,3,8:57 PM,10:37,Williamson Offensive Charge Foul (P3) (C.Blair),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+235,0052300121,352,5,37,3,8:57 PM,10:37,Williamson Offensive Foul Turnover (P3.T7),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+236,0052300121,353,6,2,3,8:58 PM,10:24,Jones S.FOUL (P2.T1) (G.Petraitis),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+237,0052300121,355,3,11,3,8:59 PM,10:24,,,MISS Hachimura Free Throw 1 of 2,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+238,0052300121,356,4,1,3,8:59 PM,10:24,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+239,0052300121,357,3,12,3,8:59 PM,10:24,,,Hachimura Free Throw 2 of 2 (6 PTS),64 - 53,-11,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+240,0052300121,358,5,1,3,8:59 PM,10:09,McCollum Bad Pass Turnover (P1.T8),,James STEAL (2 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+241,0052300121,360,2,2,3,8:59 PM,10:04,,,MISS Russell 27' 3PT Running Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+242,0052300121,361,4,0,3,8:59 PM,10:01,Williamson REBOUND (Off:2 Def:7),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+243,0052300121,362,2,63,3,8:59 PM,9:47,MISS Ingram 13' Fadeaway Jumper,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+244,0052300121,363,4,0,3,8:59 PM,9:45,,,Davis REBOUND (Off:1 Def:8),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+245,0052300121,364,6,4,3,9:00 PM,9:29,,,Davis OFF.Foul (P1) (S.Foster),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+246,0052300121,366,5,37,3,9:00 PM,9:29,,,Davis Offensive Foul Turnover (P2.T4),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+247,0052300121,367,5,45,3,9:00 PM,9:19,Ingram Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+248,0052300121,368,2,1,3,9:01 PM,9:03,,,MISS Reaves 29' 3PT Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+249,0052300121,369,4,0,3,9:01 PM,9:00,Valanciunas REBOUND (Off:2 Def:7),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+250,0052300121,370,5,1,3,9:01 PM,8:52,McCollum Bad Pass Turnover (P2.T10),,James STEAL (3 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+251,0052300121,372,1,99,3,9:01 PM,8:46,,,Reaves 2' Cutting Finger Roll Layup Shot (10 PTS) (Hachimura 1 AST),66 - 53,-13,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+252,0052300121,374,9,1,3,9:01 PM,8:46,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+253,0052300121,375,5,2,3,9:05 PM,8:22,Ingram Lost Ball Turnover (P3.T11),,Davis STEAL (1 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+254,0052300121,377,10,0,3,9:06 PM,8:18,Jump Ball Williamson vs. Davis: Tip to McCollum,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1
+255,0052300121,380,5,2,3,9:06 PM,8:18,Williamson STEAL (1 STL),,Davis Lost Ball Turnover (P3.T5),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+256,0052300121,382,2,1,3,9:06 PM,8:14,MISS Valanciunas 14' Jump Shot,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+257,0052300121,383,4,0,3,9:06 PM,8:12,,,Davis REBOUND (Off:1 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+258,0052300121,384,6,2,3,9:06 PM,7:58,Jones S.FOUL (P3.T2) (C.Blair),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+259,0052300121,386,3,11,3,9:07 PM,7:58,,,James Free Throw 1 of 2 (16 PTS),67 - 53,-14,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+260,0052300121,387,3,12,3,9:07 PM,7:58,,,James Free Throw 2 of 2 (17 PTS),68 - 53,-15,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+261,0052300121,388,6,2,3,9:07 PM,7:39,,,Davis S.FOUL (P2.T1) (S.Foster),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+262,0052300121,390,3,11,3,9:08 PM,7:39,Ingram Free Throw 1 of 2 (10 PTS),,,68 - 54,-14,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+263,0052300121,391,8,0,3,9:08 PM,7:39,SUB: Alvarado FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+264,0052300121,393,3,12,3,9:08 PM,7:39,Ingram Free Throw 2 of 2 (11 PTS),,,68 - 55,-13,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+265,0052300121,394,1,1,3,9:09 PM,7:17,,,Hachimura 26' 3PT Jump Shot (9 PTS),71 - 55,-16,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+266,0052300121,395,2,1,3,9:09 PM,7:09,MISS Jones 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+267,0052300121,396,4,0,3,9:09 PM,7:06,,,James REBOUND (Off:0 Def:5),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+268,0052300121,397,1,44,3,9:09 PM,6:53,,,Reaves 2' Reverse Layup (12 PTS) (James 7 AST),73 - 55,-18,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+269,0052300121,399,1,6,3,9:09 PM,6:39,Williamson 2' Driving Layup (22 PTS),,,73 - 57,-16,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+270,0052300121,400,1,5,3,9:10 PM,6:21,,,Hachimura 2' Layup (11 PTS) (Reaves 4 AST),75 - 57,-18,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+271,0052300121,429,2,3,3,9:10 PM,6:05,MISS Valanciunas 6' Hook Shot,,James BLOCK (2 BLK),,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+272,0052300121,431,4,0,3,9:10 PM,6:04,Valanciunas REBOUND (Off:3 Def:7),,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+273,0052300121,402,6,26,3,9:10 PM,5:57,Jones Offensive Charge Foul (P4) (G.Petraitis),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+274,0052300121,404,5,37,3,9:10 PM,5:57,Jones Offensive Foul Turnover (P1.T12),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+275,0052300121,405,8,0,3,9:10 PM,5:57,SUB: Daniels FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+276,0052300121,406,8,0,3,9:10 PM,5:57,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+277,0052300121,407,8,0,3,9:10 PM,5:57,,,SUB: Vincent FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+278,0052300121,411,6,1,3,9:11 PM,5:45,Alvarado P.FOUL (P2.T3) (C.Blair),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+279,0052300121,413,2,6,3,9:11 PM,5:35,,,MISS Vincent 2' Driving Layup,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+280,0052300121,414,4,0,3,9:12 PM,5:32,Daniels REBOUND (Off:0 Def:1),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+281,0052300121,415,1,41,3,9:12 PM,5:31,Williamson 4' Running Layup (24 PTS) (Alvarado 2 AST),,,75 - 59,-16,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+282,0052300121,417,6,2,3,9:12 PM,5:31,,,Hachimura S.FOUL (P2.T2) (G.Petraitis),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+283,0052300121,419,3,10,3,9:12 PM,5:31,MISS Williamson Free Throw 1 of 1,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+284,0052300121,420,4,0,3,9:12 PM,5:30,,,Hachimura REBOUND (Off:0 Def:1),,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+285,0052300121,421,2,1,3,9:12 PM,5:17,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+286,0052300121,422,4,0,3,9:12 PM,5:12,Nance Jr. REBOUND (Off:1 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+287,0052300121,423,1,41,3,9:12 PM,5:08,Williamson 3' Running Layup (26 PTS) (Nance Jr. 3 AST),,,75 - 61,-14,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+288,0052300121,425,9,1,3,9:13 PM,5:08,,,Lakers Timeout: Regular (Reg.3 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+289,0052300121,432,8,0,3,9:16 PM,5:08,SUB: Murphy III FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+290,0052300121,433,8,0,3,9:16 PM,5:08,,,SUB: Prince FOR Hachimura,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+291,0052300121,436,2,1,3,9:16 PM,4:54,,,MISS James 27' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+292,0052300121,437,4,0,3,9:16 PM,4:51,Daniels REBOUND (Off:0 Def:2),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+293,0052300121,438,1,2,3,9:16 PM,4:47,Alvarado 3PT Running Jump Shot (3 PTS) (Nance Jr. 4 AST),,,75 - 64,-11,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+294,0052300121,440,1,75,3,9:17 PM,4:19,,,James 2' Driving Finger Roll Layup (19 PTS),77 - 64,-13,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+295,0052300121,441,2,1,3,9:17 PM,3:59,MISS Nance Jr. 13' Jump Shot,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+296,0052300121,442,4,0,3,9:17 PM,3:56,,,Reaves REBOUND (Off:0 Def:5),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+297,0052300121,443,2,86,3,9:18 PM,3:36,,,MISS James 22' Turnaround Fadeaway Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+298,0052300121,444,4,0,3,9:18 PM,3:31,Daniels REBOUND (Off:0 Def:3),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+299,0052300121,445,2,41,3,9:18 PM,3:26,MISS Williamson 2' Running Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+300,0052300121,446,4,0,3,9:18 PM,3:24,,,Vincent REBOUND (Off:0 Def:2),,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+301,0052300121,447,1,50,3,9:18 PM,3:23,,,Davis 1' Running Dunk (8 PTS) (Vincent 1 AST),79 - 64,-15,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+302,0052300121,449,1,98,3,9:18 PM,2:59,Williamson 2' Cutting Layup Shot (28 PTS) (Murphy III 2 AST),,,79 - 66,-13,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+303,0052300121,451,2,1,3,9:19 PM,2:45,,,MISS Davis 23' Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+304,0052300121,452,4,0,3,9:19 PM,2:42,Nance Jr. REBOUND (Off:1 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+305,0052300121,453,1,41,3,9:19 PM,2:37,Alvarado 2' Running Layup (5 PTS) (Nance Jr. 5 AST),,,79 - 68,-11,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+306,0052300121,455,2,63,3,9:19 PM,2:17,,,MISS Reaves 9' Fadeaway Jumper,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+307,0052300121,456,4,0,3,9:19 PM,2:14,,,Davis REBOUND (Off:2 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+308,0052300121,457,6,2,3,9:19 PM,2:14,Daniels S.FOUL (P1.T4) (G.Petraitis),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+309,0052300121,459,3,11,3,9:20 PM,2:14,,,Davis Free Throw 1 of 2 (9 PTS),80 - 68,-12,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+310,0052300121,460,8,0,3,9:20 PM,2:14,,,SUB: Russell FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+311,0052300121,461,8,0,3,9:20 PM,2:14,,,SUB: Hachimura FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+312,0052300121,464,3,12,3,9:20 PM,2:14,,,Davis Free Throw 2 of 2 (10 PTS),81 - 68,-13,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+313,0052300121,465,2,1,3,9:20 PM,2:05,MISS Alvarado 27' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+314,0052300121,466,4,0,3,9:20 PM,2:05,Nance Jr. REBOUND (Off:2 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+315,0052300121,467,1,87,3,9:20 PM,2:03,Nance Jr. Putback Dunk (5 PTS),,,81 - 70,-11,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+316,0052300121,468,1,75,3,9:21 PM,1:43,,,Hachimura 2' Driving Finger Roll Layup (13 PTS),83 - 70,-13,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+317,0052300121,469,2,6,3,9:21 PM,1:27,MISS Williamson 3' Driving Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+318,0052300121,470,4,0,3,9:21 PM,1:24,Williamson REBOUND (Off:3 Def:7),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+319,0052300121,474,6,2,3,9:22 PM,1:24,,,Russell S.FOUL (P2.T3) (G.Petraitis),,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+320,0052300121,476,3,11,3,9:22 PM,1:24,Williamson Free Throw 1 of 2 (29 PTS),,,83 - 71,-12,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+321,0052300121,477,3,12,3,9:22 PM,1:24,Williamson Free Throw 2 of 2 (30 PTS),,,83 - 72,-11,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+322,0052300121,478,2,79,3,9:22 PM,1:08,,,MISS Russell 27' 3PT Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+323,0052300121,479,4,0,3,9:22 PM,1:05,Murphy III REBOUND (Off:0 Def:2),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+324,0052300121,480,2,41,3,9:22 PM,1:00,MISS Williamson 4' Running Layup,,Prince BLOCK (1 BLK),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,1
+325,0052300121,482,4,0,3,9:23 PM,0:57,,,Vincent REBOUND (Off:0 Def:3),,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+326,0052300121,483,2,1,3,9:23 PM,0:43,,,MISS Russell 28' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+327,0052300121,484,4,0,3,9:23 PM,0:39,Murphy III REBOUND (Off:0 Def:3),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+328,0052300121,485,1,79,3,9:23 PM,0:34,Murphy III 31' 3PT Pullup Jump Shot (5 PTS),,,83 - 75,-8,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+329,0052300121,486,2,1,3,9:23 PM,0:19,Murphy III BLOCK (1 BLK),,MISS Prince 24' 3PT Jump Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1
+330,0052300121,488,4,0,3,9:23 PM,0:17,Daniels REBOUND (Off:0 Def:4),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+331,0052300121,489,2,6,3,9:24 PM,0:02,MISS Williamson 3' Driving Layup,,Davis BLOCK (2 BLK),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+332,0052300121,491,4,0,3,9:24 PM,0:02,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+333,0052300121,493,8,0,3,9:24 PM,0:02,SUB: Ingram FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+334,0052300121,495,8,0,3,9:24 PM,0:02,SUB: McCollum FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+335,0052300121,496,8,0,3,9:24 PM,0:02,,,SUB: Hayes FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+336,0052300121,499,6,2,3,9:24 PM,0:00,,,Davis S.FOUL (P3.PN) (S.Foster),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+337,0052300121,501,18,0,3,9:25 PM,0:00,,Instant Replay3rd Period (9:25 PM EST),,83 - 75,-8,0,499,,,,,,0,0,,,,,,1,0,,,,,,0
+338,0052300121,502,3,11,3,9:26 PM,0:00,MISS Williamson Free Throw 1 of 2,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+339,0052300121,503,4,1,3,9:26 PM,0:00,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+340,0052300121,504,3,12,3,9:26 PM,0:00,Williamson Free Throw 2 of 2 (31 PTS),,,83 - 76,-7,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+341,0052300121,505,13,0,3,9:27 PM,0:00,,End of 3rd Period (9:27 PM EST),,83 - 76,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+342,0052300121,512,12,0,4,9:30 PM,12:00,,Start of 4th Period (9:30 PM EST),,83 - 76,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+343,0052300121,513,2,1,4,9:31 PM,11:33,,,MISS Russell 26' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+344,0052300121,514,4,0,4,9:31 PM,11:30,Murphy III REBOUND (Off:0 Def:4),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+345,0052300121,515,2,1,4,9:31 PM,11:11,MISS Alvarado 26' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+346,0052300121,516,4,0,4,9:31 PM,11:08,,,Prince REBOUND (Off:0 Def:4),,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+347,0052300121,517,2,1,4,9:31 PM,10:48,,,MISS James 20' Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+348,0052300121,518,4,0,4,9:32 PM,10:44,Alvarado REBOUND (Off:0 Def:1),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+349,0052300121,519,2,2,4,9:32 PM,10:41,MISS McCollum 24' 3PT Running Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+350,0052300121,520,4,0,4,9:32 PM,10:37,,,James REBOUND (Off:0 Def:6),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+351,0052300121,521,1,41,4,9:32 PM,10:36,,,Vincent 2' Running Layup (8 PTS) (James 8 AST),85 - 76,-9,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+352,0052300121,523,6,2,4,9:32 PM,10:36,Alvarado S.FOUL (P3.T1) (S.Foster),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+353,0052300121,525,3,10,4,9:32 PM,10:36,,,Vincent Free Throw 1 of 1 (9 PTS),86 - 76,-10,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+354,0052300121,526,1,98,4,9:33 PM,10:23,Alvarado 2' Cutting Layup Shot (7 PTS) (Ingram 4 AST),,,86 - 78,-8,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+355,0052300121,528,1,1,4,9:33 PM,10:00,,,Russell 26' 3PT Jump Shot (18 PTS) (James 9 AST),89 - 78,-11,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+356,0052300121,530,2,1,4,9:33 PM,9:38,MISS Alvarado 24' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+357,0052300121,531,4,0,4,9:33 PM,9:36,,,Vincent REBOUND (Off:0 Def:4),,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+358,0052300121,532,2,73,4,9:34 PM,9:25,,,MISS James 1' Driving Reverse Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+359,0052300121,533,4,0,4,9:34 PM,9:22,Nance Jr. REBOUND (Off:2 Def:5),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+360,0052300121,534,2,2,4,9:34 PM,9:19,MISS Murphy III 25' 3PT Running Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+361,0052300121,535,4,0,4,9:34 PM,9:15,,,Hayes REBOUND (Off:0 Def:1),,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+362,0052300121,536,2,73,4,9:34 PM,9:05,,,MISS James 2' Driving Reverse Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+363,0052300121,537,4,0,4,9:34 PM,9:03,Nance Jr. REBOUND (Off:2 Def:6),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+364,0052300121,538,1,50,4,9:34 PM,8:59,Murphy III 1' Running Dunk (7 PTS) (Alvarado 3 AST),,,89 - 80,-9,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+365,0052300121,540,9,1,4,9:34 PM,8:59,,,Lakers Timeout: Regular (Reg.4 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+366,0052300121,541,8,0,4,9:37 PM,8:59,,,SUB: Davis FOR Vincent,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+367,0052300121,542,8,0,4,9:37 PM,8:59,,,SUB: Reaves FOR Hayes,,,5,1629637,Jaxson Hayes,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+368,0052300121,545,5,45,4,9:38 PM,8:58,,,Russell Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+369,0052300121,546,2,63,4,9:38 PM,8:54,MISS Ingram 13' Fadeaway Jumper,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+370,0052300121,547,4,0,4,9:38 PM,8:52,,,James REBOUND (Off:0 Def:7),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+371,0052300121,548,2,57,4,9:38 PM,8:40,,,MISS Prince 5' Driving Hook Shot,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+372,0052300121,550,2,97,4,9:39 PM,8:35,,,MISS Davis Tip Layup Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+373,0052300121,549,4,0,4,9:39 PM,8:35,,,Davis REBOUND (Off:4 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+374,0052300121,551,4,0,4,9:39 PM,8:34,,,Davis REBOUND (Off:4 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+375,0052300121,552,1,44,4,9:39 PM,8:33,,,Davis Reverse Layup (12 PTS),91 - 80,-11,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+376,0052300121,555,2,79,4,9:39 PM,8:08,MISS McCollum 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+377,0052300121,556,4,0,4,9:39 PM,8:05,Alvarado REBOUND (Off:1 Def:1),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+378,0052300121,557,2,78,4,9:39 PM,8:00,MISS McCollum 4' Floating Jump Shot,,Davis BLOCK (3 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+379,0052300121,559,4,0,4,9:39 PM,7:56,,,James REBOUND (Off:0 Def:8),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+380,0052300121,560,6,1,4,9:40 PM,7:38,Nance Jr. P.FOUL (P4.T2) (G.Petraitis),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+381,0052300121,562,8,0,4,9:40 PM,7:38,SUB: Williamson FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+382,0052300121,563,8,0,4,9:40 PM,7:38,SUB: Jones FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+383,0052300121,564,8,0,4,9:40 PM,7:38,,,SUB: Hachimura FOR Prince,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+384,0052300121,569,2,79,4,9:41 PM,7:29,,,MISS James 25' 3PT Pullup Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+385,0052300121,570,4,0,4,9:41 PM,7:24,Williamson REBOUND (Off:3 Def:8),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+386,0052300121,571,1,6,4,9:41 PM,7:17,Williamson 2' Driving Layup (33 PTS),,,91 - 82,-9,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+387,0052300121,572,2,6,4,9:41 PM,6:52,,,MISS Davis 3' Driving Layup,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+388,0052300121,573,4,0,4,9:41 PM,6:49,Nance Jr. REBOUND (Off:2 Def:7),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+389,0052300121,574,1,2,4,9:41 PM,6:44,Murphy III 29' 3PT Running Jump Shot (10 PTS) (Alvarado 4 AST),,,91 - 85,-6,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+390,0052300121,576,5,1,4,9:42 PM,6:28,Jones STEAL (1 STL),,Reaves Bad Pass Turnover (P2.T7),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+391,0052300121,578,6,2,4,9:42 PM,6:13,,,Davis S.FOUL (P4.T1) (S.Foster),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+392,0052300121,580,3,11,4,9:42 PM,6:13,MISS Williamson Free Throw 1 of 2,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+393,0052300121,581,4,1,4,9:42 PM,6:13,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+394,0052300121,582,3,12,4,9:43 PM,6:13,Williamson Free Throw 2 of 2 (34 PTS),,,91 - 86,-5,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+395,0052300121,583,2,6,4,9:43 PM,5:47,,,MISS James 2' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+396,0052300121,584,4,0,4,9:43 PM,5:45,Nance Jr. REBOUND (Off:2 Def:8),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+397,0052300121,585,1,2,4,9:43 PM,5:41,Alvarado 27' 3PT Running Jump Shot (10 PTS) (Williamson 5 AST),,,91 - 89,-2,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+398,0052300121,587,1,75,4,9:44 PM,5:22,,,Reaves 3' Driving Finger Roll Layup (14 PTS),93 - 89,-4,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+399,0052300121,588,9,1,4,9:44 PM,5:21,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+400,0052300121,589,1,108,4,9:48 PM,5:09,Williamson 1' Cutting Dunk Shot (36 PTS) (Alvarado 5 AST),,,93 - 91,-2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+401,0052300121,592,2,1,4,9:48 PM,4:45,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+402,0052300121,593,4,0,4,9:48 PM,4:42,Nance Jr. REBOUND (Off:2 Def:9),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+403,0052300121,594,2,1,4,9:49 PM,4:25,MISS Nance Jr. 3PT Jump Shot,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+404,0052300121,595,4,0,4,9:49 PM,4:20,,,James REBOUND (Off:0 Def:9),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+405,0052300121,596,2,1,4,9:49 PM,4:01,,,MISS Reaves 29' 3PT Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+406,0052300121,597,4,0,4,9:49 PM,3:57,Nance Jr. REBOUND (Off:2 Def:10),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+407,0052300121,598,1,106,4,9:49 PM,3:53,Williamson 1' Running Alley Oop Dunk Shot (38 PTS) (Alvarado 6 AST),,,93 - 93,TIE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+408,0052300121,600,2,5,4,9:50 PM,3:30,,,MISS Davis 2' Layup,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+409,0052300121,602,4,0,4,9:50 PM,3:29,,,Davis REBOUND (Off:5 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+410,0052300121,603,1,72,4,9:50 PM,3:29,,,Davis Putback Layup (14 PTS),95 - 93,-2,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+411,0052300121,604,9,1,4,9:50 PM,3:29,PELICANS Timeout: Regular (Full 5 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+412,0052300121,605,8,0,4,9:51 PM,3:29,,,SUB: Vincent FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+413,0052300121,607,1,101,4,9:51 PM,3:19,Williamson 3' Driving Floating Jump Shot (40 PTS),,,95 - 95,TIE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+414,0052300121,608,9,1,4,9:52 PM,3:13,,,Lakers Timeout: Regular (Reg.5 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+415,0052300121,609,8,0,4,9:53 PM,3:13,SUB: McCollum FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+416,0052300121,610,8,0,4,9:53 PM,3:13,,,SUB: Russell FOR Vincent,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+417,0052300121,614,6,2,4,9:54 PM,2:57,Murphy III S.FOUL (P1.T3) (G.Petraitis),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+418,0052300121,616,3,11,4,9:54 PM,2:57,,,James Free Throw 1 of 2 (20 PTS),96 - 95,-1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+419,0052300121,617,3,12,4,9:55 PM,2:57,,,James Free Throw 2 of 2 (21 PTS),97 - 95,-2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+420,0052300121,618,1,108,4,9:55 PM,2:48,Nance Jr. 1' Cutting Dunk Shot (7 PTS) (Alvarado 7 AST),,,97 - 97,TIE,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+421,0052300121,620,6,1,4,9:55 PM,2:35,Alvarado P.FOUL (P4.T4) (S.Foster),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+422,0052300121,622,1,63,4,9:56 PM,2:24,,,James 18' Fadeaway Jumper (23 PTS),99 - 97,-2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+423,0052300121,624,1,101,4,9:56 PM,1:58,Murphy III 9' Driving Floating Jump Shot (12 PTS) (McCollum 5 AST),,,99 - 99,TIE,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+424,0052300121,626,5,1,4,9:56 PM,1:39,Jones STEAL (2 STL),,James Bad Pass Turnover (P2.T8),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+425,0052300121,628,5,1,4,9:57 PM,1:31,Alvarado Bad Pass Turnover (P1.T13),,Russell STEAL (1 STL),,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+426,0052300121,630,1,52,4,9:57 PM,1:23,,,Davis 1' Alley Oop Dunk (16 PTS) (Reaves 5 AST),101 - 99,-2,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+427,0052300121,632,6,2,4,9:57 PM,1:08,,,Russell S.FOUL (P3.T2) (S.Foster),,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+428,0052300121,634,3,11,4,9:58 PM,1:08,MISS Nance Jr. Free Throw 1 of 2,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+429,0052300121,635,4,1,4,9:58 PM,1:08,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+430,0052300121,636,8,0,4,9:58 PM,1:08,SUB: Daniels FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+431,0052300121,638,3,12,4,9:58 PM,1:08,Nance Jr. Free Throw 2 of 2 (8 PTS),,,101 - 100,-1,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+432,0052300121,639,1,1,4,9:58 PM,0:51,,,Russell 3PT Jump Shot (21 PTS) (Reaves 6 AST),104 - 100,-4,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+433,0052300121,641,9,1,4,9:58 PM,0:50,PELICANS Timeout: Regular (Full 6 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+434,0052300121,642,8,0,4,9:59 PM,0:50,SUB: Alvarado FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+435,0052300121,643,8,0,4,9:59 PM,0:50,,,SUB: Vincent FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+436,0052300121,644,8,0,4,9:59 PM,0:50,,,SUB: Prince FOR Hachimura,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+437,0052300121,648,1,63,4,10:00 PM,0:38,McCollum 8' Fadeaway Jumper (7 PTS),,,104 - 102,-2,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+438,0052300121,649,9,1,4,10:01 PM,0:38,,,Lakers Timeout: Regular (Reg.6 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+439,0052300121,650,8,0,4,10:02 PM,0:38,,,SUB: Russell FOR Vincent,,,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+440,0052300121,651,8,0,4,10:02 PM,0:38,,,SUB: Hachimura FOR Prince,,,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+441,0052300121,654,7,5,4,10:02 PM,0:38,Jones Violation:Kicked Ball (S.Foster),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+442,0052300121,655,8,0,4,10:03 PM,0:38,SUB: Daniels FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+443,0052300121,657,2,63,4,10:03 PM,0:17,,,MISS James 12' Fadeaway Jumper,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+444,0052300121,658,4,0,4,10:04 PM,0:14,,,Davis REBOUND (Off:6 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+445,0052300121,659,6,2,4,10:04 PM,0:14,Nance Jr. S.FOUL (P5.PN) (S.Foster),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+446,0052300121,661,3,11,4,10:04 PM,0:14,,,Davis Free Throw 1 of 2 (17 PTS),105 - 102,-3,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+447,0052300121,662,8,0,4,10:04 PM,0:14,SUB: Valanciunas FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+448,0052300121,663,8,0,4,10:04 PM,0:14,,,SUB: Vincent FOR Russell,,,5,1626156,D'Angelo Russell,1610612747.0,Los Angeles,Lakers,LAL,5,1629216,Gabe Vincent,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+449,0052300121,666,3,12,4,10:05 PM,0:14,,,Davis Free Throw 2 of 2 (18 PTS),106 - 102,-4,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+450,0052300121,667,9,1,4,10:05 PM,0:14,PELICANS Timeout: Regular (Full 7 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+451,0052300121,668,8,0,4,10:06 PM,0:14,SUB: McCollum FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+452,0052300121,669,8,0,4,10:06 PM,0:14,SUB: Alvarado FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+453,0052300121,670,8,0,4,10:06 PM,0:14,,,SUB: Prince FOR Hachimura,,,5,1629060,Rui Hachimura,1610612747.0,Los Angeles,Lakers,LAL,5,1627752,Taurean Prince,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+454,0052300121,674,1,6,4,10:07 PM,0:11,McCollum 2' Driving Layup (9 PTS),,,106 - 104,-2,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+455,0052300121,675,6,28,4,10:07 PM,0:10,McCollum Personal Take Foul (P1.PN) (C.Blair),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+456,0052300121,677,3,11,4,10:07 PM,0:10,,,Reaves Free Throw 1 of 2 (15 PTS),107 - 104,-3,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+457,0052300121,678,3,12,4,10:08 PM,0:10,,,Reaves Free Throw 2 of 2 (16 PTS),108 - 104,-4,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+458,0052300121,679,1,98,4,10:08 PM,0:03,Nance Jr. 2' Cutting Layup Shot (10 PTS) (McCollum 6 AST),,,108 - 106,-2,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+459,0052300121,681,6,28,4,10:08 PM,0:02,McCollum Personal Take Foul (P2.PN) (C.Blair),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+460,0052300121,683,3,11,4,10:09 PM,0:02,,,Davis Free Throw 1 of 2 (19 PTS),109 - 106,-3,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+461,0052300121,684,3,12,4,10:09 PM,0:02,,,Davis Free Throw 2 of 2 (20 PTS),110 - 106,-4,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+462,0052300121,685,2,79,4,10:09 PM,0:00,MISS McCollum 30' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+463,0052300121,686,4,0,4,10:09 PM,0:00,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+464,0052300121,687,13,0,4,10:09 PM,0:00,,End of 4th Period (10:09 PM EST),,110 - 106,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

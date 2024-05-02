@@ -17,6 +17,8 @@ cmap_VMAX = +20                  # upper limit of colormap
 min_shift_len_min = 1            # if annotating text, min stint to annotate
 shift_rectangle_height = 0.3     # height of stint rectangle (players spaced by 1)
 
+diverging_cmaps = ['RdBu_r', 'PiYG', 'bwr', 'PuOr']
+sequential_cmaps = ['Greens', 'Purples', 'Greys', 'Oranges']
 
 def set_font_sizes(SMALL_SIZE=12, MEDIUM_SIZE=14, LARGE_SIZE=16):
     '''
@@ -41,7 +43,7 @@ def set_font_sizes(SMALL_SIZE=12, MEDIUM_SIZE=14, LARGE_SIZE=16):
 set_font_sizes()
 
 
-def get_player_summary(df_gr0):
+def get_player_summary(df_gr0, stint_val='pm'):
     
     df_gr = df_gr0.copy()
 
@@ -52,7 +54,7 @@ def get_player_summary(df_gr0):
     
     player_summary = (df_gr
                           [['PERSON_ID', 'nameI',
-                            'min', 'PT_DIFF']]
+                            'min', 'PT_DIFF', 'PLAYER_PTS']]
                           .groupby(['PERSON_ID', 'nameI'])
                           .sum()
                           .sort_values('min', ascending=0)
@@ -63,6 +65,7 @@ def get_player_summary(df_gr0):
     player_nms = player_summary['nameI'].values
     player_mins = np.round(player_summary['min'].values).astype(int)
     player_pms = player_summary['PT_DIFF'].values.astype(int)
+    player_points = player_summary['PLAYER_PTS'].values.astype(int)
     player_signs = ['+' if x >= 0 else '-' for x in player_pms]
     n_players = len(player_summary)
     
@@ -72,12 +75,17 @@ def get_player_summary(df_gr0):
                                                player_mins[i],
                                                player_signs[i],
                                                np.abs(player_pms[i]).astype(int)) for i in range(n_players)]
-    
+    if stint_val == 'player_pts':
+        plyr_strings = ['{} ({:>2} min, {:>2} pts)'.format(player_nms[i], 
+                                                player_mins[i],
+                                                player_points[i]) for i in range(n_players)]
     return df_gr, player_summary, plyr_strings, d_ID_to_pos
 
 
 
-def plot_stints(plyr_strings, d_ID_to_pos, df_gr, ax, cmap, show_text=False):
+def plot_stints(plyr_strings, d_ID_to_pos, df_gr, ax, cmap, 
+                stint_val='pm', show_text=False,
+                force_stint_color='k', force_stint_edge_color='w'):
     '''
     Plots player stints as rectangles, colored by +/- in stint
     Inputs: 
@@ -98,27 +106,44 @@ def plot_stints(plyr_strings, d_ID_to_pos, df_gr, ax, cmap, show_text=False):
         cur_row = df_gr.iloc[i]
         
         # get the in and out times along with where to plot along y
-        cur_person_ID, cur_in_min, cur_out_min, cur_pm = \
-            cur_row[['PERSON_ID', 'in_min', 'out_min', 'PT_DIFF']]
+        cur_person_ID, cur_in_min, cur_out_min, cur_pm, cur_player_pts = \
+            cur_row[['PERSON_ID', 'in_min', 'out_min', 'PT_DIFF', 'PLAYER_PTS']]
         cur_ypos = d_ID_to_pos[cur_person_ID]
+
+        stint_arg_val = ''
+        stint_color = force_stint_color
+        stint_edge_color = force_stint_edge_color
+        lw=1.5
+        if stint_val == 'pm':
+            stint_arg_val = cur_pm
+            stint_color = cmap.to_rgba(stint_arg_val)
+            stint_edge_color = '0.5'
+            lw=0.2
+        elif stint_val == 'player_pts':
+            stint_arg_val = cur_player_pts
+            stint_color = cmap.to_rgba(stint_arg_val)
+            stint_edge_color = '0.5'
+            lw=0.2
+            
         
         # plot the rectangle
         ax.fill_between(x=[cur_in_min, cur_out_min], 
                         y1=cur_ypos-shift_rectangle_height, 
                         y2=cur_ypos+shift_rectangle_height,
-                        lw=0.2, edgecolor='0.5',
-                        facecolor=cmap.to_rgba(cur_pm))
+                        lw=lw, edgecolor=stint_edge_color,
+                        facecolor=stint_color)
         
         # optional: annotate stint rectangle with text
-        if show_text:
-            lenshift = cur_out_min - cur_in_min
-            if lenshift > min_shift_len_min:
-                textpos = cur_in_min + lenshift/2
-                texttag = '{}{:.0f}'.format('+' if cur_pm >= 0 else '-', abs(cur_pm))
-                ax.text(textpos, cur_ypos, texttag, size=10,
-                        c='k', 
-                        path_effects=[pe.withStroke(linewidth=6, foreground="w")],
-                        ha='center', va='center')
+        if stint_val in ['pm', 'player_pts']:
+            if show_text:
+                lenshift = cur_out_min - cur_in_min
+                if lenshift > min_shift_len_min:
+                    textpos = cur_in_min + lenshift/2
+                    texttag = '{}{:.0f}'.format('+' if stint_arg_val >= 0 else '-', abs(stint_arg_val))
+                    ax.text(textpos, cur_ypos, texttag, size=10,
+                            c='k', 
+                            path_effects=[pe.withStroke(linewidth=6, foreground="w")],
+                            ha='center', va='center')
     
     # format y ticks and labels
     ax.set_yticks(1+np.arange(n_players))
@@ -244,6 +269,7 @@ def make_final_score_tag(home_info, away_info, df_pbp, num_OTs):
 def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
                    show_text=False, show_plot=False,
                    season_type='Regular Season',
+                   stint_val='pm',
                    cmap_name = 'RdBu_r'):
     '''
     Puts it all together
@@ -252,9 +278,6 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
 
     game_id = df_gr['GAME_ID'].iloc[0]
     
-
-    norm = mpl.colors.Normalize(vmin=-20, vmax=20)
-    cmap = mpl.cm.ScalarMappable(norm=norm, cmap=cmap_name)
 
     num_OTs = df_pbp.iloc[-1]['PERIOD'] - 4
     
@@ -282,8 +305,8 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
     away_info = df_team_info[df_team_info.TEAM_ID == away_id].iloc[0]
     
 
-    gr_home, home_player_summary, home_plyr_strings, home_d_ID_to_pos = get_player_summary(gr_home0)
-    gr_away, away_player_summary, away_plyr_strings, away_d_ID_to_pos = get_player_summary(gr_away0)
+    gr_home, home_player_summary, home_plyr_strings, home_d_ID_to_pos = get_player_summary(gr_home0, stint_val)
+    gr_away, away_player_summary, away_plyr_strings, away_d_ID_to_pos = get_player_summary(gr_away0, stint_val)
     
     max_string_len = max([max([len(x) for x in home_plyr_strings]),
                           max([len(x) for x in away_plyr_strings])]) - 14
@@ -292,7 +315,21 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
     rot_plot_rats = 10*n_away_players/n_tot_players, 10*n_home_players/n_tot_players
     
     
-    
+    vmin = -20; vmax = 20; tickdiff = 10
+    norm = mpl.colors.Normalize(vmin=vmin, vmax=vmax)
+    cmap = mpl.cm.ScalarMappable(norm=norm, cmap=diverging_cmaps[0])
+   
+    if stint_val == 'player_pts':
+        vmin = 0
+        maxpts = np.max(
+                    np.concatenate([
+                        gr_home['PLAYER_PTS'].values,
+                        gr_away['PLAYER_PTS'].values]))
+        tickdiff = 5 if maxpts < 35 else 10
+        vmax = max(20, maxpts + (tickdiff - maxpts % tickdiff))
+            
+        norm = mpl.colors.Normalize(vmin=vmin, vmax=vmax)
+        cmap = mpl.cm.ScalarMappable(norm=norm, cmap=cmap_name)
     
         
     fig_width = 13+0.1167*max_string_len
@@ -309,16 +346,23 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
     for ax in axs[:, 1]:
         ax.axis('off')
     
-    fig.colorbar(cmap, 
-                 ax=axs[1, 1],
-                 fraction=1,
-                 pad=0.05,
-                 shrink=1,
-                 label='point diff in stint')
-        
+    if stint_val in ['pm', 'player_pts']:
+        lab = 'point diff in stint' if stint_val == 'pm' else 'player points in stint'
+        cbar = fig.colorbar(cmap, 
+                    ax=axs[1, 1],
+                    fraction=1,
+                    pad=0.05,
+                    shrink=1,
+                    label=lab)
+        cbar_ticks = np.arange(vmin, vmax + 1e-5, tickdiff).astype(int)
+        cbar.ax.set_yticks(cbar_ticks)
+        cbar.ax.set_yticklabels(cbar_ticks)
+    
     # main plots
-    plot_stints(away_plyr_strings, away_d_ID_to_pos, gr_away, ax_away, cmap, show_text)
-    plot_stints(home_plyr_strings, home_d_ID_to_pos, gr_home, ax_home, cmap, show_text)
+    home_color, home_color2 = home_info['COLOR1'], home_info['COLOR2']
+    away_color, away_color2 = away_info['COLOR1'], away_info['COLOR2']
+    plot_stints(away_plyr_strings, away_d_ID_to_pos, gr_away, ax_away, cmap, stint_val, show_text, away_color, away_color2)
+    plot_stints(home_plyr_strings, home_d_ID_to_pos, gr_home, ax_home, cmap, stint_val, show_text, home_color, home_color2)
     plot_diff(game_times, -home_away_diff, home_info, away_info, ax_diff)
     
     # x axis ticks

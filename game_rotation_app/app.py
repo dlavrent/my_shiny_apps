@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import os
 from load_data_utils import get_gr, get_pbp
-from plot_utils import make_final_fig
+from plot_utils import make_final_fig, diverging_cmaps, sequential_cmaps
 
 ### SOMETHING BROKEN WITH 2024-02-25: SAS @ UTA
 # (0022300825)
@@ -58,11 +58,14 @@ app_ui = ui.page_navbar(
                         ui.input_selectize("season_str", 
                                         "Select a season:",
                                         {x: x for x in season_strs}),
-                        ui.input_radio_buttons("season_type",
-                                           "",
-                                           {'Regular Season': 'regular season'} 
-                                            #'PlayIn': 'play-in tournament', 
-                                            #'Playoffs': 'playoffs'}
+                        # hardcoded for 2023-24 so that playoffs is the default selection
+                        # be sure to comment out playin/playoffs for start of next reg season
+                        ui.input_radio_buttons(id="season_type",
+                                           label="",
+                                           choices={'Regular Season': 'regular season', 
+                                            'PlayIn': 'play-in tournament', 
+                                            'Playoffs': 'playoffs'},
+                                           selected=['Playoffs']
                                            ),
                         ui.input_selectize('team1',
                                         'Filter for team:',
@@ -79,11 +82,20 @@ app_ui = ui.page_navbar(
                     ),
 
                     ui.accordion_panel('Plot Settings',
+                        ui.input_radio_buttons("stint_val",
+                            label="Color stints by",
+                            choices={'pm': 'team +/-', 
+                            'player_pts': 'player points', 
+                            'none': 'team colors'},
+                            ),
                         ui.input_checkbox('checkbox_plottext',
-                                        'Annotate with shift +/-', True),
+                                        'Annotate shifts', True),
                         ui.input_selectize('plot_cmap_name',
-                                        "Colormap for shift +/-'s",
-                                        ['RdBu_r', 'PiYG', 'bwr', 'PuOr'])
+                                        "Colormap",
+                                        diverging_cmaps),
+                        # maybe add later user-toggled autoscaling of shift colormap limits
+                        #ui.input_checkbox('autoscale_cmap_lim',
+                        #                'Autoscale colormap limits', False),
                     ),
 
                     open=['Game Selection', 'Plot Settings']
@@ -168,6 +180,9 @@ app_ui = ui.page_navbar(
 
 def server(input: Inputs, output: Outputs, session: Session):
 
+    # commenting out for 2023-24 since we're amid playoffs right now
+    # be sure to uncomment this for start of next regular season
+    '''
     # first, update the types of games available in the current season
     # (regular season by default, then play-in, playoffs)
     @reactive.effect 
@@ -197,7 +212,7 @@ def server(input: Inputs, output: Outputs, session: Session):
 
         # update the radio selection right underneath the season selectize
         ui.update_radio_buttons('season_type', choices=avail_game_types)
-
+    '''
 
     # next, given a choice of season + regular season/play-in/playoffs,
     # restrict team filter by the teams within that set of games
@@ -316,6 +331,23 @@ def server(input: Inputs, output: Outputs, session: Session):
         ui.update_selectize("game_id", choices={str(game_strs.index[i]):str(game_strs.values[i]) for i in range(len(game_strs))},
                             label='Select the game ({} choice{}):'.format(len(game_strs), '' if len(game_strs) == 1 else 's'))
 
+    # update colormaps based on stint coloring
+    @reactive.effect
+    def _():
+    
+        if input.stint_val() == 'pm':
+            cmap_choices = diverging_cmaps
+            annot_default = True
+        elif input.stint_val() == 'player_pts':
+            cmap_choices = sequential_cmaps
+            annot_default = True
+        else:
+            cmap_choices = []
+            annot_default = False
+        
+        ui.update_checkbox('checkbox_plottext', value=annot_default)
+        ui.update_selectize('plot_cmap_name', choices={x:x for x in cmap_choices})
+
 
     # now we render the plot!
     @render.plot(width=1200, height=800, alt='rotation_plot')
@@ -339,6 +371,7 @@ def server(input: Inputs, output: Outputs, session: Session):
                                         show_text=input.checkbox_plottext(), 
                                         show_plot=False,
                                         season_type=input.season_type(),
+                                        stint_val=input.stint_val(),
                                         cmap_name=input.plot_cmap_name())
 
         return None

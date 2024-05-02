@@ -326,7 +326,7 @@ def make_final_fig(df_gr, df_pbp, df_team_info, game_info,
                         gr_home['PLAYER_PTS'].values,
                         gr_away['PLAYER_PTS'].values]))
         tickdiff = 5 if maxpts < 35 else 10
-        vmax = max(20, maxpts + (tickdiff - maxpts % tickdiff))
+        vmax = max(20, maxpts + (tickdiff - maxpts % tickdiff)*(maxpts % tickdiff > 0))
             
         norm = mpl.colors.Normalize(vmin=vmin, vmax=vmax)
         cmap = mpl.cm.ScalarMappable(norm=norm, cmap=cmap_name)
